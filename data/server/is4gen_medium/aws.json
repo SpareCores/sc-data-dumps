@@ -1,0 +1,26 @@
+{
+  "id": "is4gen.medium",
+  "vendor_id": "aws",
+  "name": "is4gen.medium",
+  "vcpus": 1,
+  "cpu_cores": 1,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 6144,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 937,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 937,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 1.562,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "r5.16xlarge",
+  "vendor_id": "aws",
+  "name": "r5.16xlarge",
+  "vcpus": 64,
+  "cpu_cores": 32,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 524288,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 20.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

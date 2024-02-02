@@ -1,0 +1,21 @@
+{
+  "id": "m7a.xlarge",
+  "vendor_id": "aws",
+  "name": "m7a.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 4,
+  "cpu_speed": 3.7,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 16384,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 1.562,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

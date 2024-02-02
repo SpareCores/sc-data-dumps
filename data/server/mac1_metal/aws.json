@@ -1,0 +1,21 @@
+{
+  "id": "mac1.metal",
+  "vendor_id": "aws",
+  "name": "mac1.metal",
+  "vcpus": 12,
+  "cpu_cores": 6,
+  "cpu_speed": 3.2,
+  "cpu_architecture": "x86_64_mac",
+  "cpu_manufacturer": "Intel",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 25.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

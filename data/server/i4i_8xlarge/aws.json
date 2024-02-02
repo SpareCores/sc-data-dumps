@@ -1,0 +1,30 @@
+{
+  "id": "i4i.8xlarge",
+  "vendor_id": "aws",
+  "name": "i4i.8xlarge",
+  "vcpus": 32,
+  "cpu_cores": 16,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 262144,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 7500,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3750,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3750,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 18.75,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

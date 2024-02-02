@@ -1,0 +1,14 @@
+{
+  "id": "aws",
+  "name": "Amazon Web Services",
+  "logo": null,
+  "homepage": "https://aws.amazon.com",
+  "country_id": "US",
+  "state": "Washington",
+  "city": "Seattle",
+  "address_line": "410 Terry Ave N",
+  "zip_code": "98109",
+  "founding_year": 2002,
+  "status_page": "https://health.aws.amazon.com/health/status",
+  "status": "ACTIVE"
+}

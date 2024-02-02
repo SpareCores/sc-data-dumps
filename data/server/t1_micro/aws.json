@@ -1,0 +1,21 @@
+{
+  "id": "t1.micro",
+  "vendor_id": "aws",
+  "name": "t1.micro",
+  "vcpus": 1,
+  "cpu_cores": 1,
+  "cpu_speed": null,
+  "cpu_architecture": "I386",
+  "cpu_manufacturer": "Intel",
+  "memory": 627,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 0.07,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

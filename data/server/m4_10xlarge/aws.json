@@ -1,0 +1,21 @@
+{
+  "id": "m4.10xlarge",
+  "vendor_id": "aws",
+  "name": "m4.10xlarge",
+  "vcpus": 40,
+  "cpu_cores": 20,
+  "cpu_speed": 2.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 163840,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 10.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

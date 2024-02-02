@@ -1,0 +1,21 @@
+{
+  "id": "c6g.metal",
+  "vendor_id": "aws",
+  "name": "c6g.metal",
+  "vcpus": 64,
+  "cpu_cores": 64,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 131072,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 25.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

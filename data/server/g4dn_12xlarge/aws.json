@@ -1,0 +1,51 @@
+{
+  "id": "g4dn.12xlarge",
+  "vendor_id": "aws",
+  "name": "g4dn.12xlarge",
+  "vcpus": 48,
+  "cpu_cores": 24,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 196608,
+  "gpu_count": 4,
+  "gpu_memory": 65536,
+  "gpu_name": "NVIDIA T4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 900,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 50.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "p3dn.24xlarge",
+  "vendor_id": "aws",
+  "name": "p3dn.24xlarge",
+  "vcpus": 96,
+  "cpu_cores": 48,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 786432,
+  "gpu_count": 8,
+  "gpu_memory": 262144,
+  "gpu_name": "NVIDIA V100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 32768,
+      "firmware": null
+    }
+  ],
+  "storage_size": 1800,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

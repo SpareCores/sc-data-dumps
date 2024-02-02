@@ -1,0 +1,118 @@
+{
+  "id": "d2.8xlarge",
+  "vendor_id": "aws",
+  "name": "d2.8xlarge",
+  "vcpus": 36,
+  "cpu_cores": 18,
+  "cpu_speed": 2.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 249856,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 49152,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 10.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

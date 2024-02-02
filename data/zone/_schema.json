@@ -1,0 +1,67 @@
+{
+  "table_name": "zone",
+  "columns": [
+    {
+      "name": "id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "datacenter_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "vendor_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    }
+  ],
+  "primary_key": [
+    "id",
+    "datacenter_id",
+    "vendor_id"
+  ],
+  "foreign_keys": [
+    {
+      "constrained_columns": [
+        "datacenter_id"
+      ],
+      "referred_table": "datacenter",
+      "referred_columns": [
+        "id"
+      ]
+    },
+    {
+      "constrained_columns": [
+        "vendor_id"
+      ],
+      "referred_table": "vendor",
+      "referred_columns": [
+        "id"
+      ]
+    }
+  ],
+  "unique_constraints": [],
+  "indexes": []
+}

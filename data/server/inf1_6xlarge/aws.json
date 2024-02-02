@@ -1,0 +1,21 @@
+{
+  "id": "inf1.6xlarge",
+  "vendor_id": "aws",
+  "name": "inf1.6xlarge",
+  "vcpus": 24,
+  "cpu_cores": 12,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 49152,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 25.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

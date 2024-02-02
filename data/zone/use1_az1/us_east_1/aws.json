@@ -1,0 +1,7 @@
+{
+  "id": "use1-az1",
+  "datacenter_id": "us-east-1",
+  "vendor_id": "aws",
+  "name": "us-east-1a",
+  "status": "ACTIVE"
+}

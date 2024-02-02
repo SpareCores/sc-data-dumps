@@ -1,0 +1,30 @@
+{
+  "id": "m2.4xlarge",
+  "vendor_id": "aws",
+  "name": "m2.4xlarge",
+  "vcpus": 8,
+  "cpu_cores": 8,
+  "cpu_speed": null,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 70041,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 1680,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 840,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 840,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 1.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

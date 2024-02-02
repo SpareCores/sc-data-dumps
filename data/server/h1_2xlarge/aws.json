@@ -1,0 +1,26 @@
+{
+  "id": "h1.2xlarge",
+  "vendor_id": "aws",
+  "name": "h1.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 4,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 2000,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 2000,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 2.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

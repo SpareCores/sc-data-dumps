@@ -1,0 +1,21 @@
+{
+  "id": "m5.large",
+  "vendor_id": "aws",
+  "name": "m5.large",
+  "vcpus": 2,
+  "cpu_cores": 1,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 8192,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 0.75,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

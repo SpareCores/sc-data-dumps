@@ -1,0 +1,70 @@
+{
+  "id": "p3.16xlarge",
+  "vendor_id": "aws",
+  "name": "p3.16xlarge",
+  "vcpus": 64,
+  "cpu_cores": 32,
+  "cpu_speed": 2.7,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 499712,
+  "gpu_count": 8,
+  "gpu_memory": 131072,
+  "gpu_name": "NVIDIA V100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "V100",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 5.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

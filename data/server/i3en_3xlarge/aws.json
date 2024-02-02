@@ -1,0 +1,26 @@
+{
+  "id": "i3en.3xlarge",
+  "vendor_id": "aws",
+  "name": "i3en.3xlarge",
+  "vcpus": 12,
+  "cpu_cores": 6,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 98304,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 7500,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 12.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

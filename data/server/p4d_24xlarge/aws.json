@@ -1,0 +1,103 @@
+{
+  "id": "p4d.24xlarge",
+  "vendor_id": "aws",
+  "name": "p4d.24xlarge",
+  "vcpus": 96,
+  "cpu_cores": 48,
+  "cpu_speed": 3.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 1179648,
+  "gpu_count": 8,
+  "gpu_memory": 327680,
+  "gpu_name": "NVIDIA A100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A100",
+      "memory": 40960,
+      "firmware": null
+    }
+  ],
+  "storage_size": 8000,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

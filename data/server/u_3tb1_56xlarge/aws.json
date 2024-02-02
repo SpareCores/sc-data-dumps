@@ -1,0 +1,21 @@
+{
+  "id": "u-3tb1.56xlarge",
+  "vendor_id": "aws",
+  "name": "u-3tb1.56xlarge",
+  "vcpus": 224,
+  "cpu_cores": 112,
+  "cpu_speed": 2.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 3145728,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 50.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

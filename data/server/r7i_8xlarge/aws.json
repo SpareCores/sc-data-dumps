@@ -1,0 +1,21 @@
+{
+  "id": "r7i.8xlarge",
+  "vendor_id": "aws",
+  "name": "r7i.8xlarge",
+  "vcpus": 32,
+  "cpu_cores": 16,
+  "cpu_speed": 3.2,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 262144,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 12.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

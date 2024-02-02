@@ -1,0 +1,26 @@
+{
+  "id": "c5ad.2xlarge",
+  "vendor_id": "aws",
+  "name": "c5ad.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 4,
+  "cpu_speed": 3.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 16384,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 300,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 300,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 2.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

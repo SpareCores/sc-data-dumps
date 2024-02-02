@@ -1,0 +1,38 @@
+{
+  "id": "m6idn.32xlarge",
+  "vendor_id": "aws",
+  "name": "m6idn.32xlarge",
+  "vcpus": 128,
+  "cpu_cores": 64,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 524288,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 7600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 200.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

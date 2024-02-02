@@ -1,0 +1,30 @@
+{
+  "id": "c3.large",
+  "vendor_id": "aws",
+  "name": "c3.large",
+  "vcpus": 2,
+  "cpu_cores": 1,
+  "cpu_speed": 2.8,
+  "cpu_architecture": "I386",
+  "cpu_manufacturer": "Intel",
+  "memory": 3840,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 32,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 16,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 16,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 0.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

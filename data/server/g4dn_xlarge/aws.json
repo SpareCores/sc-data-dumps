@@ -1,0 +1,33 @@
+{
+  "id": "g4dn.xlarge",
+  "vendor_id": "aws",
+  "name": "g4dn.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 2,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 16384,
+  "gpu_count": 1,
+  "gpu_memory": 16384,
+  "gpu_name": "NVIDIA T4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 125,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 125,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 5.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

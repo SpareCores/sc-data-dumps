@@ -1,0 +1,30 @@
+{
+  "id": "c6id.12xlarge",
+  "vendor_id": "aws",
+  "name": "c6id.12xlarge",
+  "vcpus": 48,
+  "cpu_cores": 24,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 98304,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 2850,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 18.75,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

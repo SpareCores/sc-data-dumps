@@ -1,0 +1,21 @@
+{
+  "id": "m7g.2xlarge",
+  "vendor_id": "aws",
+  "name": "m7g.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 8,
+  "cpu_speed": 2.6,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 3.75,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

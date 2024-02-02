@@ -1,0 +1,26 @@
+{
+  "id": "x1e.xlarge",
+  "vendor_id": "aws",
+  "name": "x1e.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 2,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 124928,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 120,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 120,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 0.625,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

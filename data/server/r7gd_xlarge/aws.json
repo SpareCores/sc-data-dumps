@@ -1,0 +1,26 @@
+{
+  "id": "r7gd.xlarge",
+  "vendor_id": "aws",
+  "name": "r7gd.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 4,
+  "cpu_speed": 2.6,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 237,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 237,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 1.876,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

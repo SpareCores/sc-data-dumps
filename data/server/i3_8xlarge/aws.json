@@ -1,0 +1,38 @@
+{
+  "id": "i3.8xlarge",
+  "vendor_id": "aws",
+  "name": "i3.8xlarge",
+  "vcpus": 32,
+  "cpu_cores": 16,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 249856,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 7600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 12.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

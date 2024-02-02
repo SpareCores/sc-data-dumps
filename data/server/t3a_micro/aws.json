@@ -1,0 +1,21 @@
+{
+  "id": "t3a.micro",
+  "vendor_id": "aws",
+  "name": "t3a.micro",
+  "vcpus": 2,
+  "cpu_cores": 1,
+  "cpu_speed": 2.2,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 1024,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 0.064,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

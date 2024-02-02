@@ -1,0 +1,33 @@
+{
+  "id": "g4ad.xlarge",
+  "vendor_id": "aws",
+  "name": "g4ad.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 2,
+  "cpu_speed": 3.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 16384,
+  "gpu_count": 1,
+  "gpu_memory": 8192,
+  "gpu_name": "AMD Radeon Pro V520",
+  "gpus": [
+    {
+      "manufacturer": "AMD",
+      "name": "Radeon Pro V520",
+      "memory": 8192,
+      "firmware": null
+    }
+  ],
+  "storage_size": 150,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 150,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 2.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

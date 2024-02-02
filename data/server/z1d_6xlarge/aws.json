@@ -1,0 +1,26 @@
+{
+  "id": "z1d.6xlarge",
+  "vendor_id": "aws",
+  "name": "z1d.6xlarge",
+  "vcpus": 24,
+  "cpu_cores": 12,
+  "cpu_speed": 4.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 196608,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 900,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 12.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

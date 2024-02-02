@@ -1,0 +1,21 @@
+{
+  "id": "r6a.4xlarge",
+  "vendor_id": "aws",
+  "name": "r6a.4xlarge",
+  "vcpus": 16,
+  "cpu_cores": 8,
+  "cpu_speed": 3.6,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 131072,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 6.25,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

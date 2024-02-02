@@ -1,0 +1,21 @@
+{
+  "id": "r7a.48xlarge",
+  "vendor_id": "aws",
+  "name": "r7a.48xlarge",
+  "vcpus": 192,
+  "cpu_cores": 192,
+  "cpu_speed": 3.7,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 1572864,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 50.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

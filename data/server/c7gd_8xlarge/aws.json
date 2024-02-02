@@ -1,0 +1,26 @@
+{
+  "id": "c7gd.8xlarge",
+  "vendor_id": "aws",
+  "name": "c7gd.8xlarge",
+  "vcpus": 32,
+  "cpu_cores": 32,
+  "cpu_speed": 2.6,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 65536,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 1900,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 15.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

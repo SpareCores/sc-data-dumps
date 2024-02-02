@@ -1,0 +1,28 @@
+{
+  "id": "g5g.2xlarge",
+  "vendor_id": "aws",
+  "name": "g5g.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 8,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 16384,
+  "gpu_count": 1,
+  "gpu_memory": 16384,
+  "gpu_name": "NVIDIA T4g",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "T4g",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 2.5,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

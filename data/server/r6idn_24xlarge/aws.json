@@ -1,0 +1,38 @@
+{
+  "id": "r6idn.24xlarge",
+  "vendor_id": "aws",
+  "name": "r6idn.24xlarge",
+  "vcpus": 96,
+  "cpu_cores": 48,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 786432,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 5700,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 150.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

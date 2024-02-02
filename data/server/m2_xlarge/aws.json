@@ -1,0 +1,26 @@
+{
+  "id": "m2.xlarge",
+  "vendor_id": "aws",
+  "name": "m2.xlarge",
+  "vcpus": 2,
+  "cpu_cores": 2,
+  "cpu_speed": null,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 17510,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 420,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 420,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 0.3,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

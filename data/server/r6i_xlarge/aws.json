@@ -1,0 +1,21 @@
+{
+  "id": "r6i.xlarge",
+  "vendor_id": "aws",
+  "name": "r6i.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 2,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 1.562,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "is4gen.xlarge",
+  "vendor_id": "aws",
+  "name": "is4gen.xlarge",
+  "vcpus": 4,
+  "cpu_cores": 4,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 24576,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 3750,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3750,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 6.25,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

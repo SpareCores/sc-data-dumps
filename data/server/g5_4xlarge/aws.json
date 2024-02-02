@@ -1,0 +1,33 @@
+{
+  "id": "g5.4xlarge",
+  "vendor_id": "aws",
+  "name": "g5.4xlarge",
+  "vcpus": 16,
+  "cpu_cores": 8,
+  "cpu_speed": 3.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 65536,
+  "gpu_count": 1,
+  "gpu_memory": 24576,
+  "gpu_name": "NVIDIA A10G",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "name": "A10G",
+      "memory": 24576,
+      "firmware": null
+    }
+  ],
+  "storage_size": 600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 600,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 10.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

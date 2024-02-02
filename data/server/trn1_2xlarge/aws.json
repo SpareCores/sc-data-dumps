@@ -1,0 +1,26 @@
+{
+  "id": "trn1.2xlarge",
+  "vendor_id": "aws",
+  "name": "trn1.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 4,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 32768,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 474,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 474,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 3.125,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

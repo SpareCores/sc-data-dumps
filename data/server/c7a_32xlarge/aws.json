@@ -1,0 +1,21 @@
+{
+  "id": "c7a.32xlarge",
+  "vendor_id": "aws",
+  "name": "c7a.32xlarge",
+  "vcpus": 128,
+  "cpu_cores": 128,
+  "cpu_speed": 3.7,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 262144,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 50.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

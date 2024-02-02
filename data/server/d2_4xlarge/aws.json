@@ -1,0 +1,70 @@
+{
+  "id": "d2.4xlarge",
+  "vendor_id": "aws",
+  "name": "d2.4xlarge",
+  "vcpus": 16,
+  "cpu_cores": 8,
+  "cpu_speed": 2.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 124928,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 24576,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 5.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "t4g.micro",
+  "vendor_id": "aws",
+  "name": "t4g.micro",
+  "vcpus": 2,
+  "cpu_cores": 2,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "memory": 1024,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 0.064,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

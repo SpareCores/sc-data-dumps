@@ -1,0 +1,7 @@
+{
+  "id": "euc1-az2",
+  "datacenter_id": "eu-central-1",
+  "vendor_id": "aws",
+  "name": "eu-central-1a",
+  "status": "ACTIVE"
+}

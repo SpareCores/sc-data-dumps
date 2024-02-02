@@ -1,0 +1,21 @@
+{
+  "id": "x2iezn.8xlarge",
+  "vendor_id": "aws",
+  "name": "x2iezn.8xlarge",
+  "vcpus": 32,
+  "cpu_cores": 16,
+  "cpu_speed": 4.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 1048576,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 75.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

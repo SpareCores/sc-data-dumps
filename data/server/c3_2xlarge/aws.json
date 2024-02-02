@@ -1,0 +1,30 @@
+{
+  "id": "c3.2xlarge",
+  "vendor_id": "aws",
+  "name": "c3.2xlarge",
+  "vcpus": 8,
+  "cpu_cores": 4,
+  "cpu_speed": 2.8,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 15360,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 160,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 80,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 80,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 1.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

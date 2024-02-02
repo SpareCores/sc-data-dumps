@@ -1,0 +1,26 @@
+{
+  "id": "m3.medium",
+  "vendor_id": "aws",
+  "name": "m3.medium",
+  "vcpus": 1,
+  "cpu_cores": 1,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "memory": 3840,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 4,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 4,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 0.3,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}

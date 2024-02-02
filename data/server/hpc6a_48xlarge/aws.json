@@ -1,0 +1,21 @@
+{
+  "id": "hpc6a.48xlarge",
+  "vendor_id": "aws",
+  "name": "hpc6a.48xlarge",
+  "vcpus": 96,
+  "cpu_cores": 96,
+  "cpu_speed": 3.6,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "memory": 393216,
+  "gpu_count": 0,
+  "gpu_memory": null,
+  "gpu_name": null,
+  "gpus": [],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 100.0,
+  "billable_unit": "hour",
+  "status": "ACTIVE"
+}
