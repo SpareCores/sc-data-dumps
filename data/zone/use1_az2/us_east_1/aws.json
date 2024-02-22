@@ -2,6 +2,6 @@
   "id": "use1-az2",
   "datacenter_id": "us-east-1",
   "vendor_id": "aws",
-  "name": "us-east-1a",
+  "name": "us-east-1b",
   "status": "ACTIVE"
 }

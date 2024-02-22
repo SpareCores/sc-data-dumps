@@ -16,7 +16,6 @@
   "storage_type": null,
   "storages": [],
   "network_speed": 4.1,
-  "ipv4": 0,
   "billable_unit": "hour",
   "status": "ACTIVE"
 }

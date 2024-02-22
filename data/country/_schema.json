@@ -14,13 +14,6 @@
       "nullable": false,
       "default": null,
       "comment": null
-    },
-    {
-      "name": "inserted_at",
-      "type": "DATETIME",
-      "nullable": true,
-      "default": null,
-      "comment": null
     }
   ],
   "primary_key": [
