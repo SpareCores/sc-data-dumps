@@ -45,7 +45,7 @@
     },
     {
       "name": "cpu_architecture",
-      "type": "VARCHAR(9)",
+      "type": "VARCHAR(10)",
       "nullable": false,
       "default": null,
       "comment": null
@@ -88,7 +88,7 @@
     {
       "name": "gpus",
       "type": "JSON",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     },
@@ -109,7 +109,7 @@
     {
       "name": "storages",
       "type": "JSON",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     },
@@ -117,6 +117,13 @@
       "name": "network_speed",
       "type": "FLOAT",
       "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "ipv4",
+      "type": "BOOLEAN",
+      "nullable": false,
       "default": null,
       "comment": null
     },
@@ -131,6 +138,13 @@
       "name": "status",
       "type": "VARCHAR(8)",
       "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "inserted_at",
+      "type": "DATETIME",
+      "nullable": true,
       "default": null,
       "comment": null
     }
