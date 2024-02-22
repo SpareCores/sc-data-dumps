@@ -1,0 +1,113 @@
+{
+  "table_name": "storage",
+  "columns": [
+    {
+      "name": "id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "vendor_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "size",
+      "type": "INTEGER",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_type",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "max_iops",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "max_throughput",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "min_size",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "max_size",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "billable_unit",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "inserted_at",
+      "type": "DATETIME",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    }
+  ],
+  "primary_key": [
+    "id",
+    "vendor_id"
+  ],
+  "foreign_keys": [
+    {
+      "constrained_columns": [
+        "vendor_id"
+      ],
+      "referred_table": "vendor",
+      "referred_columns": [
+        "id"
+      ]
+    }
+  ],
+  "unique_constraints": [],
+  "indexes": []
+}

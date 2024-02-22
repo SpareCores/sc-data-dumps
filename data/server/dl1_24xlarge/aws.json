@@ -82,6 +82,7 @@
     }
   ],
   "network_speed": 100.0,
+  "ipv4": 0,
   "billable_unit": "hour",
   "status": "ACTIVE"
 }

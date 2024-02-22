@@ -23,6 +23,7 @@
   "storage_type": null,
   "storages": [],
   "network_speed": 2.5,
+  "ipv4": 0,
   "billable_unit": "hour",
   "status": "ACTIVE"
 }
