@@ -2,7 +2,7 @@
   "table_name": "zone",
   "columns": [
     {
-      "name": "id",
+      "name": "vendor_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -16,7 +16,7 @@
       "comment": null
     },
     {
-      "name": "vendor_id",
+      "name": "zone_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -37,26 +37,28 @@
       "comment": null
     },
     {
-      "name": "inserted_at",
+      "name": "observed_at",
       "type": "DATETIME",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     }
   ],
   "primary_key": [
-    "id",
+    "vendor_id",
     "datacenter_id",
-    "vendor_id"
+    "zone_id"
   ],
   "foreign_keys": [
     {
       "constrained_columns": [
+        "vendor_id",
         "datacenter_id"
       ],
       "referred_table": "datacenter",
       "referred_columns": [
-        "id"
+        "vendor_id",
+        "datacenter_id"
       ]
     },
     {
@@ -65,7 +67,7 @@
       ],
       "referred_table": "vendor",
       "referred_columns": [
-        "id"
+        "vendor_id"
       ]
     }
   ],

@@ -1,0 +1,48 @@
+{
+  "vendor_id": "aws",
+  "server_id": "r5d.metal",
+  "name": "r5d.metal",
+  "description": "Memory optimized [Instance store volumes] Gen5 metal",
+  "vcpus": 96,
+  "hypervisor": null,
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 48,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 786432,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 3600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 25.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -2,7 +2,7 @@
   "table_name": "vendor",
   "columns": [
     {
-      "name": "id",
+      "name": "vendor_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -25,7 +25,7 @@
     {
       "name": "homepage",
       "type": "VARCHAR",
-      "nullable": false,
+      "nullable": true,
       "default": null,
       "comment": null
     },
@@ -86,15 +86,15 @@
       "comment": null
     },
     {
-      "name": "inserted_at",
+      "name": "observed_at",
       "type": "DATETIME",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     }
   ],
   "primary_key": [
-    "id"
+    "vendor_id"
   ],
   "foreign_keys": [
     {
@@ -103,7 +103,7 @@
       ],
       "referred_table": "country",
       "referred_columns": [
-        "id"
+        "country_id"
       ]
     }
   ],

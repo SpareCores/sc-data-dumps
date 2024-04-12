@@ -1,0 +1,12 @@
+{
+  "vendor_id": "hcloud",
+  "storage_id": "block",
+  "name": "Block storage volume",
+  "description": null,
+  "storage_type": "NETWORK",
+  "max_iops": null,
+  "max_throughput": null,
+  "min_size": 10,
+  "max_size": 10240,
+  "status": "ACTIVE"
+}

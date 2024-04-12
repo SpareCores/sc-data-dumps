@@ -1,0 +1,7 @@
+{
+  "vendor_id": "hcloud",
+  "datacenter_id": "4",
+  "zone_id": "4",
+  "name": "fsn1-dc14",
+  "status": "ACTIVE"
+}

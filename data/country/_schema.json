@@ -2,7 +2,7 @@
   "table_name": "country",
   "columns": [
     {
-      "name": "id",
+      "name": "country_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -16,15 +16,22 @@
       "comment": null
     },
     {
-      "name": "inserted_at",
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "observed_at",
       "type": "DATETIME",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     }
   ],
   "primary_key": [
-    "id"
+    "country_id"
   ],
   "foreign_keys": [],
   "unique_constraints": [],

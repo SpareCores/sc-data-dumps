@@ -1,0 +1,12 @@
+{
+  "vendor_id": "aws",
+  "storage_id": "sc1",
+  "name": "Cold HDD",
+  "description": "HDD-backed",
+  "storage_type": "HDD",
+  "max_iops": 1,
+  "max_throughput": 250,
+  "min_size": 125,
+  "max_size": 16384,
+  "status": "ACTIVE"
+}

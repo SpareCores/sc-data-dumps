@@ -1,0 +1,48 @@
+{
+  "vendor_id": "aws",
+  "server_id": "i3.8xlarge",
+  "name": "i3.8xlarge",
+  "description": "Storage optimized Gen3 8xlarge",
+  "vcpus": 32,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 16,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 249856,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 7600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 12.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

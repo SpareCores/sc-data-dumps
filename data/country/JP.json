@@ -1,4 +1,5 @@
 {
-  "id": "JP",
-  "continent": "Asia"
+  "country_id": "JP",
+  "continent": "Asia",
+  "status": "ACTIVE"
 }

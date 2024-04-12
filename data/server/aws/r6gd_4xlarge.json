@@ -1,0 +1,36 @@
+{
+  "vendor_id": "aws",
+  "server_id": "r6gd.4xlarge",
+  "name": "r6gd.4xlarge",
+  "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen6 4xlarge",
+  "vcpus": 16,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 16,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 131072,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 950,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 950,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 5.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

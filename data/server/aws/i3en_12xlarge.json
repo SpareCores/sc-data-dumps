@@ -1,0 +1,48 @@
+{
+  "vendor_id": "aws",
+  "server_id": "i3en.12xlarge",
+  "name": "i3en.12xlarge",
+  "description": "Storage optimized [Network and EBS optimized] [Extra storage or memory] Gen3 12xlarge",
+  "vcpus": 48,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 24,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 393216,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 30000,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 50.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

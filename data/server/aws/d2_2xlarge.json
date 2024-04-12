@@ -1,0 +1,56 @@
+{
+  "vendor_id": "aws",
+  "server_id": "d2.2xlarge",
+  "name": "d2.2xlarge",
+  "description": "Dense storage Gen2 2xlarge",
+  "vcpus": 8,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 4,
+  "cpu_speed": 2.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 62464,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 12288,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 2048,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 2.5,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

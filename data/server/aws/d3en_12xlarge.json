@@ -1,0 +1,128 @@
+{
+  "vendor_id": "aws",
+  "server_id": "d3en.12xlarge",
+  "name": "d3en.12xlarge",
+  "description": "Dense storage [Network and EBS optimized] [Extra storage or memory] Gen3 12xlarge",
+  "vcpus": 48,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 24,
+  "cpu_speed": 3.1,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 196608,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 335520,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 13980,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 75.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

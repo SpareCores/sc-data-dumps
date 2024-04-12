@@ -1,0 +1,7 @@
+{
+  "vendor_id": "aws",
+  "datacenter_id": "us-west-2",
+  "zone_id": "usw2-az4",
+  "name": "us-west-2d",
+  "status": "ACTIVE"
+}

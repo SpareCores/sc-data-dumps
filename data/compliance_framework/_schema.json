@@ -2,7 +2,7 @@
   "table_name": "compliance_framework",
   "columns": [
     {
-      "name": "id",
+      "name": "compliance_framework_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -44,15 +44,22 @@
       "comment": null
     },
     {
-      "name": "inserted_at",
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "observed_at",
       "type": "DATETIME",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     }
   ],
   "primary_key": [
-    "id"
+    "compliance_framework_id"
   ],
   "foreign_keys": [],
   "unique_constraints": [],

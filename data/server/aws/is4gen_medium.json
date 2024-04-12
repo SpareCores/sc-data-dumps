@@ -1,0 +1,36 @@
+{
+  "vendor_id": "aws",
+  "server_id": "is4gen.medium",
+  "name": "is4gen.medium",
+  "description": "Storage optimized with a one to six ratio of vCPU to memory [AWS Graviton processors] [Network and EBS optimized] [Extra storage or memory] Gen4 medium",
+  "vcpus": 1,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 1,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 6144,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 937,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 937,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 1.562,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

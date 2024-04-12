@@ -1,0 +1,38 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g5g.xlarge",
+  "name": "g5g.xlarge",
+  "description": "Graphics intensive [AWS Graviton processors] Gen5 xlarge",
+  "vcpus": 4,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 4,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 8192,
+  "gpu_count": 1,
+  "gpu_memory_min": 16384,
+  "gpu_memory_total": 16384,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "T4g",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4g",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 1.25,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

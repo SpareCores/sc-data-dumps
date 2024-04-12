@@ -1,0 +1,73 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g6.24xlarge",
+  "name": "g6.24xlarge",
+  "description": "Graphics intensive Gen6 24xlarge",
+  "vcpus": 96,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 48,
+  "cpu_speed": 3.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 393216,
+  "gpu_count": 4,
+  "gpu_memory_min": 91553,
+  "gpu_memory_total": 366212,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "L4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 91553,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 91553,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 91553,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 91553,
+      "firmware": null
+    }
+  ],
+  "storage_size": 15200,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 50.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,4 +1,5 @@
 {
-  "id": "AU",
-  "continent": "Oceania"
+  "country_id": "AU",
+  "continent": "Oceania",
+  "status": "ACTIVE"
 }

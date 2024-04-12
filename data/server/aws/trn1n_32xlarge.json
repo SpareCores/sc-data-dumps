@@ -1,0 +1,48 @@
+{
+  "vendor_id": "aws",
+  "server_id": "trn1n.32xlarge",
+  "name": "trn1n.32xlarge",
+  "description": "AWS Trainium [Network and EBS optimized] Gen1 32xlarge",
+  "vcpus": 128,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 64,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 524288,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 7600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

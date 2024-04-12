@@ -1,0 +1,40 @@
+{
+  "vendor_id": "aws",
+  "server_id": "x1.32xlarge",
+  "name": "x1.32xlarge",
+  "description": "Memory intensive Gen1 32xlarge",
+  "vcpus": 128,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 64,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 1998848,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 3840,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 25.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

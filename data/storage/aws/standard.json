@@ -1,0 +1,12 @@
+{
+  "vendor_id": "aws",
+  "storage_id": "standard",
+  "name": "Magnetic",
+  "description": "HDD-backed",
+  "storage_type": "HDD",
+  "max_iops": 200,
+  "max_throughput": 90,
+  "min_size": 1,
+  "max_size": 1024,
+  "status": "ACTIVE"
+}

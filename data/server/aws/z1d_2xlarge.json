@@ -1,0 +1,36 @@
+{
+  "vendor_id": "aws",
+  "server_id": "z1d.2xlarge",
+  "name": "z1d.2xlarge",
+  "description": "High frequency [Instance store volumes] Gen1 2xlarge",
+  "vcpus": 8,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 4,
+  "cpu_speed": 4.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 65536,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 300,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 300,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 2.5,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

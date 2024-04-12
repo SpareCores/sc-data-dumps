@@ -1,0 +1,36 @@
+{
+  "vendor_id": "aws",
+  "server_id": "i4i.4xlarge",
+  "name": "i4i.4xlarge",
+  "description": "Storage optimized [Intel processors] Gen4 4xlarge",
+  "vcpus": 16,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 8,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 131072,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 3750,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3750,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 9.375,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

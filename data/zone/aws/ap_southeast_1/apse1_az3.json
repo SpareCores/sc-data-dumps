@@ -1,0 +1,7 @@
+{
+  "vendor_id": "aws",
+  "datacenter_id": "ap-southeast-1",
+  "zone_id": "apse1-az3",
+  "name": "ap-southeast-1c",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,113 @@
+{
+  "vendor_id": "aws",
+  "server_id": "p5.48xlarge",
+  "name": "p5.48xlarge",
+  "description": "GPU accelerated Gen5 48xlarge",
+  "vcpus": 192,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 96,
+  "cpu_speed": 3.6,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 2097152,
+  "gpu_count": 8,
+  "gpu_memory_min": 81920,
+  "gpu_memory_total": 655360,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "H100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "H100",
+      "memory": 81920,
+      "firmware": null
+    }
+  ],
+  "storage_size": 30400,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

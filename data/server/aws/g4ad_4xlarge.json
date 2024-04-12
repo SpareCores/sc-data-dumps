@@ -1,0 +1,43 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g4ad.4xlarge",
+  "name": "g4ad.4xlarge",
+  "description": "Graphics intensive [AMD processors] [Instance store volumes] Gen4 4xlarge",
+  "vcpus": 16,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 8,
+  "cpu_speed": 3.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 65536,
+  "gpu_count": 1,
+  "gpu_memory_min": 8192,
+  "gpu_memory_total": 8192,
+  "gpu_manufacturer": "AMD",
+  "gpu_model": "Radeon Pro V520",
+  "gpus": [
+    {
+      "manufacturer": "AMD",
+      "model": "Radeon Pro V520",
+      "memory": 8192,
+      "firmware": null
+    }
+  ],
+  "storage_size": 600,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 600,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 8.333,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,38 @@
+{
+  "vendor_id": "aws",
+  "server_id": "p3.2xlarge",
+  "name": "p3.2xlarge",
+  "description": "GPU accelerated Gen3 2xlarge",
+  "vcpus": 8,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 4,
+  "cpu_speed": 2.7,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 62464,
+  "gpu_count": 1,
+  "gpu_memory_min": 16384,
+  "gpu_memory_total": 16384,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "V100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "V100",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 2.5,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

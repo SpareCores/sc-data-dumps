@@ -1,0 +1,40 @@
+{
+  "vendor_id": "aws",
+  "server_id": "c5d.18xlarge",
+  "name": "c5d.18xlarge",
+  "description": "Compute optimized [Instance store volumes] Gen5 18xlarge",
+  "vcpus": 72,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 36,
+  "cpu_speed": 3.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 147456,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 1800,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 25.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

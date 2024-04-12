@@ -1,0 +1,12 @@
+{
+  "vendor_id": "aws",
+  "storage_id": "st1",
+  "name": "Throughput Optimized HDD",
+  "description": "HDD-backed",
+  "storage_type": "HDD",
+  "max_iops": 1,
+  "max_throughput": 500,
+  "min_size": 125,
+  "max_size": 16384,
+  "status": "ACTIVE"
+}

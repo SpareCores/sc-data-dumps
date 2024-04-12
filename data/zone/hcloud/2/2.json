@@ -1,0 +1,7 @@
+{
+  "vendor_id": "hcloud",
+  "datacenter_id": "2",
+  "zone_id": "2",
+  "name": "nbg1-dc3",
+  "status": "ACTIVE"
+}

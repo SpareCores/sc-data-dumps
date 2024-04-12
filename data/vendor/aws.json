@@ -1,7 +1,7 @@
 {
-  "id": "aws",
+  "vendor_id": "aws",
   "name": "Amazon Web Services",
-  "logo": null,
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
   "homepage": "https://aws.amazon.com",
   "country_id": "US",
   "state": "Washington",

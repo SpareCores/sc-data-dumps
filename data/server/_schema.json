@@ -2,14 +2,14 @@
   "table_name": "server",
   "columns": [
     {
-      "name": "id",
+      "name": "vendor_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
       "comment": null
     },
     {
-      "name": "vendor_id",
+      "name": "server_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -23,6 +23,13 @@
       "comment": null
     },
     {
+      "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "vcpus",
       "type": "INTEGER",
       "nullable": false,
@@ -30,9 +37,23 @@
       "comment": null
     },
     {
+      "name": "hypervisor",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpu_allocation",
+      "type": "VARCHAR(9)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "cpu_cores",
       "type": "INTEGER",
-      "nullable": false,
+      "nullable": true,
       "default": null,
       "comment": null
     },
@@ -58,6 +79,27 @@
       "comment": null
     },
     {
+      "name": "cpu_family",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpu_model",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpus",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "memory",
       "type": "INTEGER",
       "nullable": false,
@@ -72,14 +114,28 @@
       "comment": null
     },
     {
-      "name": "gpu_memory",
+      "name": "gpu_memory_min",
       "type": "INTEGER",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_name",
+      "name": "gpu_memory_total",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "gpu_manufacturer",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "gpu_model",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,
@@ -121,15 +177,22 @@
       "comment": null
     },
     {
-      "name": "ipv4",
-      "type": "BOOLEAN",
+      "name": "inbound_traffic",
+      "type": "FLOAT",
       "nullable": false,
       "default": null,
       "comment": null
     },
     {
-      "name": "billable_unit",
-      "type": "VARCHAR",
+      "name": "outbound_traffic",
+      "type": "FLOAT",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "ipv4",
+      "type": "INTEGER",
       "nullable": false,
       "default": null,
       "comment": null
@@ -142,16 +205,16 @@
       "comment": null
     },
     {
-      "name": "inserted_at",
+      "name": "observed_at",
       "type": "DATETIME",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     }
   ],
   "primary_key": [
-    "id",
-    "vendor_id"
+    "vendor_id",
+    "server_id"
   ],
   "foreign_keys": [
     {
@@ -160,7 +223,7 @@
       ],
       "referred_table": "vendor",
       "referred_columns": [
-        "id"
+        "vendor_id"
       ]
     }
   ],

@@ -1,0 +1,36 @@
+{
+  "vendor_id": "aws",
+  "server_id": "x1e.2xlarge",
+  "name": "x1e.2xlarge",
+  "description": "Memory intensive [Extra storage or memory] Gen1 2xlarge",
+  "vcpus": 8,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 4,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 249856,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 240,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 240,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 1.25,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

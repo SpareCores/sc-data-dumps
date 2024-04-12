@@ -1,0 +1,40 @@
+{
+  "vendor_id": "aws",
+  "server_id": "m7gd.12xlarge",
+  "name": "m7gd.12xlarge",
+  "description": "General purpose [AWS Graviton processors] [Instance store volumes] Gen7 12xlarge",
+  "vcpus": 48,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 48,
+  "cpu_speed": 2.6,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 196608,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 2850,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 22.5,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

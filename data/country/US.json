@@ -1,4 +1,5 @@
 {
-  "id": "US",
-  "continent": "North America"
+  "country_id": "US",
+  "continent": "North America",
+  "status": "ACTIVE"
 }

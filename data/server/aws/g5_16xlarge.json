@@ -1,0 +1,43 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g5.16xlarge",
+  "name": "g5.16xlarge",
+  "description": "Graphics intensive Gen5 16xlarge",
+  "vcpus": 64,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 32,
+  "cpu_speed": 3.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 262144,
+  "gpu_count": 1,
+  "gpu_memory_min": 24576,
+  "gpu_memory_total": 24576,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "A10G",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A10G",
+      "memory": 24576,
+      "firmware": null
+    }
+  ],
+  "storage_size": 1900,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 25.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,113 @@
+{
+  "vendor_id": "aws",
+  "server_id": "p4de.24xlarge",
+  "name": "p4de.24xlarge",
+  "description": "GPU accelerated [Instance store volumes] [Extra storage or memory] Gen4 24xlarge",
+  "vcpus": 96,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 48,
+  "cpu_speed": 3.0,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 1179648,
+  "gpu_count": 8,
+  "gpu_memory_min": 81920,
+  "gpu_memory_total": 655360,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "A100",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "A100",
+      "memory": 81920,
+      "firmware": null
+    }
+  ],
+  "storage_size": 8000,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1000,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,40 @@
+{
+  "vendor_id": "aws",
+  "server_id": "r6idn.12xlarge",
+  "name": "r6idn.12xlarge",
+  "description": "Memory optimized [Intel processors] [Instance store volumes] [Network and EBS optimized] Gen6 12xlarge",
+  "vcpus": 48,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 24,
+  "cpu_speed": 3.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 393216,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 2850,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 1425,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 75.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,128 @@
+{
+  "vendor_id": "aws",
+  "server_id": "p2.16xlarge",
+  "name": "p2.16xlarge",
+  "description": "GPU accelerated Gen2 16xlarge",
+  "vcpus": 64,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 32,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 749568,
+  "gpu_count": 16,
+  "gpu_memory_min": 12288,
+  "gpu_memory_total": 196608,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "K80",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "K80",
+      "memory": 12288,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 5.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

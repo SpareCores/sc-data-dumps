@@ -1,0 +1,47 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g6.8xlarge",
+  "name": "g6.8xlarge",
+  "description": "Graphics intensive Gen6 8xlarge",
+  "vcpus": 32,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 16,
+  "cpu_speed": 3.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 131072,
+  "gpu_count": 1,
+  "gpu_memory_min": 22888,
+  "gpu_memory_total": 22888,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "L4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 22888,
+      "firmware": null
+    }
+  ],
+  "storage_size": 900,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 450,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 450,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 25.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

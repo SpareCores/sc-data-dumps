@@ -1,0 +1,7 @@
+{
+  "vendor_id": "hcloud",
+  "datacenter_id": "5",
+  "zone_id": "5",
+  "name": "ash-dc1",
+  "status": "ACTIVE"
+}

@@ -1,4 +1,5 @@
 {
-  "id": "ZA",
-  "continent": "Africa"
+  "country_id": "ZA",
+  "continent": "Africa",
+  "status": "ACTIVE"
 }

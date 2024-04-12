@@ -1,0 +1,7 @@
+{
+  "vendor_id": "aws",
+  "datacenter_id": "me-central-1",
+  "zone_id": "mec1-az2",
+  "name": "me-central-1b",
+  "status": "ACTIVE"
+}

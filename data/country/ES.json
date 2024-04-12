@@ -1,4 +1,5 @@
 {
-  "id": "ES",
-  "continent": "Europe"
+  "country_id": "ES",
+  "continent": "Europe",
+  "status": "ACTIVE"
 }

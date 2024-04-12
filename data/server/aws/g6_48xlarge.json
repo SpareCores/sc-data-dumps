@@ -1,0 +1,113 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g6.48xlarge",
+  "name": "g6.48xlarge",
+  "description": "Graphics intensive Gen6 48xlarge",
+  "vcpus": 192,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 96,
+  "cpu_speed": 3.4,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "AMD",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 786432,
+  "gpu_count": 8,
+  "gpu_memory_min": 183105,
+  "gpu_memory_total": 1464840,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "L4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "L4",
+      "memory": 183105,
+      "firmware": null
+    }
+  ],
+  "storage_size": 60800,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 7600,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,56 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g3.16xlarge",
+  "name": "g3.16xlarge",
+  "description": "Graphics intensive Gen3 16xlarge",
+  "vcpus": 64,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 32,
+  "cpu_speed": 2.3,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 499712,
+  "gpu_count": 4,
+  "gpu_memory_min": 8192,
+  "gpu_memory_total": 32768,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "M60",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "M60",
+      "memory": 8192,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "M60",
+      "memory": 8192,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "M60",
+      "memory": 8192,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "M60",
+      "memory": 8192,
+      "firmware": null
+    }
+  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
+  "network_speed": 5.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

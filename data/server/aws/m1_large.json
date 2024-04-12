@@ -1,0 +1,40 @@
+{
+  "vendor_id": "aws",
+  "server_id": "m1.large",
+  "name": "m1.large",
+  "description": "General purpose Gen1 large",
+  "vcpus": 2,
+  "hypervisor": "xen",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 2,
+  "cpu_speed": null,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 7680,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 840,
+  "storage_type": "HDD",
+  "storages": [
+    {
+      "size": 420,
+      "storage_type": "hdd"
+    },
+    {
+      "size": 420,
+      "storage_type": "hdd"
+    }
+  ],
+  "network_speed": 0.7,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "compliance_framework_id": "iso27001",
+  "name": "ISO/IEC 27001",
+  "abbreviation": "ISO 27001",
+  "description": "ISO 27001 is standard for information security management systems.",
+  "logo": null,
+  "homepage": "https://www.iso.org/standard/27001",
+  "status": "ACTIVE"
+}

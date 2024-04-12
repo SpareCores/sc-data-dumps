@@ -1,0 +1,89 @@
+{
+  "vendor_id": "aws",
+  "server_id": "g4dn.metal",
+  "name": "g4dn.metal",
+  "description": "Graphics intensive [Instance store volumes] [Network and EBS optimized] Gen4 metal",
+  "vcpus": 96,
+  "hypervisor": null,
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 48,
+  "cpu_speed": 2.5,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpus": [],
+  "memory": 393216,
+  "gpu_count": 8,
+  "gpu_memory_min": 16384,
+  "gpu_memory_total": 131072,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_model": "T4",
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    },
+    {
+      "manufacturer": "NVIDIA",
+      "model": "T4",
+      "memory": 16384,
+      "firmware": null
+    }
+  ],
+  "storage_size": 1800,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    },
+    {
+      "size": 900,
+      "storage_type": "nvme ssd"
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}
