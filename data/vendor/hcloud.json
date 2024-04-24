@@ -1,7 +1,7 @@
 {
   "vendor_id": "hcloud",
   "name": "Hetzner Cloud",
-  "logo": null,
+  "logo": "https://sc-data-public-40e9d310.s3.amazonaws.com/cdn/logos/hcloud.svg",
   "homepage": "https://www.hetzner.com/cloud/",
   "country_id": "DE",
   "state": "Bavaria",

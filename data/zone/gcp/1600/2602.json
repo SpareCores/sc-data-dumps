@@ -1,0 +1,7 @@
+{
+  "vendor_id": "gcp",
+  "datacenter_id": "1600",
+  "zone_id": "2602",
+  "name": "me-central2-b",
+  "status": "ACTIVE"
+}

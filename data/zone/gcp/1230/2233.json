@@ -1,0 +1,7 @@
+{
+  "vendor_id": "gcp",
+  "datacenter_id": "1230",
+  "zone_id": "2233",
+  "name": "us-east1-c",
+  "status": "ACTIVE"
+}

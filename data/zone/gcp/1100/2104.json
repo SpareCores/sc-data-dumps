@@ -1,0 +1,7 @@
+{
+  "vendor_id": "gcp",
+  "datacenter_id": "1100",
+  "zone_id": "2104",
+  "name": "europe-west1-d",
+  "status": "ACTIVE"
+}
