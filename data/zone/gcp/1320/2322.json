@@ -3,5 +3,7 @@
   "datacenter_id": "1320",
   "zone_id": "2322",
   "name": "asia-south1-c",
+  "api_reference": "asia-south1-c",
+  "display_name": "asia-south1-c",
   "status": "ACTIVE"
 }

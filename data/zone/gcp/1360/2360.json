@@ -3,5 +3,7 @@
   "datacenter_id": "1360",
   "zone_id": "2360",
   "name": "us-west2-c",
+  "api_reference": "us-west2-c",
+  "display_name": "us-west2-c",
   "status": "ACTIVE"
 }

@@ -3,5 +3,7 @@
   "datacenter_id": "1450",
   "zone_id": "2452",
   "name": "europe-central2-a",
+  "api_reference": "europe-central2-a",
+  "display_name": "europe-central2-a",
   "status": "ACTIVE"
 }

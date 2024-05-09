@@ -3,5 +3,7 @@
   "datacenter_id": "us-east-1",
   "zone_id": "use1-az6",
   "name": "us-east-1c",
+  "api_reference": "us-east-1c",
+  "display_name": "us-east-1c",
   "status": "ACTIVE"
 }

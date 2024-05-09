@@ -3,5 +3,7 @@
   "datacenter_id": "ca-west-1",
   "zone_id": "caw1-az2",
   "name": "ca-west-1b",
+  "api_reference": "ca-west-1b",
+  "display_name": "ca-west-1b",
   "status": "ACTIVE"
 }

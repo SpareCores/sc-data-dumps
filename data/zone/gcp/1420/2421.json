@@ -3,5 +3,7 @@
   "datacenter_id": "1420",
   "zone_id": "2421",
   "name": "us-west3-b",
+  "api_reference": "us-west3-b",
+  "display_name": "us-west3-b",
   "status": "ACTIVE"
 }

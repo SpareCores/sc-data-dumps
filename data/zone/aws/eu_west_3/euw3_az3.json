@@ -3,5 +3,7 @@
   "datacenter_id": "eu-west-3",
   "zone_id": "euw3-az3",
   "name": "eu-west-3c",
+  "api_reference": "eu-west-3c",
+  "display_name": "eu-west-3c",
   "status": "ACTIVE"
 }

@@ -30,6 +30,20 @@
       "comment": null
     },
     {
+      "name": "api_reference",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "display_name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "status",
       "type": "VARCHAR(8)",
       "nullable": false,

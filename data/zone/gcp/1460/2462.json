@@ -3,5 +3,7 @@
   "datacenter_id": "1460",
   "zone_id": "2462",
   "name": "northamerica-northeast2-c",
+  "api_reference": "northamerica-northeast2-c",
+  "display_name": "northamerica-northeast2-c",
   "status": "ACTIVE"
 }

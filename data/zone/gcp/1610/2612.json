@@ -3,5 +3,7 @@
   "datacenter_id": "1610",
   "zone_id": "2612",
   "name": "africa-south1-c",
+  "api_reference": "africa-south1-c",
+  "display_name": "africa-south1-c",
   "status": "ACTIVE"
 }

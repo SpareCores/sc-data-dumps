@@ -3,5 +3,7 @@
   "datacenter_id": "ap-northeast-3",
   "zone_id": "apne3-az1",
   "name": "ap-northeast-3b",
+  "api_reference": "ap-northeast-3b",
+  "display_name": "ap-northeast-3b",
   "status": "ACTIVE"
 }

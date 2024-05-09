@@ -3,5 +3,7 @@
   "datacenter_id": "1480",
   "zone_id": "2482",
   "name": "australia-southeast2-b",
+  "api_reference": "australia-southeast2-b",
+  "display_name": "australia-southeast2-b",
   "status": "ACTIVE"
 }

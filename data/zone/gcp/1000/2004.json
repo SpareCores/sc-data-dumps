@@ -3,5 +3,7 @@
   "datacenter_id": "1000",
   "zone_id": "2004",
   "name": "us-central1-f",
+  "api_reference": "us-central1-f",
+  "display_name": "us-central1-f",
   "status": "ACTIVE"
 }

@@ -3,5 +3,7 @@
   "datacenter_id": "il-central-1",
   "zone_id": "ilc1-az3",
   "name": "il-central-1c",
+  "api_reference": "il-central-1c",
+  "display_name": "il-central-1c",
   "status": "ACTIVE"
 }

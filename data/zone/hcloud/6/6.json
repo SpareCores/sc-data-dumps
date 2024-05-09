@@ -3,5 +3,7 @@
   "datacenter_id": "6",
   "zone_id": "6",
   "name": "hil-dc1",
+  "api_reference": "hil-dc1",
+  "display_name": "hil-dc1",
   "status": "ACTIVE"
 }

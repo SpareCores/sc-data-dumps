@@ -3,5 +3,7 @@
   "datacenter_id": "1590",
   "zone_id": "2592",
   "name": "europe-west10-b",
+  "api_reference": "europe-west10-b",
+  "display_name": "europe-west10-b",
   "status": "ACTIVE"
 }

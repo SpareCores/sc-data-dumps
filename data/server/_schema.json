@@ -23,7 +23,28 @@
       "comment": null
     },
     {
+      "name": "api_reference",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "display_name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "family",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,

@@ -3,5 +3,7 @@
   "datacenter_id": "me-south-1",
   "zone_id": "mes1-az2",
   "name": "me-south-1b",
+  "api_reference": "me-south-1b",
+  "display_name": "me-south-1b",
   "status": "ACTIVE"
 }

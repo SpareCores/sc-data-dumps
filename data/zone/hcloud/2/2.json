@@ -3,5 +3,7 @@
   "datacenter_id": "2",
   "zone_id": "2",
   "name": "nbg1-dc3",
+  "api_reference": "nbg1-dc3",
+  "display_name": "nbg1-dc3",
   "status": "ACTIVE"
 }

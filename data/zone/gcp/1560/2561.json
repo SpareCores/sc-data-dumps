@@ -3,5 +3,7 @@
   "datacenter_id": "1560",
   "zone_id": "2561",
   "name": "me-west1-a",
+  "api_reference": "me-west1-a",
+  "display_name": "me-west1-a",
   "status": "ACTIVE"
 }

@@ -3,5 +3,7 @@
   "datacenter_id": "ap-south-2",
   "zone_id": "aps2-az2",
   "name": "ap-south-2b",
+  "api_reference": "ap-south-2b",
+  "display_name": "ap-south-2b",
   "status": "ACTIVE"
 }

@@ -3,5 +3,7 @@
   "datacenter_id": "1310",
   "zone_id": "2312",
   "name": "southamerica-east1-c",
+  "api_reference": "southamerica-east1-c",
+  "display_name": "southamerica-east1-c",
   "status": "ACTIVE"
 }
