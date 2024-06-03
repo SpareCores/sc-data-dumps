@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:hdr",
+  "name": "Geekbench: HDR",
+  "description": "Blends six 16MP SDR photos to create a single HDR photo, using a recovery process and radiance map construction (Debevec and Malik 1997), and a tone mapping algorithm (Reinhard and Devlin 2005).The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "hdr",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

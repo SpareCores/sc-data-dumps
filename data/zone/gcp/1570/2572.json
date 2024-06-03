@@ -1,6 +1,6 @@
 {
   "vendor_id": "gcp",
-  "datacenter_id": "1570",
+  "region_id": "1570",
   "zone_id": "2572",
   "name": "europe-west12-b",
   "api_reference": "europe-west12-b",

@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:html5_browser",
+  "name": "Geekbench: HTML5 Browser",
+  "description": "Opens and renders web pages (8 in single-core mode, 32 in multi-core mode) using a headless web browser.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "html5_browser",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

@@ -1,6 +1,6 @@
 {
   "vendor_id": "aws",
-  "datacenter_id": "ca-central-1",
+  "region_id": "ca-central-1",
   "zone_id": "cac1-az1",
   "name": "ca-central-1a",
   "api_reference": "ca-central-1a",

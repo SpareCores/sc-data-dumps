@@ -1,0 +1,81 @@
+{
+  "table_name": "benchmark",
+  "columns": [
+    {
+      "name": "benchmark_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "framework",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "config_fields",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "measurement",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "unit",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "higher_is_better",
+      "type": "BOOLEAN",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "observed_at",
+      "type": "DATETIME",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    }
+  ],
+  "primary_key": [
+    "benchmark_id"
+  ],
+  "foreign_keys": [],
+  "unique_constraints": [],
+  "indexes": []
+}

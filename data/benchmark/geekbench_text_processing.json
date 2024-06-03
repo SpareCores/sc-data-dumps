@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:text_processing",
+  "name": "Geekbench: Text Processing",
+  "description": "Loads 190 markdown files, parses the contents using regular expressions, stores metadata in a SQLite database, and exports the content to a different format on an in-memory encrypted file system, using a mix of C++ and Python.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "text_processing",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

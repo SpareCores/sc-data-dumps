@@ -9,7 +9,7 @@
       "comment": null
     },
     {
-      "name": "datacenter_id",
+      "name": "region_id",
       "type": "VARCHAR",
       "nullable": false,
       "default": null,
@@ -60,21 +60,10 @@
   ],
   "primary_key": [
     "vendor_id",
-    "datacenter_id",
+    "region_id",
     "zone_id"
   ],
   "foreign_keys": [
-    {
-      "constrained_columns": [
-        "vendor_id",
-        "datacenter_id"
-      ],
-      "referred_table": "datacenter",
-      "referred_columns": [
-        "vendor_id",
-        "datacenter_id"
-      ]
-    },
     {
       "constrained_columns": [
         "vendor_id"
@@ -82,6 +71,17 @@
       "referred_table": "vendor",
       "referred_columns": [
         "vendor_id"
+      ]
+    },
+    {
+      "constrained_columns": [
+        "vendor_id",
+        "region_id"
+      ],
+      "referred_table": "region",
+      "referred_columns": [
+        "vendor_id",
+        "region_id"
       ]
     }
   ],

@@ -1,6 +1,6 @@
 {
   "vendor_id": "aws",
-  "datacenter_id": "eu-central-2",
+  "region_id": "eu-central-2",
   "zone_id": "euc2-az3",
   "name": "eu-central-2c",
   "api_reference": "eu-central-2c",

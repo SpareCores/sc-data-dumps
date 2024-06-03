@@ -1,0 +1,15 @@
+{
+  "benchmark_id": "openssl",
+  "name": "OpenSSL speed",
+  "description": "Measures the performance of OpenSSL's selected hash functions and block ciphers with different block sizes of data.",
+  "framework": "openssl",
+  "config_fields": {
+    "algo": "Hash or block cipher algorithm, e.g. sha256 or aes-256-cbc.",
+    "block_size": "Block size (byte).",
+    "framework_version": "Version number of OpenSSL."
+  },
+  "measurement": null,
+  "unit": "byte/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

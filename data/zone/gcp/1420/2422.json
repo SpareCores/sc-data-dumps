@@ -1,6 +1,6 @@
 {
   "vendor_id": "gcp",
-  "datacenter_id": "1420",
+  "region_id": "1420",
   "zone_id": "2422",
   "name": "us-west3-c",
   "api_reference": "us-west3-c",

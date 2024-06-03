@@ -1,6 +1,6 @@
 {
   "vendor_id": "aws",
-  "datacenter_id": "ap-south-2",
+  "region_id": "ap-south-2",
   "zone_id": "aps2-az3",
   "name": "ap-south-2c",
   "api_reference": "ap-south-2c",

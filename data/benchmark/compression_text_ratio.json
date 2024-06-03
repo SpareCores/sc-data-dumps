@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "compression_text:ratio",
+  "name": "Compression ratio",
+  "description": "Measures the compression ratio while compressing the dickens.txt of the Silesia corpus (10 MB uncompressed) using various algorithms, compressions levels and other extra arguments.",
+  "framework": "compression_text",
+  "config_fields": {
+    "algo": "Compression algorithm, e.g. brotli or bz2.",
+    "compression_level": "Compression level/quality/level.",
+    "threads": "Number of threads/workers.",
+    "block_size": "Block size"
+  },
+  "measurement": "ratio",
+  "unit": null,
+  "higher_is_better": 0,
+  "status": "ACTIVE"
+}

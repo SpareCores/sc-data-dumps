@@ -1,6 +1,6 @@
 {
   "vendor_id": "hcloud",
-  "datacenter_id": "4",
+  "region_id": "4",
   "zone_id": "4",
   "name": "fsn1-dc14",
   "api_reference": "fsn1-dc14",

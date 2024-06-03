@@ -1,0 +1,11 @@
+{
+  "benchmark_id": "bogomips",
+  "name": "BogoMips",
+  "description": "A crude measurement of CPU speed by the Linux kernel. This is NOT usable for performance comparisons among different CPUs, but might be useful to check if a processor is in the range of similar processors. As often quoted, BogoMips measures \"the number of million times per second a processor can do absolutely nothing\".",
+  "framework": "bogomips",
+  "config_fields": {},
+  "measurement": null,
+  "unit": "MIPS",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

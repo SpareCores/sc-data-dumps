@@ -15,37 +15,69 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": null,
   "cpu_model": null,
+  "cpu_l1_cache": null,
+  "cpu_l2_cache": null,
+  "cpu_l3_cache": null,
+  "cpu_flags": [],
   "cpus": [],
-  "memory": 196608,
+  "memory_amount": 196608,
+  "memory_generation": null,
+  "memory_speed": null,
+  "memory_ecc": null,
   "gpu_count": 4,
   "gpu_memory_min": 24576,
   "gpu_memory_total": 98304,
   "gpu_manufacturer": "NVIDIA",
+  "gpu_family": null,
   "gpu_model": "A10G",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
+      "family": null,
       "model": "A10G",
       "memory": 24576,
-      "firmware": null
+      "firmware_version": null,
+      "bios_version": null,
+      "graphics_clock": null,
+      "sm_clock": null,
+      "mem_clock": null,
+      "video_clock": null
     },
     {
       "manufacturer": "NVIDIA",
+      "family": null,
       "model": "A10G",
       "memory": 24576,
-      "firmware": null
+      "firmware_version": null,
+      "bios_version": null,
+      "graphics_clock": null,
+      "sm_clock": null,
+      "mem_clock": null,
+      "video_clock": null
     },
     {
       "manufacturer": "NVIDIA",
+      "family": null,
       "model": "A10G",
       "memory": 24576,
-      "firmware": null
+      "firmware_version": null,
+      "bios_version": null,
+      "graphics_clock": null,
+      "sm_clock": null,
+      "mem_clock": null,
+      "video_clock": null
     },
     {
       "manufacturer": "NVIDIA",
+      "family": null,
       "model": "A10G",
       "memory": 24576,
-      "firmware": null
+      "firmware_version": null,
+      "bios_version": null,
+      "graphics_clock": null,
+      "sm_clock": null,
+      "mem_clock": null,
+      "video_clock": null
     }
   ],
   "storage_size": 3800,

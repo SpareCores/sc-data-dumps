@@ -114,6 +114,34 @@
       "comment": null
     },
     {
+      "name": "cpu_l1_cache",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpu_l2_cache",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpu_l3_cache",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "cpu_flags",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "cpus",
       "type": "JSON",
       "nullable": false,
@@ -121,9 +149,30 @@
       "comment": null
     },
     {
-      "name": "memory",
+      "name": "memory_amount",
       "type": "INTEGER",
       "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "memory_generation",
+      "type": "VARCHAR(4)",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "memory_speed",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "memory_ecc",
+      "type": "BOOLEAN",
+      "nullable": true,
       "default": null,
       "comment": null
     },
@@ -150,6 +199,13 @@
     },
     {
       "name": "gpu_manufacturer",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "gpu_family",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,

@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:score",
+  "name": "Geekbench: Score",
+  "description": "Composite score using the weighted arithmetic mean of the subsection scores, which are computed using the geometric mean of the related scores.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "score",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

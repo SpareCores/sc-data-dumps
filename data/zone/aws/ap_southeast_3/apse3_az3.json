@@ -1,6 +1,6 @@
 {
   "vendor_id": "aws",
-  "datacenter_id": "ap-southeast-3",
+  "region_id": "ap-southeast-3",
   "zone_id": "apse3-az3",
   "name": "ap-southeast-3c",
   "api_reference": "ap-southeast-3c",

@@ -1,6 +1,6 @@
 {
   "vendor_id": "hcloud",
-  "datacenter_id": "3",
+  "region_id": "3",
   "zone_id": "3",
   "name": "hel1-dc2",
   "api_reference": "hel1-dc2",

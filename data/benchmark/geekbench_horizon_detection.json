@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:horizon_detection",
+  "name": "Geekbench: Horizon Detection",
+  "description": "Detects and straightens uneven or crooked horizon lines in a 48MP photo to make it look more realistic, using the Canny edge detector and the Hough transform.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "horizon_detection",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

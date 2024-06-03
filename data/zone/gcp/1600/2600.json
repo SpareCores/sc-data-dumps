@@ -1,6 +1,6 @@
 {
   "vendor_id": "gcp",
-  "datacenter_id": "1600",
+  "region_id": "1600",
   "zone_id": "2600",
   "name": "me-central2-c",
   "api_reference": "me-central2-c",

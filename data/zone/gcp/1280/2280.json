@@ -1,6 +1,6 @@
 {
   "vendor_id": "gcp",
-  "datacenter_id": "1280",
+  "region_id": "1280",
   "zone_id": "2280",
   "name": "australia-southeast1-c",
   "api_reference": "australia-southeast1-c",

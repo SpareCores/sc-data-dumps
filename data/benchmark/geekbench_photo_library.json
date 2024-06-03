@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:photo_library",
+  "name": "Geekbench: Photo Library",
+  "description": "Categorizes and tags photos (16 in single-core mode, 64 in multi-core mode) based on the objects that they contain. The workload performs JPEG decompression, thumbnail generation, image transformations, image classification (using MobileNet 1.0), and storing data in SQLite.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "photo_library",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

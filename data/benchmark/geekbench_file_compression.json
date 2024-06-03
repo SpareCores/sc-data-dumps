@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "geekbench:file_compression",
+  "name": "Geekbench: File Compression",
+  "description": "Compresses and decompresses the Ruby 3.1.2 source archive (a 75 MB archive with 9841 files) using LZ4 and ZSTD on an in-memory encrypted file system. It also verifies the files using SHA1.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "framework": "geekbench",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core peformance tests.",
+    "framework_version": "Version number of geekbench."
+  },
+  "measurement": "file_compression",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

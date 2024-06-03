@@ -1,6 +1,6 @@
 {
   "vendor_id": "aws",
-  "datacenter_id": "sa-east-1",
+  "region_id": "sa-east-1",
   "zone_id": "sae1-az3",
   "name": "sa-east-1c",
   "api_reference": "sa-east-1c",
