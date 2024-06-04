@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-southeast-4",
+  "name": "Asia Pacific (Melbourne)",
+  "api_reference": "ap-southeast-4",
+  "display_name": "Melbourne (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": null,
+  "city": "Melbourne",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 144.7119569,
+  "lat": -37.8038607,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

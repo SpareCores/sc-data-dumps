@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1550",
+  "name": "us-south1",
+  "api_reference": "us-south1",
+  "display_name": "Dallas (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Texas",
+  "city": "Dallas",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -97.062324,
+  "lat": 32.44317,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

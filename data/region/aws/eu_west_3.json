@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-west-3",
+  "name": "Europe (Paris)",
+  "api_reference": "eu-west-3",
+  "display_name": "Paris (FR)",
+  "aliases": [
+    "EU (Paris)"
+  ],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 2.2976644,
+  "lat": 48.6009709,
+  "founding_year": 2017,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1510",
+  "name": "europe-west8",
+  "api_reference": "europe-west8",
+  "display_name": "Milan (IT)",
+  "aliases": [],
+  "country_id": "IT",
+  "state": null,
+  "city": "Milan",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 9.1389572,
+  "lat": 45.4615551,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

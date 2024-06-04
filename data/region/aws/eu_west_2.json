@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-west-2",
+  "name": "Europe (London)",
+  "api_reference": "eu-west-2",
+  "display_name": "London (GB)",
+  "aliases": [
+    "EU (London)"
+  ],
+  "country_id": "GB",
+  "state": null,
+  "city": "London",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -0.0609266,
+  "lat": 51.5085036,
+  "founding_year": 2016,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

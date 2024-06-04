@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "cn-northwest-1",
+  "name": "China (Ningxia)",
+  "api_reference": "cn-northwest-1",
+  "display_name": "Ningxia (CN)",
+  "aliases": [],
+  "country_id": "CN",
+  "state": null,
+  "city": "Ningxia",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 105.1627193,
+  "lat": 37.5024418,
+  "founding_year": 2017,
+  "green_energy": 1,
+  "status": "INACTIVE"
+}

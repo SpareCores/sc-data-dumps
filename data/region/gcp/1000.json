@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1000",
+  "name": "us-central1",
+  "api_reference": "us-central1",
+  "display_name": "Council Bluffs (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Iowa",
+  "city": "Council Bluffs",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -95.796125,
+  "lat": 41.168253,
+  "founding_year": 2009,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1570",
+  "name": "europe-west12",
+  "api_reference": "europe-west12",
+  "display_name": "Turin (IT)",
+  "aliases": [],
+  "country_id": "IT",
+  "state": null,
+  "city": "Turin",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 7.742147,
+  "lat": 45.146729,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

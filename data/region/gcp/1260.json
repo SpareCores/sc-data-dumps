@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1260",
+  "name": "asia-southeast1",
+  "api_reference": "asia-southeast1",
+  "display_name": "Jurong West (SG)",
+  "aliases": [],
+  "country_id": "SG",
+  "state": null,
+  "city": "Jurong West",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.709778,
+  "lat": 1.351333,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

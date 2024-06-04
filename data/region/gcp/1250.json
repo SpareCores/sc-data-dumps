@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1250",
+  "name": "asia-northeast1",
+  "api_reference": "asia-northeast1",
+  "display_name": "Tokyo (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": "Japan",
+  "city": "Tokyo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 139.7684933,
+  "lat": 35.6433846,
+  "founding_year": 2016,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

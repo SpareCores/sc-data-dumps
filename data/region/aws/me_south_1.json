@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "me-south-1",
+  "name": "Middle East (Bahrain)",
+  "api_reference": "me-south-1",
+  "display_name": "Bahrain",
+  "aliases": [],
+  "country_id": "BH",
+  "state": null,
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": 50.3073907,
+  "lat": 25.941298,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

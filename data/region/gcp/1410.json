@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1410",
+  "name": "asia-northeast3",
+  "api_reference": "asia-northeast3",
+  "display_name": "Seoul (KR)",
+  "aliases": [],
+  "country_id": "KR",
+  "state": null,
+  "city": "Seoul",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 126.97784,
+  "lat": 37.5514982,
+  "founding_year": 2020,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

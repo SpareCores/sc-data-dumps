@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1460",
+  "name": "northamerica-northeast2",
+  "api_reference": "northamerica-northeast2",
+  "display_name": "Toronto (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": null,
+  "city": "Toronto",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -79.5355309,
+  "lat": 43.72666,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

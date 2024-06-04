@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1390",
+  "name": "asia-northeast2",
+  "api_reference": "asia-northeast2",
+  "display_name": "Osaka (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Osaka",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 135.4846612,
+  "lat": 34.6696646,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "us-west-1",
+  "name": "US West (N. California)",
+  "api_reference": "us-west-1",
+  "display_name": "California (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "California",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -122.153664,
+  "lat": 37.44368,
+  "founding_year": 2009,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1210",
+  "name": "us-west1",
+  "api_reference": "us-west1",
+  "display_name": "The Dalles (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Oregon",
+  "city": "The Dalles",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -121.202267,
+  "lat": 45.632511,
+  "founding_year": 2016,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

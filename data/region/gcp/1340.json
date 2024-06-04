@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1340",
+  "name": "europe-west4",
+  "api_reference": "europe-west4",
+  "display_name": "Eemshaven (NL)",
+  "aliases": [],
+  "country_id": "NL",
+  "state": null,
+  "city": "Eemshaven",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 5.029219,
+  "lat": 52.790105,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

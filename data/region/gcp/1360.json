@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1360",
+  "name": "us-west2",
+  "api_reference": "us-west2",
+  "display_name": "Los Angeles (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "California",
+  "city": "Los Angeles",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -118.3753618,
+  "lat": 34.0549694,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

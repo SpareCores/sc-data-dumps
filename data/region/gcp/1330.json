@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1330",
+  "name": "northamerica-northeast1",
+  "api_reference": "northamerica-northeast1",
+  "display_name": "Montr\u00e9al (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": null,
+  "city": "Montr\u00e9al",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -73.728239,
+  "lat": 45.4933996,
+  "founding_year": 2018,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1470",
+  "name": "asia-south2",
+  "api_reference": "asia-south2",
+  "display_name": "Delhi (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Delhi",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 76.9284239,
+  "lat": 28.6439839,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

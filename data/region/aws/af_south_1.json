@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "af-south-1",
+  "name": "Africa (Cape Town)",
+  "api_reference": "af-south-1",
+  "display_name": "Cape Town (ZA)",
+  "aliases": [],
+  "country_id": "ZA",
+  "state": null,
+  "city": "Cape Town",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 18.3758801,
+  "lat": -33.914651,
+  "founding_year": 2020,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

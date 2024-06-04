@@ -121,7 +121,10 @@
       "comment": null
     }
   ],
-  "primary_key": [],
+  "primary_key": [
+    "vendor_id",
+    "region_id"
+  ],
   "foreign_keys": [
     {
       "constrained_columns": [

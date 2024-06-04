@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-south-1",
+  "name": "Asia Pacific (Mumbai)",
+  "api_reference": "ap-south-1",
+  "display_name": "Mumbai (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Mumbai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 72.9667878,
+  "lat": 19.2425503,
+  "founding_year": 2016,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

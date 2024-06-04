@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1220",
+  "name": "asia-east1",
+  "api_reference": "asia-east1",
+  "display_name": "Changhua County (TW)",
+  "aliases": [],
+  "country_id": "TW",
+  "state": "Changhua County",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": null,
+  "lat": -33.520515,
+  "founding_year": 2013,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

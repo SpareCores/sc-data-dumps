@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1320",
+  "name": "asia-south1",
+  "api_reference": "asia-south1",
+  "display_name": "Mumbai (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Mumbai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 72.8726468,
+  "lat": 19.0709441,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

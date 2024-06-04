@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-northeast-3",
+  "name": "Asia Pacific (Osaka)",
+  "api_reference": "ap-northeast-3",
+  "display_name": "Osaka (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Osaka",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 135.502222,
+  "lat": 34.693889,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

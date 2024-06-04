@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-west-1",
+  "name": "Europe (Ireland)",
+  "api_reference": "eu-west-1",
+  "display_name": "Dublin (IE)",
+  "aliases": [
+    "EU (Ireland)"
+  ],
+  "country_id": "IE",
+  "state": null,
+  "city": "Dublin",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -6.224503,
+  "lat": 53.4056545,
+  "founding_year": 2007,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

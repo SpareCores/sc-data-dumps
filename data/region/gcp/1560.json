@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1560",
+  "name": "me-west1",
+  "api_reference": "me-west1",
+  "display_name": "Tel Aviv (IL)",
+  "aliases": [],
+  "country_id": "IL",
+  "state": null,
+  "city": "Tel Aviv",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 34.7891105,
+  "lat": 32.0491183,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

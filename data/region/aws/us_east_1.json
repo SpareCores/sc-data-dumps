@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "us-east-1",
+  "name": "US East (N. Virginia)",
+  "api_reference": "us-east-1",
+  "display_name": "Northern Virgina (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Northern Virgina",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -77.4524237,
+  "lat": 38.9940541,
+  "founding_year": 2006,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

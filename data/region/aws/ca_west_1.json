@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ca-west-1",
+  "name": "Canada West (Calgary)",
+  "api_reference": "ca-west-1",
+  "display_name": "Calgary (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": null,
+  "city": "Calgary",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 144.7119569,
+  "lat": -37.8038607,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

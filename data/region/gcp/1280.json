@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1280",
+  "name": "australia-southeast1",
+  "api_reference": "australia-southeast1",
+  "display_name": "Sydney (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": null,
+  "city": "Sydney",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 150.9488095,
+  "lat": -33.8375583,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

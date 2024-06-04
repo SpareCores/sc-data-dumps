@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "5",
+  "name": "ash-dc1",
+  "api_reference": "ash-dc1",
+  "display_name": "Ashburn, VA (US)",
+  "aliases": [
+    "ash"
+  ],
+  "country_id": "US",
+  "state": null,
+  "city": "Ashburn, VA",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -77.468102,
+  "lat": 39.0176685,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

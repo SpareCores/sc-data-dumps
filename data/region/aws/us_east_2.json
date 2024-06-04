@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "us-east-2",
+  "name": "US East (Ohio)",
+  "api_reference": "us-east-2",
+  "display_name": "Ohio (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Ohio",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -82.7541337,
+  "lat": 40.0946354,
+  "founding_year": 2016,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1450",
+  "name": "europe-central2",
+  "api_reference": "europe-central2",
+  "display_name": "Warsaw (PL)",
+  "aliases": [],
+  "country_id": "PL",
+  "state": null,
+  "city": "Warsaw",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 20.8966164,
+  "lat": 52.2328871,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-south-1",
+  "name": "Europe (Milan)",
+  "api_reference": "eu-south-1",
+  "display_name": "Milan (IT)",
+  "aliases": [
+    "EU (Milan)"
+  ],
+  "country_id": "IT",
+  "state": null,
+  "city": "Milan",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 9.1076927,
+  "lat": 45.4628328,
+  "founding_year": 2020,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

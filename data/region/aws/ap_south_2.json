@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-south-2",
+  "name": "Asia Pacific (Hyderabad)",
+  "api_reference": "ap-south-2",
+  "display_name": "Hyderabad (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Hyderabad",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 78.243237,
+  "lat": 17.412281,
+  "founding_year": 2022,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

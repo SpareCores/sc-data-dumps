@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1600",
+  "name": "me-central2",
+  "api_reference": "me-central2",
+  "display_name": "Dammam (SA)",
+  "aliases": [],
+  "country_id": "SA",
+  "state": null,
+  "city": "Dammam",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 49.9675732,
+  "lat": 26.3826288,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

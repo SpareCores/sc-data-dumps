@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "cn-north-1",
+  "name": "China (Beijing)",
+  "api_reference": "cn-north-1",
+  "display_name": "Beijing (CN)",
+  "aliases": [],
+  "country_id": "CN",
+  "state": null,
+  "city": "Beijing",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 116.5783234,
+  "lat": 39.8094478,
+  "founding_year": 2016,
+  "green_energy": 1,
+  "status": "INACTIVE"
+}

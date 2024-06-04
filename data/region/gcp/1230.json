@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1230",
+  "name": "us-east1",
+  "api_reference": "us-east1",
+  "display_name": "Moncks Corner (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "South Carolina",
+  "city": "Moncks Corner",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -80.043361,
+  "lat": 33.064111,
+  "founding_year": 2015,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

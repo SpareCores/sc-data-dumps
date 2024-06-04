@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ca-central-1",
+  "name": "Canada (Central)",
+  "api_reference": "ca-central-1",
+  "display_name": "Quebec (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": null,
+  "city": "Quebec",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -73.6,
+  "lat": 45.5,
+  "founding_year": 2016,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-central-2",
+  "name": "Europe (Zurich)",
+  "api_reference": "eu-central-2",
+  "display_name": "Zurich (CH)",
+  "aliases": [],
+  "country_id": "CH",
+  "state": null,
+  "city": "Zurich",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.4448814,
+  "lat": 47.3862924,
+  "founding_year": 2022,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

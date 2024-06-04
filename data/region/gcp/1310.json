@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1310",
+  "name": "southamerica-east1",
+  "api_reference": "southamerica-east1",
+  "display_name": "Osasco (BR)",
+  "aliases": [],
+  "country_id": "BR",
+  "state": "S\u00e3o Paulo",
+  "city": "Osasco",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -46.8096539,
+  "lat": -23.5267431,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1580",
+  "name": "me-central1",
+  "api_reference": "me-central1",
+  "display_name": "Doha (QA)",
+  "aliases": [],
+  "country_id": "QA",
+  "state": null,
+  "city": "Doha",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 51.4717522,
+  "lat": 25.272868,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

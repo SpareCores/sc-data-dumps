@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1610",
+  "name": "africa-south1",
+  "api_reference": "africa-south1",
+  "display_name": "Johannesburg (ZA)",
+  "aliases": [],
+  "country_id": "ZA",
+  "state": null,
+  "city": "Johannesburg",
+  "address_line": null,
+  "zip_code": null,
+  "lon": null,
+  "lat": 26.0420631,
+  "founding_year": 2024,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-north-1",
+  "name": "Europe (Stockholm)",
+  "api_reference": "eu-north-1",
+  "display_name": "Stockholm (SE)",
+  "aliases": [
+    "EU (Stockholm)"
+  ],
+  "country_id": "SE",
+  "state": null,
+  "city": "Stockholm",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 17.8419717,
+  "lat": 59.326242,
+  "founding_year": 2018,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

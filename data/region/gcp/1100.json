@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1100",
+  "name": "europe-west1",
+  "api_reference": "europe-west1",
+  "display_name": "St. Ghislain (BE)",
+  "aliases": [],
+  "country_id": "BE",
+  "state": null,
+  "city": "St. Ghislain",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 3.865472,
+  "lat": 50.469333,
+  "founding_year": 2015,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

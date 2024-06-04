@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-northeast-2",
+  "name": "Asia Pacific (Seoul)",
+  "api_reference": "ap-northeast-2",
+  "display_name": "Seoul (KR)",
+  "aliases": [],
+  "country_id": "KR",
+  "state": null,
+  "city": "Seoul",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 126.8736237,
+  "lat": 37.5616592,
+  "founding_year": 2016,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

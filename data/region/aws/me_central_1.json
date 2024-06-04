@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "me-central-1",
+  "name": "Middle East (UAE)",
+  "api_reference": "me-central-1",
+  "display_name": "United Arab Emirates",
+  "aliases": [],
+  "country_id": "AE",
+  "state": null,
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": 55.1363688,
+  "lat": 25.0647937,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

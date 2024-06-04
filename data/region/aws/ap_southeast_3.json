@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-southeast-3",
+  "name": "Asia Pacific (Jakarta)",
+  "api_reference": "ap-southeast-3",
+  "display_name": "Jakarta (ID)",
+  "aliases": [],
+  "country_id": "ID",
+  "state": null,
+  "city": "Jakarta",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 106.816667,
+  "lat": -6.2,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

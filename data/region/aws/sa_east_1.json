@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "sa-east-1",
+  "name": "South America (Sao Paulo)",
+  "api_reference": "sa-east-1",
+  "display_name": "Sao Paulo (BR)",
+  "aliases": [],
+  "country_id": "BR",
+  "state": null,
+  "city": "Sao Paulo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -46.8105593,
+  "lat": -23.4925798,
+  "founding_year": 2011,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

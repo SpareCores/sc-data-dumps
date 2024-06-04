@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1350",
+  "name": "europe-north1",
+  "api_reference": "europe-north1",
+  "display_name": "Hamina (FI)",
+  "aliases": [],
+  "country_id": "FI",
+  "state": null,
+  "city": "Hamina",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 27.117003,
+  "lat": 60.536578,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-northeast-1",
+  "name": "Asia Pacific (Tokyo)",
+  "api_reference": "ap-northeast-1",
+  "display_name": "Tokyo (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Tokyo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 139.7459176,
+  "lat": 35.617436,
+  "founding_year": 2011,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

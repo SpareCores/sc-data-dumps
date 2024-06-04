@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1520",
+  "name": "europe-west9",
+  "api_reference": "europe-west9",
+  "display_name": "Paris (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 2.3109137,
+  "lat": 48.8641797,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

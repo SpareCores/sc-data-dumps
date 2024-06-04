@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1380",
+  "name": "europe-west6",
+  "api_reference": "europe-west6",
+  "display_name": "Zurich (CH)",
+  "aliases": [],
+  "country_id": "CH",
+  "state": null,
+  "city": "Zurich",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.210909,
+  "lat": 47.445926,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

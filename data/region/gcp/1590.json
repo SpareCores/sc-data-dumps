@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1590",
+  "name": "europe-west10",
+  "api_reference": "europe-west10",
+  "display_name": "Berlin (DE)",
+  "aliases": [],
+  "country_id": "DE",
+  "state": null,
+  "city": "Berlin",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 13.3806972,
+  "lat": 52.5105672,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

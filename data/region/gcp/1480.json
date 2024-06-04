@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1480",
+  "name": "australia-southeast2",
+  "api_reference": "australia-southeast2",
+  "display_name": "Melbourne (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": null,
+  "city": "Melbourne",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 144.7119569,
+  "lat": -37.8038607,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1540",
+  "name": "europe-southwest1",
+  "api_reference": "europe-southwest1",
+  "display_name": "Madrid (ES)",
+  "aliases": [],
+  "country_id": "ES",
+  "state": null,
+  "city": "Madrid",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -3.340937,
+  "lat": 40.519533,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

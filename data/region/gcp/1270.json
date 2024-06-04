@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1270",
+  "name": "us-east4",
+  "api_reference": "us-east4",
+  "display_name": "Ashburn (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Virginia",
+  "city": "Ashburn",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -77.524336,
+  "lat": 38.943331,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

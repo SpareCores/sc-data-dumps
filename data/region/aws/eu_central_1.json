@@ -1,0 +1,20 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-central-1",
+  "name": "Europe (Frankfurt)",
+  "api_reference": "eu-central-1",
+  "display_name": "Frankfurt (DE)",
+  "aliases": [
+    "EU (Frankfurt)"
+  ],
+  "country_id": "DE",
+  "state": null,
+  "city": "Frankfurt",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.6303932,
+  "lat": 50.0992094,
+  "founding_year": 2014,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

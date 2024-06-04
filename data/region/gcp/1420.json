@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1420",
+  "name": "us-west3",
+  "api_reference": "us-west3",
+  "display_name": "Salt Lake City (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Utah",
+  "city": "Salt Lake City",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -111.9609998,
+  "lat": 40.7386099,
+  "founding_year": 2020,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

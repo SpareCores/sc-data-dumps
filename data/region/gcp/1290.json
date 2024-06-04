@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1290",
+  "name": "europe-west2",
+  "api_reference": "europe-west2",
+  "display_name": "London (GB)",
+  "aliases": [],
+  "country_id": "GB",
+  "state": null,
+  "city": "London",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -0.2118157,
+  "lat": 51.5090133,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

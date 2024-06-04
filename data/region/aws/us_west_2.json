@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "us-west-2",
+  "name": "US West (Oregon)",
+  "api_reference": "us-west-2",
+  "display_name": "Oregon (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Oregon",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -119.2684488,
+  "lat": 45.9174667,
+  "founding_year": 2011,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

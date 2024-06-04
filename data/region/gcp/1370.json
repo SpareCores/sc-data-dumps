@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1370",
+  "name": "asia-east2",
+  "api_reference": "asia-east2",
+  "display_name": "Hong Kong",
+  "aliases": [],
+  "country_id": "HK",
+  "state": null,
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": null,
+  "lat": 22.2772377,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
