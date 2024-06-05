@@ -66,15 +66,6 @@
   "foreign_keys": [
     {
       "constrained_columns": [
-        "vendor_id"
-      ],
-      "referred_table": "vendor",
-      "referred_columns": [
-        "vendor_id"
-      ]
-    },
-    {
-      "constrained_columns": [
         "vendor_id",
         "region_id"
       ],
@@ -82,6 +73,15 @@
       "referred_columns": [
         "vendor_id",
         "region_id"
+      ]
+    },
+    {
+      "constrained_columns": [
+        "vendor_id"
+      ],
+      "referred_table": "vendor",
+      "referred_columns": [
+        "vendor_id"
       ]
     }
   ],
