@@ -1,12 +1,12 @@
 {
   "vendor_id": "hcloud",
-  "server_id": "7",
-  "name": "cx41",
-  "api_reference": "cx41",
-  "display_name": "cx41",
-  "description": "CX41",
+  "server_id": "106",
+  "name": "cx42",
+  "api_reference": "cx42",
+  "display_name": "cx42",
+  "description": "CX42",
   "family": "cx",
-  "vcpus": 4,
+  "vcpus": 8,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
   "cpu_cores": null,
@@ -38,5 +38,5 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
