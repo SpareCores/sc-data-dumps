@@ -110,7 +110,7 @@
   "cpus": [],
   "memory_amount": 16384,
   "memory_generation": "DDR4",
-  "memory_speed": 3200,
+  "memory_speed": 2933,
   "memory_ecc": null,
   "gpu_count": 1,
   "gpu_memory_min": 16384,
