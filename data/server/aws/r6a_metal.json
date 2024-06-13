@@ -9,7 +9,7 @@
   "vcpus": 192,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 48,
+  "cpu_cores": 96,
   "cpu_speed": 3.725,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",

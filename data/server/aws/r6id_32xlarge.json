@@ -9,7 +9,7 @@
   "vcpus": 128,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 32,
+  "cpu_cores": 64,
   "cpu_speed": 3.5,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",

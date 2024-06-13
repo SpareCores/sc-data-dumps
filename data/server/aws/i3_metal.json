@@ -9,7 +9,7 @@
   "vcpus": 72,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 18,
+  "cpu_cores": 36,
   "cpu_speed": 3.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",

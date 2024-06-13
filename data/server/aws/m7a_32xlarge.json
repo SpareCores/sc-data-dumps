@@ -9,7 +9,7 @@
   "vcpus": 128,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 64,
+  "cpu_cores": 128,
   "cpu_speed": 3.7,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
