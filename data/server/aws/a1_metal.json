@@ -9,7 +9,7 @@
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 0,
+  "cpu_cores": 16,
   "cpu_speed": 2.3,
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "AWS",
