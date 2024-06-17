@@ -26,7 +26,7 @@
   "memory_ecc": null,
   "gpu_count": 0,
   "gpu_memory_min": null,
-  "gpu_memory_total": null,
+  "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,
   "gpu_model": null,
@@ -38,5 +38,5 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

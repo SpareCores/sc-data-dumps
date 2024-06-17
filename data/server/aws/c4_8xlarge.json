@@ -13,7 +13,7 @@
   "cpu_speed": 2.9,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
-  "cpu_family": null,
+  "cpu_family": "Other",
   "cpu_model": null,
   "cpu_l1_cache": 1179648,
   "cpu_l2_cache": 4718592,
