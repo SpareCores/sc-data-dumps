@@ -4,7 +4,7 @@
   "name": "a2-ultragpu-4g",
   "api_reference": "a2-ultragpu-4g",
   "display_name": "a2-ultragpu-4g",
-  "description": "Accelerator Optimized: 4 NVIDIA A100 80GB GPUs, 48 vCPUs, 680GB RAM, 4 local SSD",
+  "description": "Accelerator Optimized: 4 NVIDIA A100 80GB GPUs, 48 vCPUs, 680GB RAM",
   "family": "a2",
   "vcpus": 48,
   "hypervisor": null,
