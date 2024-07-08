@@ -7,7 +7,7 @@
   "description": "CAX41",
   "family": "cax",
   "vcpus": 16,
-  "hypervisor": null,
+  "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
   "cpu_cores": 16,
   "cpu_speed": 2.0,

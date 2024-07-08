@@ -7,7 +7,7 @@
   "description": "CCX33 Dedicated CPU",
   "family": "ccx",
   "vcpus": 8,
-  "hypervisor": null,
+  "hypervisor": "QEMU",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,
   "cpu_speed": 2.0,

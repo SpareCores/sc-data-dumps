@@ -7,7 +7,7 @@
   "description": "CX21",
   "family": "cx",
   "vcpus": 2,
-  "hypervisor": null,
+  "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
   "cpu_cores": 2,
   "cpu_speed": 2.0,

@@ -7,7 +7,7 @@
   "description": "CX11",
   "family": "cx",
   "vcpus": 1,
-  "hypervisor": null,
+  "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
   "cpu_cores": 1,
   "cpu_speed": 2.0,

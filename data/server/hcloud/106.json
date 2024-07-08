@@ -7,7 +7,7 @@
   "description": "CX42",
   "family": "cx",
   "vcpus": 8,
-  "hypervisor": null,
+  "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
   "cpu_cores": 8,
   "cpu_speed": 2.0,
