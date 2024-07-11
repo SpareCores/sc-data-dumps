@@ -128,39 +128,39 @@
       "video_clock": null
     }
   ],
-  "storage_size": 7520,
+  "storage_size": 60800,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 940,
+      "size": 7600,
       "storage_type": "nvme ssd"
     }
   ],
