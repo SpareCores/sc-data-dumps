@@ -44,15 +44,15 @@
       "video_clock": null
     }
   ],
-  "storage_size": 3800,
+  "storage_size": 1880,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 1900,
+      "size": 940,
       "storage_type": "nvme ssd"
     },
     {
-      "size": 1900,
+      "size": 940,
       "storage_type": "nvme ssd"
     }
   ],
