@@ -10,8 +10,8 @@
   "city": "Johannesburg",
   "address_line": null,
   "zip_code": null,
-  "lon": null,
-  "lat": 26.0420631,
+  "lon": 28.0589808,
+  "lat": -26.0420631,
   "founding_year": 2024,
   "green_energy": 0,
   "status": "ACTIVE"
