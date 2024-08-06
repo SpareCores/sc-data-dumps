@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "7",
+  "name": "sin-dc1",
+  "api_reference": "sin-dc1",
+  "display_name": "Singapore (SG)",
+  "aliases": [
+    "sin"
+  ],
+  "country_id": "SG",
+  "state": null,
+  "city": "Singapore",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.851959,
+  "lat": 1.29027,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
