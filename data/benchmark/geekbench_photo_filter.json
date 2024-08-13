@@ -1,7 +1,7 @@
 {
   "benchmark_id": "geekbench:photo_filter",
   "name": "Geekbench: Photo Filter",
-  "description": "Applies colour and blur filters, level adjustments, cropping, scaling, and image compositing filters to 10 photos range in size from 3 MP to 15 MPThe score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "description": "Applies colour and blur filters, level adjustments, cropping, scaling, and image compositing filters to 10 photos range in size from 3 MP to 15 MP.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {
     "cores": "Single-Core or Multi-Core peformance tests.",

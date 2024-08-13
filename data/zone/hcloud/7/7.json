@@ -1,0 +1,9 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "7",
+  "zone_id": "7",
+  "name": "sin-dc1",
+  "api_reference": "sin-dc1",
+  "display_name": "sin-dc1",
+  "status": "ACTIVE"
+}

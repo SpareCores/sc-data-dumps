@@ -12,7 +12,7 @@
   "cpu_cores": 64,
   "cpu_speed": 2.6,
   "cpu_architecture": "ARM64",
-  "cpu_manufacturer": "Amazon EC2",
+  "cpu_manufacturer": "AWS",
   "cpu_family": "ARMv8",
   "cpu_model": "Graviton3E",
   "cpu_l1_cache": 8388608,
