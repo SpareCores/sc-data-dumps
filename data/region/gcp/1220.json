@@ -10,8 +10,8 @@
   "city": null,
   "address_line": null,
   "zip_code": null,
-  "lon": 120.425722,
-  "lat": 24.1385,
+  "lon": null,
+  "lat": -33.520515,
   "founding_year": 2013,
   "green_energy": 0,
   "status": "ACTIVE"
