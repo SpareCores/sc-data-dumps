@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "swedencentral",
+  "name": "Sweden Central",
+  "api_reference": "swedencentral",
+  "display_name": "Sweden Central (SE)",
+  "aliases": [],
+  "country_id": "SE",
+  "state": null,
+  "city": "G\u00e4vle and Sandviken",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 17.14127,
+  "lat": 60.67488,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "spaincentral",
+  "name": "Spain Central",
+  "api_reference": "spaincentral",
+  "display_name": "Spain Central (ES)",
+  "aliases": [],
+  "country_id": "ES",
+  "state": null,
+  "city": "Madrid",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 3.4209,
+  "lat": 40.4259,
+  "founding_year": 2024,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

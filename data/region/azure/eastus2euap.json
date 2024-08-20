@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "eastus2euap",
+  "name": "East US 2 EUAP",
+  "api_reference": "eastus2euap",
+  "display_name": "East US 2 EUAP (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Virginia",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -78.3889,
+  "lat": 36.6681,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

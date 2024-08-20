@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "australiacentral",
+  "name": "Australia Central",
+  "api_reference": "australiacentral",
+  "display_name": "Australia Central (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": null,
+  "city": "Canberra",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 149.1244,
+  "lat": -35.3075,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

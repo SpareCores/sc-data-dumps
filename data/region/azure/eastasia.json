@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "eastasia",
+  "name": "East Asia",
+  "api_reference": "eastasia",
+  "display_name": "East Asia (HK)",
+  "aliases": [],
+  "country_id": "HK",
+  "state": null,
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": 114.188,
+  "lat": 22.267,
+  "founding_year": 2010,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

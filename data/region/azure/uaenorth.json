@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "uaenorth",
+  "name": "UAE North",
+  "api_reference": "uaenorth",
+  "display_name": "UAE North (AE)",
+  "aliases": [],
+  "country_id": "AE",
+  "state": null,
+  "city": "Dubai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 55.316666,
+  "lat": 25.266666,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

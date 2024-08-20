@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "australiaeast",
+  "name": "Australia East",
+  "api_reference": "australiaeast",
+  "display_name": "Australia East (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": "New South Wales",
+  "city": "Sydney",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 151.2094,
+  "lat": -33.86,
+  "founding_year": 2014,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

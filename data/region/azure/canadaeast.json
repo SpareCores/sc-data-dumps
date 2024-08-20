@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "canadaeast",
+  "name": "Canada East",
+  "api_reference": "canadaeast",
+  "display_name": "Canada East (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": "Quebec",
+  "city": "Quebec City",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -71.217,
+  "lat": 46.817,
+  "founding_year": 2016,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

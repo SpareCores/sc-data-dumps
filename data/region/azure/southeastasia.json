@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "southeastasia",
+  "name": "Southeast Asia",
+  "api_reference": "southeastasia",
+  "display_name": "Southeast Asia (SG)",
+  "aliases": [],
+  "country_id": "SG",
+  "state": null,
+  "city": "Singapore",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.833,
+  "lat": 1.283,
+  "founding_year": 2010,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

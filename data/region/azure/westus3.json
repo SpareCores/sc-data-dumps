@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "westus3",
+  "name": "West US 3",
+  "api_reference": "westus3",
+  "display_name": "West US 3 (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Arizona",
+  "city": "Phoenix",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -112.074036,
+  "lat": 33.448376,
+  "founding_year": 2021,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

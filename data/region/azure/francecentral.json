@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "francecentral",
+  "name": "France Central",
+  "api_reference": "francecentral",
+  "display_name": "France Central (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 2.373,
+  "lat": 46.3772,
+  "founding_year": 2018,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
