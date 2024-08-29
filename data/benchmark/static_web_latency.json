@@ -10,6 +10,6 @@
   },
   "measurement": "latency",
   "unit": "sec",
-  "higher_is_better": 1,
+  "higher_is_better": 0,
   "status": "ACTIVE"
 }
