@@ -9,7 +9,7 @@
     "framework_version": "Redis server version number and build information."
   },
   "measurement": "latency",
-  "unit": "sec",
+  "unit": "ms",
   "higher_is_better": 0,
   "status": "ACTIVE"
 }
