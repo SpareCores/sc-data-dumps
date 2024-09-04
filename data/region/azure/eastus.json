@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "eastus",
+  "name": "East US",
+  "api_reference": "eastus",
+  "display_name": "East US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Virginia",
+  "city": "Boydton",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -79.8164,
+  "lat": 37.3719,
+  "founding_year": 2012,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

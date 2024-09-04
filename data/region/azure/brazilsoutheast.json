@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "brazilsoutheast",
+  "name": "Brazil Southeast",
+  "api_reference": "brazilsoutheast",
+  "display_name": "Brazil Southeast (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": null,
+  "city": "Rio de Janeiro",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -43.2075,
+  "lat": -22.90278,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "southindia",
+  "name": "South India",
+  "api_reference": "southindia",
+  "display_name": "South India (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": "Chennai",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": 80.1636,
+  "lat": 12.9822,
+  "founding_year": 2015,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

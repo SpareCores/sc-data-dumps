@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "westcentralus",
+  "name": "West Central US",
+  "api_reference": "westcentralus",
+  "display_name": "West Central US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Wyoming",
+  "city": "Cheyenne",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -110.234,
+  "lat": 40.89,
+  "founding_year": 2016,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

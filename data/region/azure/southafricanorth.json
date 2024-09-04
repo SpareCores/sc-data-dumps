@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "southafricanorth",
+  "name": "South Africa North",
+  "api_reference": "southafricanorth",
+  "display_name": "South Africa North (ZA)",
+  "aliases": [],
+  "country_id": "ZA",
+  "state": null,
+  "city": "Johannesburg",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 28.21837,
+  "lat": -25.73134,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

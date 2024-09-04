@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "qatarcentral",
+  "name": "Qatar Central",
+  "api_reference": "qatarcentral",
+  "display_name": "Qatar Central (QA)",
+  "aliases": [],
+  "country_id": "QA",
+  "state": null,
+  "city": "Doha",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 51.439327,
+  "lat": 25.551462,
+  "founding_year": 2022,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

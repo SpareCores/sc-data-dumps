@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "jioindiawest",
+  "name": "Jio India West",
+  "api_reference": "jioindiawest",
+  "display_name": "Jio India West (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Jamnagar",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 70.05773,
+  "lat": 22.470701,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

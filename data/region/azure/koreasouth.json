@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "koreasouth",
+  "name": "Korea South",
+  "api_reference": "koreasouth",
+  "display_name": "Korea South (KR)",
+  "aliases": [],
+  "country_id": "KR",
+  "state": null,
+  "city": "Busan",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 129.0756,
+  "lat": 35.1796,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

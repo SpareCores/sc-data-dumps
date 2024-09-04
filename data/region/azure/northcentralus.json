@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "northcentralus",
+  "name": "North Central US",
+  "api_reference": "northcentralus",
+  "display_name": "North Central US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Illinois",
+  "city": "Chicago",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -87.6278,
+  "lat": 41.8819,
+  "founding_year": 2009,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

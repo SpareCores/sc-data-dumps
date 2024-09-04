@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "westus",
+  "name": "West US",
+  "api_reference": "westus",
+  "display_name": "West US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "California",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -122.417,
+  "lat": 37.783,
+  "founding_year": 2012,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

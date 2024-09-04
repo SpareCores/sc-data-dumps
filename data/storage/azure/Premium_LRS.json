@@ -1,0 +1,12 @@
+{
+  "vendor_id": "azure",
+  "storage_id": "Premium_LRS",
+  "name": "Premium_LRS",
+  "description": "Premium tier SSD (Locally Redundant Storage)",
+  "storage_type": "SSD",
+  "max_iops": 20000,
+  "max_throughput": 900,
+  "min_size": 16384,
+  "max_size": 32767,
+  "status": "ACTIVE"
+}

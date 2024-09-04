@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "italynorth",
+  "name": "Italy North",
+  "api_reference": "italynorth",
+  "display_name": "Italy North (IT)",
+  "aliases": [],
+  "country_id": "IT",
+  "state": null,
+  "city": "Milan",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 9.18109,
+  "lat": 45.46888,
+  "founding_year": 2023,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

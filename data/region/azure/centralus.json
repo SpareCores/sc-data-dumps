@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "centralus",
+  "name": "Central US",
+  "api_reference": "centralus",
+  "display_name": "Central US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Iowa",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -93.6208,
+  "lat": 41.5908,
+  "founding_year": 2014,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

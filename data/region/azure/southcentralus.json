@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "southcentralus",
+  "name": "South Central US",
+  "api_reference": "southcentralus",
+  "display_name": "South Central US (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Texas",
+  "city": "San Antonio",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -98.5,
+  "lat": 29.4167,
+  "founding_year": 2008,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "koreacentral",
+  "name": "Korea Central",
+  "api_reference": "koreacentral",
+  "display_name": "Korea Central (KR)",
+  "aliases": [],
+  "country_id": "KR",
+  "state": null,
+  "city": "Seoul",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 126.978,
+  "lat": 37.5665,
+  "founding_year": 2017,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

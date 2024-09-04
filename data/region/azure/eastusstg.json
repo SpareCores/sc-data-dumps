@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "eastusstg",
+  "name": "East US STG",
+  "api_reference": "eastusstg",
+  "display_name": "East US STG (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Virginia",
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": -79.8164,
+  "lat": 37.3719,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "INACTIVE"
+}

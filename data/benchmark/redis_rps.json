@@ -1,0 +1,15 @@
+{
+  "benchmark_id": "redis:rps",
+  "name": "Redis server+client speed",
+  "description": "Running a pair of redis server and benchmarking client (memtier_benchmark) on each vCPU to evaluate the performance of SET operations, using different number of concurrent pipelined requests. The measured RPS (ops/sec) is the sum of RPS measured in all parallel processes, but is not the maximum expected redis server speed, as the server(s) shared CPU with the client(s).",
+  "framework": "redis",
+  "config_fields": {
+    "operation": "Operation, e.g. SET key.",
+    "pipeline": "The number of concurrent pipelined requests.",
+    "framework_version": "Redis server version number and build information."
+  },
+  "measurement": "rps",
+  "unit": "ops/sec",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

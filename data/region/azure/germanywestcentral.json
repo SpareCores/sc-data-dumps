@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "germanywestcentral",
+  "name": "Germany West Central",
+  "api_reference": "germanywestcentral",
+  "display_name": "Germany West Central (DE)",
+  "aliases": [],
+  "country_id": "DE",
+  "state": null,
+  "city": "Frankfurt",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.682127,
+  "lat": 50.110924,
+  "founding_year": 2019,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

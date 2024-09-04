@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "japanwest",
+  "name": "Japan West",
+  "api_reference": "japanwest",
+  "display_name": "Japan West (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Osaka",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 135.5022,
+  "lat": 34.6939,
+  "founding_year": 2014,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
