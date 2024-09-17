@@ -9,7 +9,7 @@
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V,",
   "cpu_allocation": "BURSTABLE",
-  "cpu_cores": null,
+  "cpu_cores": 8,
   "cpu_speed": 2.8,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
