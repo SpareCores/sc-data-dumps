@@ -29,12 +29,12 @@
   "gpu_memory_total": 1155072,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": null,
-  "gpu_model": "H200",
+  "gpu_model": "H100",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -46,7 +46,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -58,7 +58,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -70,7 +70,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -82,7 +82,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -94,7 +94,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -106,7 +106,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
@@ -118,7 +118,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": null,
-      "model": "H200",
+      "model": "H100",
       "memory": 144384,
       "firmware_version": null,
       "bios_version": null,
