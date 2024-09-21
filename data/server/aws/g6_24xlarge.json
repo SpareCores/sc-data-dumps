@@ -123,12 +123,12 @@
   "gpu_count": 4,
   "gpu_memory_min": 91553,
   "gpu_memory_total": 366212,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ada Lovelace",
-  "gpu_model": "NVIDIA L4",
+  "gpu_model": "L4",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -140,7 +140,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -152,7 +152,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -164,7 +164,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,

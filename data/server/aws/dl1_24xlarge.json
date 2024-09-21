@@ -118,8 +118,8 @@
   "gpu_memory_min": 32768,
   "gpu_memory_total": 262144,
   "gpu_manufacturer": "Habana",
-  "gpu_family": null,
-  "gpu_model": "Gaudi HL-205",
+  "gpu_family": "Gaudi",
+  "gpu_model": "HL-205",
   "gpus": [
     {
       "manufacturer": "Habana",

@@ -121,12 +121,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 45776,
   "gpu_memory_total": 45776,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ada Lovelace",
-  "gpu_model": "NVIDIA L40S",
+  "gpu_model": "L40S",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,

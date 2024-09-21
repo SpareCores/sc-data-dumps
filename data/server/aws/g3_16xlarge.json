@@ -103,12 +103,12 @@
   "gpu_count": 4,
   "gpu_memory_min": 8192,
   "gpu_memory_total": 32768,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Maxwell",
-  "gpu_model": "Tesla M60",
+  "gpu_model": "M60",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Maxwell",
       "model": "Tesla M60",
       "memory": 7680,
@@ -120,7 +120,7 @@
       "video_clock": 1083
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Maxwell",
       "model": "Tesla M60",
       "memory": 7680,
@@ -132,7 +132,7 @@
       "video_clock": 1083
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Maxwell",
       "model": "Tesla M60",
       "memory": 7680,
@@ -144,7 +144,7 @@
       "video_clock": 1083
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Maxwell",
       "model": "Tesla M60",
       "memory": 7680,

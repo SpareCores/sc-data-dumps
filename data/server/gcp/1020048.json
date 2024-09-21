@@ -118,12 +118,12 @@
   "gpu_count": 4,
   "gpu_memory_min": null,
   "gpu_memory_total": null,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ampere",
-  "gpu_model": "NVIDIA A100-SXM4-80GB",
+  "gpu_model": "A100",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-80GB",
       "memory": 81920,
@@ -135,7 +135,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-80GB",
       "memory": 81920,
@@ -147,7 +147,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-80GB",
       "memory": 81920,
@@ -159,7 +159,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-80GB",
       "memory": 81920,

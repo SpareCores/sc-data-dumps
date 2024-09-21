@@ -45,12 +45,12 @@
   "gpu_count": 2,
   "gpu_memory_min": 16384,
   "gpu_memory_total": 32768,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Turing",
-  "gpu_model": "NVIDIA T4G",
+  "gpu_model": "T4G",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Turing",
       "model": "NVIDIA T4G",
       "memory": 15360,
@@ -62,7 +62,7 @@
       "video_clock": 1470
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Turing",
       "model": "NVIDIA T4G",
       "memory": 15360,
