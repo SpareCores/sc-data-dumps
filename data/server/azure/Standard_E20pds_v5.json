@@ -12,7 +12,7 @@
   "cpu_cores": 32,
   "cpu_speed": 3.0,
   "cpu_architecture": "ARM64",
-  "cpu_manufacturer": "Ampere(R)",
+  "cpu_manufacturer": "Ampere",
   "cpu_family": "ARMv8",
   "cpu_model": "Ampere(R) Altra(R)",
   "cpu_l1_cache": 2621440,
