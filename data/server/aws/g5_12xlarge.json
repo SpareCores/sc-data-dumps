@@ -116,12 +116,12 @@
   "gpu_count": 4,
   "gpu_memory_min": 24576,
   "gpu_memory_total": 98304,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ampere",
-  "gpu_model": "A10G",
+  "gpu_model": "NVIDIA A10G",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A10G",
       "memory": 23028,
@@ -133,7 +133,7 @@
       "video_clock": 1500
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A10G",
       "memory": 23028,
@@ -145,7 +145,7 @@
       "video_clock": 1500
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A10G",
       "memory": 23028,
@@ -157,7 +157,7 @@
       "video_clock": 1500
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A10G",
       "memory": 23028,

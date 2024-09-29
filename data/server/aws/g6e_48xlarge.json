@@ -123,12 +123,12 @@
   "gpu_count": 8,
   "gpu_memory_min": 366211,
   "gpu_memory_total": 2929688,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ada Lovelace",
-  "gpu_model": "L40S",
+  "gpu_model": "NVIDIA L40S",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -140,7 +140,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -152,7 +152,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -164,7 +164,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -176,7 +176,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -188,7 +188,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -200,7 +200,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,
@@ -212,7 +212,7 @@
       "video_clock": 1965
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L40S",
       "memory": 46068,

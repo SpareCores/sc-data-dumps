@@ -123,12 +123,12 @@
   "gpu_count": 8,
   "gpu_memory_min": 183105,
   "gpu_memory_total": 1464840,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ada Lovelace",
-  "gpu_model": "L4",
+  "gpu_model": "NVIDIA L4",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -140,7 +140,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -152,7 +152,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -164,7 +164,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -176,7 +176,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -188,7 +188,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -200,7 +200,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,
@@ -212,7 +212,7 @@
       "video_clock": 1770
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,

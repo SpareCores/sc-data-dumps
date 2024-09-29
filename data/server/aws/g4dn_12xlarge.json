@@ -117,12 +117,12 @@
   "gpu_count": 4,
   "gpu_memory_min": 16384,
   "gpu_memory_total": 65536,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Turing",
-  "gpu_model": "T4",
+  "gpu_model": "Tesla T4",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,
@@ -134,7 +134,7 @@
       "video_clock": 1470
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,
@@ -146,7 +146,7 @@
       "video_clock": 1470
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,
@@ -158,7 +158,7 @@
       "video_clock": 1470
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,

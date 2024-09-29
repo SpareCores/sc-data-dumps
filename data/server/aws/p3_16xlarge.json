@@ -103,12 +103,12 @@
   "gpu_count": 8,
   "gpu_memory_min": 16384,
   "gpu_memory_total": 131072,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Volta",
-  "gpu_model": "V100",
+  "gpu_model": "Tesla V100-SXM2-16GB",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -120,7 +120,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -132,7 +132,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -144,7 +144,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -156,7 +156,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -168,7 +168,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -180,7 +180,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
@@ -192,7 +192,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,

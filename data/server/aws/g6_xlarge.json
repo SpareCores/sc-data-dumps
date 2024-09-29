@@ -121,12 +121,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 22888,
   "gpu_memory_total": 22888,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ada Lovelace",
-  "gpu_model": "L4",
+  "gpu_model": "NVIDIA L4",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ada Lovelace",
       "model": "NVIDIA L4",
       "memory": 23034,

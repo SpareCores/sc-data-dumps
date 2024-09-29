@@ -116,12 +116,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 24576,
   "gpu_memory_total": 24576,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ampere",
-  "gpu_model": "A10G",
+  "gpu_model": "NVIDIA A10G",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A10G",
       "memory": 23028,

@@ -99,12 +99,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 8192,
   "gpu_memory_total": 8192,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Maxwell",
-  "gpu_model": "M60",
+  "gpu_model": "Tesla M60",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Maxwell",
       "model": "Tesla M60",
       "memory": 7680,

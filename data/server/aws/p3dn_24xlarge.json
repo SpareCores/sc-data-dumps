@@ -116,12 +116,12 @@
   "gpu_count": 8,
   "gpu_memory_min": 32768,
   "gpu_memory_total": 262144,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Volta",
-  "gpu_model": "V100",
+  "gpu_model": "Tesla V100-SXM2-32GB",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -133,7 +133,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -145,7 +145,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -157,7 +157,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -169,7 +169,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -181,7 +181,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -193,7 +193,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,
@@ -205,7 +205,7 @@
       "video_clock": 1372
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Volta",
       "model": "Tesla V100-SXM2-32GB",
       "memory": 32768,

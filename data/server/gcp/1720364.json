@@ -139,12 +139,12 @@
   "gpu_count": 8,
   "gpu_memory_min": null,
   "gpu_memory_total": null,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Hopper",
-  "gpu_model": "H100",
+  "gpu_model": "NVIDIA H100 80GB HBM3",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -156,7 +156,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -168,7 +168,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -180,7 +180,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -192,7 +192,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -204,7 +204,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -216,7 +216,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,
@@ -228,7 +228,7 @@
       "video_clock": 1545
     },
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Hopper",
       "model": "NVIDIA H100 80GB HBM3",
       "memory": 81559,

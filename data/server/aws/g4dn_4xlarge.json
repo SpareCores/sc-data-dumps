@@ -115,12 +115,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 16384,
   "gpu_memory_total": 16384,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Turing",
-  "gpu_model": "T4",
+  "gpu_model": "Tesla T4",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,

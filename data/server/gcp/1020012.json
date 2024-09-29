@@ -118,12 +118,12 @@
   "gpu_count": 1,
   "gpu_memory_min": null,
   "gpu_memory_total": null,
-  "gpu_manufacturer": "NVIDIA",
+  "gpu_manufacturer": "Nvidia",
   "gpu_family": "Ampere",
-  "gpu_model": "A100",
+  "gpu_model": "NVIDIA A100-SXM4-80GB",
   "gpus": [
     {
-      "manufacturer": "NVIDIA",
+      "manufacturer": "Nvidia",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-80GB",
       "memory": 81920,
