@@ -28,7 +28,7 @@
   "gpu_memory_min": 81920,
   "gpu_memory_total": 655360,
   "gpu_manufacturer": "NVIDIA",
-  "gpu_family": null,
+  "gpu_family": "Ampere",
   "gpu_model": "A100",
   "gpus": [
     {

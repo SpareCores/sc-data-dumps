@@ -116,12 +116,12 @@
   "gpu_count": 8,
   "gpu_memory_min": 40960,
   "gpu_memory_total": 327680,
-  "gpu_manufacturer": "Nvidia",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ampere",
-  "gpu_model": "NVIDIA A100-SXM4-40GB",
+  "gpu_model": "A100",
   "gpus": [
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -133,7 +133,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -145,7 +145,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -157,7 +157,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -169,7 +169,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -181,7 +181,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -193,7 +193,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,
@@ -205,7 +205,7 @@
       "video_clock": 1290
     },
     {
-      "manufacturer": "Nvidia",
+      "manufacturer": "NVIDIA",
       "family": "Ampere",
       "model": "NVIDIA A100-SXM4-40GB",
       "memory": 40960,

@@ -117,8 +117,8 @@
   "gpu_memory_min": 8192,
   "gpu_memory_total": 8192,
   "gpu_manufacturer": "AMD",
-  "gpu_family": null,
-  "gpu_model": "Radeon Pro V520",
+  "gpu_family": "Radeon Pro Navi",
+  "gpu_model": "V520",
   "gpus": [
     {
       "manufacturer": "AMD",
