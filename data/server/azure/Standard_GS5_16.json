@@ -9,7 +9,7 @@
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V,",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": null,
+  "cpu_cores": 16,
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
