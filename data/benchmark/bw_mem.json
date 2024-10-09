@@ -8,7 +8,7 @@
     "size": "Amount of memory to be used in MB"
   },
   "measurement": null,
-  "unit": "MB/sec",
+  "unit": "Megabytes per second (MB/sec)",
   "higher_is_better": 1,
   "status": "ACTIVE"
 }

@@ -5,7 +5,7 @@
   "framework": "bogomips",
   "config_fields": {},
   "measurement": null,
-  "unit": "MIPS",
+  "unit": "Millions of instructions per second (MIPS)",
   "higher_is_better": 1,
   "status": "ACTIVE"
 }

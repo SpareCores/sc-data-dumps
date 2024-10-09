@@ -10,7 +10,7 @@
     "block_size": "Block size"
   },
   "measurement": "compress",
-  "unit": "byte/s",
+  "unit": "Bytes per second (Bps)",
   "higher_is_better": 1,
   "status": "ACTIVE"
 }

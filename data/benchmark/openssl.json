@@ -9,7 +9,7 @@
     "framework_version": "Version number of OpenSSL."
   },
   "measurement": null,
-  "unit": "byte/s",
+  "unit": "Bytes per second (Bps)",
   "higher_is_better": 1,
   "status": "ACTIVE"
 }

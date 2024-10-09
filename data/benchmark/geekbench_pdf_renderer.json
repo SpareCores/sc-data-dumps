@@ -1,7 +1,7 @@
 {
   "benchmark_id": "geekbench:pdf_renderer",
   "name": "Geekbench: PDF Renderer",
-  "description": "Opens complex PDF documents (4 in single-core mode, 16 in multi-core mode) of park maps from the American National Park Service (sizes from 897 KB to 1.5 MB) with large vector images, lines and text.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "description": "Opens complex PDF documents (4 in single-core mode, 16 in multi-core mode) of park maps from the American National Park Service (sizes from 897 kB to 1.5 MB) with large vector images, lines and text.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {
     "cores": "Single-Core or Multi-Core peformance tests.",

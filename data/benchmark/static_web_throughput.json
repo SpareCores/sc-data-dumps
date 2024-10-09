@@ -1,15 +1,15 @@
 {
   "benchmark_id": "static_web:throughput",
   "name": "Static web server+client throughput",
-  "description": "Serving smaller (1-65 kb) and larger (256-512 kb) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads and connections on the same server. Throughput is calculated by multiplying the RPS with the served file size. The measured RPS is not the maximum expected server speed, as the server shared CPU with the client.",
+  "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. Throughput is calculated by multiplying the RPS with the served file size. The measured RPS is not the maximum expected server speed, as the server shared CPU with the client.",
   "framework": "static_web",
   "config_fields": {
-    "size": "Served file size (kb).",
-    "connections_per_vcpus": "Total number of HTTP connections kept open by wrk, divided by the number of vCPUs to make it comparable with servers with different vCPU count.",
+    "size": "Served file size (kB).",
+    "connections_per_vcpus": "Open HTTP connections per vCPU(s).",
     "framework_version": "Version number of both binserve and wrk."
   },
   "measurement": "throughput",
-  "unit": "Bps",
+  "unit": "Bytes per second (Bps)",
   "higher_is_better": 1,
   "status": "ACTIVE"
 }
