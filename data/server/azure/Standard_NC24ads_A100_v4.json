@@ -7,7 +7,7 @@
   "description": "NC family [AMD processor] [Local Disk] [Premium Storage capable] 24 vCPUs",
   "family": "NC",
   "vcpus": 24,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 32,
   "cpu_speed": 3.7,

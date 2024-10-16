@@ -7,7 +7,7 @@
   "description": "E family [Isolated] [Local Disk] [Intel processor] 104 vCPUs",
   "family": "E",
   "vcpus": 104,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 128,
   "cpu_speed": 2.8,

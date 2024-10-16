@@ -7,7 +7,7 @@
   "description": "GS family [Intel processor] 32 vCPUs",
   "family": "GS",
   "vcpus": 32,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,
   "cpu_speed": 2.0,

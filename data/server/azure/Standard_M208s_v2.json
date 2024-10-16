@@ -7,7 +7,7 @@
   "description": "M family [Premium Storage capable] [Intel processor] 208 vCPUs",
   "family": "M",
   "vcpus": 208,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 256,
   "cpu_speed": 2.7,

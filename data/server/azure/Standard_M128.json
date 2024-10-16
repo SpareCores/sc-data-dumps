@@ -7,7 +7,7 @@
   "description": "M family [Intel processor] 128 vCPUs",
   "family": "M",
   "vcpus": 128,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 128,
   "cpu_speed": 2.7,

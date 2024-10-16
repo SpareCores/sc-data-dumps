@@ -7,7 +7,7 @@
   "description": "DC family [Premium Storage capable] [Intel processor] 1 vCPU",
   "family": "DC",
   "vcpus": 1,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,
   "cpu_speed": 3.7,

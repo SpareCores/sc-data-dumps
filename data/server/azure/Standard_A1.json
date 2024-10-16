@@ -7,7 +7,7 @@
   "description": "A family [Intel processor] 1 vCPU",
   "family": "A",
   "vcpus": 1,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

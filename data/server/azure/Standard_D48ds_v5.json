@@ -7,7 +7,7 @@
   "description": "D family [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "D",
   "vcpus": 48,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 64,
   "cpu_speed": 2.8,

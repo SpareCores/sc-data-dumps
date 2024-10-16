@@ -7,7 +7,7 @@
   "description": "EC family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "EC",
   "vcpus": 128,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

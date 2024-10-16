@@ -7,7 +7,7 @@
   "description": "D family [ARM processor] [Local Disk] [Premium Storage capable] 96 vCPUs",
   "family": "D",
   "vcpus": 96,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

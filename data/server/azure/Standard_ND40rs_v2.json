@@ -7,7 +7,7 @@
   "description": "ND family [RDMA capable] [Premium Storage capable] [Intel processor] 40 vCPUs",
   "family": "ND",
   "vcpus": 40,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

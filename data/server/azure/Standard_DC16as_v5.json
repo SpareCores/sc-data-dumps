@@ -7,7 +7,7 @@
   "description": "DC family [AMD processor] [Premium Storage capable] 16 vCPUs",
   "family": "DC",
   "vcpus": 16,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

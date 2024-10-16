@@ -7,7 +7,7 @@
   "description": "B family [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "B",
   "vcpus": 8,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "BURSTABLE",
   "cpu_cores": 8,
   "cpu_speed": 2.8,

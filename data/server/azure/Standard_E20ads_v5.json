@@ -7,7 +7,7 @@
   "description": "E family [AMD processor] [Local Disk] [Premium Storage capable] 20 vCPUs",
   "family": "E",
   "vcpus": 20,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 32,
   "cpu_speed": 3.525,

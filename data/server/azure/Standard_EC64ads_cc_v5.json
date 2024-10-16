@@ -7,7 +7,7 @@
   "description": "EC family [AMD processor] [Local Disk] [Premium Storage capable] 64 vCPUs",
   "family": "EC",
   "vcpus": 64,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 64,
   "cpu_speed": 3.525,

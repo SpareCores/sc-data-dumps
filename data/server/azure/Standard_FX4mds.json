@@ -7,7 +7,7 @@
   "description": "FX family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "FX",
   "vcpus": 4,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

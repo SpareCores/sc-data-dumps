@@ -7,7 +7,7 @@
   "description": "HB family [RDMA capable] [Premium Storage capable] [Intel processor] 30 vCPUs",
   "family": "HB",
   "vcpus": 30,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

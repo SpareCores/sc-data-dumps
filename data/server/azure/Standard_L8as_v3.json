@@ -7,7 +7,7 @@
   "description": "L family [AMD processor] [Premium Storage capable] 8 vCPUs",
   "family": "L",
   "vcpus": 8,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
   "cpu_speed": 3.525,

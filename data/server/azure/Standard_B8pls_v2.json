@@ -7,7 +7,7 @@
   "description": "B family [ARM processor] [Low Memory] [Premium Storage capable] 8 vCPUs",
   "family": "B",
   "vcpus": 8,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "BURSTABLE",
   "cpu_cores": 8,
   "cpu_speed": 3.0,

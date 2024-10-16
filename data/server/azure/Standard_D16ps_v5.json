@@ -7,7 +7,7 @@
   "description": "D family [ARM processor] [Premium Storage capable] 16 vCPUs",
   "family": "D",
   "vcpus": 16,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
   "cpu_speed": 3.0,

@@ -7,7 +7,7 @@
   "description": "DS family [Intel processor] 8 vCPUs",
   "family": "DS",
   "vcpus": 8,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
   "cpu_speed": 2.6,

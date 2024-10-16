@@ -7,7 +7,7 @@
   "description": "GS family [Intel processor] 2 vCPUs",
   "family": "GS",
   "vcpus": 2,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
   "cpu_speed": 2.0,

@@ -7,7 +7,7 @@
   "description": "DC family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "DC",
   "vcpus": 4,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

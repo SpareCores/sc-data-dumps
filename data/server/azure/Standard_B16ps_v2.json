@@ -7,7 +7,7 @@
   "description": "B family [ARM processor] [Premium Storage capable] 16 vCPUs",
   "family": "B",
   "vcpus": 16,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "BURSTABLE",
   "cpu_cores": 16,
   "cpu_speed": 3.0,

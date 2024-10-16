@@ -7,7 +7,7 @@
   "description": "M family [Memory Intensive] [Intel processor] 64 vCPUs",
   "family": "M",
   "vcpus": 64,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 64,
   "cpu_speed": 2.7,

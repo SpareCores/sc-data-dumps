@@ -7,7 +7,7 @@
   "description": "NG family [AMD processor] [Local Disk] [Memory Intensive] [Premium Storage capable] 32 vCPUs",
   "family": "NG",
   "vcpus": 32,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

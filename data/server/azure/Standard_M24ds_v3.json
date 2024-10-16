@@ -7,7 +7,7 @@
   "description": "M family [Local Disk] [Premium Storage capable] [Intel processor] 24 vCPUs",
   "family": "M",
   "vcpus": 24,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

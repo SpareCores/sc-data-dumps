@@ -7,7 +7,7 @@
   "description": "NP family [Premium Storage capable] [Intel processor] 10 vCPUs",
   "family": "NP",
   "vcpus": 10,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

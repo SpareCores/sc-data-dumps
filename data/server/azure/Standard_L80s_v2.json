@@ -7,7 +7,7 @@
   "description": "L family [Premium Storage capable] [Intel processor] 80 vCPUs",
   "family": "L",
   "vcpus": 80,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

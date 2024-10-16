@@ -7,7 +7,7 @@
   "description": "F family [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "F",
   "vcpus": 8,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,
   "cpu_speed": 2.6,

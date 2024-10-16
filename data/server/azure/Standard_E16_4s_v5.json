@@ -7,7 +7,7 @@
   "description": "E family [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "E",
   "vcpus": 16,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,
   "cpu_speed": 2.8,

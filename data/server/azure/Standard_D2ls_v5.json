@@ -7,7 +7,7 @@
   "description": "D family [Low Memory] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "D",
   "vcpus": 2,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
   "cpu_speed": 2.8,

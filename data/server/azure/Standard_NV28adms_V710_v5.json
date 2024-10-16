@@ -7,7 +7,7 @@
   "description": "NV family [AMD processor] [Local Disk] [Memory Intensive] [Premium Storage capable] 28 vCPUs",
   "family": "NV",
   "vcpus": 28,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,

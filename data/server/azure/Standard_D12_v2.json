@@ -7,7 +7,7 @@
   "description": "D family [Intel processor] 4 vCPUs",
   "family": "D",
   "vcpus": 4,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": 2.3,

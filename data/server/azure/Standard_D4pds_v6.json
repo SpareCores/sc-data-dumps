@@ -7,7 +7,7 @@
   "description": "D family [ARM processor] [Local Disk] [Premium Storage capable] 4 vCPUs",
   "family": "D",
   "vcpus": 4,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,
   "cpu_speed": 3.4,
