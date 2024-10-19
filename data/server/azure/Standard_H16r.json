@@ -7,7 +7,7 @@
   "description": "H family [RDMA capable] [Intel processor] 16 vCPUs",
   "family": "H",
   "vcpus": 16,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,
@@ -38,5 +38,5 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
