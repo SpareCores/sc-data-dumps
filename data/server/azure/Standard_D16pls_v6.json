@@ -12,7 +12,7 @@
   "cpu_cores": 16,
   "cpu_speed": 3.4,
   "cpu_architecture": "ARM64",
-  "cpu_manufacturer": "MICROSOFT CORPORATION",
+  "cpu_manufacturer": "Microsoft",
   "cpu_family": "ARM",
   "cpu_model": "Cobalt 100",
   "cpu_l1_cache": 2097152,
