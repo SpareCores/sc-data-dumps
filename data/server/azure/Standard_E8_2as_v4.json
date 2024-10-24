@@ -9,7 +9,7 @@
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 2,
+  "cpu_cores": 1,
   "cpu_speed": 3.525,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",

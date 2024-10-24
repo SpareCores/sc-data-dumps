@@ -9,7 +9,7 @@
   "vcpus": 1,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
-  "cpu_cores": null,
+  "cpu_cores": 1,
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",

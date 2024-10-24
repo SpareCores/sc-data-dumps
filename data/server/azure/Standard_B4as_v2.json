@@ -9,7 +9,7 @@
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "BURSTABLE",
-  "cpu_cores": 4,
+  "cpu_cores": 2,
   "cpu_speed": 3.525,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
