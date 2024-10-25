@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "newzealandnorth",
+  "name": "New Zealand North",
+  "api_reference": "newzealandnorth",
+  "display_name": "New Zealand North (NZ)",
+  "aliases": [],
+  "country_id": "NZ",
+  "state": null,
+  "city": "Auckland",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 174.76349,
+  "lat": -36.84853,
+  "founding_year": 2024,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
