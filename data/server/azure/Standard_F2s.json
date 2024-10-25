@@ -4,8 +4,8 @@
   "name": "F2s",
   "api_reference": "Standard_F2s",
   "display_name": "F2s",
-  "description": "F family [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "F",
+  "description": "FS family [Premium Storage capable] [Intel processor] 2 vCPUs",
+  "family": "FS",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -102,7 +102,13 @@
   "gpus": [],
   "storage_size": 8,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 8,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

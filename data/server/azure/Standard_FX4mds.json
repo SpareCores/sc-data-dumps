@@ -4,8 +4,8 @@
   "name": "FX4mds",
   "api_reference": "Standard_FX4mds",
   "display_name": "FX4mds",
-  "description": "FX family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
-  "family": "FX",
+  "description": "FXMDVS family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
+  "family": "FXMDVS",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 168,
+  "storage_size": 172,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 172,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

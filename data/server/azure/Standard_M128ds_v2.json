@@ -4,8 +4,8 @@
   "name": "M128ds_v2",
   "api_reference": "Standard_M128ds_v2",
   "display_name": "M128ds_v2",
-  "description": "M family [Local Disk] [Premium Storage capable] [Intel processor] 128 vCPUs",
-  "family": "M",
+  "description": "MDSMediumMemoryv2 family [Local Disk] [Premium Storage capable] [Intel processor] 128 vCPUs",
+  "family": "MDSMediumMemoryv2",
   "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 4096,
+  "storage_size": 4194,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 4194,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

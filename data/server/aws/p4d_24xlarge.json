@@ -222,35 +222,43 @@
   "storages": [
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 1000,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     }
   ],
   "network_speed": 100.0,

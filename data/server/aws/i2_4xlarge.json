@@ -93,19 +93,23 @@
   "storages": [
     {
       "size": 800,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     }
   ],
   "network_speed": 2.0,

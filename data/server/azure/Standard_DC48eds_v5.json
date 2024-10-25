@@ -4,8 +4,8 @@
   "name": "DC48eds_v5",
   "api_reference": "Standard_DC48eds_v5",
   "display_name": "DC48eds_v5",
-  "description": "DC family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
-  "family": "DC",
+  "description": "DCEDV5 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
+  "family": "DCEDV5",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1407,
+  "storage_size": 1441,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1441,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

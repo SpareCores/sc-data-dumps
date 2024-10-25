@@ -4,8 +4,8 @@
   "name": "E16_v4",
   "api_reference": "Standard_E16_v4",
   "display_name": "E16_v4",
-  "description": "E family [Intel processor] 16 vCPUs",
-  "family": "E",
+  "description": "Ev4 family [Intel processor] 16 vCPUs",
+  "family": "Ev4",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -118,7 +118,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

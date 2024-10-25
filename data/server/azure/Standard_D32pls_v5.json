@@ -4,8 +4,8 @@
   "name": "D32pls_v5",
   "api_reference": "Standard_D32pls_v5",
   "display_name": "D32pls_v5",
-  "description": "D family [ARM processor] [Low Memory] [Premium Storage capable] 32 vCPUs",
-  "family": "D",
+  "description": "DPLSv5 family [ARM processor] [Low Memory] [Premium Storage capable] 32 vCPUs",
+  "family": "DPLSv5",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -50,7 +50,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "E32pds_v5",
   "api_reference": "Standard_E32pds_v5",
   "display_name": "E32pds_v5",
-  "description": "E family [ARM processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
-  "family": "E",
+  "description": "EPDSv5 family [ARM processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
+  "family": "EPDSv5",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -48,9 +48,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1200,
+  "storage_size": 1229,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1229,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

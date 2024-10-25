@@ -4,8 +4,8 @@
   "name": "M32ls",
   "api_reference": "Standard_M32ls",
   "display_name": "M32ls",
-  "description": "M family [Low Memory] [Premium Storage capable] [Intel processor] 32 vCPUs",
-  "family": "M",
+  "description": "MS family [Low Memory] [Premium Storage capable] [Intel processor] 32 vCPUs",
+  "family": "MS",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1024,
+  "storage_size": 1049,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1049,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

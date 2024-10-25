@@ -4,8 +4,8 @@
   "name": "ND96isr_H200_v5",
   "api_reference": "Standard_ND96isr_H200_v5",
   "display_name": "ND96isr_H200_v5",
-  "description": "ND family [Isolated] [Premium Storage capable] [RDMA capable] [Intel processor] 96 vCPUs",
-  "family": "ND",
+  "description": "NDISRH200V5 family [Isolated] [Premium Storage capable] [RDMA capable] [Intel processor] 96 vCPUs",
+  "family": "NDISRH200V5",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1024,
+  "storage_size": 31769,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1049,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 30720,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "E48as_v4",
   "api_reference": "Standard_E48as_v4",
   "display_name": "E48as_v4",
-  "description": "E family [AMD processor] [Premium Storage capable] 48 vCPUs",
-  "family": "E",
+  "description": "EASv4 family [AMD processor] [Premium Storage capable] 48 vCPUs",
+  "family": "EASv4",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -114,9 +114,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 768,
+  "storage_size": 786,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 786,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

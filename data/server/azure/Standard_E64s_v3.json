@@ -4,8 +4,8 @@
   "name": "E64s_v3",
   "api_reference": "Standard_E64s_v3",
   "display_name": "E64s_v3",
-  "description": "E family [Premium Storage capable] [Intel processor] 64 vCPUs",
-  "family": "E",
+  "description": "ESv3 family [Premium Storage capable] [Intel processor] 64 vCPUs",
+  "family": "ESv3",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 864,
+  "storage_size": 885,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 885,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

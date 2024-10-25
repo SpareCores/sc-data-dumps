@@ -4,8 +4,8 @@
   "name": "L80s_v2",
   "api_reference": "Standard_L80s_v2",
   "display_name": "L80s_v2",
-  "description": "L family [Premium Storage capable] [Intel processor] 80 vCPUs",
-  "family": "L",
+  "description": "LSv2 family [Premium Storage capable] [Intel processor] 80 vCPUs",
+  "family": "LSv2",
   "vcpus": 80,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 800,
+  "storage_size": 20019,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 819,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 19200,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

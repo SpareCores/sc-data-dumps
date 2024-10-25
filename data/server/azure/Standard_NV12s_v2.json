@@ -4,8 +4,8 @@
   "name": "NV12s_v2",
   "api_reference": "Standard_NV12s_v2",
   "display_name": "NV12s_v2",
-  "description": "NV family [Premium Storage capable] [Intel processor] 12 vCPUs",
-  "family": "NV",
+  "description": "NVSv2 family [Premium Storage capable] [Intel processor] 12 vCPUs",
+  "family": "NVSv2",
   "vcpus": 12,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1474,
+  "storage_size": 1509,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1509,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "L32as_v3",
   "api_reference": "Standard_L32as_v3",
   "display_name": "L32as_v3",
-  "description": "L family [AMD processor] [Premium Storage capable] 32 vCPUs",
-  "family": "L",
+  "description": "LASv3 family [AMD processor] [Premium Storage capable] 32 vCPUs",
+  "family": "LASv3",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -133,9 +133,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 320,
+  "storage_size": 8008,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 328,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 7680,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

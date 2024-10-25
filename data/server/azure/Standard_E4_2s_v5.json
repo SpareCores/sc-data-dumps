@@ -4,8 +4,8 @@
   "name": "E4-2s_v5",
   "api_reference": "Standard_E4-2s_v5",
   "display_name": "E4-2s_v5",
-  "description": "E family [Premium Storage capable] [Intel processor] 4 vCPUs",
-  "family": "E",
+  "description": "ESv5 family [Premium Storage capable] [Intel processor] 4 vCPUs",
+  "family": "ESv5",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -137,7 +137,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "E32a_v4",
   "api_reference": "Standard_E32a_v4",
   "display_name": "E32a_v4",
-  "description": "E family [AMD processor] 32 vCPUs",
-  "family": "E",
+  "description": "EAv4 family [AMD processor] 32 vCPUs",
+  "family": "EAv4",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -114,9 +114,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 800,
+  "storage_size": 819,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 819,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

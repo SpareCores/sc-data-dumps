@@ -4,8 +4,8 @@
   "name": "M624ds_12_v3",
   "api_reference": "Standard_M624ds_12_v3",
   "display_name": "M624ds_12_v3",
-  "description": "M family [Local Disk] [Premium Storage capable] [Intel processor] 624 vCPUs",
-  "family": "M",
+  "description": "MDSHighMemoryv3 family [Local Disk] [Premium Storage capable] [Intel processor] 624 vCPUs",
+  "family": "MDSHighMemoryv3",
   "vcpus": 624,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 400,
+  "storage_size": 410,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 410,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

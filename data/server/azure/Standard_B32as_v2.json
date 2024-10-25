@@ -4,11 +4,11 @@
   "name": "B32as_v2",
   "api_reference": "Standard_B32as_v2",
   "display_name": "B32as_v2",
-  "description": "B family [AMD processor] [Premium Storage capable] 32 vCPUs",
-  "family": "B",
+  "description": "Basv2 family [AMD processor] [Premium Storage capable] 32 vCPUs",
+  "family": "Basv2",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
   "cpu_speed": 3.525,
   "cpu_architecture": "X86_64",
@@ -125,7 +125,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

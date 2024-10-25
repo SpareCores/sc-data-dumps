@@ -4,8 +4,8 @@
   "name": "L16s",
   "api_reference": "Standard_L16s",
   "display_name": "L16s",
-  "description": "L family [Premium Storage capable] [Intel processor] 16 vCPUs",
-  "family": "L",
+  "description": "LS family [Premium Storage capable] [Intel processor] 16 vCPUs",
+  "family": "LS",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -94,9 +94,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2807,
+  "storage_size": 2874,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2874,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

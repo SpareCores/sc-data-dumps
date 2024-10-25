@@ -4,8 +4,8 @@
   "name": "E20d_v5",
   "api_reference": "Standard_E20d_v5",
   "display_name": "E20d_v5",
-  "description": "E family [Local Disk] [Intel processor] 20 vCPUs",
-  "family": "E",
+  "description": "EDv5 family [Local Disk] [Intel processor] 20 vCPUs",
+  "family": "EDv5",
   "vcpus": 20,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,9 +135,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 750,
+  "storage_size": 768,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 768,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

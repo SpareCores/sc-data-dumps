@@ -4,8 +4,8 @@
   "name": "E112ias_v5",
   "api_reference": "Standard_E112ias_v5",
   "display_name": "E112ias_v5",
-  "description": "E family [Isolated] [AMD processor] [Premium Storage capable] 112 vCPUs",
-  "family": "E",
+  "description": "EIASv5 family [Isolated] [AMD processor] [Premium Storage capable] 112 vCPUs",
+  "family": "EIASv5",
   "vcpus": 112,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,7 +135,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

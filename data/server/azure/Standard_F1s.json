@@ -4,8 +4,8 @@
   "name": "F1s",
   "api_reference": "Standard_F1s",
   "display_name": "F1s",
-  "description": "F family [Premium Storage capable] [Intel processor] 1 vCPU",
-  "family": "F",
+  "description": "FS family [Premium Storage capable] [Intel processor] 1 vCPU",
+  "family": "FS",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -109,7 +109,13 @@
   "gpus": [],
   "storage_size": 4,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 4,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

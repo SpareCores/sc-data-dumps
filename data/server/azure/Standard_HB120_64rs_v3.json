@@ -4,8 +4,8 @@
   "name": "HB120-64rs_v3",
   "api_reference": "Standard_HB120-64rs_v3",
   "display_name": "HB120-64rs_v3",
-  "description": "HB family [RDMA capable] [Premium Storage capable] [Intel processor] 120 vCPUs",
-  "family": "HB",
+  "description": "HBv3 family [RDMA capable] [Premium Storage capable] [Intel processor] 120 vCPUs",
+  "family": "HBv3",
   "vcpus": 120,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 480,
+  "storage_size": 2412,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 492,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

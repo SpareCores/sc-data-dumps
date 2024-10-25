@@ -4,8 +4,8 @@
   "name": "DC24ds_v3",
   "api_reference": "Standard_DC24ds_v3",
   "display_name": "DC24ds_v3",
-  "description": "DC family [Local Disk] [Premium Storage capable] [Intel processor] 24 vCPUs",
-  "family": "DC",
+  "description": "DDCSv3 family [Local Disk] [Premium Storage capable] [Intel processor] 24 vCPUs",
+  "family": "DDCSv3",
   "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -131,9 +131,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1800,
+  "storage_size": 1843,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1843,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

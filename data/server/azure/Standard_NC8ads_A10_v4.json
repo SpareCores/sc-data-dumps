@@ -4,8 +4,8 @@
   "name": "NC8ads_A10_v4",
   "api_reference": "Standard_NC8ads_A10_v4",
   "display_name": "NC8ads_A10_v4",
-  "description": "NC family [AMD processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
-  "family": "NC",
+  "description": "StandardNCADSA10v4 family [AMD processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
+  "family": "StandardNCADSA10v4",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 720,
+  "storage_size": 737,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 737,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

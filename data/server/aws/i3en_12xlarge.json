@@ -125,19 +125,23 @@
   "storages": [
     {
       "size": 7500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 7500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 7500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 7500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     }
   ],
   "network_speed": 50.0,

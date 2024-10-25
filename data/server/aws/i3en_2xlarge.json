@@ -123,11 +123,13 @@
   "storages": [
     {
       "size": 2500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     },
     {
       "size": 2500,
-      "storage_type": "nvme ssd"
+      "storage_type": "nvme ssd",
+      "description": null
     }
   ],
   "network_speed": 8.4,

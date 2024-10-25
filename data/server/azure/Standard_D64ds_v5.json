@@ -4,8 +4,8 @@
   "name": "D64ds_v5",
   "api_reference": "Standard_D64ds_v5",
   "display_name": "D64ds_v5",
-  "description": "D family [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
-  "family": "D",
+  "description": "DDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
+  "family": "DDSv5",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,9 +135,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2400,
+  "storage_size": 2458,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2458,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

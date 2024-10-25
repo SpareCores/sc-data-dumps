@@ -4,8 +4,8 @@
   "name": "E64-32ds_v4",
   "api_reference": "Standard_E64-32ds_v4",
   "display_name": "E64-32ds_v4",
-  "description": "E family [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
-  "family": "E",
+  "description": "EDSv4 family [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
+  "family": "EDSv4",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -116,9 +116,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2400,
+  "storage_size": 2458,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2458,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

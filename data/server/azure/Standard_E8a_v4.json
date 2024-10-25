@@ -4,8 +4,8 @@
   "name": "E8a_v4",
   "api_reference": "Standard_E8a_v4",
   "display_name": "E8a_v4",
-  "description": "E family [AMD processor] 8 vCPUs",
-  "family": "E",
+  "description": "EAv4 family [AMD processor] 8 vCPUs",
+  "family": "EAv4",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -110,9 +110,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 200,
+  "storage_size": 205,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 205,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

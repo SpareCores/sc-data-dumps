@@ -4,8 +4,8 @@
   "name": "D48ds_v5",
   "api_reference": "Standard_D48ds_v5",
   "display_name": "D48ds_v5",
-  "description": "D family [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
-  "family": "D",
+  "description": "DDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
+  "family": "DDSv5",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,9 +135,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1800,
+  "storage_size": 1843,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1843,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

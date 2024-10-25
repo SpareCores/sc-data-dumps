@@ -4,8 +4,8 @@
   "name": "D2as_v4",
   "api_reference": "Standard_D2as_v4",
   "display_name": "D2as_v4",
-  "description": "D family [AMD processor] [Premium Storage capable] 2 vCPUs",
-  "family": "D",
+  "description": "DASv4 family [AMD processor] [Premium Storage capable] 2 vCPUs",
+  "family": "DASv4",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -116,7 +116,13 @@
   "gpus": [],
   "storage_size": 16,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 16,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

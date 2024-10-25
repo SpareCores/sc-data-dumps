@@ -4,8 +4,8 @@
   "name": "DC8_v2",
   "api_reference": "Standard_DC8_v2",
   "display_name": "DC8_v2",
-  "description": "DC family [Intel processor] 8 vCPUs",
-  "family": "DC",
+  "description": "DCSv2 family [Intel processor] 8 vCPUs",
+  "family": "DCSv2",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -105,9 +105,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 400,
+  "storage_size": 410,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 410,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

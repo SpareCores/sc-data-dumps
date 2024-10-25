@@ -4,8 +4,8 @@
   "name": "ND96amsr_A100_v4",
   "api_reference": "Standard_ND96amsr_A100_v4",
   "display_name": "ND96amsr_A100_v4",
-  "description": "ND family [AMD processor] [Memory Intensive] [Premium Storage capable] [RDMA capable] 96 vCPUs",
-  "family": "ND",
+  "description": " NDAMSv4_A100 family [AMD processor] [Memory Intensive] [Premium Storage capable] [RDMA capable] 96 vCPUs",
+  "family": " NDAMSv4_A100",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2900,
+  "storage_size": 10650,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2970,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 7680,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

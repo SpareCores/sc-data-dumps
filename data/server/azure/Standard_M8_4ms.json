@@ -4,8 +4,8 @@
   "name": "M8-4ms",
   "api_reference": "Standard_M8-4ms",
   "display_name": "M8-4ms",
-  "description": "M family [Memory Intensive] [Premium Storage capable] [Intel processor] 8 vCPUs",
-  "family": "M",
+  "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 8 vCPUs",
+  "family": "MS",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 256,
+  "storage_size": 262,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 262,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

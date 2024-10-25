@@ -4,8 +4,8 @@
   "name": "A2_v2",
   "api_reference": "Standard_A2_v2",
   "display_name": "A2_v2",
-  "description": "A family [Intel processor] 2 vCPUs",
-  "family": "A",
+  "description": "Av2 family [Intel processor] 2 vCPUs",
+  "family": "Av2",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 20,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 20,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

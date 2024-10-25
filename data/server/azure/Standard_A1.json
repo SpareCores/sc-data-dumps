@@ -4,8 +4,8 @@
   "name": "A1",
   "api_reference": "Standard_A1",
   "display_name": "A1",
-  "description": "A family [Intel processor] 1 vCPU",
-  "family": "A",
+  "description": "A0_A7 family [Intel processor] 1 vCPU",
+  "family": "A0_A7",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 70,
+  "storage_size": 72,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 72,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

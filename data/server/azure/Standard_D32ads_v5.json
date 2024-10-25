@@ -4,8 +4,8 @@
   "name": "D32ads_v5",
   "api_reference": "Standard_D32ads_v5",
   "display_name": "D32ads_v5",
-  "description": "D family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
-  "family": "D",
+  "description": "DADSv5 family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
+  "family": "DADSv5",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -133,9 +133,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1200,
+  "storage_size": 1229,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1229,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

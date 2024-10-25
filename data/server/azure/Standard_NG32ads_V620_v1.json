@@ -4,8 +4,8 @@
   "name": "NG32ads_V620_v1",
   "api_reference": "Standard_NG32ads_V620_v1",
   "display_name": "NG32ads_V620_v1",
-  "description": "NG family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
-  "family": "NG",
+  "description": "StandardNGADSV620v1 family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
+  "family": "StandardNGADSV620v1",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1024,
+  "storage_size": 4889,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1049,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

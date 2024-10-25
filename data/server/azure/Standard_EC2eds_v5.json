@@ -4,8 +4,8 @@
   "name": "EC2eds_v5",
   "api_reference": "Standard_EC2eds_v5",
   "display_name": "EC2eds_v5",
-  "description": "EC family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "EC",
+  "description": "ECEDV5 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 2 vCPUs",
+  "family": "ECEDV5",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 47,
+  "storage_size": 48,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 48,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

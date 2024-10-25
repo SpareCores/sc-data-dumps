@@ -4,8 +4,8 @@
   "name": "ND40rs_v2",
   "api_reference": "Standard_ND40rs_v2",
   "display_name": "ND40rs_v2",
-  "description": "ND family [RDMA capable] [Premium Storage capable] [Intel processor] 40 vCPUs",
-  "family": "ND",
+  "description": "NDSv2 family [RDMA capable] [Premium Storage capable] [Intel processor] 40 vCPUs",
+  "family": "NDSv2",
   "vcpus": 40,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2900,
+  "storage_size": 2970,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2970,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

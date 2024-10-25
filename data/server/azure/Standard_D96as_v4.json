@@ -4,8 +4,8 @@
   "name": "D96as_v4",
   "api_reference": "Standard_D96as_v4",
   "display_name": "D96as_v4",
-  "description": "D family [AMD processor] [Premium Storage capable] 96 vCPUs",
-  "family": "D",
+  "description": "DASv4 family [AMD processor] [Premium Storage capable] 96 vCPUs",
+  "family": "DASv4",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 768,
+  "storage_size": 786,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 786,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "M192is_v2",
   "api_reference": "Standard_M192is_v2",
   "display_name": "M192is_v2",
-  "description": "M family [Isolated] [Premium Storage capable] [Intel processor] 192 vCPUs",
-  "family": "M",
+  "description": "MISMediumMemoryv2 family [Isolated] [Premium Storage capable] [Intel processor] 192 vCPUs",
+  "family": "MISMediumMemoryv2",
   "vcpus": 192,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -33,7 +33,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

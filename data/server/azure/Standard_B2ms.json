@@ -4,11 +4,11 @@
   "name": "B2ms",
   "api_reference": "Standard_B2ms",
   "display_name": "B2ms",
-  "description": "B family [Memory Intensive] [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "B",
+  "description": "BS family [Memory Intensive] [Premium Storage capable] [Intel processor] 2 vCPUs",
+  "family": "BS",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
   "cpu_speed": 2.6,
   "cpu_architecture": "X86_64",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 16,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 16,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

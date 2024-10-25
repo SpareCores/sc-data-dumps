@@ -4,8 +4,8 @@
   "name": "NV18ads_A10_v5",
   "api_reference": "Standard_NV18ads_A10_v5",
   "display_name": "NV18ads_A10_v5",
-  "description": "NV family [AMD processor] [Local Disk] [Premium Storage capable] 18 vCPUs",
-  "family": "NV",
+  "description": "StandardNVADSA10v5 family [AMD processor] [Local Disk] [Premium Storage capable] 18 vCPUs",
+  "family": "StandardNVADSA10v5",
   "vcpus": 18,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 720,
+  "storage_size": 737,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 737,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

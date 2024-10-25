@@ -4,8 +4,8 @@
   "name": "NC24rs_v2",
   "api_reference": "Standard_NC24rs_v2",
   "display_name": "NC24rs_v2",
-  "description": "NC family [RDMA capable] [Premium Storage capable] [Intel processor] 24 vCPUs",
-  "family": "NC",
+  "description": "NCSv2 family [RDMA capable] [Premium Storage capable] [Intel processor] 24 vCPUs",
+  "family": "NCSv2",
   "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2948,
+  "storage_size": 3019,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 3019,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

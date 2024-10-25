@@ -4,8 +4,8 @@
   "name": "E96ias_v4",
   "api_reference": "Standard_E96ias_v4",
   "display_name": "E96ias_v4",
-  "description": "E family [Isolated] [AMD processor] [Premium Storage capable] 96 vCPUs",
-  "family": "E",
+  "description": "EIASv4 family [Isolated] [AMD processor] [Premium Storage capable] 96 vCPUs",
+  "family": "EIASv4",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -110,9 +110,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1344,
+  "storage_size": 1376,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1376,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

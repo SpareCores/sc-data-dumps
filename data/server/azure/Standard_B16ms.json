@@ -4,11 +4,11 @@
   "name": "B16ms",
   "api_reference": "Standard_B16ms",
   "display_name": "B16ms",
-  "description": "B family [Memory Intensive] [Premium Storage capable] [Intel processor] 16 vCPUs",
-  "family": "B",
+  "description": "BS family [Memory Intensive] [Premium Storage capable] [Intel processor] 16 vCPUs",
+  "family": "BS",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
   "cpu_speed": 2.6,
   "cpu_architecture": "X86_64",
@@ -108,9 +108,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 128,
+  "storage_size": 131,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 131,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

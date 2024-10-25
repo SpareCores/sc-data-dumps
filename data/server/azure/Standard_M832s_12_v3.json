@@ -4,8 +4,8 @@
   "name": "M832s_12_v3",
   "api_reference": "Standard_M832s_12_v3",
   "display_name": "M832s_12_v3",
-  "description": "M family [Premium Storage capable] [Intel processor] 832 vCPUs",
-  "family": "M",
+  "description": "MSHighMemoryv3 family [Premium Storage capable] [Intel processor] 832 vCPUs",
+  "family": "MSHighMemoryv3",
   "vcpus": 832,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -33,7 +33,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

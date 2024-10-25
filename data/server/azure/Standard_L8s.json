@@ -4,8 +4,8 @@
   "name": "L8s",
   "api_reference": "Standard_L8s",
   "display_name": "L8s",
-  "description": "L family [Premium Storage capable] [Intel processor] 8 vCPUs",
-  "family": "L",
+  "description": "LS family [Premium Storage capable] [Intel processor] 8 vCPUs",
+  "family": "LS",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -94,9 +94,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1388,
+  "storage_size": 1421,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1421,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

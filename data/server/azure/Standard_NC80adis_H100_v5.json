@@ -4,8 +4,8 @@
   "name": "NC80adis_H100_v5",
   "api_reference": "Standard_NC80adis_H100_v5",
   "display_name": "NC80adis_H100_v5",
-  "description": "NC family [AMD processor] [Local Disk] [Isolated] [Premium Storage capable] 80 vCPUs",
-  "family": "NC",
+  "description": "StandardNCadsH100v5 family [AMD processor] [Local Disk] [Isolated] [Premium Storage capable] 80 vCPUs",
+  "family": "StandardNCadsH100v5",
   "vcpus": 80,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 256,
+  "storage_size": 7942,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 262,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 7680,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

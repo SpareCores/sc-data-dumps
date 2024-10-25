@@ -4,8 +4,8 @@
   "name": "NCC40ads_H100_v5",
   "api_reference": "Standard_NCC40ads_H100_v5",
   "display_name": "NCC40ads_H100_v5",
-  "description": "NCC family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
-  "family": "NCC",
+  "description": "StandardNCCads2023 family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
+  "family": "StandardNCCads2023",
   "vcpus": 40,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 256,
+  "storage_size": 1222,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 262,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

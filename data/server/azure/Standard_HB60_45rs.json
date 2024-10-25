@@ -4,8 +4,8 @@
   "name": "HB60-45rs",
   "api_reference": "Standard_HB60-45rs",
   "display_name": "HB60-45rs",
-  "description": "HB family [RDMA capable] [Premium Storage capable] [Intel processor] 45 vCPUs",
-  "family": "HB",
+  "description": "HBS family [RDMA capable] [Premium Storage capable] [Intel processor] 45 vCPUs",
+  "family": "HBS",
   "vcpus": 45,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 700,
+  "storage_size": 717,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 717,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "D4ds_v4",
   "api_reference": "Standard_D4ds_v4",
   "display_name": "D4ds_v4",
-  "description": "D family [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
-  "family": "D",
+  "description": "DDSv4 family [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
+  "family": "DDSv4",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -116,9 +116,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 150,
+  "storage_size": 154,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 154,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

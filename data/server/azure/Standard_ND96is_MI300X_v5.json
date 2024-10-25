@@ -4,8 +4,8 @@
   "name": "ND96is_MI300X_v5",
   "api_reference": "Standard_ND96is_MI300X_v5",
   "display_name": "ND96is_MI300X_v5",
-  "description": "ND family [Isolated] [Premium Storage capable] [Intel processor] 96 vCPUs",
-  "family": "ND",
+  "description": "NDISv5MI300X family [Isolated] [Premium Storage capable] [Intel processor] 96 vCPUs",
+  "family": "NDISv5MI300X",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
+  "storage_size": 30720,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 30720,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

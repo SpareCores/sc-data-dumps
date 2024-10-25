@@ -104,7 +104,8 @@
   "storages": [
     {
       "size": 2000,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     }
   ],
   "network_speed": 2.5,

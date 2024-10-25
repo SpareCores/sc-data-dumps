@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 14,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 14,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

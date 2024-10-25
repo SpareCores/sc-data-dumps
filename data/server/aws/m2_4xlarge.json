@@ -76,11 +76,13 @@
   "storages": [
     {
       "size": 840,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 840,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     }
   ],
   "network_speed": 1.0,

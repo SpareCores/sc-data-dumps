@@ -4,8 +4,8 @@
   "name": "DC4ds_v3",
   "api_reference": "Standard_DC4ds_v3",
   "display_name": "DC4ds_v3",
-  "description": "DC family [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
-  "family": "DC",
+  "description": "DDCSv3 family [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
+  "family": "DDCSv3",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -131,9 +131,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 300,
+  "storage_size": 307,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 307,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

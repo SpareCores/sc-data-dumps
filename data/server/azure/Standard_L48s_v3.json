@@ -4,8 +4,8 @@
   "name": "L48s_v3",
   "api_reference": "Standard_L48s_v3",
   "display_name": "L48s_v3",
-  "description": "L family [Premium Storage capable] [Intel processor] 48 vCPUs",
-  "family": "L",
+  "description": "LSv3 family [Premium Storage capable] [Intel processor] 48 vCPUs",
+  "family": "LSv3",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,9 +135,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 480,
+  "storage_size": 12012,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 492,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 11520,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

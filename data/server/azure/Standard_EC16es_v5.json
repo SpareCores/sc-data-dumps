@@ -4,8 +4,8 @@
   "name": "EC16es_v5",
   "api_reference": "Standard_EC16es_v5",
   "display_name": "EC16es_v5",
-  "description": "EC family [Memory Optimized] [Premium Storage capable] [Intel processor] 16 vCPUs",
-  "family": "EC",
+  "description": "ECEV5 family [Memory Optimized] [Premium Storage capable] [Intel processor] 16 vCPUs",
+  "family": "ECEV5",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -33,7 +33,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

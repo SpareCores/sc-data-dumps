@@ -4,8 +4,8 @@
   "name": "D2s_v3",
   "api_reference": "Standard_D2s_v3",
   "display_name": "D2s_v3",
-  "description": "D family [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "D",
+  "description": "DSv3 family [Premium Storage capable] [Intel processor] 2 vCPUs",
+  "family": "DSv3",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -115,7 +115,13 @@
   "gpus": [],
   "storage_size": 16,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 16,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

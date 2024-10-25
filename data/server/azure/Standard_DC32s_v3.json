@@ -4,8 +4,8 @@
   "name": "DC32s_v3",
   "api_reference": "Standard_DC32s_v3",
   "display_name": "DC32s_v3",
-  "description": "DC family [Premium Storage capable] [Intel processor] 32 vCPUs",
-  "family": "DC",
+  "description": "DCSv3 family [Premium Storage capable] [Intel processor] 32 vCPUs",
+  "family": "DCSv3",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

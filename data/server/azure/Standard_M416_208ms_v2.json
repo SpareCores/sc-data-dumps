@@ -4,8 +4,8 @@
   "name": "M416-208ms_v2",
   "api_reference": "Standard_M416-208ms_v2",
   "display_name": "M416-208ms_v2",
-  "description": "M family [Memory Intensive] [Premium Storage capable] [Intel processor] 416 vCPUs",
-  "family": "M",
+  "description": "MSv2 family [Memory Intensive] [Premium Storage capable] [Intel processor] 416 vCPUs",
+  "family": "MSv2",
   "vcpus": 416,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -111,9 +111,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 8192,
+  "storage_size": 8389,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 8389,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

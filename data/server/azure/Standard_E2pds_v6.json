@@ -4,8 +4,8 @@
   "name": "E2pds_v6",
   "api_reference": "Standard_E2pds_v6",
   "display_name": "E2pds_v6",
-  "description": "E family [ARM processor] [Local Disk] [Premium Storage capable] 2 vCPUs",
-  "family": "E",
+  "description": "StandardEpdsv6 family [ARM processor] [Local Disk] [Premium Storage capable] 2 vCPUs",
+  "family": "StandardEpdsv6",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
+  "storage_size": 118,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 118,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

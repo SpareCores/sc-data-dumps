@@ -4,8 +4,8 @@
   "name": "E64i_v3",
   "api_reference": "Standard_E64i_v3",
   "display_name": "E64i_v3",
-  "description": "E family [Isolated] [Intel processor] 64 vCPUs",
-  "family": "E",
+  "description": "EIv3 family [Isolated] [Intel processor] 64 vCPUs",
+  "family": "EIv3",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -105,9 +105,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1600,
+  "storage_size": 1638,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1638,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -76,7 +76,8 @@
   "storages": [
     {
       "size": 850,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     }
   ],
   "network_speed": 0.7,

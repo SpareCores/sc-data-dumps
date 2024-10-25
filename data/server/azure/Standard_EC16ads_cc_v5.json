@@ -4,8 +4,8 @@
   "name": "EC16ads_cc_v5",
   "api_reference": "Standard_EC16ads_cc_v5",
   "display_name": "EC16ads_cc_v5",
-  "description": "EC family [AMD processor] [Local Disk] [Premium Storage capable] 16 vCPUs",
-  "family": "EC",
+  "description": "ECADCCV5 family [AMD processor] [Local Disk] [Premium Storage capable] 16 vCPUs",
+  "family": "ECADCCV5",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -133,9 +133,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 600,
+  "storage_size": 614,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 614,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "EC8eds_v5",
   "api_reference": "Standard_EC8eds_v5",
   "display_name": "EC8eds_v5",
-  "description": "EC family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
-  "family": "EC",
+  "description": "ECEDV5 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
+  "family": "ECEDV5",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 227,
+  "storage_size": 232,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 232,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,8 +4,8 @@
   "name": "EC32as_cc_v5",
   "api_reference": "Standard_EC32as_cc_v5",
   "display_name": "EC32as_cc_v5",
-  "description": "EC family [AMD processor] [Premium Storage capable] 32 vCPUs",
-  "family": "EC",
+  "description": "ECACCV5 family [AMD processor] [Premium Storage capable] 32 vCPUs",
+  "family": "ECACCV5",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,7 +135,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

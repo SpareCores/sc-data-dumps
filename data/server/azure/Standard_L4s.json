@@ -4,8 +4,8 @@
   "name": "L4s",
   "api_reference": "Standard_L4s",
   "display_name": "L4s",
-  "description": "L family [Premium Storage capable] [Intel processor] 4 vCPUs",
-  "family": "L",
+  "description": "LS family [Premium Storage capable] [Intel processor] 4 vCPUs",
+  "family": "LS",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -108,9 +108,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 678,
+  "storage_size": 694,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 694,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

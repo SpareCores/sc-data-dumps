@@ -4,8 +4,8 @@
   "name": "E8-4ds_v4",
   "api_reference": "Standard_E8-4ds_v4",
   "display_name": "E8-4ds_v4",
-  "description": "E family [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
-  "family": "E",
+  "description": "EDSv4 family [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
+  "family": "EDSv4",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -116,9 +116,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 300,
+  "storage_size": 307,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 307,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

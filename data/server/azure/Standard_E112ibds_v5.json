@@ -4,8 +4,8 @@
   "name": "E112ibds_v5",
   "api_reference": "Standard_E112ibds_v5",
   "display_name": "E112ibds_v5",
-  "description": "E family [Isolated] [Block Storage performance] [Local Disk] [Premium Storage capable] [Intel processor] 112 vCPUs",
-  "family": "E",
+  "description": "EIBDSv5 family [Isolated] [Block Storage performance] [Local Disk] [Premium Storage capable] [Intel processor] 112 vCPUs",
+  "family": "EIBDSv5",
   "vcpus": 112,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -135,9 +135,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 3800,
+  "storage_size": 3891,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 3891,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

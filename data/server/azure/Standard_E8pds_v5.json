@@ -4,8 +4,8 @@
   "name": "E8pds_v5",
   "api_reference": "Standard_E8pds_v5",
   "display_name": "E8pds_v5",
-  "description": "E family [ARM processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
-  "family": "E",
+  "description": "EPDSv5 family [ARM processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
+  "family": "EPDSv5",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -48,9 +48,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 300,
+  "storage_size": 307,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 307,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

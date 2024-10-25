@@ -4,8 +4,8 @@
   "name": "NP20s",
   "api_reference": "Standard_NP20s",
   "display_name": "NP20s",
-  "description": "NP family [Premium Storage capable] [Intel processor] 20 vCPUs",
-  "family": "NP",
+  "description": "NPS family [Premium Storage capable] [Intel processor] 20 vCPUs",
+  "family": "NPS",
   "vcpus": 20,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1474,
+  "storage_size": 1509,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1509,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

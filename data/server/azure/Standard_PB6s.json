@@ -4,8 +4,8 @@
   "name": "PB6s",
   "api_reference": "Standard_PB6s",
   "display_name": "PB6s",
-  "description": "PB family [Premium Storage capable] [Intel processor] 6 vCPUs",
-  "family": "PB",
+  "description": "PBS family [Premium Storage capable] [Intel processor] 6 vCPUs",
+  "family": "PBS",
   "vcpus": 6,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 736,
+  "storage_size": 754,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 754,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

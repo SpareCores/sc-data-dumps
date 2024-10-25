@@ -4,8 +4,8 @@
   "name": "F16s",
   "api_reference": "Standard_F16s",
   "display_name": "F16s",
-  "description": "F family [Premium Storage capable] [Intel processor] 16 vCPUs",
-  "family": "F",
+  "description": "FS family [Premium Storage capable] [Intel processor] 16 vCPUs",
+  "family": "FS",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -108,9 +108,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 64,
+  "storage_size": 66,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 66,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

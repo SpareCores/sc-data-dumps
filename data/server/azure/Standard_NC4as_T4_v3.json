@@ -4,8 +4,8 @@
   "name": "NC4as_T4_v3",
   "api_reference": "Standard_NC4as_T4_v3",
   "display_name": "NC4as_T4_v3",
-  "description": "NC family [AMD processor] [Premium Storage capable] 4 vCPUs",
-  "family": "NC",
+  "description": "Standard NCASv3_T4  family [AMD processor] [Premium Storage capable] 4 vCPUs",
+  "family": "Standard NCASv3_T4 ",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 176,
+  "storage_size": 180,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 180,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

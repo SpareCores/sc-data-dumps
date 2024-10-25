@@ -4,8 +4,8 @@
   "name": "DS2_v2",
   "api_reference": "Standard_DS2_v2",
   "display_name": "DS2_v2",
-  "description": "DS family [Intel processor] 2 vCPUs",
-  "family": "DS",
+  "description": "DSv2 family [Intel processor] 2 vCPUs",
+  "family": "DSv2",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 14,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 14,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

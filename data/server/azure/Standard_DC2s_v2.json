@@ -4,8 +4,8 @@
   "name": "DC2s_v2",
   "api_reference": "Standard_DC2s_v2",
   "display_name": "DC2s_v2",
-  "description": "DC family [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "DC",
+  "description": "DCSv2 family [Premium Storage capable] [Intel processor] 2 vCPUs",
+  "family": "DCSv2",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -105,9 +105,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 100,
+  "storage_size": 102,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 102,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

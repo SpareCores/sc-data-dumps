@@ -4,8 +4,8 @@
   "name": "DC1s_v3",
   "api_reference": "Standard_DC1s_v3",
   "display_name": "DC1s_v3",
-  "description": "DC family [Premium Storage capable] [Intel processor] 1 vCPU",
-  "family": "DC",
+  "description": "DCSv3 family [Premium Storage capable] [Intel processor] 1 vCPU",
+  "family": "DCSv3",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -132,7 +132,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

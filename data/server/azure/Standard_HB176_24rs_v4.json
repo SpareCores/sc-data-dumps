@@ -4,8 +4,8 @@
   "name": "HB176-24rs_v4",
   "api_reference": "Standard_HB176-24rs_v4",
   "display_name": "HB176-24rs_v4",
-  "description": "HB family [RDMA capable] [Premium Storage capable] [Intel processor] 176 vCPUs",
-  "family": "HB",
+  "description": "HBv4 family [RDMA capable] [Premium Storage capable] [Intel processor] 176 vCPUs",
+  "family": "HBv4",
   "vcpus": 176,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,20 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 480,
+  "storage_size": 4332,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 492,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

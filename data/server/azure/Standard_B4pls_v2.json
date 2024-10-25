@@ -4,11 +4,11 @@
   "name": "B4pls_v2",
   "api_reference": "Standard_B4pls_v2",
   "display_name": "B4pls_v2",
-  "description": "B family [ARM processor] [Low Memory] [Premium Storage capable] 4 vCPUs",
-  "family": "B",
+  "description": "Bpsv2 family [ARM processor] [Low Memory] [Premium Storage capable] 4 vCPUs",
+  "family": "Bpsv2",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,
   "cpu_speed": 3.0,
   "cpu_architecture": "ARM64",
@@ -50,7 +50,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

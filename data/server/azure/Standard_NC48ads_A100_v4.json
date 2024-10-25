@@ -4,8 +4,8 @@
   "name": "NC48ads_A100_v4",
   "api_reference": "Standard_NC48ads_A100_v4",
   "display_name": "NC48ads_A100_v4",
-  "description": "NC family [AMD processor] [Local Disk] [Premium Storage capable] 48 vCPUs",
-  "family": "NC",
+  "description": "StandardNCADSA100v4 family [AMD processor] [Local Disk] [Premium Storage capable] 48 vCPUs",
+  "family": "StandardNCADSA100v4",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -149,9 +149,20 @@
       "video_clock": 1290
     }
   ],
-  "storage_size": 128,
+  "storage_size": 2051,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 131,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

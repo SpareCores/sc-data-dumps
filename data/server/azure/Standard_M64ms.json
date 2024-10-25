@@ -4,8 +4,8 @@
   "name": "M64ms",
   "api_reference": "Standard_M64ms",
   "display_name": "M64ms",
-  "description": "M family [Memory Intensive] [Premium Storage capable] [Intel processor] 64 vCPUs",
-  "family": "M",
+  "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 64 vCPUs",
+  "family": "MS",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2048,
+  "storage_size": 2097,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 2097,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

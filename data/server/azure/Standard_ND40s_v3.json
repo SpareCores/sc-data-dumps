@@ -4,8 +4,8 @@
   "name": "ND40s_v3",
   "api_reference": "Standard_ND40s_v3",
   "display_name": "ND40s_v3",
-  "description": "ND family [Premium Storage capable] [Intel processor] 40 vCPUs",
-  "family": "ND",
+  "description": "NDSv3 family [Premium Storage capable] [Intel processor] 40 vCPUs",
+  "family": "NDSv3",
   "vcpus": 40,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,9 +31,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 38701,
+  "storage_size": 39630,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 39630,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

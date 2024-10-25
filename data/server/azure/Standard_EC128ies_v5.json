@@ -4,8 +4,8 @@
   "name": "EC128ies_v5",
   "api_reference": "Standard_EC128ies_v5",
   "display_name": "EC128ies_v5",
-  "description": "EC family [Isolated] [Memory Optimized] [Premium Storage capable] [Intel processor] 128 vCPUs",
-  "family": "EC",
+  "description": "ECIEV5 family [Isolated] [Memory Optimized] [Premium Storage capable] [Intel processor] 128 vCPUs",
+  "family": "ECIEV5",
   "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -33,7 +33,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

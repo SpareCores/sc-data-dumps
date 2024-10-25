@@ -4,11 +4,11 @@
   "name": "B32s_v2",
   "api_reference": "Standard_B32s_v2",
   "display_name": "B32s_v2",
-  "description": "B family [Premium Storage capable] [Intel processor] 32 vCPUs",
-  "family": "B",
+  "description": "Bsv2 family [Premium Storage capable] [Intel processor] 32 vCPUs",
+  "family": "Bsv2",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
   "cpu_speed": 2.8,
   "cpu_architecture": "X86_64",
@@ -131,7 +131,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

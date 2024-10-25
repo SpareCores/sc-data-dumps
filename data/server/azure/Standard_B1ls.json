@@ -4,11 +4,11 @@
   "name": "B1ls",
   "api_reference": "Standard_B1ls",
   "display_name": "B1ls",
-  "description": "B family [Low Memory] [Premium Storage capable] [Intel processor] 1 vCPU",
-  "family": "B",
+  "description": "BS family [Low Memory] [Premium Storage capable] [Intel processor] 1 vCPU",
+  "family": "BS",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "BURSTABLE",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,
   "cpu_speed": 2.6,
   "cpu_architecture": "X86_64",
@@ -109,7 +109,13 @@
   "gpus": [],
   "storage_size": 4,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 4,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

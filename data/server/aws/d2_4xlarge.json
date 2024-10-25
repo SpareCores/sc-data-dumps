@@ -101,51 +101,63 @@
   "storages": [
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     },
     {
       "size": 2048,
-      "storage_type": "hdd"
+      "storage_type": "hdd",
+      "description": null
     }
   ],
   "network_speed": 5.0,

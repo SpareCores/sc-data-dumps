@@ -4,8 +4,8 @@
   "name": "M128",
   "api_reference": "Standard_M128",
   "display_name": "M128",
-  "description": "M family [Intel processor] 128 vCPUs",
-  "family": "M",
+  "description": "MS family [Intel processor] 128 vCPUs",
+  "family": "MS",
   "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 14336,
+  "storage_size": 14680,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 14680,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

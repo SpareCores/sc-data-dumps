@@ -4,8 +4,8 @@
   "name": "D48_v4",
   "api_reference": "Standard_D48_v4",
   "display_name": "D48_v4",
-  "description": "D family [Intel processor] 48 vCPUs",
-  "family": "D",
+  "description": "Dv4 family [Intel processor] 48 vCPUs",
+  "family": "Dv4",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -118,7 +118,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

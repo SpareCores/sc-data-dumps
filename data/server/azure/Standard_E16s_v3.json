@@ -4,8 +4,8 @@
   "name": "E16s_v3",
   "api_reference": "Standard_E16s_v3",
   "display_name": "E16s_v3",
-  "description": "E family [Premium Storage capable] [Intel processor] 16 vCPUs",
-  "family": "E",
+  "description": "ESv3 family [Premium Storage capable] [Intel processor] 16 vCPUs",
+  "family": "ESv3",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -113,9 +113,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 256,
+  "storage_size": 262,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 262,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

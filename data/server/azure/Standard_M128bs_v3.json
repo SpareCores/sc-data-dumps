@@ -4,8 +4,8 @@
   "name": "M128bs_v3",
   "api_reference": "Standard_M128bs_v3",
   "display_name": "M128bs_v3",
-  "description": "M family [Block Storage performance] [Premium Storage capable] [Intel processor] 128 vCPUs",
-  "family": "M",
+  "description": "StandardMBSMediumMemoryv3 family [Block Storage performance] [Premium Storage capable] [Intel processor] 128 vCPUs",
+  "family": "StandardMBSMediumMemoryv3",
   "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -33,7 +33,13 @@
   "gpus": [],
   "storage_size": 0,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 0,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

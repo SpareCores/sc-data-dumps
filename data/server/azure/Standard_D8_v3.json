@@ -4,8 +4,8 @@
   "name": "D8_v3",
   "api_reference": "Standard_D8_v3",
   "display_name": "D8_v3",
-  "description": "D family [Intel processor] 8 vCPUs",
-  "family": "D",
+  "description": "Dv3 family [Intel processor] 8 vCPUs",
+  "family": "Dv3",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -105,9 +105,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 200,
+  "storage_size": 205,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 205,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
