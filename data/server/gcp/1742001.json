@@ -4,7 +4,7 @@
   "name": "z3-highmem-176",
   "api_reference": "z3-highmem-176",
   "display_name": "z3-highmem-176",
-  "description": "176 vCPUs, 1408 GB RAM",
+  "description": "176 vCPUs, 1408 GB RAM, 12 Local SSDs",
   "family": "z3",
   "vcpus": 176,
   "hypervisor": null,
