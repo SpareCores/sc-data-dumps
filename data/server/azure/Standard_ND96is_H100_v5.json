@@ -4,10 +4,10 @@
   "name": "ND96is_H100_v5",
   "api_reference": "Standard_ND96is_H100_v5",
   "display_name": "ND96is_H100_v5",
-  "description": "ND family [Isolated] [Premium Storage capable] [Intel processor] 96 vCPUs",
-  "family": "ND",
+  "description": "NDSH100v5 family [Isolated] [Premium Storage capable] [Intel processor] 96 vCPUs",
+  "family": "NDSH100v5",
   "vcpus": 96,
-  "hypervisor": "Microsoft Hyper-V,",
+  "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,
   "cpu_speed": null,
@@ -31,12 +31,23 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1024,
+  "storage_size": 31769,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 1049,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    },
+    {
+      "size": 30720,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

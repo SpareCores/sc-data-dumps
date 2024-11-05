@@ -4,8 +4,8 @@
   "name": "ND24s",
   "api_reference": "Standard_ND24s",
   "display_name": "ND24s",
-  "description": "ND family [Premium Storage capable] [Intel processor] 24 vCPUs",
-  "family": "ND",
+  "description": "NDS family [Premium Storage capable] [Intel processor] 24 vCPUs",
+  "family": "NDS",
   "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,12 +31,18 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2948,
+  "storage_size": 3019,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 3019,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

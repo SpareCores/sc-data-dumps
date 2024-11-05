@@ -4,8 +4,8 @@
   "name": "ND6s",
   "api_reference": "Standard_ND6s",
   "display_name": "ND6s",
-  "description": "ND family [Premium Storage capable] [Intel processor] 6 vCPUs",
-  "family": "ND",
+  "description": "NDS family [Premium Storage capable] [Intel processor] 6 vCPUs",
+  "family": "NDS",
   "vcpus": 6,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,12 +31,18 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 736,
+  "storage_size": 754,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 754,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

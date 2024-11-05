@@ -4,8 +4,8 @@
   "name": "A8",
   "api_reference": "Standard_A8",
   "display_name": "A8",
-  "description": "A family [Intel processor] 8 vCPUs",
-  "family": "A",
+  "description": "A8_A11 family [Intel processor] 8 vCPUs",
+  "family": "A8_A11",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -31,12 +31,18 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 382,
+  "storage_size": 391,
   "storage_type": null,
-  "storages": [],
+  "storages": [
+    {
+      "size": 391,
+      "storage_type": "ssd",
+      "description": "temp disk"
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
