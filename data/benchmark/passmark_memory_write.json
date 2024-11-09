@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:memory_write",
+  "name": "PassMark: Memory Write",
+  "description": "Write a combination of 32-bit and 64-bit data to the memory using a 512 MB block size.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "memory_write",
+  "unit": "Megabytes per second (MB/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:cpu_floating_point_maths_test",
+  "name": "PassMark: CPU Floating Point Maths Test",
+  "description": "Testing how fast the CPU can perform mathematical floating point operations, using large sets of an equal number of random 32-bit and 64-bit floating point numbers for addition (30% of the time), subtraction (30% of the time), multiplication (30% of the time) and division (10% of the time), with floating point buffers totaling about 240kb per core.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "cpu_floating_point_maths_test",
+  "unit": "Millions of operations per second (Mops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

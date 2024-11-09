@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:cpu_prime_numbers_test",
+  "name": "PassMark: CPU Prime Numbers Test",
+  "description": "Finding prime numbers using the Sieve of Atkin formula (with a limit of 32 million) on 64-bit integers with 4MB of memory per thread.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "cpu_prime_numbers_test",
+  "unit": "Million prime numbers per second (Mnums/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

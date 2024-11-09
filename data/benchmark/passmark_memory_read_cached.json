@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:memory_read_cached",
+  "name": "PassMark: Memory Read Cached",
+  "description": "Read a combination of 32-bit and 64-bit data from memory.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "memory_read_cached",
+  "unit": "Megabytes per second (MB/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

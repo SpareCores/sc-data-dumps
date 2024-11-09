@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:cpu_compression_test",
+  "name": "PassMark: CPU Compression Test",
+  "description": "Using Gzip (Crypto++ 8.6) to compress blocks of data with a 4MB memory buffer size per core.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "cpu_compression_test",
+  "unit": "Kilobytes per second (kB/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

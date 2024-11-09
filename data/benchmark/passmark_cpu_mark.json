@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:cpu_mark",
+  "name": "PassMark: CPU Mark",
+  "description": "A composite average of the Integer, Floating point, Prime and String Sorting test scores, which can be used to compare CPUs from different platforms (even e.g. desktop vs mobile).",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "cpu_mark",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

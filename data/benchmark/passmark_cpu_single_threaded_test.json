@@ -1,0 +1,13 @@
+{
+  "benchmark_id": "passmark:cpu_single_threaded_test",
+  "name": "PassMark: CPU Single Threaded Test",
+  "description": "Using a single logical core for a mixture of floating point, string sorting and data compression tests.",
+  "framework": "passmark",
+  "config_fields": {
+    "framework_version": "Version and build number of PassMark."
+  },
+  "measurement": "cpu_single_threaded_test",
+  "unit": "Millions of operations per second (Mops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}
