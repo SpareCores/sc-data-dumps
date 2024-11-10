@@ -1,0 +1,18 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1640",
+  "name": "northamerica-south1",
+  "api_reference": "northamerica-south1",
+  "display_name": "Queretaro (MX)",
+  "aliases": [],
+  "country_id": "MX",
+  "state": null,
+  "city": "Queretaro",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -100.3897,
+  "lat": 20.5896,
+  "founding_year": 2025,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

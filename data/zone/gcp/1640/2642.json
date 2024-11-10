@@ -1,0 +1,9 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1640",
+  "zone_id": "2642",
+  "name": "northamerica-south1-c",
+  "api_reference": "northamerica-south1-c",
+  "display_name": "northamerica-south1-c",
+  "status": "ACTIVE"
+}
