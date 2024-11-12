@@ -1,7 +1,7 @@
 {
   "vendor_id": "hcloud",
   "name": "Hetzner Cloud",
-  "logo": "https://sparecores.com/images/vendors/hcloud.svg",
+  "logo": "https://sparecores.com/assets/images/vendors/hcloud.svg",
   "homepage": "https://www.hetzner.com/cloud/",
   "country_id": "DE",
   "state": "Bavaria",
