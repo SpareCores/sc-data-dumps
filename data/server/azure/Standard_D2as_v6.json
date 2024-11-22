@@ -10,7 +10,7 @@
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,
-  "cpu_speed": null,
+  "cpu_speed": 3.7,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
