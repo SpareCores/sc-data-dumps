@@ -31,18 +31,13 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1222,
+  "storage_size": 1049,
   "storage_type": null,
   "storages": [
     {
-      "size": 262,
+      "size": 1049,
       "storage_type": "ssd",
       "description": "temp disk"
-    },
-    {
-      "size": 960,
-      "storage_type": "nvme ssd",
-      "description": null
     }
   ],
   "network_speed": null,
