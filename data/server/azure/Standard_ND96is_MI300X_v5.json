@@ -31,11 +31,11 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 31769,
+  "storage_size": 30720,
   "storage_type": null,
   "storages": [
     {
-      "size": 1049,
+      "size": 0,
       "storage_type": "ssd",
       "description": "temp disk"
     },
