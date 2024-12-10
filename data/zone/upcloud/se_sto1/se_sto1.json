@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "se-sto1",
+  "zone_id": "se-sto1",
+  "name": "Stockholm #1",
+  "api_reference": "se-sto1",
+  "display_name": "Stockholm #1",
+  "status": "ACTIVE"
+}

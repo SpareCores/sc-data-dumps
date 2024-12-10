@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "us-chi1",
+  "name": "Chicago #1",
+  "api_reference": "us-chi1",
+  "display_name": "Chicago #1 (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Illinois",
+  "city": "Chicago",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -87.6342056,
+  "lat": 41.8761287,
+  "founding_year": 2014,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

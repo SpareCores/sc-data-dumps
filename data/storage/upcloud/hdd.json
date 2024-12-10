@@ -1,0 +1,12 @@
+{
+  "vendor_id": "upcloud",
+  "storage_id": "hdd",
+  "name": "Archive",
+  "description": "High-capacity data storage",
+  "storage_type": "HDD",
+  "max_iops": 600,
+  "max_throughput": null,
+  "min_size": 1,
+  "max_size": 4096,
+  "status": "ACTIVE"
+}

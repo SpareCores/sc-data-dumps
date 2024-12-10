@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "pl-waw1",
+  "zone_id": "pl-waw1",
+  "name": "Warsaw #1",
+  "api_reference": "pl-waw1",
+  "display_name": "Warsaw #1",
+  "status": "ACTIVE"
+}

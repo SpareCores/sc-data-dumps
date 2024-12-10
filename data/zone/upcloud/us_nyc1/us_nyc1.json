@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "us-nyc1",
+  "zone_id": "us-nyc1",
+  "name": "New York #1",
+  "api_reference": "us-nyc1",
+  "display_name": "New York #1",
+  "status": "ACTIVE"
+}

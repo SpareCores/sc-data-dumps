@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "se-sto1",
+  "name": "Stockholm #1",
+  "api_reference": "se-sto1",
+  "display_name": "Stockholm #1 (SE)",
+  "aliases": [],
+  "country_id": "SE",
+  "state": "Stockholm",
+  "city": "Stockholm",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 18.102788,
+  "lat": 59.2636708,
+  "founding_year": 2015,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "de-fra1",
+  "zone_id": "de-fra1",
+  "name": "Frankfurt #1",
+  "api_reference": "de-fra1",
+  "display_name": "Frankfurt #1",
+  "status": "ACTIVE"
+}

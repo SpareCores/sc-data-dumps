@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "nl-ams1",
+  "name": "Amsterdam #1",
+  "api_reference": "nl-ams1",
+  "display_name": "Amsterdam #1 (NL)",
+  "aliases": [],
+  "country_id": "NL",
+  "state": "Noord Holland",
+  "city": "Amsterdam",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 4.8400019,
+  "lat": 52.3998291,
+  "founding_year": 2017,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
