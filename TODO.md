@@ -1,3 +1,3 @@
 - add CHANGELOG
-- add 
+- add GHA specs
 
