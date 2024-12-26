@@ -1,4 +1,4 @@
-name: Run the Spa Crawler
+name: Run the Crawler
 
 on:
   schedule:
