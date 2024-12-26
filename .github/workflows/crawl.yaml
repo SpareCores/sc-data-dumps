@@ -1,4 +1,4 @@
-name: Run SC Crawler for spot prices
+name: Run the Spa Crawler
 
 on:
   schedule:
