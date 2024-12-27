@@ -1,4 +1,4 @@
-name: Run the Crawler
+name: Run sc-crawler pull
 
 on:
   schedule:
