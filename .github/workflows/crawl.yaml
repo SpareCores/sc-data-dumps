@@ -28,6 +28,14 @@ jobs:
       AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
       UPCLOUD_USERNAME: ${{ secrets.UPCLOUD_USERNAME }}
       UPCLOUD_PASSWORD: ${{ secrets.UPCLOUD_PASSWORD }}
+      OVH_CLIENT_ID: ${{ secrets.OVH_CLIENT_ID }}
+      OVH_CLIENT_SECRET: ${{ secrets.OVH_CLIENT_SECRET }}
+      OVH_PROJECT_ID: ${{ secrets.OVH_PROJECT_ID }}
+      OVH_ENDPOINT: ${{ vars.OVH_ENDPOINT }}
+      OVH_SUBSIDIARY: ${{ vars.OVH_SUBSIDIARY }}
+      ALIBABA_CLOUD_ACCESS_KEY_ID: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_ID }}
+      ALIBABA_CLOUD_ACCESS_KEY_SECRET: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
+      ALIBABA_CLOUD_REGION: ${{ vars.ALIBABA_CLOUD_REGION }}
       COLUMNS: 160
     steps:
       - name: Checkout
@@ -112,7 +120,6 @@ jobs:
       - name: Upload if changed
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
-          DBHUB_TOKEN: ${{ secrets.DBHUB_TOKEN }}
         run: |
           echo "Updating $FILE..."
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
@@ -145,21 +152,10 @@ jobs:
             # update S3
             aws s3 cp "$FILE".bz2 "s3://$BUCKET/$FILE".bz2 --metadata="hash=$LHASH"
 
-            # update DBHUB
-            GHARUNURL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
-            COMMIT=$(curl -s --fail-with-body -F apikey=${DBHUB_TOKEN} \
-              -F dbowner=sparecores -F dbname=sc-data-priceless.db \
-              https://api.dbhub.io/v1/commits | jq -r "to_entries|sort_by(.value.timestamp)|last|.key")
-            echo "Most recent commit: $COMMIT"
-            curl --fail-with-body -F apikey=$DBHUB_TOKEN -F dbname=$FILE \
-              -F commitmsg="SC Crawler run on $(date '+%Y-%m-%d %H:%M:%S')" \
-              -F commit=$COMMIT \
-              -F "sourceurl=$GHARUNURL" \
-              -F file=@$FILE -F "branch=main" https://api.dbhub.io/v1/upload
-
             # note on Slack
+            GHARUNURL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
             curl -X POST -H 'Content-type: application/json' \
-              --data "{\"text\": \"$FILE was <$GHARUNURL|updated> on S3/DBHUB with the following hash: $LHASH\"}" \
+              --data "{\"text\": \"$FILE was <$GHARUNURL|updated> on S3 with the following hash: $LHASH\"}" \
               $SLACK_WEBHOOK
 
             # update CHANGELOG
