@@ -96,7 +96,7 @@ jobs:
         run: sc-crawler pull --connection-string sqlite:///${FILE}
       - name: Run SC Crawler only for spot prices
         if: github.event.schedule == '5-55/5 * * * *'
-        # Azure Retail Pricing API is super slow, let's check on spot prices only in the hourly run
+        # Azure Retail Pricing API is super slow, let's delay check on spot prices only in the hourly run
         run: sc-crawler pull --connection-string sqlite:///${FILE} --include-records server_prices_spot --exclude-vendor azure
       - name: Get connection string for remote database again (crawling might take 15+ mins)
         run: |
