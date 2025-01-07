@@ -109,7 +109,7 @@ jobs:
           echo "PGPASSWORD=${PGPASSWORD}" >> "$GITHUB_ENV"
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
 
-      - name: Sync back (full)
+      - name: Sync back (all records)
         if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
         run: |
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
