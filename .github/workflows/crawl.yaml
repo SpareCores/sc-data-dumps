@@ -108,6 +108,7 @@ jobs:
           echo "::add-mask::$PGPASSWORD"
           echo "PGPASSWORD=${PGPASSWORD}" >> "$GITHUB_ENV"
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
+
       - name: Sync back (full)
         if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
         run: |
