@@ -120,7 +120,7 @@ jobs:
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --sync-tables server_price
           touch changes.log
 
-      - name: Upload if changed
+      - name: Upload binary SQLite file if changed
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: |
