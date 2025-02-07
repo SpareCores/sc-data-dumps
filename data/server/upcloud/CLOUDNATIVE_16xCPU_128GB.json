@@ -126,6 +126,6 @@
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 35840.0,
-  "ipv4": 1,
+  "ipv4": 0,
   "status": "ACTIVE"
 }
