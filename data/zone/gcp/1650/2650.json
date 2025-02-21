@@ -1,0 +1,9 @@
+{
+  "vendor_id": "gcp",
+  "region_id": "1650",
+  "zone_id": "2650",
+  "name": "europe-north2-c",
+  "api_reference": "europe-north2-c",
+  "display_name": "europe-north2-c",
+  "status": "ACTIVE"
+}
