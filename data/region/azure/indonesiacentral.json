@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "indonesiacentral",
+  "name": "Indonesia Central",
+  "api_reference": "indonesiacentral",
+  "display_name": "Indonesia Central (ID)",
+  "aliases": [],
+  "country_id": "ID",
+  "state": null,
+  "city": "Jakarta",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 106.816666,
+  "lat": -6.2,
+  "founding_year": 2025,
+  "green_energy": 0,
+  "status": "INACTIVE"
+}
