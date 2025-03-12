@@ -1,9 +1,0 @@
-{
-  "vendor_id": "upcloud",
-  "region_id": "sg-sin1",
-  "zone_id": "sg-sin1",
-  "name": "Singapore #1",
-  "api_reference": "sg-sin1",
-  "display_name": "Singapore #1",
-  "status": "ACTIVE"
-}

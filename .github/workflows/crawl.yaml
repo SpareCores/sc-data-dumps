@@ -144,7 +144,8 @@ jobs:
             DELETE FROM ipv4_price;
             DELETE FROM benchmark_score;
             VACUUM;"
-          echo "Dumping $FILE to JSON"
+          echo "Dumping $FILE to JSON files..."
+          
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
           echo "Last known hash in S3: $RHASH"
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)

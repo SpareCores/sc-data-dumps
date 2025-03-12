@@ -1,9 +1,0 @@
-{
-  "vendor_id": "upcloud",
-  "region_id": "uk-lon1",
-  "zone_id": "uk-lon1",
-  "name": "London #1",
-  "api_reference": "uk-lon1",
-  "display_name": "London #1",
-  "status": "ACTIVE"
-}

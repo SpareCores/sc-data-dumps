@@ -8,6 +8,6 @@
   },
   "measurement": "memory_latency",
   "unit": "Nanoseconds (ns)",
-  "higher_is_better": 0,
+  "higher_is_better": 1,
   "status": "ACTIVE"
 }

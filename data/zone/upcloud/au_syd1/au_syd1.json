@@ -1,9 +1,0 @@
-{
-  "vendor_id": "upcloud",
-  "region_id": "au-syd1",
-  "zone_id": "au-syd1",
-  "name": "Sydney #1",
-  "api_reference": "au-syd1",
-  "display_name": "Sydney #1",
-  "status": "ACTIVE"
-}
