@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "fi-hel1",
+  "name": "Helsinki #1",
+  "api_reference": "fi-hel1",
+  "display_name": "Helsinki #1 (FI)",
+  "aliases": [],
+  "country_id": "FI",
+  "state": "Uusimaa",
+  "city": "Helsinki",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 24.77857,
+  "lat": 60.20323,
+  "founding_year": 2011,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

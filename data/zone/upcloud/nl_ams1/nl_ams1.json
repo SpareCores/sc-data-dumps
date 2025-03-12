@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "nl-ams1",
+  "zone_id": "nl-ams1",
+  "name": "Amsterdam #1",
+  "api_reference": "nl-ams1",
+  "display_name": "Amsterdam #1",
+  "status": "ACTIVE"
+}

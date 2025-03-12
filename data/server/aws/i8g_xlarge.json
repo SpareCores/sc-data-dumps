@@ -14,7 +14,7 @@
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "AWS",
   "cpu_family": null,
-  "cpu_model": "Graviton4",
+  "cpu_model": "Neoverse-V2",
   "cpu_l1_cache": 524288,
   "cpu_l2_cache": 8388608,
   "cpu_l3_cache": 37748736,
