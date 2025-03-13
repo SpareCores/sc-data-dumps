@@ -146,7 +146,7 @@ jobs:
             VACUUM;"
           echo "Dumping $FILE to JSON files..."
           sc-crawler dump \
-            --connection-string "sqlite:///$DB_PATH" \
+            --connection-string "ssqlite:///$FILE" \
             --ignored inserted_at \
             --ignored updated_at \
             --ignored observed_at \
