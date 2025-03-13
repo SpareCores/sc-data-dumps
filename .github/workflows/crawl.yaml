@@ -145,7 +145,21 @@ jobs:
             DELETE FROM benchmark_score;
             VACUUM;"
           echo "Dumping $FILE to JSON files..."
-          sc-crawler
+          sc-crawler dump \
+        --connection-string "sqlite:///$DB_PATH" \
+        --ignored inserted_at \
+        --ignored updated_at \
+        --ignored observed_at \
+        --dump-tables benchmark \
+        --dump-tables compliance_framework \
+        --dump-tables country \
+        --dump-tables region \
+        --dump-tables server \
+        --dump-tables storage \
+        --dump-tables vendor \
+        --dump-tables zone \
+        --dump-tables zzz_alembic_version \
+        --output-directory "$TARGET_REPO/data"
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
           echo "Last known hash in S3: $RHASH"
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
