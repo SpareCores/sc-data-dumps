@@ -167,7 +167,7 @@ jobs:
           git diff --cached --quiet 2>/dev/null || HAS_CHANGES=true
           [ -z "$(git ls-files --others --exclude-standard 2>/dev/null)" ] || HAS_CHANGES=true
 
-          if [ "$HAS_CHANGES" = "false" ]; then
+          if [ "$HAS_CHANGES" = "true" ]; then
               echo "No changes detected in target repository - skipping commit"
               echo ""
               cd "$SOURCE_REPO"
