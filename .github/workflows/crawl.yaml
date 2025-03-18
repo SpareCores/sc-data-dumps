@@ -168,18 +168,7 @@ jobs:
           [ -z "$(git ls-files --others --exclude-standard 2>/dev/null)" ] || HAS_CHANGES=true
 
           if [ "$HAS_CHANGES" = "true" ]; then
-              echo "No changes detected in target repository - skipping commit"
-              echo ""
-              cd "$SOURCE_REPO"
-              continue
-          fi
 
-
-          RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
-          echo "Last known hash in S3: $RHASH"
-          LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
-          echo "Currently pulled database's hash: $LHASH"
-          if [ "$LHASH" != "$RHASH" ]; then
             bzip2 -k -9 "$FILE"
 
             # update S3
