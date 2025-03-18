@@ -166,7 +166,6 @@ jobs:
           git diff --quiet 2>/dev/null || HAS_CHANGES=true
           git diff --cached --quiet 2>/dev/null || HAS_CHANGES=true
           [ -z "$(git ls-files --others --exclude-standard 2>/dev/null)" ] || HAS_CHANGES=true
-
           if [ "$HAS_CHANGES" = "true" ]; then
 
             bzip2 -k -9 "$FILE"
