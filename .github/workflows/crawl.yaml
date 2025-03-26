@@ -176,7 +176,7 @@ jobs:
             # note on Slack
             GHARUNURL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
             curl -X POST -H 'Content-type: application/json' \
-              --data "{\"text\": \"$FILE was <$GHARUNURL|updated> on S3 with the following hash: $LHASH\"}" \
+              --data "{\"text\": \"`sc-data-dumps` was <$GHARUNURL|updated> on S3 with the following hash: $LHASH\"}" \
               $SLACK_WEBHOOK
 
             # update CHANGELOG
