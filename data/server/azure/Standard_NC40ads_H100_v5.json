@@ -135,7 +135,7 @@
   "gpu_memory_total": 95830,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Hopper",
-  "gpu_model": "H100 NVL",
+  "gpu_model": "H100",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
