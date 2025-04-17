@@ -8,7 +8,7 @@
   "family": "CLOUDNATIVE",
   "vcpus": 12,
   "hypervisor": "KVM",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "SHARED",
   "cpu_cores": 12,
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
