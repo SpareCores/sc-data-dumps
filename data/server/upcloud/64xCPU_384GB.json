@@ -8,7 +8,7 @@
   "family": "General Purpose",
   "vcpus": 64,
   "hypervisor": "KVM",
-  "cpu_allocation": "SHARED",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 64,
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
