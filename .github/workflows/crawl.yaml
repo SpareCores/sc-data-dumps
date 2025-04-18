@@ -176,7 +176,7 @@ jobs:
             # update CHANGELOG
             CRAWLER_VERSION=$(python -c "from importlib.metadata import version; print(version('sparecores-crawler'))")
             DATE=$(date '+%Y%m%d%H%M%S')
-            NEWVERSION="v$SCDATAV+$DATE"
+            NEWVERSION="v$CRAWLER_VERSION+$DATE"
             NEWVERSIONDATE="$NEWVERSION ($(date '+%b %d, %Y'))"
             echo "## ${NEWVERSIONDATE}" > CHANGELOG.new
             CHANGESFOUND="\nThis is an automated release with $(cat changes.log| grep '^-'|wc -l) new/updated/deleted resources.\nJob was run at ${GHARUNURL}"
