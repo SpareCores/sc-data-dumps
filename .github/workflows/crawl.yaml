@@ -188,8 +188,6 @@ jobs:
             mv CHANGELOG.new CHANGELOG.md
 
             # pass required env vars and files for later steps
-            cp sc-data-priceless.db src/sc_data/data/sc-data-priceless.db
-            echo $LHASH > src/sc_data/data/db_hash
             echo "CHANGESFOUND=${CHANGESFOUND}" >> "$GITHUB_ENV"
             echo "GHARUNURL=${GHARUNURL}" >> "$GITHUB_ENV"
             echo "NEWVERSION=${NEWVERSION}" >> "$GITHUB_ENV"
