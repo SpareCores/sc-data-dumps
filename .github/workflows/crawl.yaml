@@ -216,7 +216,7 @@ jobs:
           cat changes.log >> $GITHUB_OUTPUT
           echo 'EOF' >> $GITHUB_OUTPUT
           git pull
-      - name: Commit priceless SQLite changes to the repo
+      - name: Commit changes to the repo
         uses: stefanzweifel/git-auto-commit-action@v5
         id: auto-commit-action
         with:
