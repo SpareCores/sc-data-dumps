@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "malaysiawest",
+  "name": "Malaysia West",
+  "api_reference": "malaysiawest",
+  "display_name": "Malaysia West (MY)",
+  "aliases": [],
+  "country_id": "MY",
+  "state": null,
+  "city": "Kuala Lumpur",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 101.693207,
+  "lat": 3.140853,
+  "founding_year": 2025,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
