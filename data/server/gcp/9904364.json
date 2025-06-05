@@ -4,7 +4,7 @@
   "name": "x4-megamem-1440-metal",
   "api_reference": "x4-megamem-1440-metal",
   "display_name": "x4-megamem-1440-metal",
-  "description": "1440 vCPUs",
+  "description": "1440 vCPUs, 24576 GB RAM",
   "family": "x4",
   "vcpus": 1440,
   "hypervisor": null,

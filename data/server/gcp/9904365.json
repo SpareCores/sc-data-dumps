@@ -4,7 +4,7 @@
   "name": "x4-megamem-1920-metal",
   "api_reference": "x4-megamem-1920-metal",
   "display_name": "x4-megamem-1920-metal",
-  "description": "1920 vCPUs",
+  "description": "1920 vCPUs, 32768 GB RAM",
   "family": "x4",
   "vcpus": 1920,
   "hypervisor": null,
