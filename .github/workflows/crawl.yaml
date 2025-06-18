@@ -232,7 +232,7 @@ jobs:
           name: ${{env.NEWVERSIONDATE}}
           body: ${{ steps.generate-commit-message.outputs.message }}
 
-      - name: Archive priceless
+      - name: Archive 
         if: always()
         uses: actions/upload-artifact@v4
         with:
