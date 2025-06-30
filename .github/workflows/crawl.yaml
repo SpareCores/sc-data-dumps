@@ -240,7 +240,7 @@ jobs:
           compression-level: 0
           path: |
             changes.log
-            sc-data-priceless.db.bz2
+            data/
       - name: Notify monitoring that the job run
         run: curl -s https://uptime.betterstack.com/api/v1/heartbeat/NTnwVC261MyrLnevn4WJc5Jh
 
