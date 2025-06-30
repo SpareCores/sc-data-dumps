@@ -236,7 +236,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: priceless-data-and-changes
+          name: data-and-changes
           compression-level: 0
           path: |
             changes.log
