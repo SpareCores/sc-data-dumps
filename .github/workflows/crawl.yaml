@@ -241,7 +241,8 @@ jobs:
           path: |
             changes.log
             data/
-      - name: Notify monitoring that the job run
+
+      - name: Notify Spare Cores statuspage monitoring that the job run
         run: curl -s https://uptime.betterstack.com/api/v1/heartbeat/NTnwVC261MyrLnevn4WJc5Jh
 
   workflow-keepalive:
