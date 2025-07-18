@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "austriaeast",
+  "name": "Austria East",
+  "api_reference": "austriaeast",
+  "display_name": "Austria East (AT)",
+  "aliases": [],
+  "country_id": "AT",
+  "state": null,
+  "city": "Vienna",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 48.2201153,
+  "lat": 16.214834,
+  "founding_year": 2025,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}
