@@ -150,7 +150,7 @@
   "storages": [],
   "network_speed": null,
   "inbound_traffic": 0.0,
-  "outbound_traffic": 16.0,
+  "outbound_traffic": 16384.0,
   "ipv4": 1,
   "status": "ACTIVE"
 }
