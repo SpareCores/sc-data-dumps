@@ -24,13 +24,26 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 0,
+  "gpu_count": 1,
   "gpu_memory_min": 81920,
   "gpu_memory_total": 81920,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Hopper",
   "gpu_model": "H100",
-  "gpus": [],
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "family": null,
+      "model": "H100",
+      "memory": 81920,
+      "firmware_version": null,
+      "bios_version": null,
+      "graphics_clock": null,
+      "sm_clock": null,
+      "mem_clock": null,
+      "video_clock": null
+    }
+  ],
   "storage_size": 3800,
   "storage_type": "NVME_SSD",
   "storages": [
