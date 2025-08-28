@@ -1,0 +1,83 @@
+{
+  "vendor_id": "aws",
+  "server_id": "i8ge.24xlarge",
+  "name": "i8ge.24xlarge",
+  "api_reference": "i8ge.24xlarge",
+  "display_name": "i8ge.24xlarge",
+  "description": "Storage optimized [AWS Graviton processors] [Extra storage or memory] Gen8 24xlarge",
+  "family": "i8ge",
+  "vcpus": 96,
+  "hypervisor": "nitro",
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 96,
+  "cpu_speed": 2.8,
+  "cpu_architecture": "ARM64",
+  "cpu_manufacturer": "AWS",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpu_l1_cache": null,
+  "cpu_l2_cache": null,
+  "cpu_l3_cache": null,
+  "cpu_flags": [],
+  "cpus": [],
+  "memory_amount": 786432,
+  "memory_generation": null,
+  "memory_speed": null,
+  "memory_ecc": null,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_family": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 60000,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 7500,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
+  "network_speed": 90.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}
