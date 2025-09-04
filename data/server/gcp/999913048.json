@@ -4,7 +4,7 @@
   "name": "c4-standard-48-lssd",
   "api_reference": "c4-standard-48-lssd",
   "display_name": "c4-standard-48-lssd",
-  "description": "48 vCPUs, 180 GB RAM",
+  "description": "48 vCPUs, 180 GB RAM, 8 local SSDs",
   "family": "c4",
   "vcpus": 48,
   "hypervisor": null,

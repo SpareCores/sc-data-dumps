@@ -4,7 +4,7 @@
   "name": "c4-highmem-8-lssd",
   "api_reference": "c4-highmem-8-lssd",
   "display_name": "c4-highmem-8-lssd",
-  "description": "8 vCPUs, 62 GB RAM",
+  "description": "8 vCPUs, 62 GB RAM, 1 local SSD",
   "family": "c4",
   "vcpus": 8,
   "hypervisor": null,

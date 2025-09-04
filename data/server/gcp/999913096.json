@@ -4,7 +4,7 @@
   "name": "c4-standard-96-lssd",
   "api_reference": "c4-standard-96-lssd",
   "display_name": "c4-standard-96-lssd",
-  "description": "96 vCPUs, 360 GB RAM",
+  "description": "96 vCPUs, 360 GB RAM, 16 local SSDs",
   "family": "c4",
   "vcpus": 96,
   "hypervisor": null,
