@@ -225,7 +225,7 @@ jobs:
           tagging_message: ${{ steps.generate-commit-message.outputs.tag }}
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
-      - name: Make release after new changes
+      - name: Update tag as per crawler version
         uses: softprops/action-gh-release@v2
         if: steps.auto-commit-action.outputs.changes_detected == 'true'
         with:
