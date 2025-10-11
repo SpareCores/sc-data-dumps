@@ -188,6 +188,7 @@ jobs:
             mv CHANGELOG.new CHANGELOG.md
 
             # pass required env vars and files for later steps
+            echo 
             echo "CHANGESFOUND=${CHANGESFOUND}" >> "$GITHUB_ENV"
             echo "GHARUNURL=${GHARUNURL}" >> "$GITHUB_ENV"
             echo "NEWVERSION=${NEWVERSION}" >> "$GITHUB_ENV"
