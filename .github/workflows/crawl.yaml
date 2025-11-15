@@ -226,17 +226,6 @@ jobs:
           tagging_message: ${{ steps.generate-commit-message.outputs.tag }}
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
-      - name: Update tag as per crawler version
-        run: |
-          echo ${CRAWLER_VERSION}
-          
-
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
-        with:
-          tag_name: ${{ steps.generate-commit-message.outputs.tag }}
-          name: ${{env.NEWVERSIONDATE}}
-          body: ${{ steps.generate-commit-message.outputs.message }}
-
       - name: Archive data for debugging
         if: always()
         uses: actions/upload-artifact@v4
