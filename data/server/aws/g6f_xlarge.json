@@ -120,7 +120,7 @@
   "memory_ecc": null,
   "gpu_count": 0,
   "gpu_memory_min": 2861,
-  "gpu_memory_total": 2861,
+  "gpu_memory_total": 0,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": null,
   "gpu_model": "L4",
