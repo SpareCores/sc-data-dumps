@@ -124,7 +124,7 @@ jobs:
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: |
-          echo "Uploading $FILE to S3..."
+          echo "Checking the hash of the file in S3..."
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
           echo "Last known hash in S3: $RHASH"
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
