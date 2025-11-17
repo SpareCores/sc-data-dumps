@@ -124,9 +124,9 @@ jobs:
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: |
+          echo "Comparing data hashes in S3 and local file to determine if we need to upload..."
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
           echo "Last known hash in S3: $RHASH"
-          echo "Comparing data hashes in S3 and local file..."
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
           echo "Currently pulled database's hash: $LHASH"
           if [ "$LHASH" != "$RHASH" ]; then
