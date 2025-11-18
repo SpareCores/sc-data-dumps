@@ -163,7 +163,7 @@ jobs:
             --dump-tables zone \
             --dump-tables zzz_alembic_version \
             --output-directory "data"
-          echo "Checking for changes..."
+          echo "Checking for priceless changes..."
           HAS_CHANGES=false
           git diff --quiet 2>/dev/null || HAS_CHANGES=true
           git diff --cached --quiet 2>/dev/null || HAS_CHANGES=true
