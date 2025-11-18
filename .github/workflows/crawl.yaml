@@ -147,7 +147,7 @@ jobs:
             DELETE FROM benchmark_score;
             VACUUM;"
           echo "Dumping $FILE to JSON files..."
-          rm -rf data && mkdir data 
+          rm -rf data && mkdir data
           sc-crawler dump \
             --connection-string "ssqlite:///$FILE" \
             --ignored inserted_at \
