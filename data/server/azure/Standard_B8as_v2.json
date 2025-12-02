@@ -8,7 +8,7 @@
   "family": "Basv2",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "BURSTABLE",
   "cpu_cores": 4,
   "cpu_speed": 3.525,
   "cpu_architecture": "X86_64",

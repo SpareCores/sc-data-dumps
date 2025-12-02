@@ -8,7 +8,7 @@
   "family": "BS",
   "vcpus": 20,
   "hypervisor": "Microsoft Hyper-V",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "BURSTABLE",
   "cpu_cores": 20,
   "cpu_speed": 2.6,
   "cpu_architecture": "X86_64",
