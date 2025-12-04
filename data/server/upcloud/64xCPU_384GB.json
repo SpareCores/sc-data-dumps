@@ -4,7 +4,7 @@
   "name": "64xCPU-384GB",
   "api_reference": "64xCPU-384GB",
   "display_name": "64xCPU-384GB",
-  "description": "General Purpose 64 vCPUs, 384 GB RAM",
+  "description": "General Purpose (64 vCPUs, 384 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 64,
   "hypervisor": "KVM",

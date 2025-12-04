@@ -4,7 +4,7 @@
   "name": "HICPU-64xCPU-128GB",
   "api_reference": "HICPU-64xCPU-128GB",
   "display_name": "HICPU-64xCPU-128GB",
-  "description": "High CPU 64 vCPUs, 128 GB RAM",
+  "description": "High CPU (64 vCPUs, 128 GiB RAM)",
   "family": "High CPU",
   "vcpus": 64,
   "hypervisor": "KVM",

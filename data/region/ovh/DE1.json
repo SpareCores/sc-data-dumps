@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "DE1",
+  "name": "DE1",
+  "api_reference": "DE1",
+  "display_name": "DE1 (DE)",
+  "aliases": [],
+  "country_id": "DE",
+  "state": null,
+  "city": "Frankfurt",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.6821267,
+  "lat": 50.1109221,
+  "founding_year": 2016,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

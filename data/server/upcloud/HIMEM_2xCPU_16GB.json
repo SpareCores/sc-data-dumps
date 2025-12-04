@@ -4,7 +4,7 @@
   "name": "HIMEM-2xCPU-16GB",
   "api_reference": "HIMEM-2xCPU-16GB",
   "display_name": "HIMEM-2xCPU-16GB",
-  "description": "High Memory 2 vCPUs, 16 GB RAM",
+  "description": "High Memory (2 vCPUs, 16 GiB RAM)",
   "family": "High Memory",
   "vcpus": 2,
   "hypervisor": "KVM",

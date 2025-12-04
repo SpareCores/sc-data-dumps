@@ -4,7 +4,7 @@
   "name": "HIMEM-24xCPU-512GB",
   "api_reference": "HIMEM-24xCPU-512GB",
   "display_name": "HIMEM-24xCPU-512GB",
-  "description": "High Memory 24 vCPUs, 512 GB RAM",
+  "description": "High Memory (24 vCPUs, 512 GiB RAM)",
   "family": "High Memory",
   "vcpus": 24,
   "hypervisor": "KVM",

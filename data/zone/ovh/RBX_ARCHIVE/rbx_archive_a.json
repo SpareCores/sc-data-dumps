@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "RBX-ARCHIVE",
+  "zone_id": "rbx-archive-a",
+  "name": "rbx-archive-a",
+  "api_reference": "rbx-archive-a",
+  "display_name": "rbx-archive-a",
+  "status": "ACTIVE"
+}

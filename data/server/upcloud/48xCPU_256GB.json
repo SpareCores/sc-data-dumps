@@ -4,7 +4,7 @@
   "name": "48xCPU-256GB",
   "api_reference": "48xCPU-256GB",
   "display_name": "48xCPU-256GB",
-  "description": "General Purpose 48 vCPUs, 256 GB RAM",
+  "description": "General Purpose (48 vCPUs, 256 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 48,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "CLOUDNATIVE-64xCPU-192GB",
   "api_reference": "CLOUDNATIVE-64xCPU-192GB",
   "display_name": "CLOUDNATIVE-64xCPU-192GB",
-  "description": "CLOUDNATIVE 64 vCPUs, 192 GB RAM",
+  "description": "CLOUDNATIVE (64 vCPUs, 192 GiB RAM)",
   "family": "CLOUDNATIVE",
   "vcpus": 64,
   "hypervisor": "KVM",

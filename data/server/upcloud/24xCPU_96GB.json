@@ -4,7 +4,7 @@
   "name": "24xCPU-96GB",
   "api_reference": "24xCPU-96GB",
   "display_name": "24xCPU-96GB",
-  "description": "General Purpose 24 vCPUs, 96 GB RAM",
+  "description": "General Purpose (24 vCPUs, 96 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 24,
   "hypervisor": "KVM",

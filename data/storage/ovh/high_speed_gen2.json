@@ -1,0 +1,12 @@
+{
+  "vendor_id": "ovh",
+  "storage_id": "high-speed-gen2",
+  "name": "High Speed Volume Gen 2",
+  "description": "Offers optimised and scalable performance, and is recommended for intensive workloads.",
+  "storage_type": "NETWORK",
+  "max_iops": 20000,
+  "max_throughput": 320,
+  "min_size": 10,
+  "max_size": 12288,
+  "status": "ACTIVE"
+}

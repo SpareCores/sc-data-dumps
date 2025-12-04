@@ -4,7 +4,7 @@
   "name": "38xCPU-192GB",
   "api_reference": "38xCPU-192GB",
   "display_name": "38xCPU-192GB",
-  "description": "General Purpose 38 vCPUs, 192 GB RAM",
+  "description": "General Purpose (38 vCPUs, 192 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 38,
   "hypervisor": "KVM",

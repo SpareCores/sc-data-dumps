@@ -4,7 +4,7 @@
   "name": "GPU-8xCPU-64GB-1xL40S",
   "api_reference": "GPU-8xCPU-64GB-1xL40S",
   "display_name": "GPU-8xCPU-64GB-1xL40S",
-  "description": "GPU 8 vCPUs, 64 GB RAM",
+  "description": "GPU (8 vCPUs, 64 GiB RAM)",
   "family": "GPU",
   "vcpus": 8,
   "hypervisor": "KVM",

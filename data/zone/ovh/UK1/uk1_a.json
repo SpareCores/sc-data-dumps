@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "UK1",
+  "zone_id": "uk1-a",
+  "name": "uk1-a",
+  "api_reference": "uk1-a",
+  "display_name": "uk1-a",
+  "status": "ACTIVE"
+}

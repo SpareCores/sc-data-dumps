@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SYD",
+  "zone_id": "syd-a",
+  "name": "syd-a",
+  "api_reference": "syd-a",
+  "display_name": "syd-a",
+  "status": "ACTIVE"
+}

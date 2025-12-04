@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "GRA9",
+  "zone_id": "gra9-a",
+  "name": "gra9-a",
+  "api_reference": "gra9-a",
+  "display_name": "gra9-a",
+  "status": "ACTIVE"
+}

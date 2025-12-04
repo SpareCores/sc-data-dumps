@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SYD1",
+  "name": "SYD1",
+  "api_reference": "SYD1",
+  "display_name": "SYD1 (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": null,
+  "city": "Sydney",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 151.2057136,
+  "lat": -33.8727409,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

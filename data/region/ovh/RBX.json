@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "RBX",
+  "name": "RBX",
+  "api_reference": "RBX",
+  "display_name": "RBX (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Roubaix",
+  "address_line": "2 Rue Kellermann",
+  "zip_code": "59100",
+  "lon": 3.2003148,
+  "lat": 50.691834,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "BHS",
+  "zone_id": "bhs-a",
+  "name": "bhs-a",
+  "api_reference": "bhs-a",
+  "display_name": "bhs-a",
+  "status": "ACTIVE"
+}

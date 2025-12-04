@@ -4,7 +4,7 @@
   "name": "DEV-1xCPU-2GB",
   "api_reference": "DEV-1xCPU-2GB",
   "display_name": "DEV-1xCPU-2GB",
-  "description": "Developer 1 vCPUs, 2 GB RAM",
+  "description": "Developer (1 vCPUs, 2 GiB RAM)",
   "family": "Developer",
   "vcpus": 1,
   "hypervisor": "KVM",

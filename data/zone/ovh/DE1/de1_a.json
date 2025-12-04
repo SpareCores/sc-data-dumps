@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "DE1",
+  "zone_id": "de1-a",
+  "name": "de1-a",
+  "api_reference": "de1-a",
+  "display_name": "de1-a",
+  "status": "ACTIVE"
+}

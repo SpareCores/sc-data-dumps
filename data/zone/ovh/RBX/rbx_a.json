@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "RBX",
+  "zone_id": "rbx-a",
+  "name": "rbx-a",
+  "api_reference": "rbx-a",
+  "display_name": "rbx-a",
+  "status": "ACTIVE"
+}

@@ -4,7 +4,7 @@
   "name": "HIMEM-8xCPU-192GB",
   "api_reference": "HIMEM-8xCPU-192GB",
   "display_name": "HIMEM-8xCPU-192GB",
-  "description": "High Memory 8 vCPUs, 192 GB RAM",
+  "description": "High Memory (8 vCPUs, 192 GiB RAM)",
   "family": "High Memory",
   "vcpus": 8,
   "hypervisor": "KVM",

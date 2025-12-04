@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SGP",
+  "zone_id": "sgp-a",
+  "name": "sgp-a",
+  "api_reference": "sgp-a",
+  "display_name": "sgp-a",
+  "status": "ACTIVE"
+}

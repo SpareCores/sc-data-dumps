@@ -4,7 +4,7 @@
   "name": "1xCPU-1GB",
   "api_reference": "1xCPU-1GB",
   "display_name": "1xCPU-1GB",
-  "description": "General Purpose 1 vCPUs, 1 GB RAM",
+  "description": "General Purpose (1 vCPUs, 1 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 1,
   "hypervisor": "KVM",

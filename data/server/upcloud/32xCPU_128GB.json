@@ -4,7 +4,7 @@
   "name": "32xCPU-128GB",
   "api_reference": "32xCPU-128GB",
   "display_name": "32xCPU-128GB",
-  "description": "General Purpose 32 vCPUs, 128 GB RAM",
+  "description": "General Purpose (32 vCPUs, 128 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 32,
   "hypervisor": "KVM",

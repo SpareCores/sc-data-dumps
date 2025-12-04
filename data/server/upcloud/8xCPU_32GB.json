@@ -4,7 +4,7 @@
   "name": "8xCPU-32GB",
   "api_reference": "8xCPU-32GB",
   "display_name": "8xCPU-32GB",
-  "description": "General Purpose 8 vCPUs, 32 GB RAM",
+  "description": "General Purpose (8 vCPUs, 32 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 8,
   "hypervisor": "KVM",

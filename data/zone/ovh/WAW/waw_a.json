@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "WAW",
+  "zone_id": "waw-a",
+  "name": "waw-a",
+  "api_reference": "waw-a",
+  "display_name": "waw-a",
+  "status": "ACTIVE"
+}

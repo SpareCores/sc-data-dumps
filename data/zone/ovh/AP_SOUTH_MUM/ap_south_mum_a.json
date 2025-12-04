@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "AP-SOUTH-MUM",
+  "zone_id": "ap-south-mum-a",
+  "name": "ap-south-mum-a",
+  "api_reference": "ap-south-mum-a",
+  "display_name": "ap-south-mum-a",
+  "status": "ACTIVE"
+}

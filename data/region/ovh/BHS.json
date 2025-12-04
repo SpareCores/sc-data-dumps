@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "BHS",
+  "name": "BHS",
+  "api_reference": "BHS",
+  "display_name": "BHS (CA)",
+  "aliases": [],
+  "country_id": "CA",
+  "state": "Quebec",
+  "city": "Beauharnois",
+  "address_line": "50 Rue de l'Aluminerie",
+  "zip_code": "J6N 0C2",
+  "lon": -73.8965535,
+  "lat": 45.3093037,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

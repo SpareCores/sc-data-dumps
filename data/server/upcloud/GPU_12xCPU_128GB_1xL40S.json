@@ -4,7 +4,7 @@
   "name": "GPU-12xCPU-128GB-1xL40S",
   "api_reference": "GPU-12xCPU-128GB-1xL40S",
   "display_name": "GPU-12xCPU-128GB-1xL40S",
-  "description": "GPU 12 vCPUs, 128 GB RAM",
+  "description": "GPU (12 vCPUs, 128 GiB RAM)",
   "family": "GPU",
   "vcpus": 12,
   "hypervisor": "KVM",

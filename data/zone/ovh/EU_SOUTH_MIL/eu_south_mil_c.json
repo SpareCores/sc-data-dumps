@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "EU-SOUTH-MIL",
+  "zone_id": "eu-south-mil-c",
+  "name": "eu-south-mil-c",
+  "api_reference": "eu-south-mil-c",
+  "display_name": "eu-south-mil-c",
+  "status": "ACTIVE"
+}

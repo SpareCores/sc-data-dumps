@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SBG",
+  "name": "SBG",
+  "api_reference": "SBG",
+  "display_name": "SBG (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Strasbourg",
+  "address_line": "9 Rue du Bass. de l'Industrie",
+  "zip_code": "67000",
+  "lon": 7.7974307,
+  "lat": 48.5854388,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

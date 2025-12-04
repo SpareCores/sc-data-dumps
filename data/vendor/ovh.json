@@ -1,0 +1,14 @@
+{
+  "vendor_id": "ovh",
+  "name": "OVHcloud",
+  "logo": "https://sparecores.com/assets/images/vendors/ovh.svg",
+  "homepage": "https://www.ovhcloud.com",
+  "country_id": "FR",
+  "state": "Hauts-de-France",
+  "city": "Roubaix",
+  "address_line": "2 rue Kellermann",
+  "zip_code": "59100",
+  "founding_year": 1999,
+  "status_page": "https://www.status-ovhcloud.com",
+  "status": "ACTIVE"
+}

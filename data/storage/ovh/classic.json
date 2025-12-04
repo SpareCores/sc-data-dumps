@@ -1,0 +1,12 @@
+{
+  "vendor_id": "ovh",
+  "storage_id": "classic",
+  "name": "Classic Volume",
+  "description": "Perfect for the daily application needs of databases, virtual machines, and backups.",
+  "storage_type": "NETWORK",
+  "max_iops": 500,
+  "max_throughput": 64,
+  "min_size": 10,
+  "max_size": 12288,
+  "status": "ACTIVE"
+}

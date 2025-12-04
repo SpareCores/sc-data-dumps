@@ -4,7 +4,7 @@
   "name": "HIMEM-4xCPU-64GB",
   "api_reference": "HIMEM-4xCPU-64GB",
   "display_name": "HIMEM-4xCPU-64GB",
-  "description": "High Memory 4 vCPUs, 64 GB RAM",
+  "description": "High Memory (4 vCPUs, 64 GiB RAM)",
   "family": "High Memory",
   "vcpus": 4,
   "hypervisor": "KVM",

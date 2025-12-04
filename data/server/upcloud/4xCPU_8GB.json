@@ -4,7 +4,7 @@
   "name": "4xCPU-8GB",
   "api_reference": "4xCPU-8GB",
   "display_name": "4xCPU-8GB",
-  "description": "General Purpose 4 vCPUs, 8 GB RAM",
+  "description": "General Purpose (4 vCPUs, 8 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 4,
   "hypervisor": "KVM",

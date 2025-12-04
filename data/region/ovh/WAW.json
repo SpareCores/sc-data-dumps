@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "WAW",
+  "name": "WAW",
+  "api_reference": "WAW",
+  "display_name": "WAW (PL)",
+  "aliases": [],
+  "country_id": "PL",
+  "state": null,
+  "city": "Warsaw",
+  "address_line": "Kazimierza Kami\u0144skiego 6",
+  "zip_code": "05-850",
+  "lon": 20.8080621,
+  "lat": 52.2077264,
+  "founding_year": 2016,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

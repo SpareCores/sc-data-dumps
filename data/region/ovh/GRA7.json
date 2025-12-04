@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "GRA7",
+  "name": "GRA7",
+  "api_reference": "GRA7",
+  "display_name": "GRA7 (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Gravelines",
+  "address_line": "1 Rte de la Frm Masson",
+  "zip_code": "59820",
+  "lon": 2.1551437,
+  "lat": 51.0166852,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -4,7 +4,7 @@
   "name": "CLOUDNATIVE-32xCPU-256GB",
   "api_reference": "CLOUDNATIVE-32xCPU-256GB",
   "display_name": "CLOUDNATIVE-32xCPU-256GB",
-  "description": "CLOUDNATIVE 32 vCPUs, 256 GB RAM",
+  "description": "CLOUDNATIVE (32 vCPUs, 256 GiB RAM)",
   "family": "CLOUDNATIVE",
   "vcpus": 32,
   "hypervisor": "KVM",

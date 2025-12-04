@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "CA-EAST-TOR",
+  "zone_id": "ca-east-tor-a",
+  "name": "ca-east-tor-a",
+  "api_reference": "ca-east-tor-a",
+  "display_name": "ca-east-tor-a",
+  "status": "ACTIVE"
+}

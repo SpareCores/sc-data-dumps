@@ -4,7 +4,7 @@
   "name": "GPU-32xCPU-384GB-3xL40S",
   "api_reference": "GPU-32xCPU-384GB-3xL40S",
   "display_name": "GPU-32xCPU-384GB-3xL40S",
-  "description": "GPU 32 vCPUs, 384 GB RAM",
+  "description": "GPU (32 vCPUs, 384 GiB RAM)",
   "family": "GPU",
   "vcpus": 32,
   "hypervisor": "KVM",

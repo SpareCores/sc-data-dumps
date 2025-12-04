@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "EU-WEST-PAR",
+  "name": "EU-WEST-PAR",
+  "api_reference": "EU-WEST-PAR",
+  "display_name": "EU-WEST-PAR (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": "12 Rue Riquet",
+  "zip_code": "75019",
+  "lon": 2.3755977,
+  "lat": 48.8885363,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

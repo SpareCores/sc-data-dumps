@@ -4,7 +4,7 @@
   "name": "12xCPU-48GB",
   "api_reference": "12xCPU-48GB",
   "display_name": "12xCPU-48GB",
-  "description": "General Purpose 12 vCPUs, 48 GB RAM",
+  "description": "General Purpose (12 vCPUs, 48 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 12,
   "hypervisor": "KVM",

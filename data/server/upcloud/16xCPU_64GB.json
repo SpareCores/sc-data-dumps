@@ -4,7 +4,7 @@
   "name": "16xCPU-64GB",
   "api_reference": "16xCPU-64GB",
   "display_name": "16xCPU-64GB",
-  "description": "General Purpose 16 vCPUs, 64 GB RAM",
+  "description": "General Purpose (16 vCPUs, 64 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 16,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "GPU-16xCPU-192GB-2xL40S",
   "api_reference": "GPU-16xCPU-192GB-2xL40S",
   "display_name": "GPU-16xCPU-192GB-2xL40S",
-  "description": "GPU 16 vCPUs, 192 GB RAM",
+  "description": "GPU (16 vCPUs, 192 GiB RAM)",
   "family": "GPU",
   "vcpus": 16,
   "hypervisor": "KVM",

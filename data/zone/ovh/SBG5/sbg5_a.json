@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SBG5",
+  "zone_id": "sbg5-a",
+  "name": "sbg5-a",
+  "api_reference": "sbg5-a",
+  "display_name": "sbg5-a",
+  "status": "ACTIVE"
+}

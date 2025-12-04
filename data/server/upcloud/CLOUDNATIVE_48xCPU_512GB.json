@@ -4,7 +4,7 @@
   "name": "CLOUDNATIVE-48xCPU-512GB",
   "api_reference": "CLOUDNATIVE-48xCPU-512GB",
   "display_name": "CLOUDNATIVE-48xCPU-512GB",
-  "description": "CLOUDNATIVE 48 vCPUs, 512 GB RAM",
+  "description": "CLOUDNATIVE (48 vCPUs, 512 GiB RAM)",
   "family": "CLOUDNATIVE",
   "vcpus": 48,
   "hypervisor": "KVM",

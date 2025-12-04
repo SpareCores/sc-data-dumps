@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "SGP",
+  "name": "SGP",
+  "api_reference": "SGP",
+  "display_name": "SGP (SG)",
+  "aliases": [],
+  "country_id": "SG",
+  "state": null,
+  "city": "Singapore",
+  "address_line": "1 Paya Lebar Link",
+  "zip_code": "408533",
+  "lon": 103.893902,
+  "lat": 1.3177101,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "AP-SOUTH-MUM-1",
+  "name": "AP-SOUTH-MUM-1",
+  "api_reference": "AP-SOUTH-MUM-1",
+  "display_name": "AP-SOUTH-MUM-1 (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": null,
+  "city": "Mumbai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 72.7141328,
+  "lat": 19.0824822,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

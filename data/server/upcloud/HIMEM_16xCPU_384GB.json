@@ -4,7 +4,7 @@
   "name": "HIMEM-16xCPU-384GB",
   "api_reference": "HIMEM-16xCPU-384GB",
   "display_name": "HIMEM-16xCPU-384GB",
-  "description": "High Memory 16 vCPUs, 384 GB RAM",
+  "description": "High Memory (16 vCPUs, 384 GiB RAM)",
   "family": "High Memory",
   "vcpus": 16,
   "hypervisor": "KVM",

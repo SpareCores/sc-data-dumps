@@ -4,7 +4,7 @@
   "name": "80xCPU-512GB",
   "api_reference": "80xCPU-512GB",
   "display_name": "80xCPU-512GB",
-  "description": "General Purpose 80 vCPUs, 512 GB RAM",
+  "description": "General Purpose (80 vCPUs, 512 GiB RAM)",
   "family": "General Purpose",
   "vcpus": 80,
   "hypervisor": "KVM",

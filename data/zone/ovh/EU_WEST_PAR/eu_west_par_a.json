@@ -1,0 +1,9 @@
+{
+  "vendor_id": "ovh",
+  "region_id": "EU-WEST-PAR",
+  "zone_id": "eu-west-par-a",
+  "name": "eu-west-par-a",
+  "api_reference": "eu-west-par-a",
+  "display_name": "eu-west-par-a",
+  "status": "ACTIVE"
+}

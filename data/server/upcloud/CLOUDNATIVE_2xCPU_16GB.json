@@ -4,7 +4,7 @@
   "name": "CLOUDNATIVE-2xCPU-16GB",
   "api_reference": "CLOUDNATIVE-2xCPU-16GB",
   "display_name": "CLOUDNATIVE-2xCPU-16GB",
-  "description": "CLOUDNATIVE 2 vCPUs, 16 GB RAM",
+  "description": "CLOUDNATIVE (2 vCPUs, 16 GiB RAM)",
   "family": "CLOUDNATIVE",
   "vcpus": 2,
   "hypervisor": "KVM",

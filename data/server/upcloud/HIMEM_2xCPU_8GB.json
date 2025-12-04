@@ -4,7 +4,7 @@
   "name": "HIMEM-2xCPU-8GB",
   "api_reference": "HIMEM-2xCPU-8GB",
   "display_name": "HIMEM-2xCPU-8GB",
-  "description": "High Memory 2 vCPUs, 8 GB RAM",
+  "description": "High Memory (2 vCPUs, 8 GiB RAM)",
   "family": "High Memory",
   "vcpus": 2,
   "hypervisor": "KVM",

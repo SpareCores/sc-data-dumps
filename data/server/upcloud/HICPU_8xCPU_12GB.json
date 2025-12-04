@@ -4,7 +4,7 @@
   "name": "HICPU-8xCPU-12GB",
   "api_reference": "HICPU-8xCPU-12GB",
   "display_name": "HICPU-8xCPU-12GB",
-  "description": "High CPU 8 vCPUs, 12 GB RAM",
+  "description": "High CPU (8 vCPUs, 12 GiB RAM)",
   "family": "High CPU",
   "vcpus": 8,
   "hypervisor": "KVM",
