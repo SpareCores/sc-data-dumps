@@ -14,7 +14,7 @@
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
-  "cpu_model": "EPYC-Milan",
+  "cpu_model": "Milan",
   "cpu_l1_cache": 524288,
   "cpu_l2_cache": 4194304,
   "cpu_l3_cache": 268435456,
