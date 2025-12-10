@@ -189,6 +189,8 @@ jobs:
             cat CHANGELOG.md >> CHANGELOG.new
             mv CHANGELOG.new CHANGELOG.md
 
+            # record 
+
             # pass required env vars and files for later steps
             echo "CRAWLER_VERSION=${CRAWLER_VERSION}" >> "$GITHUB_ENV"
             echo "CHANGESFOUND=${CHANGESFOUND}" >> "$GITHUB_ENV"
