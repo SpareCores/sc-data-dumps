@@ -29,7 +29,7 @@
   "gpu_memory_total": 49152,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Turing",
-  "gpu_model": "Quadro RTX 5000",
+  "gpu_model": "RTX 5000",
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
