@@ -1,0 +1,9 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "dk-cph1",
+  "zone_id": "dk-cph1",
+  "name": "Copenhagen #1",
+  "api_reference": "dk-cph1",
+  "display_name": "Copenhagen #1",
+  "status": "ACTIVE"
+}

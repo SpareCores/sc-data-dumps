@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "dk-cph1",
+  "name": "Copenhagen #1",
+  "api_reference": "dk-cph1",
+  "display_name": "Copenhagen #1 (DK)",
+  "aliases": [],
+  "country_id": "DK",
+  "state": null,
+  "city": "Copenhagen",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 12.57,
+  "lat": 55.68,
+  "founding_year": 2026,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
