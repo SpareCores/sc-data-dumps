@@ -189,7 +189,8 @@ jobs:
             cat CHANGELOG.md >> CHANGELOG.new
             mv CHANGELOG.new CHANGELOG.md
 
-            # record metadata of Python packages used and 
+            # record metadata of Python packages used and commit details
+            
 
             # pass required env vars and files for later steps
             echo "CRAWLER_VERSION=${CRAWLER_VERSION}" >> "$GITHUB_ENV"
