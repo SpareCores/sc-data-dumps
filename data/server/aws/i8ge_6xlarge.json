@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AWS",
   "cpu_family": "ARMv9",
   "cpu_model": "Neoverse-V2",
-  "cpu_l1_cache": 3145728,
+  "cpu_l1_cache": 1572864,
   "cpu_l2_cache": 50331648,
   "cpu_l3_cache": 37748736,
   "cpu_flags": [

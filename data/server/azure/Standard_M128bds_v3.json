@@ -15,7 +15,7 @@
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
   "cpu_model": "8473C",
-  "cpu_l1_cache": 5242880,
+  "cpu_l1_cache": 3145728,
   "cpu_l2_cache": 134217728,
   "cpu_l3_cache": 220200960,
   "cpu_flags": [

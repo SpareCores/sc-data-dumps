@@ -15,7 +15,7 @@
   "cpu_manufacturer": null,
   "cpu_family": null,
   "cpu_model": "8581C",
-  "cpu_l1_cache": 9175040,
+  "cpu_l1_cache": 5505024,
   "cpu_l2_cache": 234881024,
   "cpu_l3_cache": 545259520,
   "cpu_flags": [

@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "Milan",
-  "cpu_l1_cache": 8388608,
+  "cpu_l1_cache": 4194304,
   "cpu_l2_cache": 67108864,
   "cpu_l3_cache": null,
   "cpu_flags": [
