@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "eu-central-1",
+  "zone_id": "eu-central-1c",
+  "name": "Frankfurt Zone C",
+  "api_reference": "eu-central-1c",
+  "display_name": "Frankfurt Zone C",
+  "status": "ACTIVE"
+}

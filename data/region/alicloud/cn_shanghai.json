@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-shanghai",
+  "name": "China (Shanghai)",
+  "api_reference": "cn-shanghai",
+  "display_name": "Shanghai (CN)",
+  "aliases": [
+    "cn-shanghai-eu13-a01"
+  ],
+  "country_id": "CN",
+  "state": null,
+  "city": "Shanghai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 121.4737,
+  "lat": 31.2304,
+  "founding_year": 2015,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

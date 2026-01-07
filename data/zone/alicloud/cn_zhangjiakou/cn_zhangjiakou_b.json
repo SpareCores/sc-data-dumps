@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-zhangjiakou",
+  "zone_id": "cn-zhangjiakou-b",
+  "name": "Zhangjiakou Zone B",
+  "api_reference": "cn-zhangjiakou-b",
+  "display_name": "Zhangjiakou Zone B",
+  "status": "ACTIVE"
+}

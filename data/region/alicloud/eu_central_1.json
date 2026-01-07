@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "eu-central-1",
+  "name": "Germany (Frankfurt)",
+  "api_reference": "eu-central-1",
+  "display_name": "Frankfurt (DE)",
+  "aliases": [
+    "eu-central-de46-a01"
+  ],
+  "country_id": "DE",
+  "state": null,
+  "city": "Frankfurt",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.6821,
+  "lat": 50.1109,
+  "founding_year": 2016,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

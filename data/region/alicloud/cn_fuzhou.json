@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-fuzhou",
+  "name": "China (Fuzhou - Local Region) Closing Down",
+  "api_reference": "cn-fuzhou",
+  "display_name": "Fuzhou (CN)",
+  "aliases": [],
+  "country_id": "CN",
+  "state": null,
+  "city": "Fuzhou",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 119.2965,
+  "lat": 26.0745,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

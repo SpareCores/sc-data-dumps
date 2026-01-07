@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-guangzhou",
+  "name": "China (Guangzhou)",
+  "api_reference": "cn-guangzhou",
+  "display_name": "Guangzhou (CN)",
+  "aliases": [
+    "cn-guangzhou-so157-a01"
+  ],
+  "country_id": "CN",
+  "state": null,
+  "city": "Guangzhou",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 113.2644,
+  "lat": 23.1291,
+  "founding_year": 2020,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

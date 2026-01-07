@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-hangzhou",
+  "zone_id": "cn-hangzhou-h",
+  "name": "Hangzhou Zone H",
+  "api_reference": "cn-hangzhou-h",
+  "display_name": "Hangzhou Zone H",
+  "status": "ACTIVE"
+}

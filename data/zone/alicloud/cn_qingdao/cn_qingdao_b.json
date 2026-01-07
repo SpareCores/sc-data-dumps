@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-qingdao",
+  "zone_id": "cn-qingdao-b",
+  "name": "Qingdao Zone B",
+  "api_reference": "cn-qingdao-b",
+  "display_name": "Qingdao Zone B",
+  "status": "ACTIVE"
+}

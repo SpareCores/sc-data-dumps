@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-wulanchabu",
+  "zone_id": "cn-wulanchabu-b",
+  "name": "Ulanqab Zone B",
+  "api_reference": "cn-wulanchabu-b",
+  "display_name": "Ulanqab Zone B",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "ap-southeast-3",
+  "name": "Malaysia (Kuala Lumpur)",
+  "api_reference": "ap-southeast-3",
+  "display_name": "Kuala Lumpur (MY)",
+  "aliases": [
+    "ap-southeast-my88-a01"
+  ],
+  "country_id": "MY",
+  "state": null,
+  "city": "Kuala Lumpur",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 101.6869,
+  "lat": 3.139,
+  "founding_year": 2017,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

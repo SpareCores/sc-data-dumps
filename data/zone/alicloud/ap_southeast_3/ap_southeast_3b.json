@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "ap-southeast-3",
+  "zone_id": "ap-southeast-3b",
+  "name": "Kuala Lumpur Zone B",
+  "api_reference": "ap-southeast-3b",
+  "display_name": "Kuala Lumpur Zone B",
+  "status": "ACTIVE"
+}

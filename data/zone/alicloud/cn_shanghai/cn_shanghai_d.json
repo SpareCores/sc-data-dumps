@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-shanghai",
+  "zone_id": "cn-shanghai-d",
+  "name": "Shanghai Zone D",
+  "api_reference": "cn-shanghai-d",
+  "display_name": "Shanghai Zone D",
+  "status": "ACTIVE"
+}

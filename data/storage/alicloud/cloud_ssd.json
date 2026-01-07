@@ -1,0 +1,12 @@
+{
+  "vendor_id": "alicloud",
+  "storage_id": "cloud_ssd",
+  "name": "cloud_ssd",
+  "description": "Standard SSD.",
+  "storage_type": "SSD",
+  "max_iops": 20000,
+  "max_throughput": 256,
+  "min_size": 20,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}
