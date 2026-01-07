@@ -190,7 +190,21 @@ jobs:
             mv CHANGELOG.new CHANGELOG.md
 
             # record metadata of Python packages used and commit details
-            
+            cat > environment-info.json << 'EOF'
+    {
+      "python_version": "$(python --version 2>&1 | cut -d' ' -f2)",
+      "pip_freeze": $(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))'),
+      "environment_variables": {
+        "PYTHON_VERSION": "${{ env.PYTHON_VERSION }}",
+        "VERSION_DATE": "${{ env.VERSIONDATE }}",
+        "NEW_VERSION_DATE": "${{ env.NEWVERSIONDATE }}",
+        "SC_CRAWLER_VERSION": "${{ env.SC_CRAWLER_VERSION }}",
+        "SC_KEEPER_VERSION": "${{ env.SC_KEEPER_VERSION }}",
+        "SC_CRAWLER_TABLE_VERSION": "${{ env.SC_CRAWLER_TABLE_VERSION }}"
+      },
+      "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+    }
+    EOF
 
             # pass required env vars and files for later steps
             echo "CRAWLER_VERSION=${CRAWLER_VERSION}" >> "$GITHUB_ENV"

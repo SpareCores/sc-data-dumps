@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-east-2",
+  "name": "Asia Pacific (Taipei)",
+  "api_reference": "ap-east-2",
+  "display_name": "Taipei (TW)",
+  "aliases": [],
+  "country_id": "TW",
+  "state": null,
+  "city": "Taipei",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 121.563667,
+  "lat": 25.037518,
+  "founding_year": 2025,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
