@@ -195,7 +195,7 @@ jobs:
               "python_version": "$(python --version 2>&1 | cut -d' ' -f2)",
               "pip_freeze": $(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))'),
               "environment_variables": {
-                "CRAWLER_VERSION": "${{ env.PYTHON_VERSION }}",
+                "CRAWLER_VERSION": "${{ env.CRAWLER_VERSION }}",
                 "VERSION_DATE": "${{ env.VERSIONDATE }}",
                 "NEW_VERSION_DATE": "${{ env.NEWVERSIONDATE }}",
                 "SC_CRAWLER_VERSION": "${{ env.SC_CRAWLER_VERSION }}",
