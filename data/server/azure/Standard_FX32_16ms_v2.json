@@ -6,7 +6,7 @@
   "display_name": "FX32-16ms_v2",
   "description": "StandardFXmsv2 family [Memory Intensive] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "StandardFXmsv2",
-  "vcpus": 32,
+  "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,

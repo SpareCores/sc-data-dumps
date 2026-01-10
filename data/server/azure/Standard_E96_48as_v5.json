@@ -6,7 +6,7 @@
   "display_name": "E96-48as_v5",
   "description": "EASv5 family [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "EASv5",
-  "vcpus": 96,
+  "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 24,

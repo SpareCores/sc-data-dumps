@@ -6,7 +6,7 @@
   "display_name": "E32-16s_v4",
   "description": "ESv4 family [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "ESv4",
-  "vcpus": 32,
+  "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,

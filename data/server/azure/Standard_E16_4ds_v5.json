@@ -6,7 +6,7 @@
   "display_name": "E16-4ds_v5",
   "description": "EDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "EDSv5",
-  "vcpus": 16,
+  "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,

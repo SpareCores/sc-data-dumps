@@ -6,7 +6,7 @@
   "display_name": "M8-2ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "MS",
-  "vcpus": 8,
+  "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,

@@ -6,7 +6,7 @@
   "display_name": "E64-32s_v5",
   "description": "ESv5 family [Premium Storage capable] [Intel processor] 64 vCPUs",
   "family": "ESv5",
-  "vcpus": 64,
+  "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,

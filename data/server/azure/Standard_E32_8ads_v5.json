@@ -6,7 +6,7 @@
   "display_name": "E32-8ads_v5",
   "description": "EADSv5 family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
   "family": "EADSv5",
-  "vcpus": 32,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,

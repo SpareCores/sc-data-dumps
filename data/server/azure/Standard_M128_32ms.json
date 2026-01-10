@@ -6,7 +6,7 @@
   "display_name": "M128-32ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "MS",
-  "vcpus": 128,
+  "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,

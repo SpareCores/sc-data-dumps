@@ -6,7 +6,7 @@
   "display_name": "E32-8ds_v6",
   "description": "StandardEdsv6 family [Local Disk] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "StandardEdsv6",
-  "vcpus": 32,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,

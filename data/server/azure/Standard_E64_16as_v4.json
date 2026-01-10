@@ -6,7 +6,7 @@
   "display_name": "E64-16as_v4",
   "description": "EASv4 family [AMD processor] [Premium Storage capable] 64 vCPUs",
   "family": "EASv4",
-  "vcpus": 64,
+  "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,

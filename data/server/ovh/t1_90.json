@@ -6,7 +6,7 @@
   "display_name": "t1-90",
   "description": "Cloud GPU (18 vCPUs, 90 GiB RAM, 800 GB NVMe storage, 2xV100 16 GiB VRAM)",
   "family": "Cloud GPU",
-  "vcpus": 18,
+  "vcpus": 16,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,

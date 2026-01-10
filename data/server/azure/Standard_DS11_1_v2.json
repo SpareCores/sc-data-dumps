@@ -6,7 +6,7 @@
   "display_name": "DS11-1_v2",
   "description": "DSv2 family [Intel processor] 2 vCPUs",
   "family": "DSv2",
-  "vcpus": 2,
+  "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,

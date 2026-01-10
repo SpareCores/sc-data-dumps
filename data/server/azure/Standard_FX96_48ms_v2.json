@@ -6,7 +6,7 @@
   "display_name": "FX96-48ms_v2",
   "description": "StandardFXmsv2 family [Memory Intensive] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "StandardFXmsv2",
-  "vcpus": 96,
+  "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 24,

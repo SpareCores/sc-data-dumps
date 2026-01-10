@@ -6,7 +6,7 @@
   "display_name": "FX4-2ms_v2",
   "description": "StandardFXmsv2 family [Memory Intensive] [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "StandardFXmsv2",
-  "vcpus": 4,
+  "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,

@@ -6,7 +6,7 @@
   "display_name": "E8-2ds_v5",
   "description": "EDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "EDSv5",
-  "vcpus": 8,
+  "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,

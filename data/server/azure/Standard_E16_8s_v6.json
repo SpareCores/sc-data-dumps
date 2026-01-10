@@ -6,7 +6,7 @@
   "display_name": "E16-8s_v6",
   "description": "StandardEsv6 family [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "StandardEsv6",
-  "vcpus": 16,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,

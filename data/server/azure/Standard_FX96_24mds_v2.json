@@ -6,7 +6,7 @@
   "display_name": "FX96-24mds_v2",
   "description": "StandardFXmdsv2 family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "StandardFXmdsv2",
-  "vcpus": 96,
+  "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,

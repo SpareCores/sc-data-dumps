@@ -6,7 +6,7 @@
   "display_name": "M416-208s_v2",
   "description": "MSv2 family [Premium Storage capable] [Intel processor] 416 vCPUs",
   "family": "MSv2",
-  "vcpus": 416,
+  "vcpus": 208,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 104,

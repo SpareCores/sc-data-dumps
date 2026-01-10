@@ -6,7 +6,7 @@
   "display_name": "M32-8ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "MS",
-  "vcpus": 32,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,

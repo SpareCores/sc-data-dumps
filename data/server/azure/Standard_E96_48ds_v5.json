@@ -6,7 +6,7 @@
   "display_name": "E96-48ds_v5",
   "description": "EDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "EDSv5",
-  "vcpus": 96,
+  "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 24,

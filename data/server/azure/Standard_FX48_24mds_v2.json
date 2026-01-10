@@ -6,7 +6,7 @@
   "display_name": "FX48-24mds_v2",
   "description": "StandardFXmdsv2 family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "StandardFXmdsv2",
-  "vcpus": 48,
+  "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 12,

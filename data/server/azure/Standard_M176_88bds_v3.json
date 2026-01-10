@@ -6,7 +6,7 @@
   "display_name": "M176-88bds_v3",
   "description": "StandardMBDSMediumMemoryv3 family [Block Storage performance] [Local Disk] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "StandardMBDSMediumMemoryv3",
-  "vcpus": 176,
+  "vcpus": 88,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 44,

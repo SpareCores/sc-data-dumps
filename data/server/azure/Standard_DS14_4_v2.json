@@ -6,7 +6,7 @@
   "display_name": "DS14-4_v2",
   "description": "DSv2 family [Intel processor] 16 vCPUs",
   "family": "DSv2",
-  "vcpus": 16,
+  "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,

@@ -6,7 +6,7 @@
   "display_name": "GS4-8",
   "description": "GS family [Intel processor] 16 vCPUs",
   "family": "GS",
-  "vcpus": 16,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,

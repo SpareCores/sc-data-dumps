@@ -6,7 +6,7 @@
   "display_name": "M128-64bds_3_v3",
   "description": "StandardMBDSMediumMemoryv3 family [Block Storage performance] [Local Disk] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "StandardMBDSMediumMemoryv3",
-  "vcpus": 128,
+  "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 32,

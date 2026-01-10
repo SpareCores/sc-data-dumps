@@ -6,7 +6,7 @@
   "display_name": "M16-4ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "MS",
-  "vcpus": 16,
+  "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,

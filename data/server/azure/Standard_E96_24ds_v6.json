@@ -6,7 +6,7 @@
   "display_name": "E96-24ds_v6",
   "description": "StandardEdsv6 family [Local Disk] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "StandardEdsv6",
-  "vcpus": 96,
+  "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 12,

@@ -6,7 +6,7 @@
   "display_name": "DS13-2_v2",
   "description": "DSv2 family [Intel processor] 8 vCPUs",
   "family": "DSv2",
-  "vcpus": 8,
+  "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
