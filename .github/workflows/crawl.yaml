@@ -196,7 +196,8 @@ jobs:
               "pip_freeze": $(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))'),
               "environment_variables": {
                 "CRAWLER_VERSION": "${{ env.CRAWLER_VERSION }}",
-                "NEWVERSION": "${{ env.CRAWLER_VERSION }}",
+                "NEWVERSION": "${{ env.NEWVERSION }}",
+                "NEWVERSION": "${{ env.NEWVERSION }}",
                 "CHANGESFOUND": "${{ env.CHANGESFOUND }}",
                 "GHARUNURL": "${{ env.GHARUNURL }}",
                 "SC_CRAWLER_VERSION": "${{ env.SC_CRAWLER_VERSION }}",
