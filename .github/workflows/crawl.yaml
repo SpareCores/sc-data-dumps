@@ -197,12 +197,9 @@ jobs:
               "environment_variables": {
                 "CRAWLER_VERSION": "${{ env.CRAWLER_VERSION }}",
                 "NEWVERSION": "${{ env.NEWVERSION }}",
-                "NEWVERSION": "${{ env.NEWVERSION }}",
+                "NEWVERSIONDATE": "${{ env.NEWVERSIONDATE }}",
                 "CHANGESFOUND": "${{ env.CHANGESFOUND }}",
                 "GHARUNURL": "${{ env.GHARUNURL }}",
-                "SC_CRAWLER_VERSION": "${{ env.SC_CRAWLER_VERSION }}",
-                "SC_KEEPER_VERSION": "${{ env.SC_KEEPER_VERSION }}",
-                "SC_CRAWLER_TABLE_VERSION": "${{ env.SC_CRAWLER_TABLE_VERSION }}"
               },
               "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
             }
