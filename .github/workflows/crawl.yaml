@@ -190,7 +190,7 @@ jobs:
             mv CHANGELOG.new CHANGELOG.md
 
             # record metadata of Python packages used and commit details
-            cat > environment-info.json << 'EOF'
+            cat > last-run-info.json << 'EOF'
             {
               "python_version": "$(python --version 2>&1 | cut -d' ' -f2)",
               "pip_freeze": $(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))'),
