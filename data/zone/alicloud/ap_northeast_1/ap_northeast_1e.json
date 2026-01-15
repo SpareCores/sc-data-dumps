@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "ap-northeast-1",
-  "zone_id": "ap-northeast-1e",
-  "name": "Tokyo Zone E",
-  "api_reference": "ap-northeast-1e",
-  "display_name": "Tokyo Zone E",
-  "status": "ACTIVE"
-}

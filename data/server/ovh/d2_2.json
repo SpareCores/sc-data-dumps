@@ -14,8 +14,8 @@
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": null,
-  "cpu_model": "Core Processor (Haswell, no TSX)",
-  "cpu_l1_cache": 32768,
+  "cpu_model": "Haswell",
+  "cpu_l1_cache": 65536,
   "cpu_l2_cache": 4194304,
   "cpu_l3_cache": 16777216,
   "cpu_flags": [

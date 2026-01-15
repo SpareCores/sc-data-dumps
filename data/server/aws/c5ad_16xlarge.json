@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "7R32",
-  "cpu_l1_cache": 1048576,
+  "cpu_l1_cache": 2097152,
   "cpu_l2_cache": 16777216,
   "cpu_l3_cache": 134217728,
   "cpu_flags": [

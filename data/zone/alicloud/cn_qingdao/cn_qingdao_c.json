@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "cn-qingdao",
-  "zone_id": "cn-qingdao-c",
-  "name": "Qingdao Zone C",
-  "api_reference": "cn-qingdao-c",
-  "display_name": "Qingdao Zone C",
-  "status": "ACTIVE"
-}

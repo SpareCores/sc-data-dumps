@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "me-east-1",
-  "zone_id": "me-east-1a",
-  "name": "Dubai Zone A",
-  "api_reference": "me-east-1a",
-  "display_name": "Dubai Zone A",
-  "status": "ACTIVE"
-}

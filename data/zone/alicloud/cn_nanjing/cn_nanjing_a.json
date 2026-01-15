@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "cn-nanjing",
-  "zone_id": "cn-nanjing-a",
-  "name": "Nanjing - Local Region Zone A",
-  "api_reference": "cn-nanjing-a",
-  "display_name": "Nanjing - Local Region Zone A",
-  "status": "ACTIVE"
-}

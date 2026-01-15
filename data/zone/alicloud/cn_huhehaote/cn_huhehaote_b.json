@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "cn-huhehaote",
-  "zone_id": "cn-huhehaote-b",
-  "name": "Hohhot Zone B",
-  "api_reference": "cn-huhehaote-b",
-  "display_name": "Hohhot Zone B",
-  "status": "ACTIVE"
-}

@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "us-west-1",
-  "zone_id": "us-west-1b",
-  "name": "Silicon Valley Zone B",
-  "api_reference": "us-west-1b",
-  "display_name": "Silicon Valley Zone B",
-  "status": "ACTIVE"
-}

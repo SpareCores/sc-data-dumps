@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "ap-southeast-7",
-  "zone_id": "ap-southeast-7b",
-  "name": "Bangkok Zone B",
-  "api_reference": "ap-southeast-7b",
-  "display_name": "Bangkok Zone B",
-  "status": "ACTIVE"
-}

@@ -6,7 +6,7 @@
   "display_name": "M176-88bs_v3",
   "description": "StandardMBSMediumMemoryv3 family [Block Storage performance] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "StandardMBSMediumMemoryv3",
-  "vcpus": 88,
+  "vcpus": 176,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 44,
@@ -15,7 +15,7 @@
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
   "cpu_model": "8473C",
-  "cpu_l1_cache": 2162688,
+  "cpu_l1_cache": 3604480,
   "cpu_l2_cache": 92274688,
   "cpu_l3_cache": 220200960,
   "cpu_flags": [

@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "eu-west-1",
-  "zone_id": "eu-west-1b",
-  "name": "London Zone B",
-  "api_reference": "eu-west-1b",
-  "display_name": "London Zone B",
-  "status": "ACTIVE"
-}

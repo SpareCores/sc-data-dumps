@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AWS",
   "cpu_family": "ARMv8",
   "cpu_model": "Cortex-A72",
-  "cpu_l1_cache": 32768,
+  "cpu_l1_cache": 81920,
   "cpu_l2_cache": 2097152,
   "cpu_l3_cache": null,
   "cpu_flags": [

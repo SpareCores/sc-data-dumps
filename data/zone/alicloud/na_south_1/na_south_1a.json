@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "na-south-1",
-  "zone_id": "na-south-1a",
-  "name": "Mexico Zone A",
-  "api_reference": "na-south-1a",
-  "display_name": "Mexico Zone A",
-  "status": "ACTIVE"
-}

@@ -6,7 +6,7 @@
   "display_name": "E128-32ds_v6",
   "description": "StandardEdsv6 family [Local Disk] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "StandardEdsv6",
-  "vcpus": 32,
+  "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,

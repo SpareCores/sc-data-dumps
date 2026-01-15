@@ -15,7 +15,7 @@
   "cpu_manufacturer": "Microsoft",
   "cpu_family": "ARM",
   "cpu_model": "Neoverse-N2",
-  "cpu_l1_cache": 524288,
+  "cpu_l1_cache": 1048576,
   "cpu_l2_cache": 8388608,
   "cpu_l3_cache": 134217728,
   "cpu_flags": [

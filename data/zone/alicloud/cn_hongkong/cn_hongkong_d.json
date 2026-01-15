@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "cn-hongkong",
-  "zone_id": "cn-hongkong-d",
-  "name": "Hong Kong Zone D",
-  "api_reference": "cn-hongkong-d",
-  "display_name": "Hong Kong Zone D",
-  "status": "ACTIVE"
-}

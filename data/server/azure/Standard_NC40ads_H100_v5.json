@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "9V84",
-  "cpu_l1_cache": 1310720,
+  "cpu_l1_cache": 2621440,
   "cpu_l2_cache": 41943040,
   "cpu_l3_cache": 167772160,
   "cpu_flags": [

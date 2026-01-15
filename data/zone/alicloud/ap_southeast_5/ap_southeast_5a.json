@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "ap-southeast-5",
-  "zone_id": "ap-southeast-5a",
-  "name": "Jakarta Zone A",
-  "api_reference": "ap-southeast-5a",
-  "display_name": "Jakarta Zone A",
-  "status": "ACTIVE"
-}

@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "me-central-1",
-  "zone_id": "me-central-1a",
-  "name": "Riyadh Zone A",
-  "api_reference": "me-central-1a",
-  "display_name": "Riyadh Zone A",
-  "status": "ACTIVE"
-}

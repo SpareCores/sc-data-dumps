@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "ap-southeast-6",
-  "zone_id": "ap-southeast-6b",
-  "name": "Manila Zone B",
-  "api_reference": "ap-southeast-6b",
-  "display_name": "Manila Zone B",
-  "status": "ACTIVE"
-}

@@ -1,9 +1,0 @@
-{
-  "vendor_id": "alicloud",
-  "region_id": "cn-guangzhou",
-  "zone_id": "cn-guangzhou-b",
-  "name": "Guangzhou Zone B",
-  "api_reference": "cn-guangzhou-b",
-  "display_name": "Guangzhou Zone B",
-  "status": "ACTIVE"
-}
