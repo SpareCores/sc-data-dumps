@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-chengdu",
+  "zone_id": "cn-chengdu-a",
+  "name": "Chengdu Zone A",
+  "api_reference": "cn-chengdu-a",
+  "display_name": "Chengdu Zone A",
+  "status": "ACTIVE"
+}

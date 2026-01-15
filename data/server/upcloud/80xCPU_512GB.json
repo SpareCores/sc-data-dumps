@@ -15,9 +15,9 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "7543",
-  "cpu_l1_cache": 10485760,
+  "cpu_l1_cache": 5242880,
   "cpu_l2_cache": 41943040,
-  "cpu_l3_cache": 1342177280,
+  "cpu_l3_cache": null,
   "cpu_flags": [
     "fpu",
     "vme",

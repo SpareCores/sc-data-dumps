@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-heyuan",
+  "zone_id": "cn-heyuan-a",
+  "name": "Heyuan Zone A",
+  "api_reference": "cn-heyuan-a",
+  "display_name": "Heyuan Zone A",
+  "status": "ACTIVE"
+}

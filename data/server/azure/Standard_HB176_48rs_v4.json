@@ -6,7 +6,7 @@
   "display_name": "HB176-48rs_v4",
   "description": "HBv4 family [RDMA capable] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "HBv4",
-  "vcpus": 176,
+  "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,

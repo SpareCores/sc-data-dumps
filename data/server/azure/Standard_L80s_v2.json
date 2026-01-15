@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "7551",
-  "cpu_l1_cache": 3932160,
+  "cpu_l1_cache": 1310720,
   "cpu_l2_cache": 20971520,
   "cpu_l3_cache": 16777216,
   "cpu_flags": [

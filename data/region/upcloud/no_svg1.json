@@ -1,0 +1,18 @@
+{
+  "vendor_id": "upcloud",
+  "region_id": "no-svg1",
+  "name": "Stavanger #1",
+  "api_reference": "no-svg1",
+  "display_name": "Stavanger #1 (NO)",
+  "aliases": [],
+  "country_id": "NO",
+  "state": "Rogaland",
+  "city": "Stavanger",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 5.5979374,
+  "lat": 58.9487157,
+  "founding_year": 2025,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

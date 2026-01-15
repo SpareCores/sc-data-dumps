@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "me-central-1",
+  "name": "SAU (Riyadh)",
+  "api_reference": "me-central-1",
+  "display_name": "Riyadh (SA)",
+  "aliases": [],
+  "country_id": "SA",
+  "state": null,
+  "city": "Riyadh",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 46.6753,
+  "lat": 24.7136,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

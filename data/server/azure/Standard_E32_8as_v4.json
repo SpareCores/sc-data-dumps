@@ -6,7 +6,7 @@
   "display_name": "E32-8as_v4",
   "description": "EASv4 family [AMD processor] [Premium Storage capable] 32 vCPUs",
   "family": "EASv4",
-  "vcpus": 32,
+  "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 4,
@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "7763",
-  "cpu_l1_cache": 262144,
+  "cpu_l1_cache": 131072,
   "cpu_l2_cache": 2097152,
   "cpu_l3_cache": 33554432,
   "cpu_flags": [

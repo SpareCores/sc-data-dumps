@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-shenzhen",
+  "zone_id": "cn-shenzhen-b",
+  "name": "Shenzhen Zone B",
+  "api_reference": "cn-shenzhen-b",
+  "display_name": "Shenzhen Zone B",
+  "status": "ACTIVE"
+}

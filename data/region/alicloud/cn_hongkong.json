@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-hongkong",
+  "name": "China (Hong Kong)",
+  "api_reference": "cn-hongkong",
+  "display_name": "Hong Kong (HK)",
+  "aliases": [
+    "cn-hongkong-am4-c04"
+  ],
+  "country_id": "HK",
+  "state": null,
+  "city": "Hong Kong",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 114.1694,
+  "lat": 22.3193,
+  "founding_year": 2014,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-east-2",
+  "zone_id": "ape2-az3",
+  "name": "ap-east-2c",
+  "api_reference": "ap-east-2c",
+  "display_name": "ap-east-2c",
+  "status": "ACTIVE"
+}

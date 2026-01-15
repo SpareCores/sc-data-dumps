@@ -1,0 +1,9 @@
+{
+  "vendor_id": "aws",
+  "region_id": "mx-central-1",
+  "zone_id": "mxc1-az1",
+  "name": "mx-central-1a",
+  "api_reference": "mx-central-1a",
+  "display_name": "mx-central-1a",
+  "status": "ACTIVE"
+}

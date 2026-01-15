@@ -1,0 +1,18 @@
+{
+  "vendor_id": "aws",
+  "region_id": "ap-southeast-6",
+  "name": "Asia Pacific (New Zealand)",
+  "api_reference": "ap-southeast-6",
+  "display_name": " (MY)",
+  "aliases": [],
+  "country_id": "MY",
+  "state": null,
+  "city": null,
+  "address_line": null,
+  "zip_code": null,
+  "lon": 174.802185,
+  "lat": -40.900775,
+  "founding_year": 2025,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

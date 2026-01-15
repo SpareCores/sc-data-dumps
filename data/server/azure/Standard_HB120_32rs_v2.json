@@ -6,7 +6,7 @@
   "display_name": "HB120-32rs_v2",
   "description": "HBrsv2 family [RDMA capable] [Premium Storage capable] [Intel processor] 120 vCPUs",
   "family": "HBrsv2",
-  "vcpus": 120,
+  "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": null,

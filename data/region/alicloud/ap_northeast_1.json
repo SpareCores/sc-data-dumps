@@ -1,0 +1,20 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "ap-northeast-1",
+  "name": "Japan (Tokyo)",
+  "api_reference": "ap-northeast-1",
+  "display_name": "Tokyo (JP)",
+  "aliases": [
+    "ap-northeast-jp59-a01"
+  ],
+  "country_id": "JP",
+  "state": null,
+  "city": "Tokyo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 139.6917,
+  "lat": 35.6895,
+  "founding_year": 2016,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

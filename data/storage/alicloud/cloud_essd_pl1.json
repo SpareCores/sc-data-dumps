@@ -1,0 +1,12 @@
+{
+  "vendor_id": "alicloud",
+  "storage_id": "cloud_essd-pl1",
+  "name": "cloud_essd-pl1",
+  "description": "Enterprise SSD with performance level 1.",
+  "storage_type": "SSD",
+  "max_iops": 50000,
+  "max_throughput": 2800,
+  "min_size": 20,
+  "max_size": 65536,
+  "status": "ACTIVE"
+}

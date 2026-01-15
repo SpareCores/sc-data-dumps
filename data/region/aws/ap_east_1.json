@@ -13,6 +13,6 @@
   "lon": 114.2723379,
   "lat": 22.2908475,
   "founding_year": 2019,
-  "green_energy": 0,
+  "green_energy": 1,
   "status": "ACTIVE"
 }

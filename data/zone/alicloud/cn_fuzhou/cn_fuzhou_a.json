@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-fuzhou",
+  "zone_id": "cn-fuzhou-a",
+  "name": "Fuzhou - Local Region Zone A",
+  "api_reference": "cn-fuzhou-a",
+  "display_name": "Fuzhou - Local Region Zone A",
+  "status": "ACTIVE"
+}

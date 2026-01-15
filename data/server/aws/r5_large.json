@@ -15,7 +15,7 @@
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
   "cpu_model": "8259CL",
-  "cpu_l1_cache": 65536,
+  "cpu_l1_cache": 32768,
   "cpu_l2_cache": 1048576,
   "cpu_l3_cache": 37486592,
   "cpu_flags": [

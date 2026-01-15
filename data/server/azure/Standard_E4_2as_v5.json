@@ -6,7 +6,7 @@
   "display_name": "E4-2as_v5",
   "description": "EASv5 family [AMD processor] [Premium Storage capable] 4 vCPUs",
   "family": "EASv5",
-  "vcpus": 4,
+  "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,
@@ -15,7 +15,7 @@
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
   "cpu_model": "7763",
-  "cpu_l1_cache": 65536,
+  "cpu_l1_cache": 32768,
   "cpu_l2_cache": 524288,
   "cpu_l3_cache": 33554432,
   "cpu_flags": [

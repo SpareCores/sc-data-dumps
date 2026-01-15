@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-beijing",
+  "zone_id": "cn-beijing-j",
+  "name": "Beijing Zone J",
+  "api_reference": "cn-beijing-j",
+  "display_name": "Beijing Zone J",
+  "status": "ACTIVE"
+}
