@@ -4,7 +4,7 @@
   "name": "ecs.e-c1m2.small",
   "api_reference": "ecs.e-c1m2.small",
   "display_name": "ecs.e-c1m2.small",
-  "description": "ecs.e family (1 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.e family (1 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.e",
   "vcpus": 1,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.r8y.2xlarge",
   "api_reference": "ecs.r8y.2xlarge",
   "display_name": "ecs.r8y.2xlarge",
-  "description": "ecs.r8y family (8 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r8y family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.r8y",
   "vcpus": 8,
   "hypervisor": "KVM",

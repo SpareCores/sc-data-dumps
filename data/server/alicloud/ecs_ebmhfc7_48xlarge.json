@@ -4,7 +4,7 @@
   "name": "ecs.ebmhfc7.48xlarge",
   "api_reference": "ecs.ebmhfc7.48xlarge",
   "display_name": "ecs.ebmhfc7.48xlarge",
-  "description": "ecs.ebmhfc7 family (192 vCPUs, 393216 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmhfc7 family (192 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmhfc7",
   "vcpus": 192,
   "hypervisor": "KVM",

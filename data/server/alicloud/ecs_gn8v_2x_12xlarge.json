@@ -4,7 +4,7 @@
   "name": "ecs.gn8v-2x.12xlarge",
   "api_reference": "ecs.gn8v-2x.12xlarge",
   "display_name": "ecs.gn8v-2x.12xlarge",
-  "description": "ecs.gn8v family (48 vCPUs, 262144 GiB RAM, 0 GB  storage, 2xGPU H 98304 GiB VRAM)",
+  "description": "ecs.gn8v family (48 vCPUs, 256 GiB RAM, 0 GB  storage, 2xGPU H 98304 GiB VRAM)",
   "family": "ecs.gn8v",
   "vcpus": 48,
   "hypervisor": "KVM",

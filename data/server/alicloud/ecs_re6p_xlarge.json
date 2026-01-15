@@ -4,7 +4,7 @@
   "name": "ecs.re6p.xlarge",
   "api_reference": "ecs.re6p.xlarge",
   "display_name": "ecs.re6p.xlarge",
-  "description": "ecs.re6p family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.re6p family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.re6p",
   "vcpus": 4,
   "hypervisor": "KVM",

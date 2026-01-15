@@ -4,7 +4,7 @@
   "name": "ecs.c8m.small",
   "api_reference": "ecs.c8m.small",
   "display_name": "ecs.c8m.small",
-  "description": "ecs.c8m family (1 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c8m family (1 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8m",
   "vcpus": 1,
   "hypervisor": "KVM",

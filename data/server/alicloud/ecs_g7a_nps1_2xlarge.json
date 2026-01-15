@@ -4,7 +4,7 @@
   "name": "ecs.g7a-nps1.2xlarge",
   "api_reference": "ecs.g7a-nps1.2xlarge",
   "display_name": "ecs.g7a-nps1.2xlarge",
-  "description": "ecs.g7a family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7a family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7a",
   "vcpus": 8,
   "hypervisor": "KVM",

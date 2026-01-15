@@ -4,7 +4,7 @@
   "name": "ecs.hpc7i.32xlarge",
   "api_reference": "ecs.hpc7i.32xlarge",
   "display_name": "ecs.hpc7i.32xlarge",
-  "description": "ecs.hpc7i family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hpc7i family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc7i",
   "vcpus": 64,
   "hypervisor": "KVM",

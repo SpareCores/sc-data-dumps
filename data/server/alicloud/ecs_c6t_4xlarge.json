@@ -4,7 +4,7 @@
   "name": "ecs.c6t.4xlarge",
   "api_reference": "ecs.c6t.4xlarge",
   "display_name": "ecs.c6t.4xlarge",
-  "description": "ecs.c6t family (16 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c6t family (16 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.c6t",
   "vcpus": 16,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.r9i-flex.3xlarge",
   "api_reference": "ecs.r9i-flex.3xlarge",
   "display_name": "ecs.r9i-flex.3xlarge",
-  "description": "ecs.r9i-flex family (12 vCPUs, 98304 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r9i-flex family (12 vCPUs, 96 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9i-flex",
   "vcpus": 12,
   "hypervisor": "KVM",

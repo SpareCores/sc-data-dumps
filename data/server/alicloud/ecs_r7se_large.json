@@ -4,7 +4,7 @@
   "name": "ecs.r7se.large",
   "api_reference": "ecs.r7se.large",
   "display_name": "ecs.r7se.large",
-  "description": "ecs.r7se family (2 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r7se family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7se",
   "vcpus": 2,
   "hypervisor": "KVM",

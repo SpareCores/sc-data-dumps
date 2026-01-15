@@ -4,7 +4,7 @@
   "name": "ecs.hpc9a.32xlarge",
   "api_reference": "ecs.hpc9a.32xlarge",
   "display_name": "ecs.hpc9a.32xlarge",
-  "description": "ecs.hpc9a family (128 vCPUs, 3145728 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hpc9a family (128 vCPUs, 3072 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc9a",
   "vcpus": 128,
   "hypervisor": "KVM",

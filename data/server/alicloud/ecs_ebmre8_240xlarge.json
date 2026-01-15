@@ -4,7 +4,7 @@
   "name": "ecs.ebmre8.240xlarge",
   "api_reference": "ecs.ebmre8.240xlarge",
   "display_name": "ecs.ebmre8.240xlarge",
-  "description": "ecs.ebmre8 family (960 vCPUs, 16777216 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmre8 family (960 vCPUs, 16384 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmre8",
   "vcpus": 960,
   "hypervisor": "KVM",

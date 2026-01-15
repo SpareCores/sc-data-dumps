@@ -4,7 +4,7 @@
   "name": "ecs.sc3a.4xlarge",
   "api_reference": "ecs.sc3a.4xlarge",
   "display_name": "ecs.sc3a.4xlarge",
-  "description": "ecs.sc3a family (16 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.sc3a family (16 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.sc3a",
   "vcpus": 16,
   "hypervisor": "KVM",

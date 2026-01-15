@@ -4,7 +4,7 @@
   "name": "ecs.g6h.xlarge",
   "api_reference": "ecs.g6h.xlarge",
   "display_name": "ecs.g6h.xlarge",
-  "description": "ecs.g6h family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g6h family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g6h",
   "vcpus": 4,
   "hypervisor": "KVM",

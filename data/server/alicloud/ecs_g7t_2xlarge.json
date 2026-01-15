@@ -4,7 +4,7 @@
   "name": "ecs.g7t.2xlarge",
   "api_reference": "ecs.g7t.2xlarge",
   "display_name": "ecs.g7t.2xlarge",
-  "description": "ecs.g7t family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7t family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7t",
   "vcpus": 8,
   "hypervisor": "KVM",

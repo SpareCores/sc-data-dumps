@@ -4,7 +4,7 @@
   "name": "ecs.ebmgn8te.32xlarge",
   "api_reference": "ecs.ebmgn8te.32xlarge",
   "display_name": "ecs.ebmgn8te.32xlarge",
-  "description": "ecs.ebmgn8te family (128 vCPUs, 1048576 GiB RAM, 0 GB  storage, 8xG49E 49152 GiB VRAM)",
+  "description": "ecs.ebmgn8te family (128 vCPUs, 1024 GiB RAM, 0 GB  storage, 8xG49E 49152 GiB VRAM)",
   "family": "ecs.ebmgn8te",
   "vcpus": 128,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.gn8ia.16xlarge",
   "api_reference": "ecs.gn8ia.16xlarge",
   "display_name": "ecs.gn8ia.16xlarge",
-  "description": "ecs.gn8ia family (64 vCPUs, 393216 GiB RAM, 0 GB  storage, 1xL20 49152 GiB VRAM)",
+  "description": "ecs.gn8ia family (64 vCPUs, 384 GiB RAM, 0 GB  storage, 1xL20 49152 GiB VRAM)",
   "family": "ecs.gn8ia",
   "vcpus": 64,
   "hypervisor": "KVM",

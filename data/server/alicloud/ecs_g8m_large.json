@@ -4,7 +4,7 @@
   "name": "ecs.g8m.large",
   "api_reference": "ecs.g8m.large",
   "display_name": "ecs.g8m.large",
-  "description": "ecs.g8m family (2 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g8m family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g8m",
   "vcpus": 2,
   "hypervisor": "KVM",

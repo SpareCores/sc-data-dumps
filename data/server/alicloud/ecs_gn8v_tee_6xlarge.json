@@ -4,7 +4,7 @@
   "name": "ecs.gn8v-tee.6xlarge",
   "api_reference": "ecs.gn8v-tee.6xlarge",
   "display_name": "ecs.gn8v-tee.6xlarge",
-  "description": "ecs.gn8v-tee family (24 vCPUs, 131072 GiB RAM, 0 GB  storage, 1xGPU H 98304 GiB VRAM)",
+  "description": "ecs.gn8v-tee family (24 vCPUs, 128 GiB RAM, 0 GB  storage, 1xGPU H 98304 GiB VRAM)",
   "family": "ecs.gn8v-tee",
   "vcpus": 24,
   "hypervisor": "KVM",

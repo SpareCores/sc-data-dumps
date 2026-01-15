@@ -4,7 +4,7 @@
   "name": "ecs.e-c1m4.4xlarge",
   "api_reference": "ecs.e-c1m4.4xlarge",
   "display_name": "ecs.e-c1m4.4xlarge",
-  "description": "ecs.e family (16 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.e family (16 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.e",
   "vcpus": 16,
   "hypervisor": "KVM",

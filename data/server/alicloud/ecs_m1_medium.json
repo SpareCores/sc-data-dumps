@@ -4,7 +4,7 @@
   "name": "ecs.m1.medium",
   "api_reference": "ecs.m1.medium",
   "display_name": "ecs.m1.medium",
-  "description": "ecs.m1 family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.m1 family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.m1",
   "vcpus": 4,
   "hypervisor": "KVM",

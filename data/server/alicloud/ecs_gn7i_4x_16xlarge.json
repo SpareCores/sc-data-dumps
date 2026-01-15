@@ -4,7 +4,7 @@
   "name": "ecs.gn7i-4x.16xlarge",
   "api_reference": "ecs.gn7i-4x.16xlarge",
   "display_name": "ecs.gn7i-4x.16xlarge",
-  "description": "ecs.gn7i family (64 vCPUs, 262144 GiB RAM, 0 GB  storage, 4xA10 24576 GiB VRAM)",
+  "description": "ecs.gn7i family (64 vCPUs, 256 GiB RAM, 0 GB  storage, 4xA10 24576 GiB VRAM)",
   "family": "ecs.gn7i",
   "vcpus": 64,
   "hypervisor": "KVM",

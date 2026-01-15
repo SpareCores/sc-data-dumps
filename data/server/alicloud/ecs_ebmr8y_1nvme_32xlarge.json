@@ -4,7 +4,7 @@
   "name": "ecs.ebmr8y-1nvme.32xlarge",
   "api_reference": "ecs.ebmr8y-1nvme.32xlarge",
   "display_name": "ecs.ebmr8y-1nvme.32xlarge",
-  "description": "ecs.ebmr8y-1nvme family (128 vCPUs, 1048576 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmr8y-1nvme family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr8y-1nvme",
   "vcpus": 128,
   "hypervisor": "KVM",

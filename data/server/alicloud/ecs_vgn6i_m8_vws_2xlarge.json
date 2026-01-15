@@ -4,7 +4,7 @@
   "name": "ecs.vgn6i-m8-vws.2xlarge",
   "api_reference": "ecs.vgn6i-m8-vws.2xlarge",
   "display_name": "ecs.vgn6i-m8-vws.2xlarge",
-  "description": "ecs.vgn6i-vws family (10 vCPUs, 47104 GiB RAM, 0 GB  storage, 1xT4/2 8192 GiB VRAM)",
+  "description": "ecs.vgn6i-vws family (10 vCPUs, 46 GiB RAM, 0 GB  storage, 1xT4/2 8192 GiB VRAM)",
   "family": "ecs.vgn6i-vws",
   "vcpus": 10,
   "hypervisor": "KVM",

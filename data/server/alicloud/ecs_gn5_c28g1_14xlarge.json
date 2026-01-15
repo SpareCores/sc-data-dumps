@@ -4,7 +4,7 @@
   "name": "ecs.gn5-c28g1.14xlarge",
   "api_reference": "ecs.gn5-c28g1.14xlarge",
   "display_name": "ecs.gn5-c28g1.14xlarge",
-  "description": "ecs.gn5 family (56 vCPUs, 229376 GiB RAM, 944 GB ssd storage, 2xP100 16384 GiB VRAM)",
+  "description": "ecs.gn5 family (56 vCPUs, 224 GiB RAM, 944 GB ssd storage, 2xP100 16384 GiB VRAM)",
   "family": "ecs.gn5",
   "vcpus": 56,
   "hypervisor": "KVM",

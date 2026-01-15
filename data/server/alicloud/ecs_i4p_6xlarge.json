@@ -4,7 +4,7 @@
   "name": "ecs.i4p.6xlarge",
   "api_reference": "ecs.i4p.6xlarge",
   "display_name": "ecs.i4p.6xlarge",
-  "description": "ecs.i4p family (24 vCPUs, 98304 GiB RAM, 0 GB  storage)",
+  "description": "ecs.i4p family (24 vCPUs, 96 GiB RAM, 0 GB  storage)",
   "family": "ecs.i4p",
   "vcpus": 24,
   "hypervisor": "KVM",

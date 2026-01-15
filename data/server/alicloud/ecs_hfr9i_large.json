@@ -4,7 +4,7 @@
   "name": "ecs.hfr9i.large",
   "api_reference": "ecs.hfr9i.large",
   "display_name": "ecs.hfr9i.large",
-  "description": "ecs.hfr9i family (2 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfr9i family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfr9i",
   "vcpus": 2,
   "hypervisor": "KVM",

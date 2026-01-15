@@ -4,7 +4,7 @@
   "name": "ecs.hfg6.2xlarge",
   "api_reference": "ecs.hfg6.2xlarge",
   "display_name": "ecs.hfg6.2xlarge",
-  "description": "ecs.hfg6 family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfg6 family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfg6",
   "vcpus": 8,
   "hypervisor": "KVM",

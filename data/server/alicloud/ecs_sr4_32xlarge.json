@@ -4,7 +4,7 @@
   "name": "ecs.sr4.32xlarge",
   "api_reference": "ecs.sr4.32xlarge",
   "display_name": "ecs.sr4.32xlarge",
-  "description": "ecs.sr4 family (128 vCPUs, 1048576 GiB RAM, 0 GB  storage)",
+  "description": "ecs.sr4 family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.sr4",
   "vcpus": 128,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.gn7-c12g1.3xlarge",
   "api_reference": "ecs.gn7-c12g1.3xlarge",
   "display_name": "ecs.gn7-c12g1.3xlarge",
-  "description": "ecs.gn7 family (12 vCPUs, 96256 GiB RAM, 0 GB  storage, 1xA100 40960.0 GiB VRAM)",
+  "description": "ecs.gn7 family (12 vCPUs, 94 GiB RAM, 0 GB  storage, 1xA100 40960.0 GiB VRAM)",
   "family": "ecs.gn7",
   "vcpus": 12,
   "hypervisor": "KVM",

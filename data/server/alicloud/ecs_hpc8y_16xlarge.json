@@ -4,7 +4,7 @@
   "name": "ecs.hpc8y.16xlarge",
   "api_reference": "ecs.hpc8y.16xlarge",
   "display_name": "ecs.hpc8y.16xlarge",
-  "description": "ecs.hpc8y family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hpc8y family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc8y",
   "vcpus": 64,
   "hypervisor": "KVM",

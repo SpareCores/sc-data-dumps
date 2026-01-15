@@ -4,7 +4,7 @@
   "name": "ecs.i2g.2xlarge",
   "api_reference": "ecs.i2g.2xlarge",
   "display_name": "ecs.i2g.2xlarge",
-  "description": "ecs.i2g family (8 vCPUs, 32768 GiB RAM, 959 GB ssd storage)",
+  "description": "ecs.i2g family (8 vCPUs, 32 GiB RAM, 959 GB ssd storage)",
   "family": "ecs.i2g",
   "vcpus": 8,
   "hypervisor": "KVM",

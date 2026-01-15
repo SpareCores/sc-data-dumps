@@ -4,7 +4,7 @@
   "name": "ecs.f1-c8f1.4xlarge",
   "api_reference": "ecs.f1-c8f1.4xlarge",
   "display_name": "ecs.f1-c8f1.4xlarge",
-  "description": "ecs.f1 family (16 vCPUs, 122880 GiB RAM, 0 GB  storage, 2xINTEL ARRIA 10 GX 1150 16384 GiB VRAM)",
+  "description": "ecs.f1 family (16 vCPUs, 120 GiB RAM, 0 GB  storage, 2xINTEL ARRIA 10 GX 1150 16384 GiB VRAM)",
   "family": "ecs.f1",
   "vcpus": 16,
   "hypervisor": "KVM",

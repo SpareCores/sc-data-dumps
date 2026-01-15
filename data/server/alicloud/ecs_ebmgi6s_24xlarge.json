@@ -4,7 +4,7 @@
   "name": "ecs.ebmgi6s.24xlarge",
   "api_reference": "ecs.ebmgi6s.24xlarge",
   "display_name": "ecs.ebmgi6s.24xlarge",
-  "description": "ecs.ebmgi6s family (96 vCPUs, 393216 GiB RAM, 0 GB  storage, 1xintel SG1 0 GiB VRAM)",
+  "description": "ecs.ebmgi6s family (96 vCPUs, 384 GiB RAM, 0 GB  storage, 1xintel SG1 0 GiB VRAM)",
   "family": "ecs.ebmgi6s",
   "vcpus": 96,
   "hypervisor": "KVM",

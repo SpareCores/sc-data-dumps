@@ -4,7 +4,7 @@
   "name": "ecs.vfx-c1m4.20xlarge",
   "api_reference": "ecs.vfx-c1m4.20xlarge",
   "display_name": "ecs.vfx-c1m4.20xlarge",
-  "description": "ecs.vfx family (80 vCPUs, 327680 GiB RAM, 0 GB  storage)",
+  "description": "ecs.vfx family (80 vCPUs, 320 GiB RAM, 0 GB  storage)",
   "family": "ecs.vfx",
   "vcpus": 80,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.s3.large",
   "api_reference": "ecs.s3.large",
   "display_name": "ecs.s3.large",
-  "description": "ecs.s3 family (4 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.s3 family (4 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.s3",
   "vcpus": 4,
   "hypervisor": "KVM",

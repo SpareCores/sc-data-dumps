@@ -4,7 +4,7 @@
   "name": "ecs.hpc6id.20xlarge",
   "api_reference": "ecs.hpc6id.20xlarge",
   "display_name": "ecs.hpc6id.20xlarge",
-  "description": "ecs.hpc6id family (40 vCPUs, 1572864 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hpc6id family (40 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc6id",
   "vcpus": 40,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.g7n.8xlarge",
   "api_reference": "ecs.g7n.8xlarge",
   "display_name": "ecs.g7n.8xlarge",
-  "description": "ecs.g7 family (32 vCPUs, 131072 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7 family (32 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7",
   "vcpus": 32,
   "hypervisor": "KVM",

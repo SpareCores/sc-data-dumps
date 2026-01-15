@@ -4,7 +4,7 @@
   "name": "ecs.ebmgn8ga-wy.96xlarge",
   "api_reference": "ecs.ebmgn8ga-wy.96xlarge",
   "display_name": "ecs.ebmgn8ga-wy.96xlarge",
-  "description": "ecs.ebmgn8ga-wy family (384 vCPUs, 2359296 GiB RAM, 0 GB  storage, 4x5880 49152 GiB VRAM)",
+  "description": "ecs.ebmgn8ga-wy family (384 vCPUs, 2304 GiB RAM, 0 GB  storage, 4x5880 49152 GiB VRAM)",
   "family": "ecs.ebmgn8ga-wy",
   "vcpus": 384,
   "hypervisor": "KVM",

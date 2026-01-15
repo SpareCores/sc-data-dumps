@@ -4,7 +4,7 @@
   "name": "ecs.i5ge.24xlarge",
   "api_reference": "ecs.i5ge.24xlarge",
   "display_name": "ecs.i5ge.24xlarge",
-  "description": "ecs.i5ge family (96 vCPUs, 589824 GiB RAM, 15358 GB ssd storage)",
+  "description": "ecs.i5ge family (96 vCPUs, 576 GiB RAM, 15358 GB ssd storage)",
   "family": "ecs.i5ge",
   "vcpus": 96,
   "hypervisor": "KVM",

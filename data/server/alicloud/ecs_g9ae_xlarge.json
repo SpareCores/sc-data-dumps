@@ -4,7 +4,7 @@
   "name": "ecs.g9ae.xlarge",
   "api_reference": "ecs.g9ae.xlarge",
   "display_name": "ecs.g9ae.xlarge",
-  "description": "ecs.g9ae family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9ae family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9ae",
   "vcpus": 4,
   "hypervisor": "KVM",

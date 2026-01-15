@@ -4,7 +4,7 @@
   "name": "ecs.c8ae.16xlarge",
   "api_reference": "ecs.c8ae.16xlarge",
   "display_name": "ecs.c8ae.16xlarge",
-  "description": "ecs.c8ae family (64 vCPUs, 131072 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c8ae family (64 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8ae",
   "vcpus": 64,
   "hypervisor": "KVM",

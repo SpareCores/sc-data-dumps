@@ -4,7 +4,7 @@
   "name": "ecs.gn4-c4g1.2xlarge",
   "api_reference": "ecs.gn4-c4g1.2xlarge",
   "display_name": "ecs.gn4-c4g1.2xlarge",
-  "description": "ecs.gn4 family (8 vCPUs, 61440 GiB RAM, 0 GB  storage, 2xM40 0 GiB VRAM)",
+  "description": "ecs.gn4 family (8 vCPUs, 60 GiB RAM, 0 GB  storage, 2xM40 0 GiB VRAM)",
   "family": "ecs.gn4",
   "vcpus": 8,
   "hypervisor": "KVM",

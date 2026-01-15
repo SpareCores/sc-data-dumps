@@ -4,7 +4,7 @@
   "name": "ecs.sccgn6e.24xlarge",
   "api_reference": "ecs.sccgn6e.24xlarge",
   "display_name": "ecs.sccgn6e.24xlarge",
-  "description": "ecs.sccgn6e family (96 vCPUs, 786432 GiB RAM, 0 GB  storage, 8xV100 0 GiB VRAM)",
+  "description": "ecs.sccgn6e family (96 vCPUs, 768 GiB RAM, 0 GB  storage, 8xV100 0 GiB VRAM)",
   "family": "ecs.sccgn6e",
   "vcpus": 96,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.se1nec.4xlarge",
   "api_reference": "ecs.se1nec.4xlarge",
   "display_name": "ecs.se1nec.4xlarge",
-  "description": "ecs.se1nec family (16 vCPUs, 131072 GiB RAM, 0 GB  storage)",
+  "description": "ecs.se1nec family (16 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.se1nec",
   "vcpus": 16,
   "hypervisor": "KVM",

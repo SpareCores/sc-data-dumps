@@ -4,7 +4,7 @@
   "name": "ecs.ebmgp7i.48xlarge",
   "api_reference": "ecs.ebmgp7i.48xlarge",
   "display_name": "ecs.ebmgp7i.48xlarge",
-  "description": "ecs.ebmgp7i family (192 vCPUs, 1048576 GiB RAM, 0 GB  storage, 4xA910X 49152 GiB VRAM)",
+  "description": "ecs.ebmgp7i family (192 vCPUs, 1024 GiB RAM, 0 GB  storage, 4xA910X 49152 GiB VRAM)",
   "family": "ecs.ebmgp7i",
   "vcpus": 192,
   "hypervisor": "KVM",

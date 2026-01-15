@@ -4,7 +4,7 @@
   "name": "ecs.d2c.6xlarge",
   "api_reference": "ecs.d2c.6xlarge",
   "display_name": "ecs.d2c.6xlarge",
-  "description": "ecs.d2c family (24 vCPUs, 90112 GiB RAM, 11918 GB hdd storage)",
+  "description": "ecs.d2c family (24 vCPUs, 88 GiB RAM, 11918 GB hdd storage)",
   "family": "ecs.d2c",
   "vcpus": 24,
   "hypervisor": "KVM",

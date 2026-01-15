@@ -4,7 +4,7 @@
   "name": "ecs.d1ne-c14d3.14xlarge",
   "api_reference": "ecs.d1ne-c14d3.14xlarge",
   "display_name": "ecs.d1ne-c14d3.14xlarge",
-  "description": "ecs.d1ne family (56 vCPUs, 163840 GiB RAM, 70866 GB hdd storage)",
+  "description": "ecs.d1ne family (56 vCPUs, 160 GiB RAM, 70866 GB hdd storage)",
   "family": "ecs.d1ne",
   "vcpus": 56,
   "hypervisor": "KVM",

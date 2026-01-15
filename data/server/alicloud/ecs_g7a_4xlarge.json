@@ -4,7 +4,7 @@
   "name": "ecs.g7a.4xlarge",
   "api_reference": "ecs.g7a.4xlarge",
   "display_name": "ecs.g7a.4xlarge",
-  "description": "ecs.g7a family (16 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7a family (16 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7a",
   "vcpus": 16,
   "hypervisor": "KVM",

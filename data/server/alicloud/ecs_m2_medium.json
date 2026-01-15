@@ -4,7 +4,7 @@
   "name": "ecs.m2.medium",
   "api_reference": "ecs.m2.medium",
   "display_name": "ecs.m2.medium",
-  "description": "ecs.m2 family (4 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.m2 family (4 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.m2",
   "vcpus": 4,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.hfc9i.36xlarge",
   "api_reference": "ecs.hfc9i.36xlarge",
   "display_name": "ecs.hfc9i.36xlarge",
-  "description": "ecs.hfc9i family (144 vCPUs, 393216 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfc9i family (144 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfc9i",
   "vcpus": 144,
   "hypervisor": "KVM",

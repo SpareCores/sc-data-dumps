@@ -4,7 +4,7 @@
   "name": "ecs.re4.20xlarge",
   "api_reference": "ecs.re4.20xlarge",
   "display_name": "ecs.re4.20xlarge",
-  "description": "ecs.re4 family (80 vCPUs, 983040 GiB RAM, 0 GB  storage)",
+  "description": "ecs.re4 family (80 vCPUs, 960 GiB RAM, 0 GB  storage)",
   "family": "ecs.re4",
   "vcpus": 80,
   "hypervisor": "KVM",

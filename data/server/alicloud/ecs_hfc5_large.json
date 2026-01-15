@@ -4,7 +4,7 @@
   "name": "ecs.hfc5.large",
   "api_reference": "ecs.hfc5.large",
   "display_name": "ecs.hfc5.large",
-  "description": "ecs.hfc5 family (2 vCPUs, 4096 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfc5 family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfc5",
   "vcpus": 2,
   "hypervisor": "KVM",

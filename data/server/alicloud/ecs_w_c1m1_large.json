@@ -4,7 +4,7 @@
   "name": "ecs.w-c1m1.large",
   "api_reference": "ecs.w-c1m1.large",
   "display_name": "ecs.w-c1m1.large",
-  "description": "ecs.w family (2 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.w family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.w",
   "vcpus": 2,
   "hypervisor": "KVM",

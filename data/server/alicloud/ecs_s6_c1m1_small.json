@@ -4,7 +4,7 @@
   "name": "ecs.s6-c1m1.small",
   "api_reference": "ecs.s6-c1m1.small",
   "display_name": "ecs.s6-c1m1.small",
-  "description": "ecs.s6 family (1 vCPUs, 1024 GiB RAM, 0 GB  storage)",
+  "description": "ecs.s6 family (1 vCPUs, 1 GiB RAM, 0 GB  storage)",
   "family": "ecs.s6",
   "vcpus": 1,
   "hypervisor": "KVM",

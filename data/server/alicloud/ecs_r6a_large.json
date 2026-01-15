@@ -4,7 +4,7 @@
   "name": "ecs.r6a.large",
   "api_reference": "ecs.r6a.large",
   "display_name": "ecs.r6a.large",
-  "description": "ecs.r6a family (2 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r6a family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.r6a",
   "vcpus": 2,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.n1.3xlarge",
   "api_reference": "ecs.n1.3xlarge",
   "display_name": "ecs.n1.3xlarge",
-  "description": "ecs.n1 family (16 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.n1 family (16 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.n1",
   "vcpus": 16,
   "hypervisor": "KVM",

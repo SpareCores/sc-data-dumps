@@ -4,7 +4,7 @@
   "name": "ecs.t5-c1m4.2xlarge",
   "api_reference": "ecs.t5-c1m4.2xlarge",
   "display_name": "ecs.t5-c1m4.2xlarge",
-  "description": "ecs.t5 family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.t5 family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.t5",
   "vcpus": 8,
   "hypervisor": "KVM",

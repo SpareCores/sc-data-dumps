@@ -4,7 +4,7 @@
   "name": "ecs.sn1ne.6xlarge",
   "api_reference": "ecs.sn1ne.6xlarge",
   "display_name": "ecs.sn1ne.6xlarge",
-  "description": "ecs.sn1ne family (24 vCPUs, 49152 GiB RAM, 0 GB  storage)",
+  "description": "ecs.sn1ne family (24 vCPUs, 48 GiB RAM, 0 GB  storage)",
   "family": "ecs.sn1ne",
   "vcpus": 24,
   "hypervisor": "KVM",

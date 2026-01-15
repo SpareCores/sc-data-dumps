@@ -4,7 +4,7 @@
   "name": "ecs.g7se.2xlarge",
   "api_reference": "ecs.g7se.2xlarge",
   "display_name": "ecs.g7se.2xlarge",
-  "description": "ecs.g7se family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7se family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7se",
   "vcpus": 8,
   "hypervisor": "KVM",

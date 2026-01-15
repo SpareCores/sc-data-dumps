@@ -4,7 +4,7 @@
   "name": "ecs.i4g.2xlarge",
   "api_reference": "ecs.i4g.2xlarge",
   "display_name": "ecs.i4g.2xlarge",
-  "description": "ecs.i4g family (8 vCPUs, 32768 GiB RAM, 479 GB ssd storage)",
+  "description": "ecs.i4g family (8 vCPUs, 32 GiB RAM, 479 GB ssd storage)",
   "family": "ecs.i4g",
   "vcpus": 8,
   "hypervisor": "KVM",

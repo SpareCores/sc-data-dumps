@@ -4,7 +4,7 @@
   "name": "ecs.g9ae.12xlarge",
   "api_reference": "ecs.g9ae.12xlarge",
   "display_name": "ecs.g9ae.12xlarge",
-  "description": "ecs.g9ae family (48 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9ae family (48 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9ae",
   "vcpus": 48,
   "hypervisor": "KVM",

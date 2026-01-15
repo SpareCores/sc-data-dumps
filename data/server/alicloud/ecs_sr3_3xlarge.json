@@ -4,7 +4,7 @@
   "name": "ecs.sr3.3xlarge",
   "api_reference": "ecs.sr3.3xlarge",
   "display_name": "ecs.sr3.3xlarge",
-  "description": "ecs.r7 family (12 vCPUs, 98304 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r7 family (12 vCPUs, 96 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7",
   "vcpus": 12,
   "hypervisor": "KVM",

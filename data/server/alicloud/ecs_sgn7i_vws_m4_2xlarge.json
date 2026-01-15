@@ -4,7 +4,7 @@
   "name": "ecs.sgn7i-vws-m4.2xlarge",
   "api_reference": "ecs.sgn7i-vws-m4.2xlarge",
   "display_name": "ecs.sgn7i-vws-m4.2xlarge",
-  "description": "ecs.sgn7i-vws family (8 vCPUs, 31744 GiB RAM, 0 GB  storage, 1xA10*1/6 4096 GiB VRAM)",
+  "description": "ecs.sgn7i-vws family (8 vCPUs, 31 GiB RAM, 0 GB  storage, 1xA10*1/6 4096 GiB VRAM)",
   "family": "ecs.sgn7i-vws",
   "vcpus": 8,
   "hypervisor": "KVM",

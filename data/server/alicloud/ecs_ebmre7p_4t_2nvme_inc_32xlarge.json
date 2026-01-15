@@ -4,7 +4,7 @@
   "name": "ecs.ebmre7p-4t-2nvme-inc.32xlarge",
   "api_reference": "ecs.ebmre7p-4t-2nvme-inc.32xlarge",
   "display_name": "ecs.ebmre7p-4t-2nvme-inc.32xlarge",
-  "description": "ecs.ebmre7p-4t-2nvme-inc family (128 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmre7p-4t-2nvme-inc family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmre7p-4t-2nvme-inc",
   "vcpus": 128,
   "hypervisor": "KVM",

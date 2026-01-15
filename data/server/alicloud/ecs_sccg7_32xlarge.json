@@ -4,7 +4,7 @@
   "name": "ecs.sccg7.32xlarge",
   "api_reference": "ecs.sccg7.32xlarge",
   "display_name": "ecs.sccg7.32xlarge",
-  "description": "ecs.sccg7 family (128 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.sccg7 family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.sccg7",
   "vcpus": 128,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.r8ise.6xlarge",
   "api_reference": "ecs.r8ise.6xlarge",
   "display_name": "ecs.r8ise.6xlarge",
-  "description": "ecs.r8ise family (24 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r8ise family (24 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.r8ise",
   "vcpus": 24,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.hfr6.10xlarge",
   "api_reference": "ecs.hfr6.10xlarge",
   "display_name": "ecs.hfr6.10xlarge",
-  "description": "ecs.hfr6 family (40 vCPUs, 393216 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfr6 family (40 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfr6",
   "vcpus": 40,
   "hypervisor": "KVM",

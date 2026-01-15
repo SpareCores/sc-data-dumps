@@ -4,7 +4,7 @@
   "name": "ecs.r9ae.16xlarge",
   "api_reference": "ecs.r9ae.16xlarge",
   "display_name": "ecs.r9ae.16xlarge",
-  "description": "ecs.r9ae family (64 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r9ae family (64 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9ae",
   "vcpus": 64,
   "hypervisor": "KVM",

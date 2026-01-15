@@ -4,7 +4,7 @@
   "name": "ecs.gn5t.7xlarge",
   "api_reference": "ecs.gn5t.7xlarge",
   "display_name": "ecs.gn5t.7xlarge",
-  "description": "ecs.gn5t family (28 vCPUs, 114688 GiB RAM, 0 GB  storage, 4xGPU A 0 GiB VRAM)",
+  "description": "ecs.gn5t family (28 vCPUs, 112 GiB RAM, 0 GB  storage, 4xGPU A 0 GiB VRAM)",
   "family": "ecs.gn5t",
   "vcpus": 28,
   "hypervisor": "KVM",

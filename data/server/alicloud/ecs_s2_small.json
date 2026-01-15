@@ -4,7 +4,7 @@
   "name": "ecs.s2.small",
   "api_reference": "ecs.s2.small",
   "display_name": "ecs.s2.small",
-  "description": "ecs.s2 family (2 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.s2 family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.s2",
   "vcpus": 2,
   "hypervisor": "KVM",

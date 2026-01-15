@@ -4,7 +4,7 @@
   "name": "ecs.g9a-flex.96xlarge",
   "api_reference": "ecs.g9a-flex.96xlarge",
   "display_name": "ecs.g9a-flex.96xlarge",
-  "description": "ecs.g9a-flex family (384 vCPUs, 1572864 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9a-flex family (384 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9a-flex",
   "vcpus": 384,
   "hypervisor": "KVM",

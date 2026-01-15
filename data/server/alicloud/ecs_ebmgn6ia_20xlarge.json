@@ -4,7 +4,7 @@
   "name": "ecs.ebmgn6ia.20xlarge",
   "api_reference": "ecs.ebmgn6ia.20xlarge",
   "display_name": "ecs.ebmgn6ia.20xlarge",
-  "description": "ecs.ebmgn6ia family (80 vCPUs, 262144 GiB RAM, 0 GB  storage, 2xT4 0 GiB VRAM)",
+  "description": "ecs.ebmgn6ia family (80 vCPUs, 256 GiB RAM, 0 GB  storage, 2xT4 0 GiB VRAM)",
   "family": "ecs.ebmgn6ia",
   "vcpus": 80,
   "hypervisor": "KVM",

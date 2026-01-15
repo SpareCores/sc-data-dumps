@@ -4,7 +4,7 @@
   "name": "ecs.ebmhfc6.20xlarge",
   "api_reference": "ecs.ebmhfc6.20xlarge",
   "display_name": "ecs.ebmhfc6.20xlarge",
-  "description": "ecs.ebmhfc6 family (80 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmhfc6 family (80 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmhfc6",
   "vcpus": 80,
   "hypervisor": "KVM",

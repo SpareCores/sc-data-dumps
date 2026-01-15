@@ -4,7 +4,7 @@
   "name": "ecs.u1-c1m8.8xlarge",
   "api_reference": "ecs.u1-c1m8.8xlarge",
   "display_name": "ecs.u1-c1m8.8xlarge",
-  "description": "ecs.u1 family (32 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.u1 family (32 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.u1",
   "vcpus": 32,
   "hypervisor": "KVM",

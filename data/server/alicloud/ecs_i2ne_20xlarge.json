@@ -4,7 +4,7 @@
   "name": "ecs.i2ne.20xlarge",
   "api_reference": "ecs.i2ne.20xlarge",
   "display_name": "ecs.i2ne.20xlarge",
-  "description": "ecs.i2ne family (80 vCPUs, 720896 GiB RAM, 19198 GB ssd storage)",
+  "description": "ecs.i2ne family (80 vCPUs, 704 GiB RAM, 19198 GB ssd storage)",
   "family": "ecs.i2ne",
   "vcpus": 80,
   "hypervisor": "KVM",

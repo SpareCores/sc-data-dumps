@@ -4,7 +4,7 @@
   "name": "ecs.poc-test.t30",
   "api_reference": "ecs.poc-test.t30",
   "display_name": "ecs.poc-test.t30",
-  "description": "ecs.poc-test family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.poc-test family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.poc-test",
   "vcpus": 64,
   "hypervisor": "KVM",

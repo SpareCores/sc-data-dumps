@@ -4,7 +4,7 @@
   "name": "ecs.ebmc8i.48xlarge",
   "api_reference": "ecs.ebmc8i.48xlarge",
   "display_name": "ecs.ebmc8i.48xlarge",
-  "description": "ecs.ebmc8i family (192 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmc8i family (192 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc8i",
   "vcpus": 192,
   "hypervisor": "KVM",

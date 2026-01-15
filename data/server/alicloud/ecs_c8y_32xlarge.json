@@ -4,7 +4,7 @@
   "name": "ecs.c8y.32xlarge",
   "api_reference": "ecs.c8y.32xlarge",
   "display_name": "ecs.c8y.32xlarge",
-  "description": "ecs.c8y family (128 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c8y family (128 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8y",
   "vcpus": 128,
   "hypervisor": "KVM",

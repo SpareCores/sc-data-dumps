@@ -4,7 +4,7 @@
   "name": "ecs.g9ine.large",
   "api_reference": "ecs.g9ine.large",
   "display_name": "ecs.g9ine.large",
-  "description": "ecs.g9ine family (2 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9ine family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9ine",
   "vcpus": 2,
   "hypervisor": "KVM",

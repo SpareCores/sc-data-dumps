@@ -4,7 +4,7 @@
   "name": "ecs.ebmga8.48xlarge",
   "api_reference": "ecs.ebmga8.48xlarge",
   "display_name": "ecs.ebmga8.48xlarge",
-  "description": "ecs.ebmga8 family (192 vCPUs, 2097152 GiB RAM, 0 GB  storage, 8xMI-308X 196608 GiB VRAM)",
+  "description": "ecs.ebmga8 family (192 vCPUs, 2048 GiB RAM, 0 GB  storage, 8xMI-308X 196608 GiB VRAM)",
   "family": "ecs.ebmga8",
   "vcpus": 192,
   "hypervisor": "KVM",

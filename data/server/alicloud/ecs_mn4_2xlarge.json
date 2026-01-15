@@ -4,7 +4,7 @@
   "name": "ecs.mn4.2xlarge",
   "api_reference": "ecs.mn4.2xlarge",
   "display_name": "ecs.mn4.2xlarge",
-  "description": "ecs.mn4 family (8 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.mn4 family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.mn4",
   "vcpus": 8,
   "hypervisor": "KVM",

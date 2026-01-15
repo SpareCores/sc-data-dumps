@@ -4,7 +4,7 @@
   "name": "ecs.r6e.2xlarge",
   "api_reference": "ecs.r6e.2xlarge",
   "display_name": "ecs.r6e.2xlarge",
-  "description": "ecs.r6e family (8 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r6e family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.r6e",
   "vcpus": 8,
   "hypervisor": "KVM",

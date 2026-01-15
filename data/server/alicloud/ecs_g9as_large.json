@@ -4,7 +4,7 @@
   "name": "ecs.g9as.large",
   "api_reference": "ecs.g9as.large",
   "display_name": "ecs.g9as.large",
-  "description": "ecs.g9as family (2 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9as family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9as",
   "vcpus": 2,
   "hypervisor": "KVM",

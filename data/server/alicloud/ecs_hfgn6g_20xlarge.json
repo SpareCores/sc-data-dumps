@@ -4,7 +4,7 @@
   "name": "ecs.hfgn6g.20xlarge",
   "api_reference": "ecs.hfgn6g.20xlarge",
   "display_name": "ecs.hfgn6g.20xlarge",
-  "description": "ecs.hfgn6g family (80 vCPUs, 262144 GiB RAM, 0 GB  storage, 4xRTX 6000 24576 GiB VRAM)",
+  "description": "ecs.hfgn6g family (80 vCPUs, 256 GiB RAM, 0 GB  storage, 4xRTX 6000 24576 GiB VRAM)",
   "family": "ecs.hfgn6g",
   "vcpus": 80,
   "hypervisor": "KVM",

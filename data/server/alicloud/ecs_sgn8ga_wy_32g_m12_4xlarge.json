@@ -4,7 +4,7 @@
   "name": "ecs.sgn8ga-wy-32g-m12.4xlarge",
   "api_reference": "ecs.sgn8ga-wy-32g-m12.4xlarge",
   "display_name": "ecs.sgn8ga-wy-32g-m12.4xlarge",
-  "description": "ecs.sgn8ga-wy family (16 vCPUs, 32768 GiB RAM, 0 GB  storage, 1xRTX 5880 12288 GiB VRAM)",
+  "description": "ecs.sgn8ga-wy family (16 vCPUs, 32 GiB RAM, 0 GB  storage, 1xRTX 5880 12288 GiB VRAM)",
   "family": "ecs.sgn8ga-wy",
   "vcpus": 16,
   "hypervisor": "KVM",

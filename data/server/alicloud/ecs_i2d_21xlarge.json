@@ -4,7 +4,7 @@
   "name": "ecs.i2d.21xlarge",
   "api_reference": "ecs.i2d.21xlarge",
   "display_name": "ecs.i2d.21xlarge",
-  "description": "ecs.i2 family (84 vCPUs, 729088 GiB RAM, 15333 GB ssd storage)",
+  "description": "ecs.i2 family (84 vCPUs, 712 GiB RAM, 15333 GB ssd storage)",
   "family": "ecs.i2",
   "vcpus": 84,
   "hypervisor": "KVM",

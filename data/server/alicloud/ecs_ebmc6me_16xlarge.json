@@ -4,7 +4,7 @@
   "name": "ecs.ebmc6me.16xlarge",
   "api_reference": "ecs.ebmc6me.16xlarge",
   "display_name": "ecs.ebmc6me.16xlarge",
-  "description": "ecs.ebmc6me family (64 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmc6me family (64 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc6me",
   "vcpus": 64,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.i2gne.16xlarge",
   "api_reference": "ecs.i2gne.16xlarge",
   "display_name": "ecs.i2gne.16xlarge",
-  "description": "ecs.i2gne family (64 vCPUs, 262144 GiB RAM, 7679 GB ssd storage)",
+  "description": "ecs.i2gne family (64 vCPUs, 256 GiB RAM, 7679 GB ssd storage)",
   "family": "ecs.i2gne",
   "vcpus": 64,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.gn6i-c8g1.2xlarge",
   "api_reference": "ecs.gn6i-c8g1.2xlarge",
   "display_name": "ecs.gn6i-c8g1.2xlarge",
-  "description": "ecs.gn6i family (8 vCPUs, 31744 GiB RAM, 0 GB  storage, 1xT4 16384.0 GiB VRAM)",
+  "description": "ecs.gn6i family (8 vCPUs, 31 GiB RAM, 0 GB  storage, 1xT4 16384.0 GiB VRAM)",
   "family": "ecs.gn6i",
   "vcpus": 8,
   "hypervisor": "KVM",

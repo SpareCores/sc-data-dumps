@@ -4,7 +4,7 @@
   "name": "ecs.gn5i-c2g1.large",
   "api_reference": "ecs.gn5i-c2g1.large",
   "display_name": "ecs.gn5i-c2g1.large",
-  "description": "ecs.gn5i family (2 vCPUs, 8192 GiB RAM, 0 GB  storage, 1xP4 8192 GiB VRAM)",
+  "description": "ecs.gn5i family (2 vCPUs, 8 GiB RAM, 0 GB  storage, 1xP4 8192 GiB VRAM)",
   "family": "ecs.gn5i",
   "vcpus": 2,
   "hypervisor": "KVM",

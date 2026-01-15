@@ -4,7 +4,7 @@
   "name": "ecs.sc3.12xlarge",
   "api_reference": "ecs.sc3.12xlarge",
   "display_name": "ecs.sc3.12xlarge",
-  "description": "ecs.c7 family (48 vCPUs, 98304 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c7 family (48 vCPUs, 96 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7",
   "vcpus": 48,
   "hypervisor": "KVM",

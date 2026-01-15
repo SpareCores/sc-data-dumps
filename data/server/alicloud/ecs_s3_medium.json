@@ -4,7 +4,7 @@
   "name": "ecs.s3.medium",
   "api_reference": "ecs.s3.medium",
   "display_name": "ecs.s3.medium",
-  "description": "ecs.s3 family (4 vCPUs, 4096 GiB RAM, 0 GB  storage)",
+  "description": "ecs.s3 family (4 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.s3",
   "vcpus": 4,
   "hypervisor": "KVM",

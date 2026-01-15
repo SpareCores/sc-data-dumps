@@ -4,7 +4,7 @@
   "name": "ecs.f3-c12f1.3xlarge",
   "api_reference": "ecs.f3-c12f1.3xlarge",
   "display_name": "ecs.f3-c12f1.3xlarge",
-  "description": "ecs.f3 family (12 vCPUs, 49152 GiB RAM, 0 GB  storage, 1xXilinx VU9p 65536 GiB VRAM)",
+  "description": "ecs.f3 family (12 vCPUs, 48 GiB RAM, 0 GB  storage, 1xXilinx VU9p 65536 GiB VRAM)",
   "family": "ecs.f3",
   "vcpus": 12,
   "hypervisor": "KVM",

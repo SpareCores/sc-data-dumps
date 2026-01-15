@@ -4,7 +4,7 @@
   "name": "ecs.ebmhd8.26xlarge",
   "api_reference": "ecs.ebmhd8.26xlarge",
   "display_name": "ecs.ebmhd8.26xlarge",
-  "description": "ecs.ebmhd8 family (104 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmhd8 family (104 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmhd8",
   "vcpus": 104,
   "hypervisor": "KVM",

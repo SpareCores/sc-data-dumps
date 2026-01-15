@@ -4,7 +4,7 @@
   "name": "ecs.n2.large",
   "api_reference": "ecs.n2.large",
   "display_name": "ecs.n2.large",
-  "description": "ecs.n2 family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.n2 family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.n2",
   "vcpus": 4,
   "hypervisor": "KVM",

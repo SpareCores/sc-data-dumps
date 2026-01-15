@@ -4,7 +4,7 @@
   "name": "ecs.c9a-flex-c1m1.large",
   "api_reference": "ecs.c9a-flex-c1m1.large",
   "display_name": "ecs.c9a-flex-c1m1.large",
-  "description": "ecs.c9a-flex-c1m1 family (2 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c9a-flex-c1m1 family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.c9a-flex-c1m1",
   "vcpus": 2,
   "hypervisor": "KVM",

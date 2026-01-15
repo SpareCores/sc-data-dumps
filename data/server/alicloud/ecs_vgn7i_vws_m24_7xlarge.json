@@ -4,7 +4,7 @@
   "name": "ecs.vgn7i-vws-m24.7xlarge",
   "api_reference": "ecs.vgn7i-vws-m24.7xlarge",
   "display_name": "ecs.vgn7i-vws-m24.7xlarge",
-  "description": "ecs.vgn7i-vws family (30 vCPUs, 190464 GiB RAM, 0 GB  storage, 1xA10*1 24576 GiB VRAM)",
+  "description": "ecs.vgn7i-vws family (30 vCPUs, 186 GiB RAM, 0 GB  storage, 1xA10*1 24576 GiB VRAM)",
   "family": "ecs.vgn7i-vws",
   "vcpus": 30,
   "hypervisor": "KVM",

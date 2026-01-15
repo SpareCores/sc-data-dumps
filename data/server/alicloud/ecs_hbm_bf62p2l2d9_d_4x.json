@@ -4,7 +4,7 @@
   "name": "ecs.hbm-bf62p2l2d9-d.4x",
   "api_reference": "ecs.hbm-bf62p2l2d9-d.4x",
   "display_name": "ecs.hbm-bf62p2l2d9-d.4x",
-  "description": "ecs.hbm-bf62p2l2d9-d family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hbm-bf62p2l2d9-d family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.hbm-bf62p2l2d9-d",
   "vcpus": 64,
   "hypervisor": "KVM",

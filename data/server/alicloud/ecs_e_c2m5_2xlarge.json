@@ -4,7 +4,7 @@
   "name": "ecs.e-c2m5.2xlarge",
   "api_reference": "ecs.e-c2m5.2xlarge",
   "display_name": "ecs.e-c2m5.2xlarge",
-  "description": "ecs.e family (8 vCPUs, 20480 GiB RAM, 0 GB  storage)",
+  "description": "ecs.e family (8 vCPUs, 20 GiB RAM, 0 GB  storage)",
   "family": "ecs.e",
   "vcpus": 8,
   "hypervisor": "KVM",

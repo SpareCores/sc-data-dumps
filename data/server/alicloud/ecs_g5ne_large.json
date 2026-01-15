@@ -4,7 +4,7 @@
   "name": "ecs.g5ne.large",
   "api_reference": "ecs.g5ne.large",
   "display_name": "ecs.g5ne.large",
-  "description": "ecs.g5ne family (2 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g5ne family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g5ne",
   "vcpus": 2,
   "hypervisor": "KVM",

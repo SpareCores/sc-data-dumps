@@ -4,7 +4,7 @@
   "name": "ecs.c6r.2xlarge",
   "api_reference": "ecs.c6r.2xlarge",
   "display_name": "ecs.c6r.2xlarge",
-  "description": "ecs.c6r family (8 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c6r family (8 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.c6r",
   "vcpus": 8,
   "hypervisor": "KVM",

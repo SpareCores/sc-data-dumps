@@ -4,7 +4,7 @@
   "name": "ecs.sgn8ia-m2.xlarge",
   "api_reference": "ecs.sgn8ia-m2.xlarge",
   "display_name": "ecs.sgn8ia-m2.xlarge",
-  "description": "ecs.sgn8ia family (4 vCPUs, 16384 GiB RAM, 0 GB  storage, 1xvGPU8-2G 2048 GiB VRAM)",
+  "description": "ecs.sgn8ia family (4 vCPUs, 16 GiB RAM, 0 GB  storage, 1xvGPU8-2G 2048 GiB VRAM)",
   "family": "ecs.sgn8ia",
   "vcpus": 4,
   "hypervisor": "KVM",

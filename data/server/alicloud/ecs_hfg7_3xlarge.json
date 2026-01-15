@@ -4,7 +4,7 @@
   "name": "ecs.hfg7.3xlarge",
   "api_reference": "ecs.hfg7.3xlarge",
   "display_name": "ecs.hfg7.3xlarge",
-  "description": "ecs.hfg7 family (12 vCPUs, 49152 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfg7 family (12 vCPUs, 48 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfg7",
   "vcpus": 12,
   "hypervisor": "KVM",

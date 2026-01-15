@@ -4,7 +4,7 @@
   "name": "ecs.gn7i-c48g1.12xlarge",
   "api_reference": "ecs.gn7i-c48g1.12xlarge",
   "display_name": "ecs.gn7i-c48g1.12xlarge",
-  "description": "ecs.gn7i family (48 vCPUs, 317440 GiB RAM, 0 GB  storage, 1xA10 24576 GiB VRAM)",
+  "description": "ecs.gn7i family (48 vCPUs, 310 GiB RAM, 0 GB  storage, 1xA10 24576 GiB VRAM)",
   "family": "ecs.gn7i",
   "vcpus": 48,
   "hypervisor": "KVM",

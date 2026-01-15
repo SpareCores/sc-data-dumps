@@ -4,7 +4,7 @@
   "name": "ecs.g7ne.12xlarge",
   "api_reference": "ecs.g7ne.12xlarge",
   "display_name": "ecs.g7ne.12xlarge",
-  "description": "ecs.g7ne family (48 vCPUs, 196608 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g7ne family (48 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7ne",
   "vcpus": 48,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.c9i.large",
   "api_reference": "ecs.c9i.large",
   "display_name": "ecs.c9i.large",
-  "description": "ecs.c9i family (2 vCPUs, 4096 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c9i family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c9i",
   "vcpus": 2,
   "hypervisor": "KVM",

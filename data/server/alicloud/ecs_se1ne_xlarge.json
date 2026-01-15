@@ -4,7 +4,7 @@
   "name": "ecs.se1ne.xlarge",
   "api_reference": "ecs.se1ne.xlarge",
   "display_name": "ecs.se1ne.xlarge",
-  "description": "ecs.se1ne family (4 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.se1ne family (4 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.se1ne",
   "vcpus": 4,
   "hypervisor": "KVM",

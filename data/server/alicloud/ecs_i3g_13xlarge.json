@@ -4,7 +4,7 @@
   "name": "ecs.i3g.13xlarge",
   "api_reference": "ecs.i3g.13xlarge",
   "display_name": "ecs.i3g.13xlarge",
-  "description": "ecs.i3g family (52 vCPUs, 196608 GiB RAM, 2879 GB ssd storage)",
+  "description": "ecs.i3g family (52 vCPUs, 192 GiB RAM, 2879 GB ssd storage)",
   "family": "ecs.i3g",
   "vcpus": 52,
   "hypervisor": "KVM",

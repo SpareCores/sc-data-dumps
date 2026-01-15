@@ -4,7 +4,7 @@
   "name": "ecs.g5.xlarge",
   "api_reference": "ecs.g5.xlarge",
   "display_name": "ecs.g5.xlarge",
-  "description": "ecs.g5 family (4 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g5 family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g5",
   "vcpus": 4,
   "hypervisor": "KVM",

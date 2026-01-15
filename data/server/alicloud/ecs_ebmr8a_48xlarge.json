@@ -4,7 +4,7 @@
   "name": "ecs.ebmr8a.48xlarge",
   "api_reference": "ecs.ebmr8a.48xlarge",
   "display_name": "ecs.ebmr8a.48xlarge",
-  "description": "ecs.ebmr8a family (192 vCPUs, 1572864 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmr8a family (192 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr8a",
   "vcpus": 192,
   "hypervisor": "KVM",

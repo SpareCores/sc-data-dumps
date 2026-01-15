@@ -4,7 +4,7 @@
   "name": "ecs.g8ise.3xlarge",
   "api_reference": "ecs.g8ise.3xlarge",
   "display_name": "ecs.g8ise.3xlarge",
-  "description": "ecs.g8ise family (12 vCPUs, 49152 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g8ise family (12 vCPUs, 48 GiB RAM, 0 GB  storage)",
   "family": "ecs.g8ise",
   "vcpus": 12,
   "hypervisor": "KVM",

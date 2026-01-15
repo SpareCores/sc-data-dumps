@@ -4,7 +4,7 @@
   "name": "ecs.gn9t.6xlarge",
   "api_reference": "ecs.gn9t.6xlarge",
   "display_name": "ecs.gn9t.6xlarge",
-  "description": "ecs.gn9t family (24 vCPUs, 196608 GiB RAM, 0 GB  storage, 1xG59 32768 GiB VRAM)",
+  "description": "ecs.gn9t family (24 vCPUs, 192 GiB RAM, 0 GB  storage, 1xG59 32768 GiB VRAM)",
   "family": "ecs.gn9t",
   "vcpus": 24,
   "hypervisor": "KVM",

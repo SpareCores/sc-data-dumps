@@ -4,7 +4,7 @@
   "name": "ecs.r5.22xlarge",
   "api_reference": "ecs.r5.22xlarge",
   "display_name": "ecs.r5.22xlarge",
-  "description": "ecs.r5 family (88 vCPUs, 720896 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r5 family (88 vCPUs, 704 GiB RAM, 0 GB  storage)",
   "family": "ecs.r5",
   "vcpus": 88,
   "hypervisor": "KVM",

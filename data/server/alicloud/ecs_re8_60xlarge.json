@@ -4,7 +4,7 @@
   "name": "ecs.re8.60xlarge",
   "api_reference": "ecs.re8.60xlarge",
   "display_name": "ecs.re8.60xlarge",
-  "description": "ecs.re8 family (240 vCPUs, 4194304 GiB RAM, 0 GB  storage)",
+  "description": "ecs.re8 family (240 vCPUs, 4096 GiB RAM, 0 GB  storage)",
   "family": "ecs.re8",
   "vcpus": 240,
   "hypervisor": "KVM",

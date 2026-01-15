@@ -4,7 +4,7 @@
   "name": "ecs.e3.xlarge",
   "api_reference": "ecs.e3.xlarge",
   "display_name": "ecs.e3.xlarge",
-  "description": "ecs.e3 family (8 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.e3 family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.e3",
   "vcpus": 8,
   "hypervisor": "KVM",

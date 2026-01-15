@@ -4,7 +4,7 @@
   "name": "ecs.xn4.small",
   "api_reference": "ecs.xn4.small",
   "display_name": "ecs.xn4.small",
-  "description": "ecs.xn4 family (1 vCPUs, 1024 GiB RAM, 0 GB  storage)",
+  "description": "ecs.xn4 family (1 vCPUs, 1 GiB RAM, 0 GB  storage)",
   "family": "ecs.xn4",
   "vcpus": 1,
   "hypervisor": "KVM",

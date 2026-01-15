@@ -4,7 +4,7 @@
   "name": "ecs.gn9t-2x.12xlarge",
   "api_reference": "ecs.gn9t-2x.12xlarge",
   "display_name": "ecs.gn9t-2x.12xlarge",
-  "description": "ecs.gn9t family (48 vCPUs, 393216 GiB RAM, 0 GB  storage, 2xG59 32768 GiB VRAM)",
+  "description": "ecs.gn9t family (48 vCPUs, 384 GiB RAM, 0 GB  storage, 2xG59 32768 GiB VRAM)",
   "family": "ecs.gn9t",
   "vcpus": 48,
   "hypervisor": "KVM",

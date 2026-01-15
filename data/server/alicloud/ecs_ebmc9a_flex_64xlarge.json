@@ -4,7 +4,7 @@
   "name": "ecs.ebmc9a-flex.64xlarge",
   "api_reference": "ecs.ebmc9a-flex.64xlarge",
   "display_name": "ecs.ebmc9a-flex.64xlarge",
-  "description": "ecs.ebmc9a-flex family (384 vCPUs, 786432 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmc9a-flex family (384 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc9a-flex",
   "vcpus": 384,
   "hypervisor": "KVM",

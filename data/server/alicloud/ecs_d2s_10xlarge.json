@@ -4,7 +4,7 @@
   "name": "ecs.d2s.10xlarge",
   "api_reference": "ecs.d2s.10xlarge",
   "display_name": "ecs.d2s.10xlarge",
-  "description": "ecs.d2s family (40 vCPUs, 180224 GiB RAM, 117574 GB hdd storage)",
+  "description": "ecs.d2s family (40 vCPUs, 176 GiB RAM, 117574 GB hdd storage)",
   "family": "ecs.d2s",
   "vcpus": 40,
   "hypervisor": "KVM",

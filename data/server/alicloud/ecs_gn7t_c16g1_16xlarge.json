@@ -4,7 +4,7 @@
   "name": "ecs.gn7t-c16g1.16xlarge",
   "api_reference": "ecs.gn7t-c16g1.16xlarge",
   "display_name": "ecs.gn7t-c16g1.16xlarge",
-  "description": "ecs.gn7t family (64 vCPUs, 385024 GiB RAM, 0 GB  storage, 4xG39 24576 GiB VRAM)",
+  "description": "ecs.gn7t family (64 vCPUs, 376 GiB RAM, 0 GB  storage, 4xG39 24576 GiB VRAM)",
   "family": "ecs.gn7t",
   "vcpus": 64,
   "hypervisor": "KVM",

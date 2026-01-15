@@ -4,7 +4,7 @@
   "name": "ecs.video-trans.26xhevc",
   "api_reference": "ecs.video-trans.26xhevc",
   "display_name": "ecs.video-trans.26xhevc",
-  "description": "ecs.video-trans family (104 vCPUs, 196608 GiB RAM, 0 GB  storage, 12xNETINT T408 0 GiB VRAM)",
+  "description": "ecs.video-trans family (104 vCPUs, 192 GiB RAM, 0 GB  storage, 12xNETINT T408 0 GiB VRAM)",
   "family": "ecs.video-trans",
   "vcpus": 104,
   "hypervisor": "KVM",

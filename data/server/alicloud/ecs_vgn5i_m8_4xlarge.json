@@ -4,7 +4,7 @@
   "name": "ecs.vgn5i-m8.4xlarge",
   "api_reference": "ecs.vgn5i-m8.4xlarge",
   "display_name": "ecs.vgn5i-m8.4xlarge",
-  "description": "ecs.vgn5i family (16 vCPUs, 49152 GiB RAM, 0 GB  storage, 1xP4 8192 GiB VRAM)",
+  "description": "ecs.vgn5i family (16 vCPUs, 48 GiB RAM, 0 GB  storage, 1xP4 8192 GiB VRAM)",
   "family": "ecs.vgn5i",
   "vcpus": 16,
   "hypervisor": "KVM",

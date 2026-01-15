@@ -4,7 +4,7 @@
   "name": "ecs.ebmg8m.32xlarge",
   "api_reference": "ecs.ebmg8m.32xlarge",
   "display_name": "ecs.ebmg8m.32xlarge",
-  "description": "ecs.ebmg8m family (128 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmg8m family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg8m",
   "vcpus": 128,
   "hypervisor": "KVM",

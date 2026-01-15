@@ -4,7 +4,7 @@
   "name": "ecs.se1.14xlarge",
   "api_reference": "ecs.se1.14xlarge",
   "display_name": "ecs.se1.14xlarge",
-  "description": "ecs.se1 family (56 vCPUs, 491520 GiB RAM, 0 GB  storage)",
+  "description": "ecs.se1 family (56 vCPUs, 480 GiB RAM, 0 GB  storage)",
   "family": "ecs.se1",
   "vcpus": 56,
   "hypervisor": "KVM",

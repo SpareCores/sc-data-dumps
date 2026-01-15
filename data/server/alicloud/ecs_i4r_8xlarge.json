@@ -4,7 +4,7 @@
   "name": "ecs.i4r.8xlarge",
   "api_reference": "ecs.i4r.8xlarge",
   "display_name": "ecs.i4r.8xlarge",
-  "description": "ecs.i4r family (32 vCPUs, 262144 GiB RAM, 1919 GB ssd storage)",
+  "description": "ecs.i4r family (32 vCPUs, 256 GiB RAM, 1919 GB ssd storage)",
   "family": "ecs.i4r",
   "vcpus": 32,
   "hypervisor": "KVM",

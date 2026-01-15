@@ -4,7 +4,7 @@
   "name": "ecs.r7a-nps1.16xlarge",
   "api_reference": "ecs.r7a-nps1.16xlarge",
   "display_name": "ecs.r7a-nps1.16xlarge",
-  "description": "ecs.r7a family (64 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r7a family (64 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7a",
   "vcpus": 64,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.u2i-c1m1.large",
   "api_reference": "ecs.u2i-c1m1.large",
   "display_name": "ecs.u2i-c1m1.large",
-  "description": "ecs.u2i family (2 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.u2i family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.u2i",
   "vcpus": 2,
   "hypervisor": "KVM",

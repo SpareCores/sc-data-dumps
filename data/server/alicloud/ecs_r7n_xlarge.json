@@ -4,7 +4,7 @@
   "name": "ecs.r7n.xlarge",
   "api_reference": "ecs.r7n.xlarge",
   "display_name": "ecs.r7n.xlarge",
-  "description": "ecs.r7 family (4 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r7 family (4 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7",
   "vcpus": 4,
   "hypervisor": "KVM",

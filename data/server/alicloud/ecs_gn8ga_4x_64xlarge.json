@@ -4,7 +4,7 @@
   "name": "ecs.gn8ga-4x.64xlarge",
   "api_reference": "ecs.gn8ga-4x.64xlarge",
   "display_name": "ecs.gn8ga-4x.64xlarge",
-  "description": "ecs.gn8ga family (256 vCPUs, 1572864 GiB RAM, 0 GB  storage, 4xRTX 5880 49152 GiB VRAM)",
+  "description": "ecs.gn8ga family (256 vCPUs, 1536 GiB RAM, 0 GB  storage, 4xRTX 5880 49152 GiB VRAM)",
   "family": "ecs.gn8ga",
   "vcpus": 256,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.d1.2xlarge",
   "api_reference": "ecs.d1.2xlarge",
   "display_name": "ecs.d1.2xlarge",
-  "description": "ecs.d1 family (8 vCPUs, 32768 GiB RAM, 23622 GB hdd storage)",
+  "description": "ecs.d1 family (8 vCPUs, 32 GiB RAM, 23622 GB hdd storage)",
   "family": "ecs.d1",
   "vcpus": 8,
   "hypervisor": "KVM",

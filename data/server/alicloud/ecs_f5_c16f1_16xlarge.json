@@ -4,7 +4,7 @@
   "name": "ecs.f5-c16f1.16xlarge",
   "api_reference": "ecs.f5-c16f1.16xlarge",
   "display_name": "ecs.f5-c16f1.16xlarge",
-  "description": "ecs.f5 family (64 vCPUs, 262144 GiB RAM, 0 GB  storage, 2xAGF 027 16384 GiB VRAM)",
+  "description": "ecs.f5 family (64 vCPUs, 256 GiB RAM, 0 GB  storage, 2xAGF 027 16384 GiB VRAM)",
   "family": "ecs.f5",
   "vcpus": 64,
   "hypervisor": "KVM",

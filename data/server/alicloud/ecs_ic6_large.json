@@ -4,7 +4,7 @@
   "name": "ecs.ic6.large",
   "api_reference": "ecs.ic6.large",
   "display_name": "ecs.ic6.large",
-  "description": "ecs.ic6 family (2 vCPUs, 2048 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ic6 family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.ic6",
   "vcpus": 2,
   "hypervisor": "KVM",

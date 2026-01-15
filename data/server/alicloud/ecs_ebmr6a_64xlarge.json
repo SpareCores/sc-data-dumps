@@ -4,7 +4,7 @@
   "name": "ecs.ebmr6a.64xlarge",
   "api_reference": "ecs.ebmr6a.64xlarge",
   "display_name": "ecs.ebmr6a.64xlarge",
-  "description": "ecs.ebmr6a family (256 vCPUs, 2097152 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmr6a family (256 vCPUs, 2048 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr6a",
   "vcpus": 256,
   "hypervisor": "KVM",

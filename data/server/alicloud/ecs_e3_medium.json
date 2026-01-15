@@ -4,7 +4,7 @@
   "name": "ecs.e3.medium",
   "api_reference": "ecs.e3.medium",
   "display_name": "ecs.e3.medium",
-  "description": "ecs.e3 family (2 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.e3 family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.e3",
   "vcpus": 2,
   "hypervisor": "KVM",

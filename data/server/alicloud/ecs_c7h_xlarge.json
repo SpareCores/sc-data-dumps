@@ -4,7 +4,7 @@
   "name": "ecs.c7h.xlarge",
   "api_reference": "ecs.c7h.xlarge",
   "display_name": "ecs.c7h.xlarge",
-  "description": "ecs.c7h family (4 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c7h family (4 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7h",
   "vcpus": 4,
   "hypervisor": "KVM",

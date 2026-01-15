@@ -4,7 +4,7 @@
   "name": "ecs.gn6i-c40g1.10xlarge",
   "api_reference": "ecs.gn6i-c40g1.10xlarge",
   "display_name": "ecs.gn6i-c40g1.10xlarge",
-  "description": "ecs.gn6i family (40 vCPUs, 158720 GiB RAM, 0 GB  storage, 1xT4 16384.0 GiB VRAM)",
+  "description": "ecs.gn6i family (40 vCPUs, 155 GiB RAM, 0 GB  storage, 1xT4 16384.0 GiB VRAM)",
   "family": "ecs.gn6i",
   "vcpus": 40,
   "hypervisor": "KVM",

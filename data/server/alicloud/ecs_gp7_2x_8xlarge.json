@@ -4,7 +4,7 @@
   "name": "ecs.gp7-2x.8xlarge",
   "api_reference": "ecs.gp7-2x.8xlarge",
   "display_name": "ecs.gp7-2x.8xlarge",
-  "description": "ecs.gp7 family (32 vCPUs, 262144 GiB RAM, 0 GB  storage, 2xPPU 810 98304 GiB VRAM)",
+  "description": "ecs.gp7 family (32 vCPUs, 256 GiB RAM, 0 GB  storage, 2xPPU 810 98304 GiB VRAM)",
   "family": "ecs.gp7",
   "vcpus": 32,
   "hypervisor": "KVM",

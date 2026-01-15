@@ -4,7 +4,7 @@
   "name": "ecs.ebmr7-htoff.32xlarge",
   "api_reference": "ecs.ebmr7-htoff.32xlarge",
   "display_name": "ecs.ebmr7-htoff.32xlarge",
-  "description": "ecs.ebmr7-htoff family (128 vCPUs, 1048576 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmr7-htoff family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr7-htoff",
   "vcpus": 128,
   "hypervisor": "KVM",

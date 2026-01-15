@@ -4,7 +4,7 @@
   "name": "ecs.g6t.26xlarge",
   "api_reference": "ecs.g6t.26xlarge",
   "display_name": "ecs.g6t.26xlarge",
-  "description": "ecs.g6t family (104 vCPUs, 393216 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g6t family (104 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.g6t",
   "vcpus": 104,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.gn7e-c16g1.16xlarge",
   "api_reference": "ecs.gn7e-c16g1.16xlarge",
   "display_name": "ecs.gn7e-c16g1.16xlarge",
-  "description": "ecs.gn7e family (64 vCPUs, 512000 GiB RAM, 0 GB  storage, 4xA100 80G 81920 GiB VRAM)",
+  "description": "ecs.gn7e family (64 vCPUs, 500 GiB RAM, 0 GB  storage, 4xA100 80G 81920 GiB VRAM)",
   "family": "ecs.gn7e",
   "vcpus": 64,
   "hypervisor": "KVM",

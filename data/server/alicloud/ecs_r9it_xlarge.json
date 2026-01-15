@@ -4,7 +4,7 @@
   "name": "ecs.r9it.xlarge",
   "api_reference": "ecs.r9it.xlarge",
   "display_name": "ecs.r9it.xlarge",
-  "description": "ecs.r9it family (4 vCPUs, 32768 GiB RAM, 0 GB  storage)",
+  "description": "ecs.r9it family (4 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9it",
   "vcpus": 4,
   "hypervisor": "KVM",

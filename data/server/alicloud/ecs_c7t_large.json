@@ -4,7 +4,7 @@
   "name": "ecs.c7t.large",
   "api_reference": "ecs.c7t.large",
   "display_name": "ecs.c7t.large",
-  "description": "ecs.c7t family (2 vCPUs, 4096 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c7t family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7t",
   "vcpus": 2,
   "hypervisor": "KVM",

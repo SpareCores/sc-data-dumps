@@ -4,7 +4,7 @@
   "name": "ecs.d1ne-c8d3.8xlarge",
   "api_reference": "ecs.d1ne-c8d3.8xlarge",
   "display_name": "ecs.d1ne-c8d3.8xlarge",
-  "description": "ecs.d1ne family (32 vCPUs, 131072 GiB RAM, 70866 GB hdd storage)",
+  "description": "ecs.d1ne family (32 vCPUs, 128 GiB RAM, 70866 GB hdd storage)",
   "family": "ecs.d1ne",
   "vcpus": 32,
   "hypervisor": "KVM",

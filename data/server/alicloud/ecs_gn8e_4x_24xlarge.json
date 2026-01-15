@@ -4,7 +4,7 @@
   "name": "ecs.gn8e-4x.24xlarge",
   "api_reference": "ecs.gn8e-4x.24xlarge",
   "display_name": "ecs.gn8e-4x.24xlarge",
-  "description": "ecs.gn8e family (96 vCPUs, 1048576 GiB RAM, 0 GB  storage, 4xGPU H-e 144384 GiB VRAM)",
+  "description": "ecs.gn8e family (96 vCPUs, 1024 GiB RAM, 0 GB  storage, 4xGPU H-e 144384 GiB VRAM)",
   "family": "ecs.gn8e",
   "vcpus": 96,
   "hypervisor": "KVM",

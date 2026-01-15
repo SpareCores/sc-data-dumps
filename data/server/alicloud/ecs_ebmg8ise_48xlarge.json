@@ -4,7 +4,7 @@
   "name": "ecs.ebmg8ise.48xlarge",
   "api_reference": "ecs.ebmg8ise.48xlarge",
   "display_name": "ecs.ebmg8ise.48xlarge",
-  "description": "ecs.ebmg8ise family (192 vCPUs, 1048576 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmg8ise family (192 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg8ise",
   "vcpus": 192,
   "hypervisor": "KVM",

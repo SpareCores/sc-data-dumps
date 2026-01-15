@@ -4,7 +4,7 @@
   "name": "ecs.g9it.16xlarge",
   "api_reference": "ecs.g9it.16xlarge",
   "display_name": "ecs.g9it.16xlarge",
-  "description": "ecs.g9it family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g9it family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9it",
   "vcpus": 64,
   "hypervisor": "KVM",

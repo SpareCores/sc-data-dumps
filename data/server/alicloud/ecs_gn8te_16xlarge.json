@@ -4,7 +4,7 @@
   "name": "ecs.gn8te.16xlarge",
   "api_reference": "ecs.gn8te.16xlarge",
   "display_name": "ecs.gn8te.16xlarge",
-  "description": "ecs.gn8te family (64 vCPUs, 524288 GiB RAM, 0 GB  storage, 4xG49E 49152 GiB VRAM)",
+  "description": "ecs.gn8te family (64 vCPUs, 512 GiB RAM, 0 GB  storage, 4xG49E 49152 GiB VRAM)",
   "family": "ecs.gn8te",
   "vcpus": 64,
   "hypervisor": "KVM",

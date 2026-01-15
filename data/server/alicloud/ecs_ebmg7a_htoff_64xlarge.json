@@ -4,7 +4,7 @@
   "name": "ecs.ebmg7a-htoff.64xlarge",
   "api_reference": "ecs.ebmg7a-htoff.64xlarge",
   "display_name": "ecs.ebmg7a-htoff.64xlarge",
-  "description": "ecs.ebmg7a-htoff family (256 vCPUs, 1048576 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmg7a-htoff family (256 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg7a-htoff",
   "vcpus": 256,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.ic9a-flex.4xlarge",
   "api_reference": "ecs.ic9a-flex.4xlarge",
   "display_name": "ecs.ic9a-flex.4xlarge",
-  "description": "ecs.ic9a-flex family (16 vCPUs, 16384 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ic9a-flex family (16 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.ic9a-flex",
   "vcpus": 16,
   "hypervisor": "KVM",

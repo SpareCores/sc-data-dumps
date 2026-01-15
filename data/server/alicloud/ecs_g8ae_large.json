@@ -4,7 +4,7 @@
   "name": "ecs.g8ae.large",
   "api_reference": "ecs.g8ae.large",
   "display_name": "ecs.g8ae.large",
-  "description": "ecs.g8ae family (2 vCPUs, 8192 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g8ae family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g8ae",
   "vcpus": 2,
   "hypervisor": "KVM",

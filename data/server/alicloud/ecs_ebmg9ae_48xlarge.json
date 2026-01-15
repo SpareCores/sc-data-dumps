@@ -4,7 +4,7 @@
   "name": "ecs.ebmg9ae.48xlarge",
   "api_reference": "ecs.ebmg9ae.48xlarge",
   "display_name": "ecs.ebmg9ae.48xlarge",
-  "description": "ecs.ebmg9ae family (192 vCPUs, 786432 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmg9ae family (192 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg9ae",
   "vcpus": 192,
   "hypervisor": "KVM",

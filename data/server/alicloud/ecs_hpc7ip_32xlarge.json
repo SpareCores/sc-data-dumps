@@ -4,7 +4,7 @@
   "name": "ecs.hpc7ip.32xlarge",
   "api_reference": "ecs.hpc7ip.32xlarge",
   "display_name": "ecs.hpc7ip.32xlarge",
-  "description": "ecs.hpc7ip family (64 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hpc7ip family (64 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc7ip",
   "vcpus": 64,
   "hypervisor": "KVM",

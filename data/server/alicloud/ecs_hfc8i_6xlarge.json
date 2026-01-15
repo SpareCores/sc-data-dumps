@@ -4,7 +4,7 @@
   "name": "ecs.hfc8i.6xlarge",
   "api_reference": "ecs.hfc8i.6xlarge",
   "display_name": "ecs.hfc8i.6xlarge",
-  "description": "ecs.hfc8i family (24 vCPUs, 49152 GiB RAM, 0 GB  storage)",
+  "description": "ecs.hfc8i family (24 vCPUs, 48 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfc8i",
   "vcpus": 24,
   "hypervisor": "KVM",

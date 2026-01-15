@@ -4,7 +4,7 @@
   "name": "ecs.ebmr6e.26xlarge",
   "api_reference": "ecs.ebmr6e.26xlarge",
   "display_name": "ecs.ebmr6e.26xlarge",
-  "description": "ecs.ebmr6e family (104 vCPUs, 786432 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmr6e family (104 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr6e",
   "vcpus": 104,
   "hypervisor": "KVM",

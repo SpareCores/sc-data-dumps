@@ -4,7 +4,7 @@
   "name": "ecs.i5.8xlarge",
   "api_reference": "ecs.i5.8xlarge",
   "display_name": "ecs.i5.8xlarge",
-  "description": "ecs.i5 family (32 vCPUs, 262144 GiB RAM, 7679 GB ssd storage)",
+  "description": "ecs.i5 family (32 vCPUs, 256 GiB RAM, 7679 GB ssd storage)",
   "family": "ecs.i5",
   "vcpus": 32,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.ebmc7a-nps2.64xlarge",
   "api_reference": "ecs.ebmc7a-nps2.64xlarge",
   "display_name": "ecs.ebmc7a-nps2.64xlarge",
-  "description": "ecs.ebmc7a-nps2 family (256 vCPUs, 524288 GiB RAM, 0 GB  storage)",
+  "description": "ecs.ebmc7a-nps2 family (256 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc7a-nps2",
   "vcpus": 256,
   "hypervisor": "KVM",

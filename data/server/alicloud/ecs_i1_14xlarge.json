@@ -4,7 +4,7 @@
   "name": "ecs.i1.14xlarge",
   "api_reference": "ecs.i1.14xlarge",
   "display_name": "ecs.i1.14xlarge",
-  "description": "ecs.i1 family (56 vCPUs, 229376 GiB RAM, 3126 GB ssd storage)",
+  "description": "ecs.i1 family (56 vCPUs, 224 GiB RAM, 3126 GB ssd storage)",
   "family": "ecs.i1",
   "vcpus": 56,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.c8ine.8xlarge",
   "api_reference": "ecs.c8ine.8xlarge",
   "display_name": "ecs.c8ine.8xlarge",
-  "description": "ecs.c8ine family (32 vCPUs, 65536 GiB RAM, 0 GB  storage)",
+  "description": "ecs.c8ine family (32 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8ine",
   "vcpus": 32,
   "hypervisor": "KVM",

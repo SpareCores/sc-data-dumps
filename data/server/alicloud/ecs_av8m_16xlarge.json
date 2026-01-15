@@ -4,7 +4,7 @@
   "name": "ecs.av8m.16xlarge",
   "api_reference": "ecs.av8m.16xlarge",
   "display_name": "ecs.av8m.16xlarge",
-  "description": "ecs.av8m family (64 vCPUs, 262144 GiB RAM, 0 GB  storage, 1xVG1000 65536 GiB VRAM)",
+  "description": "ecs.av8m family (64 vCPUs, 256 GiB RAM, 0 GB  storage, 1xVG1000 65536 GiB VRAM)",
   "family": "ecs.av8m",
   "vcpus": 64,
   "hypervisor": "KVM",

@@ -4,7 +4,7 @@
   "name": "ecs.ga1.xlarge",
   "api_reference": "ecs.ga1.xlarge",
   "display_name": "ecs.ga1.xlarge",
-  "description": "ecs.ga1 family (4 vCPUs, 10240 GiB RAM, 93 GB ssd storage, 1xAMD S7150/4 0 GiB VRAM)",
+  "description": "ecs.ga1 family (4 vCPUs, 10 GiB RAM, 93 GB ssd storage, 1xAMD S7150/4 0 GiB VRAM)",
   "family": "ecs.ga1",
   "vcpus": 4,
   "hypervisor": "KVM",

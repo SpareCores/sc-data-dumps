@@ -4,7 +4,7 @@
   "name": "ecs.sccc8ae.64xlarge",
   "api_reference": "ecs.sccc8ae.64xlarge",
   "display_name": "ecs.sccc8ae.64xlarge",
-  "description": "ecs.sccc8ae family (256 vCPUs, 786432 GiB RAM, 0 GB  storage)",
+  "description": "ecs.sccc8ae family (256 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.sccc8ae",
   "vcpus": 256,
   "hypervisor": "KVM",

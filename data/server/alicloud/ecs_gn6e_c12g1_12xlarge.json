@@ -4,7 +4,7 @@
   "name": "ecs.gn6e-c12g1.12xlarge",
   "api_reference": "ecs.gn6e-c12g1.12xlarge",
   "display_name": "ecs.gn6e-c12g1.12xlarge",
-  "description": "ecs.gn6e family (48 vCPUs, 376832 GiB RAM, 0 GB  storage, 4xV100 32768 GiB VRAM)",
+  "description": "ecs.gn6e family (48 vCPUs, 368 GiB RAM, 0 GB  storage, 4xV100 32768 GiB VRAM)",
   "family": "ecs.gn6e",
   "vcpus": 48,
   "hypervisor": "KVM",

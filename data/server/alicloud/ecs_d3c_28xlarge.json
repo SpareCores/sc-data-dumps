@@ -4,7 +4,7 @@
   "name": "ecs.d3c.28xlarge",
   "api_reference": "ecs.d3c.28xlarge",
   "display_name": "ecs.d3c.28xlarge",
-  "description": "ecs.d3c family (112 vCPUs, 458752 GiB RAM, 109951 GB hdd storage)",
+  "description": "ecs.d3c family (112 vCPUs, 448 GiB RAM, 109951 GB hdd storage)",
   "family": "ecs.d3c",
   "vcpus": 112,
   "hypervisor": "KVM",

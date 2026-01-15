@@ -4,7 +4,7 @@
   "name": "ecs.d3s.4xlarge",
   "api_reference": "ecs.d3s.4xlarge",
   "display_name": "ecs.d3s.4xlarge",
-  "description": "ecs.d3s family (16 vCPUs, 65536 GiB RAM, 95348 GB hdd storage)",
+  "description": "ecs.d3s family (16 vCPUs, 64 GiB RAM, 95348 GB hdd storage)",
   "family": "ecs.d3s",
   "vcpus": 16,
   "hypervisor": "KVM",

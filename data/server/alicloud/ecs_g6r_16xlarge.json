@@ -4,7 +4,7 @@
   "name": "ecs.g6r.16xlarge",
   "api_reference": "ecs.g6r.16xlarge",
   "display_name": "ecs.g6r.16xlarge",
-  "description": "ecs.g6r family (64 vCPUs, 262144 GiB RAM, 0 GB  storage)",
+  "description": "ecs.g6r family (64 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.g6r",
   "vcpus": 64,
   "hypervisor": "KVM",
