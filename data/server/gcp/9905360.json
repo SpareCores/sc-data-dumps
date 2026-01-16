@@ -140,9 +140,170 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
-  "storage_type": null,
-  "storages": [],
+  "storage_size": 12000,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 375,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
