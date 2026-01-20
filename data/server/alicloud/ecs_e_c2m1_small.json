@@ -8,7 +8,7 @@
   "family": "ecs.e",
   "vcpus": 1,
   "hypervisor": "KVM",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "SHARED",
   "cpu_cores": 1,
   "cpu_speed": 2.5,
   "cpu_architecture": "X86_64",
