@@ -29,7 +29,7 @@
   "gpu_memory_total": 98304,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": null,
-  "gpu_model": "RTX PRO Server 6000",
+  "gpu_model": "RTX Pro 6000",
   "gpus": [
     {
       "manufacturer": "NVIDIA",

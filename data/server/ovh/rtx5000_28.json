@@ -128,12 +128,12 @@
   "gpu_count": 1,
   "gpu_memory_min": 15360,
   "gpu_memory_total": 15360,
-  "gpu_manufacturer": "Quadro RTX",
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Turing",
   "gpu_model": "RTX 5000",
   "gpus": [
     {
-      "manufacturer": "Quadro RTX",
+      "manufacturer": "NVIDIA",
       "family": "Turing",
       "model": "Quadro RTX 5000",
       "memory": 15360,

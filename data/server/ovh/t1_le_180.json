@@ -130,7 +130,7 @@
   "gpu_memory_total": 65536,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Volta",
-  "gpu_model": "V100-PCIE-16GB",
+  "gpu_model": "V100",
   "gpus": [
     {
       "manufacturer": "NVIDIA",

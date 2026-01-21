@@ -130,7 +130,7 @@
   "gpu_memory_total": 131072,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Volta",
-  "gpu_model": "V100S-PCIE-32GB",
+  "gpu_model": "V100S",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
