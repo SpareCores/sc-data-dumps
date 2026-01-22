@@ -34,7 +34,7 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "network_speed": 128.0,
+  "network_speed": 100.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
