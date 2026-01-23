@@ -1,3 +1,33 @@
+## v0.3.3+20260123203305 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21300002707
+
+
+## v0.3.3+20260123192640 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21298188581
+
+
+## v0.3.3+20260123185136 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21297227876
+
+
+## v0.3.3+20260123184010 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21296893097
+
+
+## v0.3.3+20260123181538 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21296172483
+
+
 ## v0.3.3+20260123173740 (Jan 23, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.
