@@ -5,6 +5,15 @@ on:
     - cron: "0 * * * *"
     - cron: "5-55/5 * * * *"
   workflow_dispatch:
+    inputs:
+      run_type:
+        description: 'Type of run to execute'
+        required: true
+        default: 'hourly'
+        type: choice
+        options:
+          - hourly
+          - frequent
 
 jobs:
   crawl:
@@ -86,16 +95,16 @@ jobs:
           echo "PGPASSWORD=${PGPASSWORD}" >> "$GITHUB_ENV"
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
       - name: Get current database hourly or if not cached
-        if: github.event.schedule == '0 * * * *' || steps.cache-sqlite-restore.outputs.cache-hit != 'true'
+        if: github.event.schedule == '0 * * * *' || (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly') || steps.cache-sqlite-restore.outputs.cache-hit != 'true'
         run: |
           rm -f ${FILE}
           sc-crawler copy --source ${REMOTE_DB} --target sqlite:///${FILE}
 
       - name: Run SC Crawler on all resources once an hour or on manual request
-        if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
+        if: github.event.schedule == '0 * * * *' || (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly')
         run: sc-crawler pull --connection-string sqlite:///${FILE}
       - name: Run SC Crawler only for spot prices
-        if: github.event.schedule == '5-55/5 * * * *'
+        if: github.event.schedule == '5-55/5 * * * *' || (github.event_name == 'workflow_dispatch' && inputs.run_type == 'frequent')
         # Azure Retail Pricing API is super slow, let's delay checking on their spot prices only in the hourly run
         run: sc-crawler pull --connection-string sqlite:///${FILE} --include-records server_prices_spot --exclude-vendor azure
 
@@ -110,12 +119,12 @@ jobs:
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
 
       - name: Sync back (all records)
-        if: github.event.schedule == '0 * * * *' || github.event_name == 'workflow_dispatch'
+        if: github.event.schedule == '0 * * * *' || (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly')
         run: |
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
           psql "host=${DB_HOST} port=${DB_PORT} dbname=${DB_NAME} user=${DB_USER} sslmode=require" -c "VACUUM ANALYZE"
       - name: Sync back (server prices only)
-        if: github.event.schedule == '5-55/5 * * * *'
+        if: github.event.schedule == '5-55/5 * * * *' || (github.event_name == 'workflow_dispatch' && inputs.run_type == 'frequent')
         run: |
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --sync-tables server_price
           touch changes.log
