@@ -18,14 +18,15 @@ jobs:
       BUCKET: sc-data-public-40e9d310
       FILE: sc-data-all.db
       DB_HOST: ${{ secrets.DB_HOST }}
-      DB_PORT: ${{ secrets.DB_PORT }}
+      DB_PORT: ${{ vars.DB_PORT }}
       DB_USER: ${{ secrets.DB_USER }}
       DB_NAME: ${{ secrets.DB_NAME }}
-      DB_REGION: ${{ secrets.DB_REGION }}
+      DB_REGION: ${{ vars.DB_REGION }}
       HCLOUD_TOKEN: ${{ secrets.HCLOUD_TOKEN }}
       AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
       AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
       AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
+      AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
       UPCLOUD_USERNAME: ${{ secrets.UPCLOUD_USERNAME }}
       UPCLOUD_PASSWORD: ${{ secrets.UPCLOUD_PASSWORD }}
       OVH_CLIENT_ID: ${{ secrets.OVH_CLIENT_ID }}
