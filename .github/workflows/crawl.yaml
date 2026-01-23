@@ -156,7 +156,7 @@ jobs:
             DELETE FROM benchmark_score;
             VACUUM;"
           echo "Dumping $FILE to JSON files..."
-          rm -rf data && mkdir data
+          find data -mindepth 1 -maxdepth 1 -type d -exec rm -rf {} +
           sc-crawler dump \
             --connection-string "sqlite:///$FILE" \
             --ignored inserted_at \
@@ -172,6 +172,7 @@ jobs:
             --dump-tables zone \
             --dump-tables zzz_alembic_version \
             --output-directory "data"
+
           echo "Checking for priceless database changes..."
           HAS_CHANGES=false
           git diff --quiet 2>/dev/null || HAS_CHANGES=true
