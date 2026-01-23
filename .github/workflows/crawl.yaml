@@ -149,7 +149,7 @@ jobs:
           echo "Dumping $FILE to JSON files..."
           rm -rf data && mkdir data
           sc-crawler dump \
-            --connection-string "ssqlite:///$FILE" \
+            --connection-string "sqlite:///$FILE" \
             --ignored inserted_at \
             --ignored updated_at \
             --ignored observed_at \
