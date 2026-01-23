@@ -1,3 +1,14 @@
+## v0.3.3+20260123232937 (Jan 23, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21303761956
+
+
+### vendor
+
+- Update: azure
+- Update: hcloud
+
 ## v0.3.3+20260123212124 (Jan 23, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.
