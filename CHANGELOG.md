@@ -1,3 +1,9 @@
+## v0.3.3+20260123162023 (Jan 23, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21291610841
+
+
 ## v0.3.4+20260123120446 (Jan 23, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
