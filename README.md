@@ -59,6 +59,18 @@ $ find server -name '*.json' -exec cat {} \; | jq -c 'select(.vcpus > 200)' | wc
 30
 ```
 
+## Historical Records
+
+Data collection started in Q1 of 2024 as part of the `sparecores-data` package.
+Later (Q1 2026) we decided to separate the collected data from the thin Python
+package due to release management and licensing complexities, and this repository
+was born with a much cleaner design.
+
+Historical records were reconstructed in this repository from the Data
+repository, but you can find the original binary SQLite database file in the git
+history of the Data repository if needed. All backfill commits reference the
+original commit hash and URL on GitHub.
+
 ## Further References
 
 - [`sparecores-crawler` documentation](https://sparecores.github.io/sc-crawler/)
