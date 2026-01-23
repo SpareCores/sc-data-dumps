@@ -172,7 +172,7 @@ jobs:
             # note on Slack
             GHARUNURL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
             curl -X POST -H 'Content-type: application/json' \
-              --data "{\"username\": \"Scompanion\", \"icon_emoji\": \":sparecores:\", \"text\": \"`sc-data-dumps` was <$GHARUNURL|updated> with the following hash: $LHASH\"}" \
+              --data "{\"username\": \"Scompanion\", \"icon_emoji\": \":sparecores:\", \"text\": \"The sc-data-dumps repo was <$GHARUNURL|updated> with the following hash: $LHASH\"}" \
               $SLACK_WEBHOOK
 
             # update CHANGELOG
@@ -198,7 +198,7 @@ jobs:
               --arg gharunurl "$GHARUNURL" \
               --arg python_version "$(python --version 2>&1 | cut -d' ' -f2)" \
               --arg timestamp "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-              --argjson pip_freeze "$(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))')" \
+              --argjson pip_freeze "$(uv pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))')" \
               '{
                 python_version: $python_version,
                 pip_freeze: $pip_freeze,
