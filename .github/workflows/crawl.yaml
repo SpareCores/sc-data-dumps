@@ -175,9 +175,9 @@ jobs:
 
           echo "Checking for priceless database changes..."
           HAS_CHANGES=false
-          git diff --quiet 2>/dev/null || HAS_CHANGES=true
-          git diff --cached --quiet 2>/dev/null || HAS_CHANGES=true
-          [ -z "$(git ls-files --others --exclude-standard 2>/dev/null)" ] || HAS_CHANGES=true
+          git diff --quiet -- data/ 2>/dev/null || HAS_CHANGES=true
+          git diff --cached --quiet -- data/ 2>/dev/null || HAS_CHANGES=true
+          [ -z "$(git ls-files --others --exclude-standard -- data/ 2>/dev/null)" ] || HAS_CHANGES=true
           if [ "$HAS_CHANGES" = "true" ]; then
             # note on Slack
             GHARUNURL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID
