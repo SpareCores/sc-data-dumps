@@ -1,6 +1,9 @@
 name: Run sc-crawler pull
 
 on:
+  schedule:
+    - cron: "0 * * * *"
+    - cron: "5-55/5 * * * *"
   workflow_dispatch:
     inputs:
       run_type:
