@@ -40,6 +40,25 @@ to discuss your needs.
 - For other languages or in case you are looking for a managed database
   solution, you can use our public Navigator API to query the data.
 
+## Repository Structure
+
+The repository is updated via the `dump` command of the `sparecores-crawler`
+tool. In short, it creates a folder for each table of the SQLite database and
+dumps each record as a prettified JSON file, named after its primary keys.
+
+Example path for the `t3a.small` server record by `AWS`:
+
+```
+server/aws/t3a.small.json
+```
+
+Example to count the number of monitored servers with 200+ vCPUs:
+
+```bash
+$ find server -name '*.json' -exec cat {} \; | jq -c 'select(.vcpus > 200)' | wc -l
+30
+```
+
 ## Further References
 
 - [`sparecores-crawler` documentation](https://sparecores.github.io/sc-crawler/)
