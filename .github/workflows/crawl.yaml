@@ -190,20 +190,27 @@ jobs:
             mv CHANGELOG.new CHANGELOG.md
 
             # record metadata of Python packages used and commit details
-            cat > last-run-info.json << 'EOF'
-            {
-              "python_version": "$(python --version 2>&1 | cut -d' ' -f2)",
-              "pip_freeze": $(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))'),
-              "environment_variables": {
-                "CRAWLER_VERSION": "$CRAWLER_VERSION",
-                "NEWVERSION": "$NEWVERSION",
-                "NEWVERSIONDATE": "$NEWVERSIONDATE",
-                "CHANGESFOUND": "$CHANGESFOUND",
-                "GHARUNURL": "$GHARUNURL",
-              },
-              "timestamp": "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            }
-            EOF
+            jq -n \
+              --arg crawler_version "$CRAWLER_VERSION" \
+              --arg newversion "$NEWVERSION" \
+              --arg newversiondate "$NEWVERSIONDATE" \
+              --arg changesfound "$CHANGESFOUND" \
+              --arg gharunurl "$GHARUNURL" \
+              --arg python_version "$(python --version 2>&1 | cut -d' ' -f2)" \
+              --arg timestamp "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+              --argjson pip_freeze "$(pip freeze | jq -R -s -c 'split("\n") | map(select(length > 0))')" \
+              '{
+                python_version: $python_version,
+                pip_freeze: $pip_freeze,
+                environment_variables: {
+                  CRAWLER_VERSION: $crawler_version,
+                  NEWVERSION: $newversion,
+                  NEWVERSIONDATE: $newversiondate,
+                  CHANGESFOUND: $changesfound,
+                  GHARUNURL: $gharunurl
+                },
+                timestamp: $timestamp
+              }' > data/last-run-info.json
 
             # pass required env vars and files for later steps
             echo "CRAWLER_VERSION=${CRAWLER_VERSION}" >> "$GITHUB_ENV"
