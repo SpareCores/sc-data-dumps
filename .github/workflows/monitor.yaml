@@ -1,0 +1,102 @@
+name: Nudge crawl runs
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+jobs:
+  nudge:
+    runs-on: ubuntu-latest
+    permissions:
+      # required to trigger workflows
+      actions: write
+    steps:
+      - name: Check last runs and trigger if needed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WORKFLOW_NAME: crawl.yaml
+        run: |
+          echo "Fetching recent workflow runs..."
+          curl -s -L \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -o runs.json \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/${WORKFLOW_NAME}/runs
+
+          # early exit if any job is already in progress
+          IN_PROGRESS=$(jq 'any(.workflow_runs[]; .status == "in_progress" or .status == "queued")' runs.json)
+          if [ "$IN_PROGRESS" = "true" ]; then
+            echo "Job is already running or scheduled, exiting"
+            exit 0
+          fi
+
+          # the run_type input is not exposed via API, so we infer from duration:
+          # - frequent runs (spot prices only) take ~600 seconds (~10 mins)
+          # - hourly runs (all resources) take ~2400 seconds (~40 mins)
+          LAST_HOURLY=$(jq -r '.workflow_runs[] |
+            select(.event == "workflow_dispatch" or .event == "schedule") |
+            select(.status == "completed") |
+            .run_started_at as $start | .updated_at as $end |
+            (if $end and $start then (($end | fromdateiso8601) - ($start | fromdateiso8601)) else 0 end) as $duration |
+            select($duration > 1200) |
+            "\(.updated_at)"' runs.json | head -1)
+          LAST_FREQUENT=$(jq -r '.workflow_runs[] |
+            select(.event == "workflow_dispatch" or .event == "schedule") |
+            select(.status == "completed") |
+            .run_started_at as $start | .updated_at as $end |
+            (if $end and $start then (($end | fromdateiso8601) - ($start | fromdateiso8601)) else 0 end) as $duration |
+            select($duration < 1200) |
+            "\(.updated_at)"' runs.json | head -1)
+
+          if [ -n "$LAST_HOURLY" ] && [ "$LAST_HOURLY" != "null" ]; then
+            echo "Last hourly run finished at: $LAST_HOURLY (UTC)"
+            # check if more than 1 hour ago
+            CURRENT_TIME=$(date -u +%s)
+            LAST_HOURLY_TIME=$(date -u -d "$LAST_HOURLY" +%s)
+            TIME_DIFF=$((CURRENT_TIME - LAST_HOURLY_TIME))
+            HOURS_AGO=$((TIME_DIFF / 3600))
+            MINUTES_AGO=$(((TIME_DIFF % 3600) / 60))
+            echo "Last hourly run was ${HOURS_AGO}h ${MINUTES_AGO}m ago"
+            if [ $TIME_DIFF -gt 3600 ]; then
+              echo "Triggering hourly run..."
+              curl -s -L \
+                -X POST \
+                -H "Accept: application/vnd.github+json" \
+                -H "Authorization: Bearer $GITHUB_TOKEN" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                https://api.github.com/repos/${{ github.repository }}/actions/workflows/${WORKFLOW_NAME}/dispatches \
+                -d '{"ref":"main","inputs":{"run_type":"hourly"}}'
+              echo "Triggered hourly run"
+              exit 0
+            fi
+          else
+            echo "No completed hourly runs found at all"
+          fi
+
+          if [ -n "$LAST_FREQUENT" ] && [ "$LAST_FREQUENT" != "null" ]; then
+            echo "Last frequent run finished at: $LAST_FREQUENT (UTC)"
+            # check if more than 15 mins ago
+            CURRENT_TIME=$(date -u +%s)
+            LAST_FREQUENT_TIME=$(date -u -d "$LAST_FREQUENT" +%s)
+            TIME_DIFF=$((CURRENT_TIME - LAST_FREQUENT_TIME))
+            MINUTES_AGO=$((TIME_DIFF / 60))
+            echo "Last frequent run was ${MINUTES_AGO}m ago"
+            if [ $TIME_DIFF -gt 900 ]; then
+              echo "Triggering frequent run..."
+              curl -s -L \
+                -X POST \
+                -H "Accept: application/vnd.github+json" \
+                -H "Authorization: Bearer $GITHUB_TOKEN" \
+                -H "X-GitHub-Api-Version: 2022-11-28" \
+                https://api.github.com/repos/${{ github.repository }}/actions/workflows/${WORKFLOW_NAME}/dispatches \
+                -d '{"ref":"main","inputs":{"run_type":"frequent"}}'
+              echo "Triggered frequent run"
+              exit 0
+            fi
+          else
+            echo "No completed frequent runs found at all"
+          fi
+          echo "No runs found to trigger"
+          exit 1
