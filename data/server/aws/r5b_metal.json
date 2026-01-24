@@ -10,7 +10,7 @@
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 48,
-  "cpu_speed": 2.5,
+  "cpu_speed": 3.1,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
@@ -169,9 +169,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
-  "storage_type": null,
-  "storages": [],
+  "storage_size": 8,
+  "storage_type": "NETWORK",
+  "storages": [
+    {
+      "size": 8,
+      "storage_type": "network",
+      "description": null
+    }
+  ],
   "network_speed": 25.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

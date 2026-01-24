@@ -122,7 +122,13 @@
   "gpus": [],
   "storage_size": 10,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 32,
+      "storage_type": "network",
+      "description": null
+    }
+  ],
   "network_speed": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 1024.0,

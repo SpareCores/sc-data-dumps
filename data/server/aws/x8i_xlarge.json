@@ -154,9 +154,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
-  "storage_type": null,
-  "storages": [],
+  "storage_size": 128,
+  "storage_type": "NETWORK",
+  "storages": [
+    {
+      "size": 128,
+      "storage_type": "network",
+      "description": null
+    }
+  ],
   "network_speed": 1.875,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

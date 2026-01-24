@@ -10,7 +10,7 @@
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 16,
-  "cpu_speed": 2.2,
+  "cpu_speed": 3.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",

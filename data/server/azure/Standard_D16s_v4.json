@@ -10,7 +10,7 @@
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 8,
-  "cpu_speed": 2.6,
+  "cpu_speed": 3.7,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
@@ -116,8 +116,8 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
-  "storage_type": null,
+  "storage_size": 30,
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 0,

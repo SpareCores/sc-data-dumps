@@ -123,8 +123,8 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
-  "storage_type": null,
+  "storage_size": 30,
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 0,

@@ -10,7 +10,7 @@
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 44,
-  "cpu_speed": 2.7,
+  "cpu_speed": null,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",

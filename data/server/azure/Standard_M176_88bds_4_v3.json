@@ -144,7 +144,7 @@
   "gpu_model": null,
   "gpus": [],
   "storage_size": 8192,
-  "storage_type": null,
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 8192,
