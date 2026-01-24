@@ -73,6 +73,7 @@ jobs:
             fi
           else
             echo "No completed hourly runs found at all"
+            exit 1
           fi
 
           if [ -n "$LAST_FREQUENT" ] && [ "$LAST_FREQUENT" != "null" ]; then
@@ -97,6 +98,6 @@ jobs:
             fi
           else
             echo "No completed frequent runs found at all"
+            exit 1
           fi
-          echo "No runs found to trigger"
-          exit 1
+          echo "No runs found to trigger .. will check again later"
