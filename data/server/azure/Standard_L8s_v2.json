@@ -108,7 +108,7 @@
   "gpu_model": null,
   "gpus": [],
   "storage_size": 2002,
-  "storage_type": "NVME_SSD",
+  "storage_type": null,
   "storages": [
     {
       "size": 82,

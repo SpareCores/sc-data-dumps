@@ -183,18 +183,7 @@
   ],
   "storage_size": 4050,
   "storage_type": "NVME_SSD",
-  "storages": [
-    {
-      "size": 1788,
-      "storage_type": "nvme ssd",
-      "description": null
-    },
-    {
-      "size": 1788,
-      "storage_type": "nvme ssd",
-      "description": null
-    }
-  ],
+  "storages": [],
   "network_speed": 10000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

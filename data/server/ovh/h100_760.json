@@ -181,18 +181,7 @@
   ],
   "storage_size": 7880,
   "storage_type": "NVME_SSD",
-  "storages": [
-    {
-      "size": 3576,
-      "storage_type": "nvme ssd",
-      "description": null
-    },
-    {
-      "size": 3576,
-      "storage_type": "nvme ssd",
-      "description": null
-    }
-  ],
+  "storages": [],
   "network_speed": 16000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

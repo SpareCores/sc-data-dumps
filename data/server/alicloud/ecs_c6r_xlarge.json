@@ -49,15 +49,9 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 128,
-  "storage_type": "SSD",
-  "storages": [
-    {
-      "size": 128,
-      "storage_type": "ssd",
-      "description": null
-    }
-  ],
+  "storage_size": 0,
+  "storage_type": null,
+  "storages": [],
   "network_speed": 1.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
