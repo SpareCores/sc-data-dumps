@@ -78,13 +78,13 @@ jobs:
 
           if [ -n "$LAST_FREQUENT" ] && [ "$LAST_FREQUENT" != "null" ]; then
             echo "Last frequent run finished at: $LAST_FREQUENT (UTC)"
-            # check if more than 15 mins ago
+            # check if more than 5 mins ago
             CURRENT_TIME=$(date -u +%s)
             LAST_FREQUENT_TIME=$(date -u -d "$LAST_FREQUENT" +%s)
             TIME_DIFF=$((CURRENT_TIME - LAST_FREQUENT_TIME))
             MINUTES_AGO=$((TIME_DIFF / 60))
             echo "Last frequent run was ${MINUTES_AGO}m ago"
-            if [ $TIME_DIFF -gt 900 ]; then
+            if [ $TIME_DIFF -gt 300 ]; then
               echo "Triggering frequent run..."
               curl -s -L \
                 -X POST \
