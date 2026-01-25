@@ -37,14 +37,14 @@ jobs:
           # - hourly runs (all resources) take ~2400 seconds (~40 mins)
           LAST_HOURLY=$(jq -r '.workflow_runs[] |
             select(.event == "workflow_dispatch" or .event == "schedule") |
-            select(.status == "completed") |
+            select(.status == "completed" and .conclusion == "success") |
             .run_started_at as $start | .updated_at as $end |
             (if $end and $start then (($end | fromdateiso8601) - ($start | fromdateiso8601)) else 0 end) as $duration |
             select($duration > 1200) |
             "\(.updated_at)"' runs.json | head -1)
           LAST_FREQUENT=$(jq -r '.workflow_runs[] |
             select(.event == "workflow_dispatch" or .event == "schedule") |
-            select(.status == "completed") |
+            select(.status == "completed" and .conclusion == "success") |
             .run_started_at as $start | .updated_at as $end |
             (if $end and $start then (($end | fromdateiso8601) - ($start | fromdateiso8601)) else 0 end) as $duration |
             select($duration < 1200) |
