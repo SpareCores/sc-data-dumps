@@ -10,7 +10,7 @@
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 30,
-  "cpu_speed": 2.0,
+  "cpu_speed": 3.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",
@@ -148,11 +148,11 @@
   "memory_speed": null,
   "memory_ecc": null,
   "gpu_count": 1,
-  "gpu_memory_min": 81559,
-  "gpu_memory_total": 81559,
+  "gpu_memory_min": 81920,
+  "gpu_memory_total": 81920,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Hopper",
-  "gpu_model": "H100 PCIe",
+  "gpu_model": "H100",
   "gpus": [
     {
       "manufacturer": "NVIDIA",

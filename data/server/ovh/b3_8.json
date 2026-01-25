@@ -10,7 +10,7 @@
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 2,
-  "cpu_speed": 2.0,
+  "cpu_speed": 2.3,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
   "cpu_family": "EPYC",

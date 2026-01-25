@@ -10,7 +10,7 @@
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
   "cpu_cores": 48,
-  "cpu_speed": 3.0,
+  "cpu_speed": 3.6,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
   "cpu_family": "Xeon",
