@@ -101,20 +101,20 @@
   "gpu_memory_min": 16384,
   "gpu_memory_total": 16384,
   "gpu_manufacturer": "NVIDIA",
-  "gpu_family": null,
+  "gpu_family": "Volta",
   "gpu_model": "V100",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
-      "family": null,
-      "model": "V100",
+      "family": "Volta",
+      "model": "Tesla V100-SXM2-16GB",
       "memory": 16384,
       "firmware_version": null,
-      "bios_version": null,
-      "graphics_clock": null,
-      "sm_clock": null,
-      "mem_clock": null,
-      "video_clock": null
+      "bios_version": "88.00.4F.00.09",
+      "graphics_clock": 1530,
+      "sm_clock": 1530,
+      "mem_clock": 877,
+      "video_clock": 1372
     }
   ],
   "storage_size": 0,

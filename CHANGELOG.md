@@ -1,3 +1,64 @@
+## v0.3.3+20260125160019 (Jan 25, 2026)
+
+This is an automated release with 49 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21334829347
+
+
+### region
+
+- Update: aws/ap-southeast-6
+
+### server
+
+- Update: aws/g3.16xlarge
+- Update: aws/g3.4xlarge
+- Update: aws/g3.8xlarge
+- Update: aws/g3s.xlarge
+- Update: aws/g4dn.12xlarge
+- Update: aws/g4dn.16xlarge
+- Update: aws/g4dn.2xlarge
+- Update: aws/g4dn.4xlarge
+- Update: aws/g4dn.8xlarge
+- Update: aws/g4dn.metal
+- Update: aws/g4dn.xlarge
+- Update: aws/g5.12xlarge
+- Update: aws/g5.16xlarge
+- Update: aws/g5.24xlarge
+- Update: aws/g5.2xlarge
+- Update: aws/g5.48xlarge
+- Update: aws/g5.4xlarge
+- Update: aws/g5.8xlarge
+- Update: aws/g5g.16xlarge
+- Update: aws/g5g.2xlarge
+- Update: aws/g5g.4xlarge
+- Update: aws/g5g.8xlarge
+- Update: aws/g5g.metal
+- Update: aws/g5g.xlarge
+- Update: aws/g5.xlarge
+- Update: aws/g6.12xlarge
+- Update: aws/g6.16xlarge
+- Update: aws/g6.24xlarge
+- Update: aws/g6.2xlarge
+- Update: aws/g6.48xlarge
+- Update: aws/g6.4xlarge
+- Update: aws/g6.8xlarge
+- Update: aws/g6e.12xlarge
+- Update: aws/g6e.16xlarge
+- Update: aws/g6e.24xlarge
+- Update: aws/g6e.2xlarge
+- Update: aws/g6e.48xlarge
+- Update: aws/g6e.4xlarge
+- Update: aws/g6e.8xlarge
+- Update: aws/g6e.xlarge
+- Update: aws/g6.xlarge
+- Update: aws/gr6.4xlarge
+- Update: aws/gr6.8xlarge
+- Update: aws/p3.16xlarge
+- Update: aws/p3.2xlarge
+- Update: aws/p3.8xlarge
+- Update: aws/p3dn.24xlarge
+- Update: aws/p4d.24xlarge
+
 ## v0.3.3+20260125003220 (Jan 25, 2026)
 
 This is an automated release with 1636 new/updated/deleted resources.
