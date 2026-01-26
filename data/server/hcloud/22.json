@@ -13,7 +13,7 @@
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
-  "cpu_family": "EPYC 7002",
+  "cpu_family": "EPYC",
   "cpu_model": null,
   "cpu_l1_cache": 65536,
   "cpu_l2_cache": 1048576,
