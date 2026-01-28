@@ -122,20 +122,20 @@
   "gpu_memory_min": 45776,
   "gpu_memory_total": 45776,
   "gpu_manufacturer": "NVIDIA",
-  "gpu_family": null,
+  "gpu_family": "Ada Lovelace",
   "gpu_model": "L40S",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
-      "family": null,
-      "model": "L40S",
-      "memory": 45776,
+      "family": "Ada Lovelace",
+      "model": "NVIDIA L40S",
+      "memory": 46068,
       "firmware_version": null,
-      "bios_version": null,
-      "graphics_clock": null,
-      "sm_clock": null,
-      "mem_clock": null,
-      "video_clock": null
+      "bios_version": "95.02.66.00.11",
+      "graphics_clock": 2520,
+      "sm_clock": 2520,
+      "mem_clock": 9001,
+      "video_clock": 1965
     }
   ],
   "storage_size": 600,

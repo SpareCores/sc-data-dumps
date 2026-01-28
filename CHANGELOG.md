@@ -1,3 +1,993 @@
+## v0.3.3+20260128212921 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21454630526
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128193344 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21451163600
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128180220 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21447954166
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128121354 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21436418028
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128111916 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21434817179
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128102501 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21433024767
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128062020 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21426457647
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128045310 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21424594864
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+## v0.3.3+20260128001039 (Jan 28, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21418342443
+
+
+### zone
+
+- New: gcp/1000/2009
+
+## v0.3.3+20260127101650 (Jan 27, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21392724312
+
+
+## v0.3.3+20260127023846 (Jan 27, 2026)
+
+This is an automated release with 162 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21381454975
+
+
+### server
+
+- New: azure/Standard_D128ads_v7
+- New: azure/Standard_D128alds_v7
+- New: azure/Standard_D128als_v7
+- New: azure/Standard_D128as_v7
+- New: azure/Standard_D160ads_v7
+- New: azure/Standard_D160alds_v7
+- New: azure/Standard_D160als_v7
+- New: azure/Standard_D160as_v7
+- New: azure/Standard_D16ads_v7
+- New: azure/Standard_D16alds_v7
+- New: azure/Standard_D16als_v7
+- New: azure/Standard_D16as_v7
+- New: azure/Standard_D2ads_v7
+- New: azure/Standard_D2alds_v7
+- New: azure/Standard_D2als_v7
+- New: azure/Standard_D2as_v7
+- New: azure/Standard_D32ads_v7
+- New: azure/Standard_D32alds_v7
+- New: azure/Standard_D32als_v7
+- New: azure/Standard_D32as_v7
+- New: azure/Standard_D48ads_v7
+- New: azure/Standard_D48alds_v7
+- New: azure/Standard_D48als_v7
+- New: azure/Standard_D48as_v7
+- New: azure/Standard_D4ads_v7
+- New: azure/Standard_D4alds_v7
+- New: azure/Standard_D4als_v7
+- New: azure/Standard_D4as_v7
+- New: azure/Standard_D64ads_v7
+- New: azure/Standard_D64alds_v7
+- New: azure/Standard_D64als_v7
+- New: azure/Standard_D64as_v7
+- New: azure/Standard_D8ads_v7
+- New: azure/Standard_D8alds_v7
+- New: azure/Standard_D8als_v7
+- New: azure/Standard_D8as_v7
+- New: azure/Standard_D96ads_v7
+- New: azure/Standard_D96alds_v7
+- New: azure/Standard_D96als_v7
+- New: azure/Standard_D96as_v7
+- New: azure/Standard_E128-32ads_v7
+- New: azure/Standard_E128-32as_v7
+- New: azure/Standard_E128-64ads_v7
+- New: azure/Standard_E128-64as_v7
+- New: azure/Standard_E128ads_v7
+- New: azure/Standard_E128as_v7
+- New: azure/Standard_E16-4ads_v7
+- New: azure/Standard_E16-4as_v7
+- New: azure/Standard_E16-8ads_v7
+- New: azure/Standard_E16-8as_v7
+- New: azure/Standard_E160ads_v7
+- New: azure/Standard_E160as_v7
+- New: azure/Standard_E16ads_v7
+- New: azure/Standard_E16as_v7
+- New: azure/Standard_E2ads_v7
+- New: azure/Standard_E2as_v7
+- New: azure/Standard_E32-16ads_v7
+- New: azure/Standard_E32-16as_v7
+- New: azure/Standard_E32-8ads_v7
+- New: azure/Standard_E32-8as_v7
+- New: azure/Standard_E32ads_v7
+- New: azure/Standard_E32as_v7
+- New: azure/Standard_E4-2ads_v7
+- New: azure/Standard_E4-2as_v7
+- New: azure/Standard_E48ads_v7
+- New: azure/Standard_E48as_v7
+- New: azure/Standard_E4ads_v7
+- New: azure/Standard_E4as_v7
+- New: azure/Standard_E64-16ads_v7
+- New: azure/Standard_E64-16as_v7
+- New: azure/Standard_E64-32ads_v7
+- New: azure/Standard_E64-32as_v7
+- New: azure/Standard_E64ads_v7
+- New: azure/Standard_E64as_v7
+- New: azure/Standard_E8-2ads_v7
+- New: azure/Standard_E8-2as_v7
+- New: azure/Standard_E8-4ads_v7
+- New: azure/Standard_E8-4as_v7
+- New: azure/Standard_E8ads_v7
+- New: azure/Standard_E8as_v7
+- New: azure/Standard_E96-24ads_v7
+- New: azure/Standard_E96-24as_v7
+- New: azure/Standard_E96-48ads_v7
+- New: azure/Standard_E96-48as_v7
+- New: azure/Standard_E96ads_v7
+- New: azure/Standard_E96as_v7
+- New: azure/Standard_F16-4amds_v7
+- New: azure/Standard_F16-4ams_v7
+- New: azure/Standard_F16-8amds_v7
+- New: azure/Standard_F16-8ams_v7
+- New: azure/Standard_F16ads_v7
+- New: azure/Standard_F16alds_v7
+- New: azure/Standard_F16als_v7
+- New: azure/Standard_F16amds_v7
+- New: azure/Standard_F16ams_v7
+- New: azure/Standard_F16as_v7
+- New: azure/Standard_F1ads_v7
+- New: azure/Standard_F1alds_v7
+- New: azure/Standard_F1als_v7
+- New: azure/Standard_F1amds_v7
+- New: azure/Standard_F1ams_v7
+- New: azure/Standard_F1as_v7
+- New: azure/Standard_F2-1amds_v7
+- New: azure/Standard_F2-1ams_v7
+- New: azure/Standard_F2ads_v7
+- New: azure/Standard_F2alds_v7
+- New: azure/Standard_F2als_v7
+- New: azure/Standard_F2amds_v7
+- New: azure/Standard_F2ams_v7
+- New: azure/Standard_F2as_v7
+- New: azure/Standard_F32-16amds_v7
+- New: azure/Standard_F32-16ams_v7
+- New: azure/Standard_F32-8amds_v7
+- New: azure/Standard_F32-8ams_v7
+- New: azure/Standard_F32ads_v7
+- New: azure/Standard_F32alds_v7
+- New: azure/Standard_F32als_v7
+- New: azure/Standard_F32amds_v7
+- New: azure/Standard_F32ams_v7
+- New: azure/Standard_F32as_v7
+- New: azure/Standard_F4-1amds_v7
+- New: azure/Standard_F4-1ams_v7
+- New: azure/Standard_F4-2amds_v7
+- New: azure/Standard_F4-2ams_v7
+- New: azure/Standard_F48ads_v7
+- New: azure/Standard_F48alds_v7
+- New: azure/Standard_F48als_v7
+- New: azure/Standard_F48amds_v7
+- New: azure/Standard_F48ams_v7
+- New: azure/Standard_F48as_v7
+- New: azure/Standard_F4ads_v7
+- New: azure/Standard_F4alds_v7
+- New: azure/Standard_F4als_v7
+- New: azure/Standard_F4amds_v7
+- New: azure/Standard_F4ams_v7
+- New: azure/Standard_F4as_v7
+- New: azure/Standard_F64-16amds_v7
+- New: azure/Standard_F64-16ams_v7
+- New: azure/Standard_F64-32amds_v7
+- New: azure/Standard_F64-32ams_v7
+- New: azure/Standard_F64ads_v7
+- New: azure/Standard_F64alds_v7
+- New: azure/Standard_F64als_v7
+- New: azure/Standard_F64amds_v7
+- New: azure/Standard_F64ams_v7
+- New: azure/Standard_F64as_v7
+- New: azure/Standard_F8-2amds_v7
+- New: azure/Standard_F8-2ams_v7
+- New: azure/Standard_F8-4amds_v7
+- New: azure/Standard_F8-4ams_v7
+- New: azure/Standard_F80ads_v7
+- New: azure/Standard_F80alds_v7
+- New: azure/Standard_F80als_v7
+- New: azure/Standard_F80amds_v7
+- New: azure/Standard_F80ams_v7
+- New: azure/Standard_F80as_v7
+- New: azure/Standard_F8ads_v7
+- New: azure/Standard_F8alds_v7
+- New: azure/Standard_F8als_v7
+- New: azure/Standard_F8amds_v7
+- New: azure/Standard_F8ams_v7
+- New: azure/Standard_F8as_v7
+
+## v0.3.3+20260126003747 (Jan 26, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21341788125
+
+
+### server
+
+- Update: hcloud/22
+- Update: hcloud/23
+- Update: hcloud/24
+- Update: hcloud/25
+- Update: hcloud/26
+
+## v0.3.3+20260125224432 (Jan 25, 2026)
+
+This is an automated release with 639 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21340335977
+
+
+### server
+
+- Update: gcp/1000012
+- Update: gcp/1000024
+- Update: gcp/1000048
+- Update: gcp/1000096
+- Update: gcp/1001096
+- Update: gcp/10040
+- Update: gcp/10080
+- Update: gcp/10160
+- Update: gcp/1020012
+- Update: gcp/1020024
+- Update: gcp/1020048
+- Update: gcp/1020096
+- Update: gcp/11040
+- Update: gcp/11080
+- Update: gcp/11160
+- Update: gcp/1300004
+- Update: gcp/1300008
+- Update: gcp/1300022
+- Update: gcp/1300044
+- Update: gcp/1300088
+- Update: gcp/1300176
+- Update: gcp/1301004
+- Update: gcp/1301008
+- Update: gcp/1301022
+- Update: gcp/1301044
+- Update: gcp/1301088
+- Update: gcp/1301176
+- Update: gcp/1310004
+- Update: gcp/1310008
+- Update: gcp/1320022
+- Update: gcp/1320044
+- Update: gcp/1320088
+- Update: gcp/1320176
+- Update: gcp/1330004
+- Update: gcp/1330008
+- Update: gcp/1330022
+- Update: gcp/1330044
+- Update: gcp/1330088
+- Update: gcp/1330176
+- Update: gcp/1360088
+- Update: gcp/1400064
+- Update: gcp/1400128
+- Update: gcp/1410032
+- Update: gcp/1410064
+- Update: gcp/1410128
+- Update: gcp/1600004
+- Update: gcp/1600008
+- Update: gcp/1600012
+- Update: gcp/1600016
+- Update: gcp/1600024
+- Update: gcp/1600032
+- Update: gcp/1600048
+- Update: gcp/1600096
+- Update: gcp/1720361
+- Update: gcp/1720362
+- Update: gcp/1720363
+- Update: gcp/1720364
+- Update: gcp/1720366
+- Update: gcp/1720367
+- Update: gcp/1720368
+- Update: gcp/1722000
+- Update: gcp/1722004
+- Update: gcp/1742000
+- Update: gcp/1742001
+- Update: gcp/1742008
+- Update: gcp/1742009
+- Update: gcp/1742010
+- Update: gcp/1742011
+- Update: gcp/1742012
+- Update: gcp/1742013
+- Update: gcp/1742014
+- Update: gcp/1742015
+- Update: gcp/1742016
+- Update: gcp/1742017
+- Update: gcp/1742018
+- Update: gcp/1750001
+- Update: gcp/1750002
+- Update: gcp/1750003
+- Update: gcp/1750004
+- Update: gcp/1750005
+- Update: gcp/1750006
+- Update: gcp/1750007
+- Update: gcp/1750008
+- Update: gcp/1750009
+- Update: gcp/1750010
+- Update: gcp/1750011
+- Update: gcp/1750012
+- Update: gcp/1750013
+- Update: gcp/1750014
+- Update: gcp/1750015
+- Update: gcp/1750016
+- Update: gcp/1750017
+- Update: gcp/1750018
+- Update: gcp/1750019
+- Update: gcp/1750020
+- Update: gcp/1750021
+- Update: gcp/1750022
+- Update: gcp/1750023
+- Update: gcp/1750024
+- Update: gcp/1760002
+- Update: gcp/1760004
+- Update: gcp/1760008
+- Update: gcp/1760016
+- Update: gcp/1760032
+- Update: gcp/1760048
+- Update: gcp/1760096
+- Update: gcp/1760192
+- Update: gcp/1761002
+- Update: gcp/1761004
+- Update: gcp/1761008
+- Update: gcp/1761016
+- Update: gcp/1761032
+- Update: gcp/1761048
+- Update: gcp/1761096
+- Update: gcp/1761192
+- Update: gcp/1762002
+- Update: gcp/1762004
+- Update: gcp/1762008
+- Update: gcp/1762016
+- Update: gcp/1762032
+- Update: gcp/1762048
+- Update: gcp/1762096
+- Update: gcp/1762192
+- Update: gcp/2000
+- Update: hcloud/22
+- Update: hcloud/23
+- Update: hcloud/24
+- Update: hcloud/25
+- Update: hcloud/26
+- Update: gcp/3001
+- Update: gcp/3002
+- Update: gcp/3004
+- Update: gcp/3008
+- Update: gcp/3016
+- Update: gcp/3032
+- Update: gcp/3064
+- Update: gcp/334002
+- Update: gcp/334004
+- Update: gcp/335002
+- Update: gcp/335004
+- Update: gcp/335008
+- Update: gcp/335032
+- Update: gcp/336002
+- Update: gcp/336004
+- Update: gcp/337002
+- Update: gcp/337016
+- Update: gcp/4002
+- Update: gcp/4004
+- Update: gcp/4008
+- Update: gcp/4016
+- Update: gcp/4032
+- Update: gcp/4064
+- Update: gcp/5002
+- Update: gcp/5004
+- Update: gcp/5008
+- Update: gcp/5016
+- Update: gcp/5032
+- Update: gcp/5064
+- Update: gcp/801004
+- Update: gcp/801008
+- Update: gcp/801016
+- Update: gcp/801030
+- Update: gcp/801060
+- Update: gcp/804208
+- Update: gcp/804416
+- Update: gcp/804417
+- Update: gcp/805416
+- Update: gcp/901002
+- Update: gcp/901004
+- Update: gcp/901008
+- Update: gcp/901016
+- Update: gcp/901032
+- Update: gcp/901048
+- Update: gcp/901064
+- Update: gcp/901080
+- Update: gcp/901096
+- Update: gcp/901128
+- Update: gcp/902002
+- Update: gcp/902004
+- Update: gcp/902008
+- Update: gcp/902016
+- Update: gcp/902032
+- Update: gcp/902048
+- Update: gcp/902064
+- Update: gcp/902080
+- Update: gcp/902096
+- Update: gcp/902128
+- Update: gcp/903002
+- Update: gcp/903004
+- Update: gcp/903008
+- Update: gcp/903016
+- Update: gcp/903032
+- Update: gcp/903048
+- Update: gcp/903064
+- Update: gcp/903080
+- Update: gcp/903096
+- Update: gcp/999910024
+- Update: gcp/999910144
+- Update: gcp/999910288
+- Update: gcp/999911024
+- Update: gcp/999911144
+- Update: gcp/999911288
+- Update: gcp/999912024
+- Update: gcp/999912144
+- Update: gcp/999912288
+- Update: gcp/999913004
+- Update: gcp/999913008
+- Update: gcp/999913016
+- Update: gcp/999913024
+- Update: gcp/999913032
+- Update: gcp/999913048
+- Update: gcp/999913096
+- Update: gcp/999913144
+- Update: gcp/999913192
+- Update: gcp/999913288
+- Update: gcp/999914004
+- Update: gcp/999914008
+- Update: gcp/999914016
+- Update: gcp/999914024
+- Update: gcp/999914032
+- Update: gcp/999914048
+- Update: gcp/999914096
+- Update: gcp/999914144
+- Update: gcp/999914192
+- Update: gcp/999914288
+- Update: alicloud/ecs.c6r.large
+- Update: alicloud/ecs.c6r.xlarge
+- Update: aws/m2.2xlarge
+- Update: aws/m2.4xlarge
+- Update: aws/m2.xlarge
+- Update: azure/Standard_A1_v2
+- Update: azure/Standard_A2m_v2
+- Update: azure/Standard_A2_v2
+- Update: azure/Standard_A4m_v2
+- Update: azure/Standard_A4_v2
+- Update: azure/Standard_A8m_v2
+- Update: azure/Standard_A8_v2
+- Update: azure/Standard_B12ms
+- Update: azure/Standard_B16ls_v2
+- Update: azure/Standard_B16ms
+- Update: azure/Standard_B16s_v2
+- Update: azure/Standard_B1ls
+- Update: azure/Standard_B1ms
+- Update: azure/Standard_B1s
+- Update: azure/Standard_B20ms
+- Update: azure/Standard_B2ls_v2
+- Update: azure/Standard_B2ms
+- Update: azure/Standard_B2s
+- Update: azure/Standard_B2s_v2
+- Update: azure/Standard_B2ts_v2
+- Update: azure/Standard_B32ls_v2
+- Update: azure/Standard_B32s_v2
+- Update: azure/Standard_B4ls_v2
+- Update: azure/Standard_B4ms
+- Update: azure/Standard_B4s_v2
+- Update: azure/Standard_B8ls_v2
+- Update: azure/Standard_B8ms
+- Update: azure/Standard_B8s_v2
+- Update: azure/Standard_D1
+- Update: azure/Standard_D11
+- Update: azure/Standard_D11_v2
+- Update: azure/Standard_D12
+- Update: azure/Standard_D12_v2
+- Update: azure/Standard_D13
+- Update: azure/Standard_D13_v2
+- Update: azure/Standard_D14
+- Update: azure/Standard_D14_v2
+- Update: azure/Standard_D15_v2
+- Update: azure/Standard_D16ds_v4
+- Update: azure/Standard_D16ds_v5
+- Update: azure/Standard_D16d_v4
+- Update: azure/Standard_D16d_v5
+- Update: azure/Standard_D16lds_v5
+- Update: azure/Standard_D16ls_v5
+- Update: azure/Standard_D16s_v3
+- Update: azure/Standard_D16s_v4
+- Update: azure/Standard_D16s_v5
+- Update: azure/Standard_D16_v3
+- Update: azure/Standard_D16_v4
+- Update: azure/Standard_D16_v5
+- Update: azure/Standard_D1_v2
+- Update: azure/Standard_D2
+- Update: azure/Standard_D2ds_v4
+- Update: azure/Standard_D2ds_v5
+- Update: azure/Standard_D2d_v4
+- Update: azure/Standard_D2d_v5
+- Update: azure/Standard_D2lds_v5
+- Update: azure/Standard_D2ls_v5
+- Update: azure/Standard_D2s_v3
+- Update: azure/Standard_D2s_v4
+- Update: azure/Standard_D2s_v5
+- Update: azure/Standard_D2_v2
+- Update: azure/Standard_D2_v4
+- Update: azure/Standard_D2_v5
+- Update: azure/Standard_D3
+- Update: azure/Standard_D32ds_v4
+- Update: azure/Standard_D32ds_v5
+- Update: azure/Standard_D32d_v4
+- Update: azure/Standard_D32d_v5
+- Update: azure/Standard_D32lds_v5
+- Update: azure/Standard_D32ls_v5
+- Update: azure/Standard_D32s_v3
+- Update: azure/Standard_D32s_v4
+- Update: azure/Standard_D32s_v5
+- Update: azure/Standard_D32_v3
+- Update: azure/Standard_D32_v4
+- Update: azure/Standard_D32_v5
+- Update: azure/Standard_D3_v2
+- Update: azure/Standard_D4
+- Update: azure/Standard_D48ds_v4
+- Update: azure/Standard_D48ds_v5
+- Update: azure/Standard_D48d_v4
+- Update: azure/Standard_D48d_v5
+- Update: azure/Standard_D48lds_v5
+- Update: azure/Standard_D48ls_v5
+- Update: azure/Standard_D48s_v3
+- Update: azure/Standard_D48s_v4
+- Update: azure/Standard_D48s_v5
+- Update: azure/Standard_D48_v3
+- Update: azure/Standard_D48_v4
+- Update: azure/Standard_D48_v5
+- Update: azure/Standard_D4ds_v4
+- Update: azure/Standard_D4ds_v5
+- Update: azure/Standard_D4d_v4
+- Update: azure/Standard_D4d_v5
+- Update: azure/Standard_D4lds_v5
+- Update: azure/Standard_D4ls_v5
+- Update: azure/Standard_D4s_v3
+- Update: azure/Standard_D4s_v4
+- Update: azure/Standard_D4s_v5
+- Update: azure/Standard_D4_v2
+- Update: azure/Standard_D4_v3
+- Update: azure/Standard_D4_v4
+- Update: azure/Standard_D4_v5
+- Update: azure/Standard_D5_v2
+- Update: azure/Standard_D64ds_v4
+- Update: azure/Standard_D64ds_v5
+- Update: azure/Standard_D64d_v4
+- Update: azure/Standard_D64d_v5
+- Update: azure/Standard_D64lds_v5
+- Update: azure/Standard_D64ls_v5
+- Update: azure/Standard_D64s_v3
+- Update: azure/Standard_D64s_v4
+- Update: azure/Standard_D64s_v5
+- Update: azure/Standard_D64_v3
+- Update: azure/Standard_D64_v4
+- Update: azure/Standard_D64_v5
+- Update: azure/Standard_D8ds_v4
+- Update: azure/Standard_D8ds_v5
+- Update: azure/Standard_D8d_v4
+- Update: azure/Standard_D8d_v5
+- Update: azure/Standard_D8lds_v5
+- Update: azure/Standard_D8ls_v5
+- Update: azure/Standard_D8s_v3
+- Update: azure/Standard_D8s_v4
+- Update: azure/Standard_D8s_v5
+- Update: azure/Standard_D8_v3
+- Update: azure/Standard_D8_v4
+- Update: azure/Standard_D8_v5
+- Update: azure/Standard_D96ds_v5
+- Update: azure/Standard_D96d_v5
+- Update: azure/Standard_D96lds_v5
+- Update: azure/Standard_D96ls_v5
+- Update: azure/Standard_D96s_v5
+- Update: azure/Standard_D96_v5
+- Update: azure/Standard_DC16ds_v3
+- Update: azure/Standard_DC16s_v3
+- Update: azure/Standard_DC1ds_v3
+- Update: azure/Standard_DC1s_v2
+- Update: azure/Standard_DC1s_v3
+- Update: azure/Standard_DC24ds_v3
+- Update: azure/Standard_DC24s_v3
+- Update: azure/Standard_DC2ds_v3
+- Update: azure/Standard_DC2s_v2
+- Update: azure/Standard_DC2s_v3
+- Update: azure/Standard_DC32ds_v3
+- Update: azure/Standard_DC32s_v3
+- Update: azure/Standard_DC48ds_v3
+- Update: azure/Standard_DC48s_v3
+- Update: azure/Standard_DC4ds_v3
+- Update: azure/Standard_DC4s_v2
+- Update: azure/Standard_DC4s_v3
+- Update: azure/Standard_DC8ds_v3
+- Update: azure/Standard_DC8s_v3
+- Update: azure/Standard_DS1
+- Update: azure/Standard_DS11
+- Update: azure/Standard_DS11-1_v2
+- Update: azure/Standard_DS11_v2
+- Update: azure/Standard_DS12
+- Update: azure/Standard_DS12-1_v2
+- Update: azure/Standard_DS12-2_v2
+- Update: azure/Standard_DS12_v2
+- Update: azure/Standard_DS13
+- Update: azure/Standard_DS13-2_v2
+- Update: azure/Standard_DS13-4_v2
+- Update: azure/Standard_DS13_v2
+- Update: azure/Standard_DS14
+- Update: azure/Standard_DS14-4_v2
+- Update: azure/Standard_DS14-8_v2
+- Update: azure/Standard_DS14_v2
+- Update: azure/Standard_DS15_v2
+- Update: azure/Standard_DS1_v2
+- Update: azure/Standard_DS2
+- Update: azure/Standard_DS2_v2
+- Update: azure/Standard_DS3
+- Update: azure/Standard_DS3_v2
+- Update: azure/Standard_DS4
+- Update: azure/Standard_DS4_v2
+- Update: azure/Standard_DS5_v2
+- Update: azure/Standard_E104ids_v5
+- Update: azure/Standard_E104id_v5
+- Update: azure/Standard_E104is_v5
+- Update: azure/Standard_E104i_v5
+- Update: azure/Standard_E112ibds_v5
+- Update: azure/Standard_E112ibs_v5
+- Update: azure/Standard_E16-4ds_v4
+- Update: azure/Standard_E16-4ds_v5
+- Update: azure/Standard_E16-4s_v3
+- Update: azure/Standard_E16-4s_v4
+- Update: azure/Standard_E16-4s_v5
+- Update: azure/Standard_E16-8ds_v4
+- Update: azure/Standard_E16-8ds_v5
+- Update: azure/Standard_E16-8s_v3
+- Update: azure/Standard_E16-8s_v4
+- Update: azure/Standard_E16-8s_v5
+- Update: azure/Standard_E16bds_v5
+- Update: azure/Standard_E16bs_v5
+- Update: azure/Standard_E16ds_v4
+- Update: azure/Standard_E16ds_v5
+- Update: azure/Standard_E16d_v4
+- Update: azure/Standard_E16d_v5
+- Update: azure/Standard_E16s_v3
+- Update: azure/Standard_E16s_v4
+- Update: azure/Standard_E16s_v5
+- Update: azure/Standard_E16_v3
+- Update: azure/Standard_E16_v4
+- Update: azure/Standard_E16_v5
+- Update: azure/Standard_E20ds_v4
+- Update: azure/Standard_E20ds_v5
+- Update: azure/Standard_E20d_v4
+- Update: azure/Standard_E20d_v5
+- Update: azure/Standard_E20s_v3
+- Update: azure/Standard_E20s_v4
+- Update: azure/Standard_E20s_v5
+- Update: azure/Standard_E20_v3
+- Update: azure/Standard_E20_v4
+- Update: azure/Standard_E20_v5
+- Update: azure/Standard_E2bds_v5
+- Update: azure/Standard_E2bs_v5
+- Update: azure/Standard_E2ds_v4
+- Update: azure/Standard_E2ds_v5
+- Update: azure/Standard_E2d_v4
+- Update: azure/Standard_E2d_v5
+- Update: azure/Standard_E2s_v3
+- Update: azure/Standard_E2s_v4
+- Update: azure/Standard_E2s_v5
+- Update: azure/Standard_E2_v3
+- Update: azure/Standard_E2_v4
+- Update: azure/Standard_E2_v5
+- Update: azure/Standard_E32-16ds_v4
+- Update: azure/Standard_E32-16ds_v5
+- Update: azure/Standard_E32-16s_v3
+- Update: azure/Standard_E32-16s_v4
+- Update: azure/Standard_E32-16s_v5
+- Update: azure/Standard_E32-8ds_v4
+- Update: azure/Standard_E32-8ds_v5
+- Update: azure/Standard_E32-8s_v3
+- Update: azure/Standard_E32-8s_v4
+- Update: azure/Standard_E32-8s_v5
+- Update: azure/Standard_E32bds_v5
+- Update: azure/Standard_E32bs_v5
+- Update: azure/Standard_E32ds_v4
+- Update: azure/Standard_E32ds_v5
+- Update: azure/Standard_E32d_v4
+- Update: azure/Standard_E32d_v5
+- Update: azure/Standard_E32s_v3
+- Update: azure/Standard_E32s_v4
+- Update: azure/Standard_E32s_v5
+- Update: azure/Standard_E32_v3
+- Update: azure/Standard_E32_v4
+- Update: azure/Standard_E32_v5
+- Update: azure/Standard_E4-2ds_v4
+- Update: azure/Standard_E4-2ds_v5
+- Update: azure/Standard_E4-2s_v4
+- Update: azure/Standard_E4-2s_v5
+- Update: azure/Standard_E48bds_v5
+- Update: azure/Standard_E48bs_v5
+- Update: azure/Standard_E48ds_v4
+- Update: azure/Standard_E48ds_v5
+- Update: azure/Standard_E48d_v4
+- Update: azure/Standard_E48d_v5
+- Update: azure/Standard_E48s_v4
+- Update: azure/Standard_E48s_v5
+- Update: azure/Standard_E48_v4
+- Update: azure/Standard_E48_v5
+- Update: azure/Standard_E4bds_v5
+- Update: azure/Standard_E4bs_v5
+- Update: azure/Standard_E4ds_v4
+- Update: azure/Standard_E4ds_v5
+- Update: azure/Standard_E4d_v4
+- Update: azure/Standard_E4d_v5
+- Update: azure/Standard_E4s_v3
+- Update: azure/Standard_E4s_v4
+- Update: azure/Standard_E4s_v5
+- Update: azure/Standard_E4_v4
+- Update: azure/Standard_E4_v5
+- Update: azure/Standard_E64-16ds_v4
+- Update: azure/Standard_E64-16ds_v5
+- Update: azure/Standard_E64-16s_v3
+- Update: azure/Standard_E64-16s_v4
+- Update: azure/Standard_E64-16s_v5
+- Update: azure/Standard_E64-32ds_v4
+- Update: azure/Standard_E64-32ds_v5
+- Update: azure/Standard_E64-32s_v3
+- Update: azure/Standard_E64-32s_v4
+- Update: azure/Standard_E64-32s_v5
+- Update: azure/Standard_E64bds_v5
+- Update: azure/Standard_E64bs_v5
+- Update: azure/Standard_E64ds_v4
+- Update: azure/Standard_E64ds_v5
+- Update: azure/Standard_E64d_v4
+- Update: azure/Standard_E64d_v5
+- Update: azure/Standard_E64is_v3
+- Update: azure/Standard_E64i_v3
+- Update: azure/Standard_E64s_v3
+- Update: azure/Standard_E64s_v4
+- Update: azure/Standard_E64s_v5
+- Update: azure/Standard_E64_v3
+- Update: azure/Standard_E64_v4
+- Update: azure/Standard_E64_v5
+- Update: azure/Standard_E80ids_v4
+- Update: azure/Standard_E80is_v4
+- Update: azure/Standard_E8-2ds_v4
+- Update: azure/Standard_E8-2ds_v5
+- Update: azure/Standard_E8-2s_v3
+- Update: azure/Standard_E8-2s_v4
+- Update: azure/Standard_E8-2s_v5
+- Update: azure/Standard_E8-4ds_v4
+- Update: azure/Standard_E8-4ds_v5
+- Update: azure/Standard_E8-4s_v3
+- Update: azure/Standard_E8-4s_v4
+- Update: azure/Standard_E8-4s_v5
+- Update: azure/Standard_E8bds_v5
+- Update: azure/Standard_E8bs_v5
+- Update: azure/Standard_E8ds_v4
+- Update: azure/Standard_E8ds_v5
+- Update: azure/Standard_E8d_v4
+- Update: azure/Standard_E8d_v5
+- Update: azure/Standard_E8s_v3
+- Update: azure/Standard_E8s_v4
+- Update: azure/Standard_E8s_v5
+- Update: azure/Standard_E8_v3
+- Update: azure/Standard_E8_v4
+- Update: azure/Standard_E8_v5
+- Update: azure/Standard_E96-24ds_v5
+- Update: azure/Standard_E96-24s_v5
+- Update: azure/Standard_E96-48ds_v5
+- Update: azure/Standard_E96-48s_v5
+- Update: azure/Standard_E96bds_v5
+- Update: azure/Standard_E96bs_v5
+- Update: azure/Standard_E96ds_v5
+- Update: azure/Standard_E96d_v5
+- Update: azure/Standard_E96s_v5
+- Update: azure/Standard_E96_v5
+- Update: azure/Standard_F1
+- Update: azure/Standard_F16s
+- Update: azure/Standard_F16s_v2
+- Update: azure/Standard_F1s
+- Update: azure/Standard_F2
+- Update: azure/Standard_F2s_v2
+- Update: azure/Standard_F32s_v2
+- Update: azure/Standard_F4
+- Update: azure/Standard_F48s_v2
+- Update: azure/Standard_F4s
+- Update: azure/Standard_F4s_v2
+- Update: azure/Standard_F64s_v2
+- Update: azure/Standard_F72s_v2
+- Update: azure/Standard_F8
+- Update: azure/Standard_F8s
+- Update: azure/Standard_F8s_v2
+- Update: azure/Standard_G1
+- Update: azure/Standard_G2
+- Update: azure/Standard_G3
+- Update: azure/Standard_G4
+- Update: azure/Standard_G5
+- Update: azure/Standard_GS1
+- Update: azure/Standard_GS2
+- Update: azure/Standard_GS3
+- Update: azure/Standard_GS4
+- Update: azure/Standard_GS4-4
+- Update: azure/Standard_GS4-8
+- Update: azure/Standard_GS5
+- Update: azure/Standard_GS5-16
+- Update: azure/Standard_GS5-8
+- Update: azure/Standard_HC44-16rs
+- Update: azure/Standard_HC44-32rs
+- Update: azure/Standard_HC44rs
+- Update: azure/Standard_L16s
+- Update: azure/Standard_L16s_v3
+- Update: azure/Standard_L32s
+- Update: azure/Standard_L32s_v3
+- Update: azure/Standard_L48s_v3
+- Update: azure/Standard_L4s
+- Update: azure/Standard_L64s_v3
+- Update: azure/Standard_L8s
+- Update: azure/Standard_L8s_v3
+- Update: azure/Standard_M128
+- Update: azure/Standard_M128-32ms
+- Update: azure/Standard_M128-64ms
+- Update: azure/Standard_M128m
+- Update: azure/Standard_M128ms
+- Update: azure/Standard_M128s
+- Update: azure/Standard_M16-4ms
+- Update: azure/Standard_M16-8ms
+- Update: azure/Standard_M16ms
+- Update: azure/Standard_M208ms_v2
+- Update: azure/Standard_M208s_v2
+- Update: azure/Standard_M32-16ms
+- Update: azure/Standard_M32-8ms
+- Update: azure/Standard_M32ls
+- Update: azure/Standard_M32ms
+- Update: azure/Standard_M32ts
+- Update: azure/Standard_M416-208ms_v2
+- Update: azure/Standard_M416-208s_v2
+- Update: azure/Standard_M416ms_v2
+- Update: azure/Standard_M416s_8_v2
+- Update: azure/Standard_M416s_9_v2
+- Update: azure/Standard_M416s_v2
+- Update: azure/Standard_M64
+- Update: azure/Standard_M64-16ms
+- Update: azure/Standard_M64-32ms
+- Update: azure/Standard_M64ls
+- Update: azure/Standard_M64m
+- Update: azure/Standard_M64ms
+- Update: azure/Standard_M64s
+- Update: azure/Standard_M8-2ms
+- Update: azure/Standard_M8-4ms
+- Update: azure/Standard_M8ms
+- Update: aws/t1.micro
+
+## v0.3.3+20260125160019 (Jan 25, 2026)
+
+This is an automated release with 49 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21334829347
+
+
+### region
+
+- Update: aws/ap-southeast-6
+
+### server
+
+- Update: aws/g3.16xlarge
+- Update: aws/g3.4xlarge
+- Update: aws/g3.8xlarge
+- Update: aws/g3s.xlarge
+- Update: aws/g4dn.12xlarge
+- Update: aws/g4dn.16xlarge
+- Update: aws/g4dn.2xlarge
+- Update: aws/g4dn.4xlarge
+- Update: aws/g4dn.8xlarge
+- Update: aws/g4dn.metal
+- Update: aws/g4dn.xlarge
+- Update: aws/g5.12xlarge
+- Update: aws/g5.16xlarge
+- Update: aws/g5.24xlarge
+- Update: aws/g5.2xlarge
+- Update: aws/g5.48xlarge
+- Update: aws/g5.4xlarge
+- Update: aws/g5.8xlarge
+- Update: aws/g5g.16xlarge
+- Update: aws/g5g.2xlarge
+- Update: aws/g5g.4xlarge
+- Update: aws/g5g.8xlarge
+- Update: aws/g5g.metal
+- Update: aws/g5g.xlarge
+- Update: aws/g5.xlarge
+- Update: aws/g6.12xlarge
+- Update: aws/g6.16xlarge
+- Update: aws/g6.24xlarge
+- Update: aws/g6.2xlarge
+- Update: aws/g6.48xlarge
+- Update: aws/g6.4xlarge
+- Update: aws/g6.8xlarge
+- Update: aws/g6e.12xlarge
+- Update: aws/g6e.16xlarge
+- Update: aws/g6e.24xlarge
+- Update: aws/g6e.2xlarge
+- Update: aws/g6e.48xlarge
+- Update: aws/g6e.4xlarge
+- Update: aws/g6e.8xlarge
+- Update: aws/g6e.xlarge
+- Update: aws/g6.xlarge
+- Update: aws/gr6.4xlarge
+- Update: aws/gr6.8xlarge
+- Update: aws/p3.16xlarge
+- Update: aws/p3.2xlarge
+- Update: aws/p3.8xlarge
+- Update: aws/p3dn.24xlarge
+- Update: aws/p4d.24xlarge
+
 ## v0.3.3+20260125003220 (Jan 25, 2026)
 
 This is an automated release with 1636 new/updated/deleted resources.
