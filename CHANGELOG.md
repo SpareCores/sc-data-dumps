@@ -1,3 +1,18 @@
+## v0.3.3+20260129004411 (Jan 29, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21459978472
+
+
+### zone
+
+- Update: alicloud/cn-shenzhen/cn-shenzhen-a
+- Update: alicloud/cn-shenzhen/cn-shenzhen-b
+- Update: alicloud/cn-shenzhen/cn-shenzhen-c
+- Update: alicloud/cn-shenzhen/cn-shenzhen-d
+- Update: alicloud/cn-shenzhen/cn-shenzhen-e
+- Update: alicloud/cn-shenzhen/cn-shenzhen-f
+
 ## v0.3.3+20260128212921 (Jan 28, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
