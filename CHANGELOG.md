@@ -1,3 +1,17 @@
+## v0.3.3+20260129103651 (Jan 29, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21473529399
+
+
+### zone
+
+- Update: gcp/1000/2009
+
+### server
+
+- New: alicloud/ecs.ebmgn9ge-1.5t.64xlarge
+
 ## v0.3.3+20260129084130 (Jan 29, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
