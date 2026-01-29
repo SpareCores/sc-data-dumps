@@ -1,3 +1,15 @@
+## v0.3.3+20260129202735 (Jan 29, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21492159185
+
+
+### zone
+
+- Update: gcp/1000/2009
+- Update: alicloud/cn-guangzhou/cn-guangzhou-a
+- Update: alicloud/cn-guangzhou/cn-guangzhou-b
+
 ## v0.3.3+20260129182402 (Jan 29, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
