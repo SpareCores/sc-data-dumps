@@ -1,3 +1,23 @@
+## v0.3.3+20260129023907 (Jan 29, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21462590829
+
+
+### zone
+
+- Update: gcp/1000/2009
+- Update: alicloud/cn-shenzhen/cn-shenzhen-a
+- Update: alicloud/cn-shenzhen/cn-shenzhen-b
+- Update: alicloud/cn-shenzhen/cn-shenzhen-c
+- Update: alicloud/cn-shenzhen/cn-shenzhen-d
+- Update: alicloud/cn-shenzhen/cn-shenzhen-e
+- Update: alicloud/cn-shenzhen/cn-shenzhen-f
+
+### server
+
+- Update: alicloud/ecs.poc-test.t96
+
 ## v0.3.3+20260129004411 (Jan 29, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
