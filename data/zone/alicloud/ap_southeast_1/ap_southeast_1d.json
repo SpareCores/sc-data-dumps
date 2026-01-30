@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "ap-southeast-1",
+  "zone_id": "ap-southeast-1d",
+  "name": "Singapore Zone D",
+  "api_reference": "ap-southeast-1d",
+  "display_name": "Singapore Zone D",
+  "status": "ACTIVE"
+}
