@@ -1,3 +1,14 @@
+## v0.3.3+20260131012819 (Jan 31, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21535577602
+
+
+### zone
+
+- Update: alicloud/me-east-1/me-east-1a
+- Update: alicloud/me-east-1/me-east-1b
+
 ## v0.3.3+20260130135407 (Jan 30, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
