@@ -1,0 +1,73 @@
+{
+  "vendor_id": "aws",
+  "server_id": "r8id.metal-96xl",
+  "name": "r8id.metal-96xl",
+  "api_reference": "r8id.metal-96xl",
+  "display_name": "r8id.metal-96xl",
+  "description": "Memory optimized [Intel processors] [Instance store volumes] Gen8 metal-96xl",
+  "family": "r8id",
+  "vcpus": 384,
+  "hypervisor": null,
+  "cpu_allocation": "DEDICATED",
+  "cpu_cores": 192,
+  "cpu_speed": 3.9,
+  "cpu_architecture": "X86_64",
+  "cpu_manufacturer": "Intel",
+  "cpu_family": null,
+  "cpu_model": null,
+  "cpu_l1_cache": null,
+  "cpu_l2_cache": null,
+  "cpu_l3_cache": null,
+  "cpu_flags": [],
+  "cpus": [],
+  "memory_amount": 3145728,
+  "memory_generation": null,
+  "memory_speed": null,
+  "memory_ecc": null,
+  "gpu_count": 0,
+  "gpu_memory_min": null,
+  "gpu_memory_total": null,
+  "gpu_manufacturer": null,
+  "gpu_family": null,
+  "gpu_model": null,
+  "gpus": [],
+  "storage_size": 22800,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3800,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
+  "network_speed": 100.0,
+  "inbound_traffic": 0.0,
+  "outbound_traffic": 0.0,
+  "ipv4": 0,
+  "status": "ACTIVE"
+}

@@ -1,3 +1,55 @@
+## v0.3.3+20260204155216 (Feb 04, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21676725950
+
+
+### server
+
+- New: aws/r8id.16xlarge
+- New: aws/r8id.8xlarge
+- New: aws/r8id.96xlarge
+- New: aws/r8id.48xlarge
+- New: aws/r8id.32xlarge
+- New: aws/r8id.4xlarge
+- New: aws/r8id.xlarge
+- New: aws/r8id.metal-96xl
+- New: aws/r8id.2xlarge
+- New: aws/r8id.metal-48xl
+- New: aws/r8id.12xlarge
+- New: aws/r8id.large
+- New: aws/r8id.24xlarge
+- New: aws/c8id.24xlarge
+- New: aws/c8id.2xlarge
+- New: aws/c8id.96xlarge
+- New: aws/c8id.4xlarge
+- New: aws/c8id.16xlarge
+- New: aws/c8id.48xlarge
+- New: aws/c8id.xlarge
+- New: aws/c8id.large
+- New: aws/c8id.12xlarge
+- New: aws/c8id.metal-48xl
+- New: aws/c8id.8xlarge
+- New: aws/c8id.metal-96xl
+- New: aws/c8id.32xlarge
+- New: aws/m8id.16xlarge
+- New: aws/m8id.24xlarge
+- New: aws/m8id.48xlarge
+- New: aws/m8id.96xlarge
+- New: aws/m8id.2xlarge
+- New: aws/m8id.large
+- New: aws/m8id.metal-96xl
+- New: aws/m8id.xlarge
+- New: aws/m8id.8xlarge
+- New: aws/m8id.metal-48xl
+- New: aws/m8id.12xlarge
+- New: aws/m8id.32xlarge
+- New: aws/m8id.4xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.s2.small
+
 ## v0.3.3+20260204135659 (Feb 04, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
