@@ -1,3 +1,14 @@
+## v0.3.3+20260204234032 (Feb 04, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21691536192
+
+
+### server
+
+- Update: aws/m8id.large
+- Update: aws/m8id.xlarge
+
 ## v0.3.3+20260204213707 (Feb 04, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.
