@@ -1,3 +1,22 @@
+## v0.3.3+20260206015658 (Feb 06, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21734829397
+
+
+### zone
+
+- Update: alicloud/cn-guangzhou/cn-guangzhou-a
+- Update: alicloud/cn-guangzhou/cn-guangzhou-b
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.t1.small
+
 ## v0.3.3+20260206000746 (Feb 06, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
