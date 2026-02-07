@@ -1,3 +1,33 @@
+## v0.3.4+20260207123220 (Feb 07, 2026)
+
+This is an automated release with 21 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21779466181
+
+
+### server
+
+- Update: aws/c8id.12xlarge
+- Update: aws/c8id.16xlarge
+- Update: aws/c8id.24xlarge
+- Update: aws/c8id.32xlarge
+- Update: aws/c8id.48xlarge
+- Update: aws/c8id.8xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: aws/m8id.12xlarge
+- Update: aws/m8id.16xlarge
+- Update: aws/m8id.24xlarge
+- Update: aws/m8id.32xlarge
+- Update: aws/m8id.48xlarge
+- Update: aws/m8id.8xlarge
+- Update: aws/m8id.metal-48xl
+- Update: aws/r8id.12xlarge
+- Update: aws/r8id.16xlarge
+- Update: aws/r8id.24xlarge
+- Update: aws/r8id.32xlarge
+- Update: aws/r8id.48xlarge
+- Update: aws/r8id.8xlarge
+- Update: aws/r8id.metal-48xl
+
 ## v0.3.4+20260207102834 (Feb 07, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
