@@ -113,7 +113,7 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 8,
+  "gpu_count": 8.0,
   "gpu_memory_min": 40960,
   "gpu_memory_total": 327680,
   "gpu_manufacturer": "NVIDIA",

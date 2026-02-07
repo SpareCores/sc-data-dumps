@@ -114,7 +114,7 @@
   "memory_generation": "DDR4",
   "memory_speed": 2933,
   "memory_ecc": null,
-  "gpu_count": 8,
+  "gpu_count": 8.0,
   "gpu_memory_min": 32768,
   "gpu_memory_total": 262144,
   "gpu_manufacturer": "Habana",

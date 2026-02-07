@@ -145,7 +145,7 @@
   "memory_generation": "DDR5",
   "memory_speed": 4800,
   "memory_ecc": null,
-  "gpu_count": 0,
+  "gpu_count": 0.0,
   "gpu_memory_min": null,
   "gpu_memory_total": null,
   "gpu_manufacturer": null,

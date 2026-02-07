@@ -18,16 +18,16 @@
     "apscheduler==3.11.2",
     "async-timeout==5.0.1",
     "attrs==25.4.0",
-    "azure-common==1.1.28",
     "azure-core==1.38.0",
     "azure-identity==1.25.1",
     "azure-mgmt-compute==37.2.0",
     "azure-mgmt-core==1.6.0",
-    "azure-mgmt-resource==24.0.0",
+    "azure-mgmt-resource==25.0.0",
+    "azure-mgmt-resource-subscriptions==1.0.0b1",
     "babel==2.18.0",
     "backrefs==6.1",
-    "boto3==1.42.43",
-    "botocore==1.42.43",
+    "boto3==1.42.44",
+    "botocore==1.42.44",
     "cachier==4.1.0",
     "cairocffi==1.7.1",
     "cairosvg==2.8.2",
@@ -53,8 +53,8 @@
     "griffe==0.49.0",
     "griffe-inherited-docstrings==1.1.1",
     "grpc-google-iam-v1==0.14.3",
-    "grpcio==1.76.0",
-    "grpcio-status==1.76.0",
+    "grpcio==1.78.0",
+    "grpcio-status==1.78.0",
     "hcloud==2.16.0",
     "idna==3.11",
     "iniconfig==2.3.0",
@@ -113,7 +113,7 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@00afd304b425483b3737167fd5c0426d9d1a2fd6",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@33ffda4ce7b3a97438be8247ba560b261268d5a8",
     "sqlalchemy==2.0.46",
     "sqlmodel==0.0.32",
     "tinycss2==1.5.1",
@@ -128,11 +128,11 @@
     "yarl==1.22.0"
   ],
   "environment_variables": {
-    "CRAWLER_VERSION": "0.3.3",
-    "NEWVERSION": "v0.3.3+20260206055435",
-    "NEWVERSIONDATE": "v0.3.3+20260206055435 (Feb 06, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21739476447",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21739476447"
+    "CRAWLER_VERSION": "0.3.4",
+    "NEWVERSION": "v0.3.4+20260207021856",
+    "NEWVERSIONDATE": "v0.3.4+20260207021856 (Feb 07, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 89 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21771595480",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21771595480"
   },
-  "timestamp": "2026-02-06T05:54:35Z"
+  "timestamp": "2026-02-07T02:18:56Z"
 }

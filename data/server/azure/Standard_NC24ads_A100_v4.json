@@ -117,7 +117,7 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 1,
+  "gpu_count": 1.0,
   "gpu_memory_min": 81920,
   "gpu_memory_total": 81920,
   "gpu_manufacturer": "NVIDIA",

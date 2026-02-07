@@ -178,7 +178,7 @@
     },
     {
       "name": "gpu_count",
-      "type": "INTEGER",
+      "type": "FLOAT",
       "nullable": false,
       "default": null,
       "comment": null

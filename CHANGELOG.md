@@ -1,3 +1,101 @@
+## v0.3.4+20260207021856 (Feb 07, 2026)
+
+This is an automated release with 89 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21771595480
+
+
+### server
+
+- Update: aws/c8id.12xlarge
+- Update: aws/c8id.16xlarge
+- Update: aws/c8id.24xlarge
+- Update: aws/c8id.2xlarge
+- Update: aws/c8id.32xlarge
+- Update: aws/c8id.48xlarge
+- Update: aws/c8id.4xlarge
+- Update: aws/c8id.8xlarge
+- Update: aws/c8id.metal-48xl
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.ga1.2xlarge
+- Update: alicloud/ecs.ga1.xlarge
+- Update: alicloud/ecs.poc-test.t86
+- Update: alicloud/ecs.sgn6i-vws-m2.xlarge
+- Update: alicloud/ecs.sgn6i-vws-m4.2xlarge
+- Update: alicloud/ecs.sgn6i-vws-m8.4xlarge
+- Update: alicloud/ecs.sgn7i-vws-m2s.xlarge
+- Update: alicloud/ecs.sgn7i-vws-m2.xlarge
+- Update: alicloud/ecs.sgn7i-vws-m4.2xlarge
+- Update: alicloud/ecs.sgn7i-vws-m4s.2xlarge
+- Update: alicloud/ecs.sgn7i-vws-m8.4xlarge
+- Update: alicloud/ecs.sgn7i-vws-m8s.4xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.vgn5i-m1.large
+- Update: alicloud/ecs.vgn5i-m2.xlarge
+- Update: alicloud/ecs.vgn5i-m4.2xlarge
+- Update: alicloud/ecs.vgn6i-m4-vws.xlarge
+- Update: alicloud/ecs.vgn6i-m4.xlarge
+- Update: alicloud/ecs.vgn6i-m8.2xlarge
+- Update: alicloud/ecs.vgn6i-m8-vws.2xlarge
+- Update: alicloud/ecs.vgn7i-vws-m12.3xlarge
+- Update: alicloud/ecs.vgn7i-vws-m4.xlarge
+- Update: alicloud/ecs.vgn7i-vws-m8.2xlarge
+- Update: aws/g6f.2xlarge
+- Update: aws/g6f.4xlarge
+- Update: aws/g6f.large
+- Update: aws/g6f.xlarge
+- Update: aws/gr6f.4xlarge
+- Update: aws/m8id.12xlarge
+- Update: aws/m8id.16xlarge
+- Update: aws/m8id.24xlarge
+- Update: aws/m8id.2xlarge
+- Update: aws/m8id.32xlarge
+- Update: aws/m8id.48xlarge
+- Update: aws/m8id.4xlarge
+- Update: aws/m8id.8xlarge
+- Update: aws/m8id.metal-48xl
+- Update: aws/r8id.12xlarge
+- Update: aws/r8id.16xlarge
+- Update: aws/r8id.24xlarge
+- Update: aws/r8id.2xlarge
+- Update: aws/r8id.32xlarge
+- Update: aws/r8id.48xlarge
+- Update: aws/r8id.4xlarge
+- Update: aws/r8id.8xlarge
+- Update: aws/r8id.metal-48xl
+- Update: aws/r8id.xlarge
+- Update: azure/Standard_NC16ads_A10_v4
+- Update: azure/Standard_NC16as_T4_v3
+- Update: azure/Standard_NC32ads_A10_v4
+- Update: azure/Standard_NC4as_T4_v3
+- Update: azure/Standard_NC64as_T4_v3
+- Update: azure/Standard_NC8ads_A10_v4
+- Update: azure/Standard_NC8as_T4_v3
+- Update: azure/Standard_ND40rs_v2
+- Update: azure/Standard_NG16ads_V620_v1
+- Update: azure/Standard_NG32adms_V620_v1
+- Update: azure/Standard_NG32ads_V620_v1
+- Update: azure/Standard_NG8ads_V620_v1
+- Update: azure/Standard_NV12ads_A10_v5
+- Update: azure/Standard_NV12ads_V710_v5
+- Update: azure/Standard_NV16as_v4
+- Update: azure/Standard_NV18ads_A10_v5
+- Update: azure/Standard_NV24ads_V710_v5
+- Update: azure/Standard_NV28adms_V710_v5
+- Update: azure/Standard_NV36adms_A10_v5
+- Update: azure/Standard_NV36ads_A10_v5
+- Update: azure/Standard_NV4ads_V710_v5
+- Update: azure/Standard_NV4as_v4
+- Update: azure/Standard_NV6ads_A10_v5
+- Update: azure/Standard_NV6s_v2
+- Update: azure/Standard_NV72ads_A10_v5
+- Update: azure/Standard_NV8ads_V710_v5
+- Update: azure/Standard_NV8as_v4
+
 ## v0.3.3+20260206055435 (Feb 06, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
