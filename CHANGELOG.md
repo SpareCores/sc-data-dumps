@@ -1,3 +1,17 @@
+## v0.3.4+20260209203634 (Feb 09, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21838227102
+
+
+### region
+
+- New: azure/denmarkeast
+
+### zone
+
+- New: azure/denmarkeast/0
+
 ## v0.3.4+20260209182412 (Feb 09, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.

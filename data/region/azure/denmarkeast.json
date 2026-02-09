@@ -1,0 +1,18 @@
+{
+  "vendor_id": "azure",
+  "region_id": "denmarkeast",
+  "name": "Denmark East",
+  "api_reference": "denmarkeast",
+  "display_name": "Denmark East (DK)",
+  "aliases": [],
+  "country_id": "DK",
+  "state": null,
+  "city": "Copenhagen",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 12.56553,
+  "lat": 55.67594,
+  "founding_year": 2026,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
