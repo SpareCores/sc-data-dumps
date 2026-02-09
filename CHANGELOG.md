@@ -1,3 +1,22 @@
+## v0.3.4+20260209055843 (Feb 09, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21813132267
+
+
+### zone
+
+- Update: alicloud/cn-heyuan/cn-heyuan-a
+- Update: alicloud/cn-heyuan/cn-heyuan-b
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.poc-test.t13
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
 ## v0.3.4+20260209035714 (Feb 09, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.
