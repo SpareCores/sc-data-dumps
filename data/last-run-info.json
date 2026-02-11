@@ -119,7 +119,7 @@
     "sqlmodel==0.0.32",
     "tinycss2==1.5.1",
     "tomli==2.4.0",
-    "typer==0.21.2",
+    "typer==0.22.0",
     "typing-extensions==4.15.0",
     "tzlocal==5.3.1",
     "upcloud-api==2.9.0",
@@ -130,10 +130,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.4",
-    "NEWVERSION": "v0.3.4+20260211040553",
-    "NEWVERSIONDATE": "v0.3.4+20260211040553 (Feb 11, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21891496050",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21891496050"
+    "NEWVERSION": "v0.3.4+20260211115347",
+    "NEWVERSIONDATE": "v0.3.4+20260211115347 (Feb 11, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 3 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21902687970",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21902687970"
   },
-  "timestamp": "2026-02-11T04:05:53Z"
+  "timestamp": "2026-02-11T11:53:47Z"
 }
