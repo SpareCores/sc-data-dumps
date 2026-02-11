@@ -1,0 +1,12 @@
+{
+  "vendor_id": "aws",
+  "storage_id": "io2",
+  "name": "Provisioned IOPS",
+  "description": "SSD-backed",
+  "storage_type": "SSD",
+  "max_iops": 256000,
+  "max_throughput": 4000,
+  "min_size": 4,
+  "max_size": 65536,
+  "status": "ACTIVE"
+}
