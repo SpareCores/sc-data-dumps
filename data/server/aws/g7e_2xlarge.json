@@ -150,20 +150,20 @@
   "gpu_memory_min": 98304,
   "gpu_memory_total": 98304,
   "gpu_manufacturer": "NVIDIA",
-  "gpu_family": null,
+  "gpu_family": "Blackwell",
   "gpu_model": "RTX Pro 6000",
   "gpus": [
     {
       "manufacturer": "NVIDIA",
-      "family": null,
-      "model": "RTX PRO Server 6000",
-      "memory": 98304,
-      "firmware_version": null,
-      "bios_version": null,
-      "graphics_clock": null,
-      "sm_clock": null,
-      "mem_clock": null,
-      "video_clock": null
+      "family": "Blackwell",
+      "model": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+      "memory": 97887,
+      "firmware_version": "590.48.01",
+      "bios_version": "98.02.9E.00.03",
+      "graphics_clock": 2430,
+      "sm_clock": 2430,
+      "mem_clock": 12481,
+      "video_clock": 2107
     }
   ],
   "storage_size": 1900,
