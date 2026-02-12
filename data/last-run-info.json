@@ -37,7 +37,7 @@
     "click==8.3.1",
     "colorama==0.4.6",
     "cryptography==44.0.3",
-    "cssselect2==0.8.0",
+    "cssselect2==0.9.0",
     "darabonba-core==1.0.5",
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
@@ -127,10 +127,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.4",
-    "NEWVERSION": "v0.3.4+20260212163439",
-    "NEWVERSIONDATE": "v0.3.4+20260212163439 (Feb 12, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 3 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21953817802",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21953817802"
+    "NEWVERSION": "v0.3.4+20260212182246",
+    "NEWVERSIONDATE": "v0.3.4+20260212182246 (Feb 12, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21957516498",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/21957516498"
   },
-  "timestamp": "2026-02-12T16:34:40Z"
+  "timestamp": "2026-02-12T18:22:46Z"
 }
