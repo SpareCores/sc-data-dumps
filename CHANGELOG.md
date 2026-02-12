@@ -1,3 +1,26 @@
+## v0.3.4+20260212093357 (Feb 12, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/21939789442
+
+
+### server
+
+- New: aws/m8azn.3xlarge
+- New: aws/m8azn.12xlarge
+- New: aws/m8azn.large
+- New: aws/m8azn.6xlarge
+- New: aws/m8azn.xlarge
+- New: aws/m8azn.metal-12xl
+- New: aws/m8azn.24xlarge
+- New: aws/m8azn.medium
+- New: aws/m8azn.metal-24xl
+- Update: alicloud/ecs.ebmgn8v.48xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.re6.16xlarge
+
 ## v0.3.4+20260212073736 (Feb 12, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
