@@ -1,3 +1,47 @@
+## v0.3.4+20260217022727 (Feb 17, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22082952613
+
+
+### server
+
+- New: azure/Standard_DC128eds_v6
+- New: azure/Standard_DC128es_v6
+- New: azure/Standard_DC16eds_v6
+- New: azure/Standard_DC16es_v6
+- New: azure/Standard_DC2eds_v6
+- New: azure/Standard_DC2es_v6
+- New: azure/Standard_DC32eds_v6
+- New: azure/Standard_DC32es_v6
+- New: azure/Standard_DC48eds_v6
+- New: azure/Standard_DC48es_v6
+- New: azure/Standard_DC4eds_v6
+- New: azure/Standard_DC4es_v6
+- New: azure/Standard_DC64eds_v6
+- New: azure/Standard_DC64es_v6
+- New: azure/Standard_DC8eds_v6
+- New: azure/Standard_DC8es_v6
+- New: azure/Standard_DC96eds_v6
+- New: azure/Standard_DC96es_v6
+- New: azure/Standard_EC16eds_v6
+- New: azure/Standard_EC16es_v6
+- New: azure/Standard_EC2eds_v6
+- New: azure/Standard_EC2es_v6
+- New: azure/Standard_EC32eds_v6
+- New: azure/Standard_EC32es_v6
+- New: azure/Standard_EC48eds_v6
+- New: azure/Standard_EC48es_v6
+- New: azure/Standard_EC4eds_v6
+- New: azure/Standard_EC4es_v6
+- New: azure/Standard_EC64eds_v6
+- New: azure/Standard_EC64es_v6
+- New: azure/Standard_EC8eds_v6
+- New: azure/Standard_EC8es_v6
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
 ## v0.3.4+20260216204648 (Feb 16, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
