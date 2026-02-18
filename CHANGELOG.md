@@ -1,3 +1,17 @@
+## v0.3.4+20260218131351 (Feb 18, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22139566627
+
+
+### server
+
+- Update: aws/g5.24xlarge
+- Update: aws/g7e.8xlarge
+- Update: aws/hpc8a.96xlarge
+- Update: aws/m8azn.12xlarge
+- Update: aws/m8azn.metal-12xl
+
 ## v0.3.4+20260218110907 (Feb 18, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
