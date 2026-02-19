@@ -144,6 +144,8 @@ jobs:
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
           echo "Currently pulled database's hash: $LHASH"
           if [ "$LHASH" != "$RHASH" ]; then
+            echo "VACUUMing $FILE..."
+            sqlite3 $FILE "VACUUM;"
             echo "Compressing $FILE..."
             bzip2 -k -9 "$FILE"
             echo "Uploading $FILE to S3..."
