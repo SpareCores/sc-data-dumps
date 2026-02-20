@@ -190,6 +190,16 @@ jobs:
             --dump-tables zzz_alembic_version \
             --output-directory "data"
 
+          echo "Calculating hash for priceless database..."
+          PRICELESS_HASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
+          echo "Priceless database hash: $PRICELESS_HASH"
+          echo "Dumping priceless database schema and data to single file..."
+          sqlite3 $FILE .dump > sc-data-priceless.sql
+          echo "Compressing priceless SQL dump..."
+          xz -9ek -T1 sc-data-priceless.sql
+          echo "Uploading priceless SQL dump to CDN bucket..."
+          aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
+
           echo "Checking for priceless database changes..."
           HAS_CHANGES=false
           git diff --quiet -- data/ 2>/dev/null || HAS_CHANGES=true
