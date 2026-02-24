@@ -72,12 +72,12 @@
     "mkdocs-gen-files==0.6.0",
     "mkdocs-get-deps==0.2.0",
     "mkdocs-literate-nav==0.6.2",
-    "mkdocs-material==9.7.2",
+    "mkdocs-material==9.7.3",
     "mkdocs-material-extensions==1.3.1",
     "mkdocs-section-index==0.3.10",
     "mkdocstrings==1.0.3",
     "mkdocstrings-python==2.0.3",
-    "msal==1.34.0",
+    "msal==1.35.0",
     "msal-extensions==1.3.1",
     "multidict==6.7.1",
     "oauthlib==3.3.1",
@@ -128,10 +128,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.4",
-    "NEWVERSION": "v0.3.4+20260224113345",
-    "NEWVERSIONDATE": "v0.3.4+20260224113345 (Feb 24, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22347690256",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22347690256"
+    "NEWVERSION": "v0.3.4+20260224131844",
+    "NEWVERSIONDATE": "v0.3.4+20260224131844 (Feb 24, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22351163370",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22351163370"
   },
-  "timestamp": "2026-02-24T11:33:45Z"
+  "timestamp": "2026-02-24T13:18:44Z"
 }
