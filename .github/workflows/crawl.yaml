@@ -138,6 +138,8 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           CDN_BUCKET: ${{ vars.CDN_BUCKET }}
         run: |
+          VERSION=$(python -c "import sc_crawler; v=sc_crawler.__version_info__; print(f'{v[0]}.{v[1]}')")
+          echo "Crawler version (major.minor) for CDN paths: $VERSION"
           echo "Comparing data hashes in S3 and local file to determine if we need to upload..."
           RHASH=$(aws s3api head-object --bucket $BUCKET --key $FILE.bz2 --query "Metadata.hash" --output=text)
           echo "Last known hash in S3: $RHASH"
@@ -150,8 +152,9 @@ jobs:
             sqlite3 $FILE .dump > sc-data-all.sql
             echo "Compressing dump..."
             xz -9ek -T1 sc-data-all.sql
-            echo "Uploading dump to CDN bucket..."
-            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/sc-data-all.sql.xz" --metadata="hash=$LHASH"
+            echo "Uploading dump to CDN bucket (versioned and latest)..."
+            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-all.sql.xz" --metadata="hash=$LHASH"
+            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-all.sql.xz" --metadata="hash=$LHASH"
             echo "Compressing $FILE..."
             bzip2 -k -9 "$FILE"
             echo "Uploading $FILE to S3..."
@@ -193,8 +196,9 @@ jobs:
           sqlite3 $FILE .dump > sc-data-priceless.sql
           echo "Compressing priceless SQL dump..."
           xz -9ek -T1 sc-data-priceless.sql
-          echo "Uploading priceless SQL dump to CDN bucket..."
-          aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
+          echo "Uploading priceless SQL dump to CDN bucket (versioned and latest)..."
+          aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
+          aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
 
           echo "Checking for priceless database changes..."
           HAS_CHANGES=false
