@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0b1",
     "babel==2.18.0",
     "backrefs==6.2",
-    "boto3==1.42.56",
-    "botocore==1.42.56",
+    "boto3==1.42.57",
+    "botocore==1.42.57",
     "cachier==4.1.0",
     "cairocffi==1.7.1",
     "cairosvg==2.8.2",
@@ -49,8 +49,9 @@
     "google-cloud-compute==1.43.0",
     "googleapis-common-protos==1.72.0",
     "greenlet==3.3.2",
-    "griffe==0.49.0",
+    "griffe==2.0.0",
     "griffe-inherited-docstrings==1.1.3",
+    "griffecli==2.0.0",
     "griffelib==2.0.0",
     "grpc-google-iam-v1==0.14.3",
     "grpcio==1.78.1",
@@ -113,7 +114,7 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@6ec4bede7ecb709bf6a45f84d37c5d5e54a1c224",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@0c75a115e04e1ca4982db3ba53958d026a6ecd05",
     "sqlalchemy==2.0.47",
     "sqlmodel==0.0.33",
     "tinycss2==1.5.1",
@@ -128,10 +129,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.4",
-    "NEWVERSION": "v0.3.4+20260225133352",
-    "NEWVERSIONDATE": "v0.3.4+20260225133352 (Feb 25, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 3 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22397710045",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22397710045"
+    "NEWVERSION": "v0.3.4+20260226043736",
+    "NEWVERSIONDATE": "v0.3.4+20260226043736 (Feb 26, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22427082701",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22427082701"
   },
-  "timestamp": "2026-02-25T13:33:52Z"
+  "timestamp": "2026-02-26T04:37:36Z"
 }
