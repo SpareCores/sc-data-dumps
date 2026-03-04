@@ -1,3 +1,18 @@
+## v0.3.6+20260304221633 (Mar 04, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22690549212
+
+
+### region
+
+- Update: azure/denmarkeast
+
+### server
+
+- Update: ovh/a10-45
+- Update: ovh/l4-90
+
 ## v0.3.6+20260304195327 (Mar 04, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
