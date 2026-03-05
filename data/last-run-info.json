@@ -78,7 +78,7 @@
     "mkdocs-section-index==0.3.10",
     "mkdocstrings==1.0.3",
     "mkdocstrings-python==2.0.3",
-    "msal==1.35.0",
+    "msal==1.35.1",
     "msal-extensions==1.3.1",
     "multidict==6.7.1",
     "oauthlib==3.3.1",
@@ -129,10 +129,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.6",
-    "NEWVERSION": "v0.3.6+20260305000856",
-    "NEWVERSIONDATE": "v0.3.6+20260305000856 (Mar 05, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 10 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22694250757",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22694250757"
+    "NEWVERSION": "v0.3.6+20260305020915",
+    "NEWVERSIONDATE": "v0.3.6+20260305020915 (Mar 05, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22697760213",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/22697760213"
   },
-  "timestamp": "2026-03-05T00:08:56Z"
+  "timestamp": "2026-03-05T02:09:15Z"
 }
