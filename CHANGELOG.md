@@ -1,3 +1,28 @@
+## v0.3.6+20260305000856 (Mar 05, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22694250757
+
+
+### region
+
+- Update: azure/denmarkeast
+
+### zone
+
+- New: azure/denmarkeast/3
+- New: azure/denmarkeast/1
+- New: azure/denmarkeast/2
+- Update: azure/denmarkeast/0
+- Update: alicloud/cn-guangzhou/cn-guangzhou-a
+- Update: alicloud/cn-guangzhou/cn-guangzhou-b
+
+### server
+
+- Update: ovh/a10-90
+- Update: ovh/l40s-90
+- Update: ovh/l4-180
+
 ## v0.3.6+20260304221633 (Mar 04, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
