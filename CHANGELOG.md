@@ -1,3 +1,31 @@
+## v0.3.6+20260306180813 (Mar 06, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22774277145
+
+
+### zone
+
+- Update: azure/denmarkeast/0
+- Update: azure/denmarkeast/1
+- Update: azure/denmarkeast/2
+- Update: azure/denmarkeast/3
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- New: membench:bandwidth_read
+- New: membench:bandwidth_write
+- New: membench:bandwidth_copy
+- New: membench:latency
+
 ## v0.3.6+20260306170743 (Mar 06, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.
