@@ -1,3 +1,13 @@
+## v0.3.6+20260306110516 (Mar 06, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22759295981
+
+
+### server
+
+- Update: ovh/rtx5000-84
+
 ## v0.3.6+20260306092059 (Mar 06, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
