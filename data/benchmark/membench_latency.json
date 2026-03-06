@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "membench:latency",
+  "name": "Memory latency",
+  "description": "Measures median memory latency using pointer chasing with randomized access to defeat hardware prefetching.",
+  "framework": "membench",
+  "config_fields": {
+    "size_kb": "Per-thread buffer size in KiB.",
+    "framework_version": "Version of membench."
+  },
+  "measurement": "memory_latency",
+  "unit": "ns",
+  "higher_is_better": 0,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,14 @@
+{
+  "benchmark_id": "membench:bandwidth_write",
+  "name": "Memory write bandwidth",
+  "description": "Measures aggregate sequential write bandwidth across all threads using OpenMP parallelization.",
+  "framework": "membench",
+  "config_fields": {
+    "size_kb": "Per-thread buffer size in KiB.",
+    "framework_version": "Version of membench."
+  },
+  "measurement": "memory_bandwidth",
+  "unit": "MB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}
