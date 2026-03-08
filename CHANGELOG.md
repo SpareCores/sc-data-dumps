@@ -1,3 +1,15 @@
+## v0.3.6+20260308170739 (Mar 08, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22825006607
+
+
+### server
+
+- New: azure/Standard_ND128isr_GB300_v6
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+
 ## v0.3.6+20260308152136 (Mar 08, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
