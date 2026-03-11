@@ -1,3 +1,18 @@
+## v0.3.6+20260311122653 (Mar 11, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22950811870
+
+
+### zone
+
+- Update: alicloud/cn-fuzhou/cn-fuzhou-a
+
+### server
+
+- Update: alicloud/ecs.ebmc8ae.64xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+
 ## v0.3.6+20260311103235 (Mar 11, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
