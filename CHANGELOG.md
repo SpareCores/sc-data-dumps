@@ -1,3 +1,14 @@
+## v0.3.6+20260311013648 (Mar 11, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/22931339182
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+
 ## v0.3.6+20260310160933 (Mar 10, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
