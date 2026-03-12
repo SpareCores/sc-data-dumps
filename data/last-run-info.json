@@ -1,5 +1,5 @@
 {
-  "python_version": "3.11.14",
+  "python_version": "3.11.15",
   "pip_freeze": [
     "aiofiles==24.1.0",
     "aiohappyeyeballs==2.6.1",
@@ -18,7 +18,7 @@
     "annotated-types==0.7.0",
     "apscheduler==3.11.2",
     "attrs==25.4.0",
-    "azure-core==1.38.2",
+    "azure-core==1.38.3",
     "azure-identity==1.25.2",
     "azure-mgmt-compute==37.2.0",
     "azure-mgmt-core==1.6.0",
@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0b1",
     "babel==2.18.0",
     "backrefs==6.2",
-    "boto3==1.42.66",
-    "botocore==1.42.66",
+    "boto3==1.42.67",
+    "botocore==1.42.67",
     "cachier==4.1.0",
     "cairocffi==1.7.1",
     "cairosvg==2.8.2",
@@ -43,10 +43,10 @@
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
     "google-api-core==2.30.0",
-    "google-auth==2.49.0",
+    "google-auth==2.49.1",
     "google-cloud==0.34.0",
     "google-cloud-billing==1.18.0",
-    "google-cloud-compute==1.45.0",
+    "google-cloud-compute==1.46.0",
     "googleapis-common-protos==1.73.0",
     "greenlet==3.3.2",
     "griffe==2.0.0",
@@ -110,7 +110,6 @@
     "requests==2.32.5",
     "requests-oauthlib==2.0.0",
     "rich==14.3.3",
-    "rsa==4.9.1",
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
@@ -129,10 +128,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.6",
-    "NEWVERSION": "v0.3.6+20260312190512",
-    "NEWVERSIONDATE": "v0.3.6+20260312190512 (Mar 12, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 10 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23017442678",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23017442678"
+    "NEWVERSION": "v0.3.6+20260312213357",
+    "NEWVERSIONDATE": "v0.3.6+20260312213357 (Mar 12, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23023358546",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23023358546"
   },
-  "timestamp": "2026-03-12T19:05:12Z"
+  "timestamp": "2026-03-12T21:33:57Z"
 }
