@@ -30,7 +30,7 @@
     "botocore==1.42.67",
     "cachier==4.1.0",
     "cairocffi==1.7.1",
-    "cairosvg==2.8.2",
+    "cairosvg==2.9.0",
     "certifi==2026.2.25",
     "cffi==2.0.0",
     "charset-normalizer==3.4.5",
@@ -128,10 +128,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.6",
-    "NEWVERSION": "v0.3.6+20260313155204",
-    "NEWVERSIONDATE": "v0.3.6+20260313155204 (Mar 13, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23057097648",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23057097648"
+    "NEWVERSION": "v0.3.6+20260313173344",
+    "NEWVERSIONDATE": "v0.3.6+20260313173344 (Mar 13, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23061383030",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23061383030"
   },
-  "timestamp": "2026-03-13T15:52:04Z"
+  "timestamp": "2026-03-13T17:33:44Z"
 }
