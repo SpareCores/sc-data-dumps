@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0b1",
     "babel==2.18.0",
     "backrefs==6.2",
-    "boto3==1.42.67",
-    "botocore==1.42.67",
+    "boto3==1.42.68",
+    "botocore==1.42.68",
     "cachier==4.1.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.0",
@@ -101,7 +101,7 @@
     "pydantic-core==2.23.4",
     "pydantic-extra-types==2.11.0",
     "pygments==2.19.2",
-    "pyjwt==2.12.0",
+    "pyjwt==2.12.1",
     "pymdown-extensions==10.21",
     "pytest==9.0.2",
     "python-dateutil==2.9.0.post0",
@@ -128,10 +128,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.3.6",
-    "NEWVERSION": "v0.3.6+20260313192117",
-    "NEWVERSIONDATE": "v0.3.6+20260313192117 (Mar 13, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 3 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23065366587",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23065366587"
+    "NEWVERSION": "v0.3.6+20260313210453",
+    "NEWVERSIONDATE": "v0.3.6+20260313210453 (Mar 13, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23069053913",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23069053913"
   },
-  "timestamp": "2026-03-13T19:21:17Z"
+  "timestamp": "2026-03-13T21:04:53Z"
 }
