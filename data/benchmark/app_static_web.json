@@ -11,5 +11,5 @@
   "measurement": "static_web",
   "unit": "rps",
   "higher_is_better": 1,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }
