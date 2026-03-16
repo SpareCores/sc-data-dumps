@@ -1,3 +1,18 @@
+## v0.4.0+20260316234516 (Mar 16, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23169717737
+
+
+### server
+
+- Update: alicloud/ecs.ebmgn8v.48xlarge
+
+### benchmark
+
+- Update: passmark:memory_latency
+- Update: app:static_web
+
 ## v0.4.0+20260316180525 (Mar 16, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
