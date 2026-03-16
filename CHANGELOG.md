@@ -1,3 +1,20 @@
+## v0.4.0+20260316090216 (Mar 16, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23134353434
+
+
+### server
+
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.i5e.32xlarge
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: geekbench:background_blur
+- Update: bw_mem
+
 ## v0.4.0+20260316070915 (Mar 16, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
