@@ -1,3 +1,23 @@
+## v0.4.0+20260316123916 (Mar 16, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23142515869
+
+
+### server
+
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: geekbench:photo_filter
+- Update: bw_mem
+- Update: app:static_web
+
 ## v0.4.0+20260316104808 (Mar 16, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
