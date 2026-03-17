@@ -1,3 +1,21 @@
+## v0.4.0+20260317040522 (Mar 17, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23176908206
+
+
+### server
+
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+
+### benchmark
+
+- Update: stress_ng:bestn
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+
 ## v0.4.0+20260317022119 (Mar 17, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.
