@@ -4,7 +4,7 @@
   "name": "s1-4",
   "api_reference": "s1-4",
   "display_name": "s1-4",
-  "description": "None (1 vCPUs, 4 GiB RAM, 20 GB SSD storage)",
+  "description": "None (1 vCPUs, 4 GiB RAM, 20 GB SSD)",
   "family": null,
   "vcpus": 1,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 20,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 20,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 100.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

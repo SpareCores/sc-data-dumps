@@ -4,7 +4,7 @@
   "name": "a10-45",
   "api_reference": "a10-45",
   "display_name": "a10-45",
-  "description": "Cloud GPU (30 vCPUs, 45 GiB RAM, 400 GB SSD storage, 1xA10 24 GiB VRAM)",
+  "description": "Cloud GPU (30 vCPUs, 45 GiB RAM, 400 GB SSD, 1xA10 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 30,
   "hypervisor": "KVM",
@@ -174,7 +174,13 @@
   ],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 8000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

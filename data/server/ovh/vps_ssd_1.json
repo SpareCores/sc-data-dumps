@@ -4,7 +4,7 @@
   "name": "vps-ssd-1",
   "api_reference": "vps-ssd-1",
   "display_name": "vps-ssd-1",
-  "description": "None (1 vCPUs, 2 GiB RAM, 10 GB SSD storage)",
+  "description": "None (1 vCPUs, 2 GiB RAM, 10 GB SSD)",
   "family": null,
   "vcpus": 1,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 10,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 10,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 100.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

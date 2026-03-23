@@ -4,7 +4,7 @@
   "name": "eg-60",
   "api_reference": "eg-60",
   "display_name": "eg-60",
-  "description": "None (16 vCPUs, 60 GiB RAM, 1600 GB SSD storage)",
+  "description": "None (16 vCPUs, 60 GiB RAM, 1600 GB SSD)",
   "family": null,
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 1600,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 1600,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

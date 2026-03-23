@@ -4,7 +4,7 @@
   "name": "b3-128",
   "api_reference": "b3-128",
   "display_name": "b3-128",
-  "description": "General Purpose (32 vCPUs, 128 GiB RAM, 400 GB NVMe storage)",
+  "description": "General Purpose (32 vCPUs, 128 GiB RAM, 400 GB NVMe)",
   "family": "General Purpose",
   "vcpus": 32,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 8000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

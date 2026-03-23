@@ -4,7 +4,7 @@
   "name": "t1-le-45",
   "api_reference": "t1-le-45",
   "display_name": "t1-le-45",
-  "description": "Cloud GPU (8 vCPUs, 45 GiB RAM, 300 GB NVMe storage, 1xV100 16 GiB VRAM)",
+  "description": "Cloud GPU (8 vCPUs, 45 GiB RAM, 300 GB NVMe, 1xV100 16 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 8,
   "hypervisor": "KVM",
@@ -152,7 +152,13 @@
   ],
   "storage_size": 300,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 300,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 2000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

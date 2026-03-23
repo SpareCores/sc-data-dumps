@@ -4,7 +4,7 @@
   "name": "r3-128",
   "api_reference": "r3-128",
   "display_name": "r3-128",
-  "description": "Memory Optimized (16 vCPUs, 128 GiB RAM, 400 GB NVMe storage)",
+  "description": "Memory Optimized (16 vCPUs, 128 GiB RAM, 400 GB NVMe)",
   "family": "Memory Optimized",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 4000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

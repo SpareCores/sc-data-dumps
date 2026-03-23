@@ -4,7 +4,7 @@
   "name": "s1-8",
   "api_reference": "s1-8",
   "display_name": "s1-8",
-  "description": "None (2 vCPUs, 8 GiB RAM, 40 GB SSD storage)",
+  "description": "None (2 vCPUs, 8 GiB RAM, 40 GB SSD)",
   "family": null,
   "vcpus": 2,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 40,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 40,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 100.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,7 +4,7 @@
   "name": "g2-15",
   "api_reference": "g2-15",
   "display_name": "g2-15",
-  "description": "None (4 vCPUs, 15 GiB RAM, 100 GB SSD storage, 1xGeForce GTX 1070 6 GiB VRAM)",
+  "description": "None (4 vCPUs, 15 GiB RAM, 100 GB SSD, 1xGeForce GTX 1070 6 GiB VRAM)",
   "family": null,
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 100,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 100,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

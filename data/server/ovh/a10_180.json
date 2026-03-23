@@ -4,7 +4,7 @@
   "name": "a10-180",
   "api_reference": "a10-180",
   "display_name": "a10-180",
-  "description": "Cloud GPU (120 vCPUs, 180 GiB RAM, 400 GB SSD storage, 4xA10 24 GiB VRAM)",
+  "description": "Cloud GPU (120 vCPUs, 180 GiB RAM, 400 GB SSD, 4xA10 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 120,
   "hypervisor": "KVM",
@@ -210,7 +210,13 @@
   ],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 25000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,7 +4,7 @@
   "name": "r2-240",
   "api_reference": "r2-240",
   "display_name": "r2-240",
-  "description": "Memory Optimized (16 vCPUs, 240 GiB RAM, 400 GB SSD storage)",
+  "description": "Memory Optimized (16 vCPUs, 240 GiB RAM, 400 GB SSD)",
   "family": "Memory Optimized",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 10000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

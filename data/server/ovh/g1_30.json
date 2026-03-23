@@ -4,7 +4,7 @@
   "name": "g1-30",
   "api_reference": "g1-30",
   "display_name": "g1-30",
-  "description": "None (8 vCPUs, 30 GiB RAM, 200 GB SSD storage, 1xGeForce GTX 1060 6 GiB VRAM)",
+  "description": "None (8 vCPUs, 30 GiB RAM, 200 GB SSD, 1xGeForce GTX 1060 6 GiB VRAM)",
   "family": null,
   "vcpus": 8,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 200,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

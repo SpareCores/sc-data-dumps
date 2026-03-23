@@ -4,7 +4,7 @@
   "name": "c2-120",
   "api_reference": "c2-120",
   "display_name": "c2-120",
-  "description": "Compute Optimized (32 vCPUs, 120 GiB RAM, 400 GB SSD storage)",
+  "description": "Compute Optimized (32 vCPUs, 120 GiB RAM, 400 GB SSD)",
   "family": "Compute Optimized",
   "vcpus": 32,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 10000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

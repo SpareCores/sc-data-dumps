@@ -4,7 +4,7 @@
   "name": "c3-256",
   "api_reference": "c3-256",
   "display_name": "c3-256",
-  "description": "Compute Optimized (128 vCPUs, 256 GiB RAM, 400 GB NVMe storage)",
+  "description": "Compute Optimized (128 vCPUs, 256 GiB RAM, 400 GB NVMe)",
   "family": "Compute Optimized",
   "vcpus": 128,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 20000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,7 +4,7 @@
   "name": "c2-7",
   "api_reference": "c2-7",
   "display_name": "c2-7",
-  "description": "Compute Optimized (2 vCPUs, 7 GiB RAM, 50 GB SSD storage)",
+  "description": "Compute Optimized (2 vCPUs, 7 GiB RAM, 50 GB SSD)",
   "family": "Compute Optimized",
   "vcpus": 2,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 50,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

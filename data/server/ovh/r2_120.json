@@ -4,7 +4,7 @@
   "name": "r2-120",
   "api_reference": "r2-120",
   "display_name": "r2-120",
-  "description": "Memory Optimized (8 vCPUs, 120 GiB RAM, 200 GB SSD storage)",
+  "description": "Memory Optimized (8 vCPUs, 120 GiB RAM, 200 GB SSD)",
   "family": "Memory Optimized",
   "vcpus": 8,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 200,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 1000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

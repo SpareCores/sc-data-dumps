@@ -4,7 +4,7 @@
   "name": "r3-1024",
   "api_reference": "r3-1024",
   "display_name": "r3-1024",
-  "description": "Memory Optimized (128 vCPUs, 1024 GiB RAM, 400 GB NVMe storage)",
+  "description": "Memory Optimized (128 vCPUs, 1024 GiB RAM, 400 GB NVMe)",
   "family": "Memory Optimized",
   "vcpus": 128,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 20000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

@@ -4,7 +4,7 @@
   "name": "b3-640",
   "api_reference": "b3-640",
   "display_name": "b3-640",
-  "description": "General Purpose (160 vCPUs, 640 GiB RAM, 400 GB NVMe storage)",
+  "description": "General Purpose (160 vCPUs, 640 GiB RAM, 400 GB NVMe)",
   "family": "General Purpose",
   "vcpus": 160,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 20000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

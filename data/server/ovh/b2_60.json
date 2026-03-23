@@ -4,7 +4,7 @@
   "name": "b2-60",
   "api_reference": "b2-60",
   "display_name": "b2-60",
-  "description": "General Purpose (16 vCPUs, 60 GiB RAM, 400 GB SSD storage)",
+  "description": "General Purpose (16 vCPUs, 60 GiB RAM, 400 GB SSD)",
   "family": "General Purpose",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 1000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

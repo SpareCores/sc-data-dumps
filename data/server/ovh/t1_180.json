@@ -4,7 +4,7 @@
   "name": "t1-180",
   "api_reference": "t1-180",
   "display_name": "t1-180",
-  "description": "Cloud GPU (36 vCPUs, 180 GiB RAM, 4050 GB NVMe storage, 4xV100 16 GiB VRAM)",
+  "description": "Cloud GPU (36 vCPUs, 180 GiB RAM, 2050 GB NVMe, 4xV100 16 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 36,
   "hypervisor": "KVM",
@@ -186,9 +186,20 @@
       "video_clock": 1237
     }
   ],
-  "storage_size": 4050,
+  "storage_size": 2050,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 2000,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 10000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

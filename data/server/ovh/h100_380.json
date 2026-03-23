@@ -4,7 +4,7 @@
   "name": "h100-380",
   "api_reference": "h100-380",
   "display_name": "h100-380",
-  "description": "Cloud GPU (30 vCPUs, 380 GiB RAM, 4040 GB NVMe storage, 1xH100 80 GiB VRAM)",
+  "description": "Cloud GPU (30 vCPUs, 380 GiB RAM, 4040 GB NVMe, 1xH100 80 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 30,
   "hypervisor": "KVM",
@@ -174,7 +174,18 @@
   ],
   "storage_size": 4040,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 8000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

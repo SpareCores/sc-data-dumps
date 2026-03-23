@@ -4,7 +4,7 @@
   "name": "a100-720",
   "api_reference": "a100-720",
   "display_name": "a100-720",
-  "description": "Cloud GPU (60 vCPUs, 720 GiB RAM, 500 GB NVMe storage, 4xA100 80 GiB VRAM)",
+  "description": "Cloud GPU (60 vCPUs, 720 GiB RAM, 500 GB NVMe, 4xA100 80 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 60,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 500,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 500,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 25000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

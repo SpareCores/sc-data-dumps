@@ -4,7 +4,7 @@
   "name": "b2-30",
   "api_reference": "b2-30",
   "display_name": "b2-30",
-  "description": "General Purpose (8 vCPUs, 30 GiB RAM, 200 GB SSD storage)",
+  "description": "General Purpose (8 vCPUs, 30 GiB RAM, 200 GB SSD)",
   "family": "General Purpose",
   "vcpus": 8,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 200,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

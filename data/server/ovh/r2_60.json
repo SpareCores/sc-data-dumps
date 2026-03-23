@@ -4,7 +4,7 @@
   "name": "r2-60",
   "api_reference": "r2-60",
   "display_name": "r2-60",
-  "description": "Memory Optimized (4 vCPUs, 60 GiB RAM, 100 GB SSD storage)",
+  "description": "Memory Optimized (4 vCPUs, 60 GiB RAM, 100 GB SSD)",
   "family": "Memory Optimized",
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 100,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 100,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

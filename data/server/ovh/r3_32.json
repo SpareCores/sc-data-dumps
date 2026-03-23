@@ -4,7 +4,7 @@
   "name": "r3-32",
   "api_reference": "r3-32",
   "display_name": "r3-32",
-  "description": "Memory Optimized (4 vCPUs, 32 GiB RAM, 100 GB NVMe storage)",
+  "description": "Memory Optimized (4 vCPUs, 32 GiB RAM, 100 GB NVMe)",
   "family": "Memory Optimized",
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 100,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 100,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 1000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

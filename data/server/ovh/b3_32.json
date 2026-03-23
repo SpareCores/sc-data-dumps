@@ -4,7 +4,7 @@
   "name": "b3-32",
   "api_reference": "b3-32",
   "display_name": "b3-32",
-  "description": "General Purpose (8 vCPUs, 32 GiB RAM, 200 GB NVMe storage)",
+  "description": "General Purpose (8 vCPUs, 32 GiB RAM, 200 GB NVMe)",
   "family": "General Purpose",
   "vcpus": 8,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 200,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 2000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

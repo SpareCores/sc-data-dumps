@@ -4,7 +4,7 @@
   "name": "c3-8",
   "api_reference": "c3-8",
   "display_name": "c3-8",
-  "description": "Compute Optimized (4 vCPUs, 8 GiB RAM, 100 GB NVMe storage)",
+  "description": "Compute Optimized (4 vCPUs, 8 GiB RAM, 100 GB NVMe)",
   "family": "Compute Optimized",
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 100,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 100,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

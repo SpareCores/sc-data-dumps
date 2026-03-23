@@ -4,7 +4,7 @@
   "name": "hg-120",
   "api_reference": "hg-120",
   "display_name": "hg-120",
-  "description": "None (32 vCPUs, 120 GiB RAM, 1600 GB SSD storage)",
+  "description": "None (32 vCPUs, 120 GiB RAM, 1600 GB SSD)",
   "family": null,
   "vcpus": 32,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 1600,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 1600,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

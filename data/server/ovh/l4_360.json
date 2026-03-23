@@ -4,7 +4,7 @@
   "name": "l4-360",
   "api_reference": "l4-360",
   "display_name": "l4-360",
-  "description": "Cloud GPU (90 vCPUs, 360 GiB RAM, 400 GB NVMe storage, 4xL4 24 GiB VRAM)",
+  "description": "Cloud GPU (90 vCPUs, 360 GiB RAM, 400 GB NVMe, 4xL4 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 90,
   "hypervisor": "KVM",
@@ -210,7 +210,13 @@
   ],
   "storage_size": 400,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 25000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

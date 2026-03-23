@@ -4,7 +4,7 @@
   "name": "d2-2",
   "api_reference": "d2-2",
   "display_name": "d2-2",
-  "description": "Discovery (1 vCPUs, 2 GiB RAM, 25 GB NVMe storage)",
+  "description": "Discovery (1 vCPUs, 2 GiB RAM, 25 GB NVMe)",
   "family": "Discovery",
   "vcpus": 1,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 25,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 25,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 100.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

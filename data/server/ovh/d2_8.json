@@ -4,7 +4,7 @@
   "name": "d2-8",
   "api_reference": "d2-8",
   "display_name": "d2-8",
-  "description": "Discovery (4 vCPUs, 8 GiB RAM, 50 GB NVMe storage)",
+  "description": "Discovery (4 vCPUs, 8 GiB RAM, 50 GB NVMe)",
   "family": "Discovery",
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 50,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

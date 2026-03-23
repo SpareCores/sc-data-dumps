@@ -4,7 +4,7 @@
   "name": "h100-760",
   "api_reference": "h100-760",
   "display_name": "h100-760",
-  "description": "Cloud GPU (60 vCPUs, 760 GiB RAM, 7880 GB NVMe storage, 2xH100 80 GiB VRAM)",
+  "description": "Cloud GPU (60 vCPUs, 760 GiB RAM, 4040 GB NVMe, 2xH100 80 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 60,
   "hypervisor": "KVM",
@@ -184,9 +184,20 @@
       "video_clock": 1470
     }
   ],
-  "storage_size": 7880,
+  "storage_size": 4040,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 16000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

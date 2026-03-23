@@ -246,86 +246,86 @@
       "video_clock": 1545
     }
   ],
-  "storage_size": 6000,
+  "storage_size": 6432,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 375,
+      "size": 402,
       "storage_type": "nvme ssd",
       "description": null
     }

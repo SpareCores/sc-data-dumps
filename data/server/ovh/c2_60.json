@@ -4,7 +4,7 @@
   "name": "c2-60",
   "api_reference": "c2-60",
   "display_name": "c2-60",
-  "description": "Compute Optimized (16 vCPUs, 60 GiB RAM, 400 GB SSD storage)",
+  "description": "Compute Optimized (16 vCPUs, 60 GiB RAM, 400 GB SSD)",
   "family": "Compute Optimized",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 1000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

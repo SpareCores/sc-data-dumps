@@ -4,7 +4,7 @@
   "name": "i1-90",
   "api_reference": "i1-90",
   "display_name": "i1-90",
-  "description": "Storage Optimized (16 vCPUs, 90 GiB RAM, 50 GB SSD storage)",
+  "description": "Storage Optimized (16 vCPUs, 90 GiB RAM, 3800 GB NVMe, 50 GB SSD)",
   "family": "Storage Optimized",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -108,9 +108,25 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 50,
-  "storage_type": "SSD",
-  "storages": [],
+  "storage_size": 3850,
+  "storage_type": "NVME_SSD",
+  "storages": [
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 1900,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 50,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 2000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

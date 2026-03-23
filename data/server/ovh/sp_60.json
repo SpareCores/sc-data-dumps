@@ -4,7 +4,7 @@
   "name": "sp-60",
   "api_reference": "sp-60",
   "display_name": "sp-60",
-  "description": "None (4 vCPUs, 60 GiB RAM, 400 GB SSD storage)",
+  "description": "None (4 vCPUs, 60 GiB RAM, 400 GB SSD)",
   "family": null,
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

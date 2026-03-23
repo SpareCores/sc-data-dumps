@@ -4,7 +4,7 @@
   "name": "eg-7",
   "api_reference": "eg-7",
   "display_name": "eg-7",
-  "description": "None (2 vCPUs, 7 GiB RAM, 200 GB SSD storage)",
+  "description": "None (2 vCPUs, 7 GiB RAM, 200 GB SSD)",
   "family": null,
   "vcpus": 2,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 200,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 200,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

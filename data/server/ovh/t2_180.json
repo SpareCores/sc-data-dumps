@@ -4,7 +4,7 @@
   "name": "t2-180",
   "api_reference": "t2-180",
   "display_name": "t2-180",
-  "description": "Cloud GPU (60 vCPUs, 180 GiB RAM, 4050 GB NVMe storage, 4xV100S 32 GiB VRAM)",
+  "description": "Cloud GPU (60 vCPUs, 180 GiB RAM, 2050 GB NVMe, 4xV100S 32 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 60,
   "hypervisor": "KVM",
@@ -186,9 +186,20 @@
       "video_clock": 1432
     }
   ],
-  "storage_size": 4050,
+  "storage_size": 2050,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 2000,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 10000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

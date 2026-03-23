@@ -4,7 +4,7 @@
   "name": "r2-30",
   "api_reference": "r2-30",
   "display_name": "r2-30",
-  "description": "Memory Optimized (2 vCPUs, 30 GiB RAM, 50 GB SSD storage)",
+  "description": "Memory Optimized (2 vCPUs, 30 GiB RAM, 50 GB SSD)",
   "family": "Memory Optimized",
   "vcpus": 2,
   "hypervisor": "KVM",
@@ -110,7 +110,13 @@
   "gpus": [],
   "storage_size": 50,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 250.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

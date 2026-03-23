@@ -4,7 +4,7 @@
   "name": "r3-16",
   "api_reference": "r3-16",
   "display_name": "r3-16",
-  "description": "Memory Optimized (2 vCPUs, 16 GiB RAM, 50 GB NVMe storage)",
+  "description": "Memory Optimized (2 vCPUs, 16 GiB RAM, 50 GB NVMe)",
   "family": "Memory Optimized",
   "vcpus": 2,
   "hypervisor": "KVM",
@@ -133,7 +133,13 @@
   "gpus": [],
   "storage_size": 50,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 500.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

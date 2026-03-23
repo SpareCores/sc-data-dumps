@@ -4,7 +4,7 @@
   "name": "a100-180",
   "api_reference": "a100-180",
   "display_name": "a100-180",
-  "description": "Cloud GPU (15 vCPUs, 180 GiB RAM, 300 GB NVMe storage, 1xA100 80 GiB VRAM)",
+  "description": "Cloud GPU (15 vCPUs, 180 GiB RAM, 300 GB NVMe, 1xA100 80 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 15,
   "hypervisor": "KVM",
@@ -38,7 +38,13 @@
   "gpus": [],
   "storage_size": 300,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 300,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 8000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

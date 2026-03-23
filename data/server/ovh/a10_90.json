@@ -4,7 +4,7 @@
   "name": "a10-90",
   "api_reference": "a10-90",
   "display_name": "a10-90",
-  "description": "Cloud GPU (60 vCPUs, 90 GiB RAM, 400 GB SSD storage, 2xA10 24 GiB VRAM)",
+  "description": "Cloud GPU (60 vCPUs, 90 GiB RAM, 400 GB SSD, 2xA10 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 60,
   "hypervisor": "KVM",
@@ -186,7 +186,13 @@
   ],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 16000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

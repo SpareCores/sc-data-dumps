@@ -156,66 +156,66 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 36000,
+  "storage_size": 38652,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     },
     {
-      "size": 3000,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     }

@@ -4,7 +4,7 @@
   "name": "bm-l1",
   "api_reference": "bm-l1",
   "display_name": "bm-l1",
-  "description": "Metal (16 vCPUs, 128 GiB RAM, 1920 GB NVMe storage)",
+  "description": "Metal (16 vCPUs, 128 GiB RAM, 960 GB NVMe)",
   "family": "Metal",
   "vcpus": 16,
   "hypervisor": "KVM",
@@ -36,9 +36,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 1920,
+  "storage_size": 960,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed": 1000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,

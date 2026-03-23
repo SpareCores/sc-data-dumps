@@ -4,7 +4,7 @@
   "name": "rtx5000-28",
   "api_reference": "rtx5000-28",
   "display_name": "rtx5000-28",
-  "description": "Cloud GPU (4 vCPUs, 28 GiB RAM, 400 GB SSD storage, 1xQuadro RTX 5000 16 GiB VRAM)",
+  "description": "Cloud GPU (4 vCPUs, 28 GiB RAM, 400 GB SSD, 1xQuadro RTX 5000 16 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 4,
   "hypervisor": "KVM",
@@ -152,7 +152,13 @@
   ],
   "storage_size": 400,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 400,
+      "storage_type": "ssd",
+      "description": null
+    }
+  ],
   "network_speed": 2000.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
