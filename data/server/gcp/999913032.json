@@ -165,7 +165,7 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 2010,
+  "storage_size": 1745,
   "storage_type": "NVME_SSD",
   "storages": [
     {
@@ -189,7 +189,7 @@
       "description": null
     },
     {
-      "size": 402,
+      "size": 137,
       "storage_type": "nvme ssd",
       "description": null
     }
