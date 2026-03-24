@@ -1,3 +1,23 @@
+## v0.4.0+20260324232058 (Mar 24, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23515602443
+
+
+### benchmark
+
+- Update: geekbench:score
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: compression_text:decompress
+- Update: compression_text:compress
+
 ## v0.4.0+20260324201754 (Mar 24, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
