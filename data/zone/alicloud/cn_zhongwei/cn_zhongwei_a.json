@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-zhongwei",
+  "zone_id": "cn-zhongwei-a",
+  "name": "Zhongwei Zone A",
+  "api_reference": "cn-zhongwei-a",
+  "display_name": "Zhongwei Zone A",
+  "status": "ACTIVE"
+}

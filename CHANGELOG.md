@@ -1,3 +1,44 @@
+## v0.4.0+20260325112527 (Mar 25, 2026)
+
+This is an automated release with 23 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23536756652
+
+
+### region
+
+- New: alicloud/cn-zhongwei
+
+### zone
+
+- New: alicloud/cn-zhongwei/cn-zhongwei-a
+- New: alicloud/cn-zhongwei/cn-zhongwei-b
+
+### server
+
+- Update: gcp/999914032
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+
+### benchmark
+
+- Update: static_web:latency
+- Update: passmark:memory_latency
+- Update: geekbench:structure_from_motion
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: app:static_web
+
 ## v0.4.0+20260324232058 (Mar 24, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.

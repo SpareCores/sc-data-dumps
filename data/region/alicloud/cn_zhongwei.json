@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-zhongwei",
+  "name": "China (Zhongwei)",
+  "api_reference": "cn-zhongwei",
+  "display_name": "Zhongwei (CN)",
+  "aliases": [],
+  "country_id": "CN",
+  "state": null,
+  "city": "Zhongwei",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 105.1929,
+  "lat": 37.5,
+  "founding_year": 2026,
+  "green_energy": null,
+  "status": "ACTIVE"
+}
