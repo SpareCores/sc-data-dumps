@@ -1,6 +1,6 @@
 {
   "benchmark_id": "membench:bandwidth_copy",
-  "name": "Memory copy bandwidth",
+  "name": "Memory copy bandwidth (sc-membench)",
   "description": "Measures aggregate memory copy bandwidth across all threads using OpenMP parallelization.",
   "framework": "membench",
   "config_fields": {
