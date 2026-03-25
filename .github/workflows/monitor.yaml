@@ -42,7 +42,7 @@ jobs:
 
           # notify team if all (3) recent runs failed
           ALL_FAILED=$(jq '.workflow_runs[0:3] | all(.conclusion == "failure")' runs.json)
-          if [ "$ALL_FAILED" -eq "true" ]; then
+          if [ "$ALL_FAILED" = "true" ]; then
             echo "All recent runs failed, notifying team"
             curl -X POST -H 'Content-type: application/json' \
               --data "{\"username\": \"Scompanion\", \"icon_emoji\": \":argh:\", \"text\": \"The crawler has been failing recently, please investigate: https://github.com/SpareCores/sc-data-dumps/actions/workflows/crawl.yaml\n${SLACK_ALERT_MESSAGE}\"}" \
