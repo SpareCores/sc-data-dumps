@@ -1,3 +1,38 @@
+## v0.4.0+20260326095740 (Mar 26, 2026)
+
+This is an automated release with 20 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23586217186
+
+
+### storage
+
+- Update: azure/PremiumV2_LRS
+
+### server
+
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+
+### benchmark
+
+- Update: membench:latency
+- Update: geekbench:structure_from_motion
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_filter
+- Update: geekbench:object_remover
+- Update: geekbench:horizon_detection
+- Update: compression_text:decompress
+- Update: bw_mem
+
 ## v0.4.0+20260326060727 (Mar 26, 2026)
 
 This is an automated release with 20 new/updated/deleted resources.
