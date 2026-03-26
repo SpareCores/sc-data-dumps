@@ -12,7 +12,7 @@
     "alibabacloud-ecs20140526==7.6.0",
     "alibabacloud-gateway-spi==0.0.3",
     "alibabacloud-tea==0.4.3",
-    "alibabacloud-tea-openapi==0.4.3",
+    "alibabacloud-tea-openapi==0.4.4",
     "alibabacloud-tea-util==0.3.14",
     "annotated-doc==0.0.4",
     "annotated-types==0.7.0",
@@ -28,7 +28,7 @@
     "backrefs==6.2",
     "boto3==1.42.76",
     "botocore==1.42.76",
-    "cachier==4.1.0",
+    "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.0",
     "certifi==2026.2.25",
@@ -36,7 +36,7 @@
     "charset-normalizer==3.4.6",
     "click==8.3.1",
     "colorama==0.4.6",
-    "cryptography==44.0.3",
+    "cryptography==46.0.6",
     "cssselect2==0.9.0",
     "darabonba-core==1.0.5",
     "defusedxml==0.7.1",
@@ -104,6 +104,7 @@
     "pygments==2.19.2",
     "pyjwt==2.12.1",
     "pymdown-extensions==10.21",
+    "pympler==1.1",
     "pytest==9.0.2",
     "python-dateutil==2.9.0.post0",
     "pyyaml==6.0.3",
@@ -129,10 +130,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.4.0",
-    "NEWVERSION": "v0.4.0+20260326095740",
-    "NEWVERSIONDATE": "v0.4.0+20260326095740 (Mar 26, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 20 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23586217186",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23586217186"
+    "NEWVERSION": "v0.4.0+20260326115440",
+    "NEWVERSIONDATE": "v0.4.0+20260326115440 (Mar 26, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 13 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23591119031",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23591119031"
   },
-  "timestamp": "2026-03-26T09:57:40Z"
+  "timestamp": "2026-03-26T11:54:40Z"
 }
