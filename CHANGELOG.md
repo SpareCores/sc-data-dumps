@@ -1,3 +1,62 @@
+## v0.4.0+20260326041221 (Mar 26, 2026)
+
+This is an automated release with 47 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23575911838
+
+
+### server
+
+- New: alicloud/ecs.ebmg9h.96xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c8i.12xlarge
+- Update: alicloud/ecs.c8i.16xlarge
+- Update: alicloud/ecs.c8i.24xlarge
+- Update: alicloud/ecs.c8i.2xlarge
+- Update: alicloud/ecs.c8i.3xlarge
+- Update: alicloud/ecs.c8i.48xlarge
+- Update: alicloud/ecs.c8i.4xlarge
+- Update: alicloud/ecs.c8i.6xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.c8i.large
+- Update: alicloud/ecs.c8i.xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.12xlarge
+- Update: alicloud/ecs.g8i.16xlarge
+- Update: alicloud/ecs.g8i.24xlarge
+- Update: alicloud/ecs.g8i.2xlarge
+- Update: alicloud/ecs.g8i.3xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.g8i.large
+- Update: alicloud/ecs.g8i.xlarge
+- Update: alicloud/ecs.gn8t-4x.16xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.r8i.12xlarge
+- Update: alicloud/ecs.r8i.2xlarge
+- Update: alicloud/ecs.r8i.3xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.r8i.large
+- Update: alicloud/ecs.r8i.xlarge
+
+### benchmark
+
+- Update: stress_ng:best1
+- Update: static_web:rps-extrapolated
+- Update: redis:rps-extrapolated
+- Update: geekbench:text_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: compression_text:decompress
+
 ## v0.4.0+20260326021814 (Mar 26, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
