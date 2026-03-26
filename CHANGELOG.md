@@ -1,3 +1,25 @@
+## v0.4.0+20260326235645 (Mar 26, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23622485319
+
+
+### server
+
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+
+### benchmark
+
+- Update: membench:bandwidth_copy
+- Update: geekbench:score
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:file_compression
+- Update: compression_text:decompress
+- Update: compression_text:compress
+
 ## v0.4.0+20260326220332 (Mar 26, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.
