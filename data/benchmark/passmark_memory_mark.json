@@ -3,9 +3,7 @@
   "name": "PassMark: Memory Mark",
   "description": "A composite score of PassMark's Database and Memory test cases",
   "framework": "passmark",
-  "config_fields": {
-    "framework_version": "Version and build number of PassMark."
-  },
+  "config_fields": {},
   "measurement": "memory_mark",
   "unit": null,
   "higher_is_better": 1,

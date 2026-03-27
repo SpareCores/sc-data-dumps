@@ -5,8 +5,7 @@
   "framework": "redis",
   "config_fields": {
     "operation": "Type of operation, e.g. SET or GET a key.",
-    "pipeline": "The number of concurrent pipelined requests.",
-    "framework_version": "Redis server version number and build information."
+    "pipeline": "The number of concurrent pipelined requests."
   },
   "measurement": "rps",
   "unit": "Operations per second (ops/sec)",

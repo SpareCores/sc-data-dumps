@@ -3,9 +3,7 @@
   "name": "PassMark: Memory Latency",
   "description": "Measuring the time it takes for a single byte of memory to be transferred to the CPU for processing. A 512 MB buffer is allocated and then filled with pointers to other locations in the buffer, looping through a linked list.",
   "framework": "passmark",
-  "config_fields": {
-    "framework_version": "Version and build number of PassMark."
-  },
+  "config_fields": {},
   "measurement": "memory_latency",
   "unit": "Nanoseconds (ns)",
   "higher_is_better": 0,

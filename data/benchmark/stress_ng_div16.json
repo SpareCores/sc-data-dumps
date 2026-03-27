@@ -4,8 +4,7 @@
   "description": "Stress the CPU with the div16 method of stress-ng using a varying number of vCPU cores, and count the measured maximum total bogo operations per second (in real time) based on wall clock run time.",
   "framework": "stress_ng",
   "config_fields": {
-    "cores": "Number of CPU cores stressed.",
-    "framework_version": "Version number of stress-ng."
+    "cores": "Number of CPU cores stressed."
   },
   "measurement": "div16",
   "unit": "Bogo operations per second (ops/s)",

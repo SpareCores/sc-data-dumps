@@ -4,8 +4,7 @@
   "description": "Generates 3D geometry by constructing the coordinates of the points that are visible in nine 2D images of the same scene.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {
-    "cores": "Single-Core or Multi-Core performance tests.",
-    "framework_version": "Version number of geekbench."
+    "cores": "Single-Core or Multi-Core peformance tests."
   },
   "measurement": "structure_from_motion",
   "unit": null,

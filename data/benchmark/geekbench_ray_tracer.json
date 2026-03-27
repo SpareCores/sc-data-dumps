@@ -4,8 +4,7 @@
   "description": "Renders the Blender BMW scene using a custom ray tracer built with the Intel Embree ray tracing library.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {
-    "cores": "Single-Core or Multi-Core performance tests.",
-    "framework_version": "Version number of geekbench."
+    "cores": "Single-Core or Multi-Core peformance tests."
   },
   "measurement": "ray_tracer",
   "unit": null,

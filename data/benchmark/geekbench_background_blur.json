@@ -4,8 +4,7 @@
   "description": "Separates and blurs the background of 10 frames in a 1080p video, using DeepLabV3+.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {
-    "cores": "Single-Core or Multi-Core performance tests.",
-    "framework_version": "Version number of geekbench."
+    "cores": "Single-Core or Multi-Core peformance tests."
   },
   "measurement": "background_blur",
   "unit": null,

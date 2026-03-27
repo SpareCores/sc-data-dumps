@@ -4,8 +4,7 @@
   "description": "Measures aggregate sequential write bandwidth across all threads using OpenMP parallelization.",
   "framework": "membench",
   "config_fields": {
-    "size_kb": "Per-thread buffer size in KiB.",
-    "framework_version": "Version of membench."
+    "size_kb": "Per-thread buffer size in KiB."
   },
   "measurement": "memory_bandwidth",
   "unit": "MB/s",

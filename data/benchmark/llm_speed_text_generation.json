@@ -5,8 +5,7 @@
   "framework": "llm_speed",
   "config_fields": {
     "model": "Name of the model file used.",
-    "tokens": "Number of tokens processed in one run.",
-    "framework_version": "Git commit hash of llama.cpp"
+    "tokens": "Number of tokens processed in one run."
   },
   "measurement": "text_generation",
   "unit": "tokens/second (t/s)",

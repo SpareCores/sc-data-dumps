@@ -4,8 +4,7 @@
   "description": "Stress the CPU with all available methods supported by stress-ng, and count the total bogo operations per second (in real time) based on wall clock run time. The stress methods include bit operations, recursive calculations, integer divisions, floating point operations, matrix multiplication, stats, trigonometric, and hash functions. Note that this is to be deprecated in favor of stress_ng:div16.",
   "framework": "stress_ng",
   "config_fields": {
-    "cores": "Stressing a single core or all cores.",
-    "framework_version": "Version number of stress-ng."
+    "cores": "Stressing a single core or all cores."
   },
   "measurement": "cpu_all",
   "unit": "Bogo operations per second (ops/s)",

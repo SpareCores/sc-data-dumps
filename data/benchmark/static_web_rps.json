@@ -5,8 +5,7 @@
   "framework": "static_web",
   "config_fields": {
     "size": "Served file size (kB).",
-    "connections_per_vcpus": "Open HTTP connections per vCPU(s).",
-    "framework_version": "Version number of both binserve and wrk."
+    "connections_per_vcpus": "Open HTTP connections per vCPU(s)."
   },
   "measurement": "rps",
   "unit": "Requests per second (rps)",

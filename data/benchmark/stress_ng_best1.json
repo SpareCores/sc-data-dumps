@@ -3,9 +3,7 @@
   "name": "stress-ng div16 single-core",
   "description": "Stress a single vCPU core with the div16 method of stress-ng, and count the total bogo operations per second (in real time) based on wall clock run time.",
   "framework": "stress_ng",
-  "config_fields": {
-    "framework_version": "Version number of stress-ng."
-  },
+  "config_fields": {},
   "measurement": "best1",
   "unit": "Bogo operations per second (ops/s)",
   "higher_is_better": 1,

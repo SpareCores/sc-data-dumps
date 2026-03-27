@@ -5,8 +5,7 @@
   "framework": "openssl",
   "config_fields": {
     "algo": "Hash or block cipher algorithm, e.g. sha256 or aes-256-cbc.",
-    "block_size": "Block size (byte).",
-    "framework_version": "Version number of OpenSSL."
+    "block_size": "Block size (byte)."
   },
   "measurement": null,
   "unit": "Bytes per second (Bps)",
