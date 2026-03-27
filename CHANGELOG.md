@@ -1,3 +1,86 @@
+## v0.4.0+20260327020500 (Mar 27, 2026)
+
+This is an automated release with 68 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23626034369
+
+
+### zone
+
+- Update: alicloud/cn-shenzhen/cn-shenzhen-a
+- Update: alicloud/cn-shenzhen/cn-shenzhen-b
+- Update: alicloud/cn-shenzhen/cn-shenzhen-c
+- Update: alicloud/cn-shenzhen/cn-shenzhen-d
+- Update: alicloud/cn-shenzhen/cn-shenzhen-e
+- Update: alicloud/cn-shenzhen/cn-shenzhen-f
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.2xlarge
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6.large
+- Update: alicloud/ecs.c6.xlarge
+- Update: alicloud/ecs.c8a.12xlarge
+- Update: alicloud/ecs.c8a.16xlarge
+- Update: alicloud/ecs.c8a.24xlarge
+- Update: alicloud/ecs.c8a.2xlarge
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.c8a.4xlarge
+- Update: alicloud/ecs.c8a.8xlarge
+- Update: alicloud/ecs.ebmgn8t.32xlarge
+- Update: alicloud/ecs.g6.2xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g6.large
+- Update: alicloud/ecs.g6.xlarge
+- Update: alicloud/ecs.g8a.12xlarge
+- Update: alicloud/ecs.g8a.16xlarge
+- Update: alicloud/ecs.g8a.24xlarge
+- Update: alicloud/ecs.g8a.32xlarge
+- Update: alicloud/ecs.g8a.48xlarge
+- Update: alicloud/ecs.g8a.4xlarge
+- Update: alicloud/ecs.g8a.8xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r5.16xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r6.large
+- Update: alicloud/ecs.r6.xlarge
+- Update: alicloud/ecs.r8a.12xlarge
+- Update: alicloud/ecs.r8a.16xlarge
+- Update: alicloud/ecs.r8a.24xlarge
+- Update: alicloud/ecs.r8a.2xlarge
+- Update: alicloud/ecs.r8a.32xlarge
+- Update: alicloud/ecs.r8a.4xlarge
+- Update: alicloud/ecs.r8a.8xlarge
+- Update: alicloud/ecs.r8a.large
+- Update: alicloud/ecs.r8a.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: redis:latency
+- Update: membench:bandwidth_copy
+- Update: geekbench:navigation
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.4.0+20260326235645 (Mar 26, 2026)
 
 This is an automated release with 10 new/updated/deleted resources.
