@@ -1,3 +1,47 @@
+## v0.5.0+20260328151309 (Mar 28, 2026)
+
+This is an automated release with 32 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23687166636
+
+
+### zone
+
+- Update: alicloud/cn-shenzhen/cn-shenzhen-a
+- Update: alicloud/cn-shenzhen/cn-shenzhen-b
+- Update: alicloud/cn-shenzhen/cn-shenzhen-c
+- Update: alicloud/cn-shenzhen/cn-shenzhen-d
+- Update: alicloud/cn-shenzhen/cn-shenzhen-e
+- Update: alicloud/cn-shenzhen/cn-shenzhen-f
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_latency
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: openssl
+- Update: membench:bandwidth_copy
+- Update: llm_speed:text_generation
+- Update: llm_speed:prompt_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:background_blur
+- Update: compression_text:compress
+- Update: bogomips
+- Update: app:static_web
+
 ## v0.5.0+20260328130959 (Mar 28, 2026)
 
 This is an automated release with 26 new/updated/deleted resources.
