@@ -1,3 +1,39 @@
+## v0.5.0+20260328231638 (Mar 28, 2026)
+
+This is an automated release with 24 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23695647824
+
+
+### server
+
+- Update: gcp/999913144
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_mark
+- Update: passmark:cpu_extended_instructions_test
+- Update: membench:latency
+- Update: geekbench:text_processing
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:object_remover
+- Update: geekbench:navigation
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.0+20260328211219 (Mar 28, 2026)
 
 This is an automated release with 29 new/updated/deleted resources.
