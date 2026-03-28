@@ -1,3 +1,51 @@
+## v0.5.0+20260328111536 (Mar 28, 2026)
+
+This is an automated release with 36 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23683197595
+
+
+### server
+
+- Update: gcp/999913096
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:bestn
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_latency
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_floating_point_maths_test
+- Update: openssl
+- Update: llm_speed:text_generation
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:navigation
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.0+20260328081452 (Mar 28, 2026)
 
 This is an automated release with 28 new/updated/deleted resources.
