@@ -245,11 +245,11 @@
       "video_clock": 1545
     }
   ],
-  "storage_size": 6432,
+  "storage_size": 6167,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 402,
+      "size": 137,
       "storage_type": "nvme ssd",
       "description": null
     },
