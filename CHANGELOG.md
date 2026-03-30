@@ -1,3 +1,32 @@
+## v0.5.0+20260330060029 (Mar 30, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23728908378
+
+
+### zone
+
+- Update: alicloud/cn-heyuan/cn-heyuan-a
+- Update: alicloud/cn-heyuan/cn-heyuan-b
+
+### server
+
+- Update: alicloud/ecs.g6.8xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:best1
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: passmark:memory_mark
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:horizon_detection
+- Update: geekbench:file_compression
+- Update: geekbench:background_blur
+- Update: compression_text:compress
+
 ## v0.5.0+20260330040104 (Mar 30, 2026)
 
 This is an automated release with 19 new/updated/deleted resources.
