@@ -3,7 +3,7 @@
   "pip_freeze": [
     "aiofiles==24.1.0",
     "aiohappyeyeballs==2.6.1",
-    "aiohttp==3.13.4",
+    "aiohttp==3.13.5",
     "aiosignal==1.4.0",
     "alembic==1.18.4",
     "alibabacloud-bssopenapi20171214==5.1.1",
@@ -115,7 +115,7 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@e8e7f66b524e4b2295c5fba86be06259006d7907",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@ff118402540100d852fe532b820d1ec149180596",
     "sqlalchemy==2.0.48",
     "sqlmodel==0.0.33",
     "tinycss2==1.5.1",
@@ -130,10 +130,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260331223315",
-    "NEWVERSIONDATE": "v0.5.0+20260331223315 (Mar 31, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 19 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23820632147",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23820632147"
+    "NEWVERSION": "v0.5.0+20260331232536",
+    "NEWVERSIONDATE": "v0.5.0+20260331232536 (Mar 31, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 19 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23822643681",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23822643681"
   },
-  "timestamp": "2026-03-31T22:33:15Z"
+  "timestamp": "2026-03-31T23:25:36Z"
 }
