@@ -1,3 +1,37 @@
+## v0.5.0+20260331223315 (Mar 31, 2026)
+
+This is an automated release with 19 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23820632147
+
+
+### zone
+
+- Update: alicloud/cn-heyuan/cn-heyuan-a
+- Update: alicloud/cn-heyuan/cn-heyuan-b
+
+### server
+
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_latency
+- Update: llm_speed:prompt_processing
+- Update: geekbench:text_processing
+- Update: geekbench:score
+- Update: geekbench:ray_tracer
+- Update: geekbench:pdf_renderer
+- Update: geekbench:horizon_detection
+- Update: bogomips
+
 ## v0.5.0+20260331194153 (Mar 31, 2026)
 
 This is an automated release with 19 new/updated/deleted resources.
