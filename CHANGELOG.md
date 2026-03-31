@@ -1,3 +1,47 @@
+## v0.5.0+20260331174447 (Mar 31, 2026)
+
+This is an automated release with 32 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23809249233
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.d1.4xlarge
+- Update: alicloud/ecs.d1.6xlarge
+- Update: alicloud/ecs.d1.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: passmark:cpu_integer_maths_test
+- Update: membench:bandwidth_read
+- Update: geekbench:structure_from_motion
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+- Update: geekbench:horizon_detection
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+
 ## v0.5.0+20260331144608 (Mar 31, 2026)
 
 This is an automated release with 22 new/updated/deleted resources.
