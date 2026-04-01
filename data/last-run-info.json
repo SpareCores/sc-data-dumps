@@ -53,7 +53,7 @@
     "griffe-inherited-docstrings==1.1.3",
     "griffecli==2.0.2",
     "griffelib==2.0.2",
-    "grpc-google-iam-v1==0.14.3",
+    "grpc-google-iam-v1==0.14.4",
     "grpcio==1.80.0",
     "grpcio-status==1.80.0",
     "hcloud==2.17.1",
@@ -115,7 +115,7 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@ff118402540100d852fe532b820d1ec149180596",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@ae16348a3b4706643b0b4bb6022e20c7009ebb05",
     "sqlalchemy==2.0.48",
     "sqlmodel==0.0.33",
     "tinycss2==1.5.1",
@@ -130,10 +130,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260401013031",
-    "NEWVERSIONDATE": "v0.5.0+20260401013031 (Apr 01, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 29 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23826151959",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23826151959"
+    "NEWVERSION": "v0.5.0+20260401075804",
+    "NEWVERSIONDATE": "v0.5.0+20260401075804 (Apr 01, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 27 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23836248587",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23836248587"
   },
-  "timestamp": "2026-04-01T01:30:31Z"
+  "timestamp": "2026-04-01T07:58:04Z"
 }

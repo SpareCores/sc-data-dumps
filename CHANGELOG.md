@@ -1,3 +1,48 @@
+## v0.5.0+20260401075804 (Apr 01, 2026)
+
+This is an automated release with 27 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23836248587
+
+
+### region
+
+- Update: aws/me-south-1
+
+### zone
+
+- Update: aws/me-south-1/mes1-az1
+- Update: aws/me-south-1/mes1-az2
+- Update: aws/me-south-1/mes1-az3
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8a.12xlarge
+- Update: alicloud/ecs.r8a.16xlarge
+- Update: alicloud/ecs.r8a.24xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: passmark:memory_read_uncached
+- Update: passmark:cpu_compression_test
+- Update: membench:bandwidth_read
+- Update: geekbench:text_processing
+- Update: geekbench:pdf_renderer
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:background_blur
+- Update: bw_mem
+
 ## v0.5.0+20260401013031 (Apr 01, 2026)
 
 This is an automated release with 29 new/updated/deleted resources.
