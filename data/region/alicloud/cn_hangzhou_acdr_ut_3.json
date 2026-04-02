@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-hangzhou-acdr-ut-3",
+  "name": "Hangzhou ACDR BJZS",
+  "api_reference": "cn-hangzhou-acdr-ut-3",
+  "display_name": "Hangzhou (CN)",
+  "aliases": [],
+  "country_id": "CN",
+  "state": null,
+  "city": "Hangzhou",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 120.1551,
+  "lat": 30.2741,
+  "founding_year": 2026,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

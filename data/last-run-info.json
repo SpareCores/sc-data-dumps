@@ -33,7 +33,7 @@
     "cairosvg==2.9.0",
     "certifi==2026.2.25",
     "cffi==2.0.0",
-    "charset-normalizer==3.4.6",
+    "charset-normalizer==3.4.7",
     "click==8.3.1",
     "colorama==0.4.6",
     "cryptography==46.0.6",
@@ -98,8 +98,8 @@
     "pyasn1==0.6.3",
     "pyasn1-modules==0.4.2",
     "pycparser==3.0",
-    "pydantic==2.9.2",
-    "pydantic-core==2.23.4",
+    "pydantic==2.12.5",
+    "pydantic-core==2.41.5",
     "pydantic-extra-types==2.11.1",
     "pygments==2.20.0",
     "pyjwt==2.12.1",
@@ -115,12 +115,13 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@ae16348a3b4706643b0b4bb6022e20c7009ebb05",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@37e606ce64c389b4599563389f23fd631565d4c2",
     "sqlalchemy==2.0.48",
-    "sqlmodel==0.0.33",
+    "sqlmodel==0.0.37",
     "tinycss2==1.5.1",
     "typer==0.24.1",
     "typing-extensions==4.15.0",
+    "typing-inspection==0.4.2",
     "tzlocal==5.3.1",
     "upcloud-api==2.9.0",
     "urllib3==2.6.3",
@@ -130,10 +131,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260402074132",
-    "NEWVERSIONDATE": "v0.5.0+20260402074132 (Apr 02, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 18 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23887905161",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23887905161"
+    "NEWVERSION": "v0.5.0+20260402124714",
+    "NEWVERSIONDATE": "v0.5.0+20260402124714 (Apr 02, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 15 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23899066956",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/23899066956"
   },
-  "timestamp": "2026-04-02T07:41:32Z"
+  "timestamp": "2026-04-02T12:47:14Z"
 }
