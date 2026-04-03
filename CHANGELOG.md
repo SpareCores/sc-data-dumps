@@ -1,3 +1,68 @@
+## v0.5.0+20260403150834 (Apr 03, 2026)
+
+This is an automated release with 50 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23949054358
+
+
+### zone
+
+- Update: alicloud/cn-shenzhen/cn-shenzhen-a
+- Update: alicloud/cn-shenzhen/cn-shenzhen-b
+- Update: alicloud/cn-shenzhen/cn-shenzhen-c
+- Update: alicloud/cn-shenzhen/cn-shenzhen-d
+- Update: alicloud/cn-shenzhen/cn-shenzhen-e
+- Update: alicloud/cn-shenzhen/cn-shenzhen-f
+
+### server
+
+- Update: alicloud/ecs.c6.2xlarge
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6.large
+- Update: alicloud/ecs.c6.xlarge
+- Update: alicloud/ecs.c8a.12xlarge
+- Update: alicloud/ecs.c8a.16xlarge
+- Update: alicloud/ecs.c8a.24xlarge
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.g6.2xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.large
+- Update: alicloud/ecs.g6r.large
+- Update: alicloud/ecs.g6.xlarge
+- Update: alicloud/ecs.g7a.large
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r5.16xlarge
+- Update: alicloud/ecs.r5.8xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.r6.large
+- Update: alicloud/ecs.r6.xlarge
+- Update: alicloud/ecs.r8a.12xlarge
+- Update: alicloud/ecs.r8a.16xlarge
+- Update: alicloud/ecs.r8a.24xlarge
+- Update: alicloud/ecs.r8a.2xlarge
+- Update: alicloud/ecs.r8a.32xlarge
+- Update: alicloud/ecs.r8a.4xlarge
+- Update: alicloud/ecs.r8a.8xlarge
+- Update: alicloud/ecs.r8a.large
+- Update: alicloud/ecs.r8a.xlarge
+- Update: ovh/h200-1920
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:file_compression
+- Update: compression_text:decompress
+
 ## v0.5.0+20260403130631 (Apr 03, 2026)
 
 This is an automated release with 25 new/updated/deleted resources.
