@@ -1,3 +1,34 @@
+## v0.5.0+20260403203137 (Apr 03, 2026)
+
+This is an automated release with 19 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23959541965
+
+
+### server
+
+- Update: gcp/999919288
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.hfc7.large
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u1-c1m8.large
+
+### benchmark
+
+- Update: static_web:throughput
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:cpu_compression_test
+- Update: geekbench:structure_from_motion
+- Update: geekbench:navigation
+- Update: geekbench:html5_browser
+- Update: geekbench:hdr
+- Update: geekbench:background_blur
+- Update: compression_text:compress
+
 ## v0.5.0+20260403172037 (Apr 03, 2026)
 
 This is an automated release with 61 new/updated/deleted resources.
