@@ -1,3 +1,32 @@
+## v0.5.0+20260403022532 (Apr 03, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23929596800
+
+
+### region
+
+- Update: alicloud/cn-hangzhou-acdr-ut-3
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c8y.large
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.t5-lc1m2.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.u1-c1m2.large
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: openssl
+- Update: membench:bandwidth_copy
+- Update: geekbench:photo_filter
+- Update: app:static_web
+
 ## v0.5.0+20260402225018 (Apr 02, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
