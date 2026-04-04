@@ -1,3 +1,45 @@
+## v0.5.0+20260404030804 (Apr 04, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23969080742
+
+
+### server
+
+- Update: alicloud/ecs.c4.xlarge
+- Update: alicloud/ecs.c5.xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6r.2xlarge
+- Update: alicloud/ecs.c7a.2xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7se.xlarge
+- Update: alicloud/ecs.g7t.xlarge
+- Update: alicloud/ecs.hfg7.xlarge
+- Update: alicloud/ecs.mn4.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r7a.xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.r8y.xlarge
+- Update: alicloud/ecs.sn1.large
+
+### benchmark
+
+- Update: static_web:rps
+- Update: passmark:memory_mark
+- Update: membench:bandwidth_write
+- Update: geekbench:score
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_filter
+- Update: geekbench:object_remover
+- Update: geekbench:clang
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.0+20260404003926 (Apr 04, 2026)
 
 This is an automated release with 37 new/updated/deleted resources.
