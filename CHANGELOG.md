@@ -1,3 +1,61 @@
+## v0.5.0+20260404220152 (Apr 04, 2026)
+
+This is an automated release with 46 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23987546378
+
+
+### server
+
+- Update: alicloud/ecs.c5.6xlarge
+- Update: alicloud/ecs.c7.8xlarge
+- Update: alicloud/ecs.c7se.6xlarge
+- Update: alicloud/ecs.c7t.6xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.g5.4xlarge
+- Update: alicloud/ecs.g5ne.4xlarge
+- Update: alicloud/ecs.g6r.8xlarge
+- Update: alicloud/ecs.g7.6xlarge
+- Update: alicloud/ecs.g7a.8xlarge
+- Update: alicloud/ecs.g7se.6xlarge
+- Update: alicloud/ecs.g8y.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc6.8xlarge
+- Update: alicloud/ecs.hfc7.8xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg6.6xlarge
+- Update: alicloud/ecs.hfg7.6xlarge
+- Update: alicloud/ecs.i2.4xlarge
+- Update: alicloud/ecs.i2gne.4xlarge
+- Update: alicloud/ecs.i2ne.4xlarge
+- Update: alicloud/ecs.ic5.6xlarge
+- Update: alicloud/ecs.r5.3xlarge
+- Update: alicloud/ecs.r7se.4xlarge
+- Update: alicloud/ecs.r7t.4xlarge
+- Update: alicloud/ecs.se1ne.3xlarge
+- Update: alicloud/ecs.sn2.3xlarge
+- Update: alicloud/ecs.sn2ne.4xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: alicloud/ecs.u1-c1m4.8xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_encryption_test
+- Update: membench:bandwidth_copy
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:hdr
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: bw_mem
+
 ## v0.5.0+20260404195855 (Apr 04, 2026)
 
 This is an automated release with 48 new/updated/deleted resources.
