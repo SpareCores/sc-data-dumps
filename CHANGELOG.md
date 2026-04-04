@@ -1,3 +1,63 @@
+## v0.5.0+20260404195855 (Apr 04, 2026)
+
+This is an automated release with 48 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23985427225
+
+
+### server
+
+- Update: alicloud/ecs.c5.4xlarge
+- Update: alicloud/ecs.c6r.8xlarge
+- Update: alicloud/ecs.c7a.8xlarge
+- Update: alicloud/ecs.c7se.4xlarge
+- Update: alicloud/ecs.d1ne.2xlarge
+- Update: alicloud/ecs.g5.3xlarge
+- Update: alicloud/ecs.g7se.4xlarge
+- Update: alicloud/ecs.g7t.4xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.hfc7.6xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.hfr7.3xlarge
+- Update: alicloud/ecs.i2g.4xlarge
+- Update: alicloud/ecs.i3g.4xlarge
+- Update: alicloud/ecs.mn4.4xlarge
+- Update: alicloud/ecs.r7.4xlarge
+- Update: alicloud/ecs.r7a.4xlarge
+- Update: alicloud/ecs.r7se.3xlarge
+- Update: alicloud/ecs.r7t.3xlarge
+- Update: alicloud/ecs.sgn7i-vws-m8.4xlarge
+- Update: alicloud/ecs.sgn7i-vws-m8s.4xlarge
+- Update: alicloud/ecs.sn1.3xlarge
+- Update: alicloud/ecs.sn1ne.4xlarge
+- Update: alicloud/ecs.sn2ne.3xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: alicloud/ecs.u1-c1m1.8xlarge
+- Update: alicloud/ecs.u1-c1m2.8xlarge
+- Update: alicloud/ecs.vgn6i-m8-vws.2xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_floating_point_maths_test
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: geekbench:navigation
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: compression_text:decompress
+- Update: bw_mem
+
 ## v0.5.0+20260404163455 (Apr 04, 2026)
 
 This is an automated release with 61 new/updated/deleted resources.
