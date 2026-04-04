@@ -1,3 +1,76 @@
+## v0.5.0+20260404163455 (Apr 04, 2026)
+
+This is an automated release with 61 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23982032711
+
+
+### server
+
+- Update: alicloud/ecs.c5.3xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.c7se.3xlarge
+- Update: alicloud/ecs.c7t.4xlarge
+- Update: alicloud/ecs.c8y.8xlarge
+- Update: alicloud/ecs.ce4.2xlarge
+- Update: alicloud/ecs.cm4.2xlarge
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g5.2xlarge
+- Update: alicloud/ecs.g5ne.2xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6r.4xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.g7a.4xlarge
+- Update: alicloud/ecs.g7se.3xlarge
+- Update: alicloud/ecs.g7t.3xlarge
+- Update: alicloud/ecs.g8y.4xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc7.4xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg7.3xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.i2.2xlarge
+- Update: alicloud/ecs.i2gne.2xlarge
+- Update: alicloud/ecs.i2ne.2xlarge
+- Update: alicloud/ecs.i3.2xlarge
+- Update: alicloud/ecs.ic5.3xlarge
+- Update: alicloud/ecs.ic5.4xlarge
+- Update: alicloud/ecs.r5.2xlarge
+- Update: alicloud/ecs.r7.3xlarge
+- Update: alicloud/ecs.r7se.2xlarge
+- Update: alicloud/ecs.r7t.2xlarge
+- Update: alicloud/ecs.se1.2xlarge
+- Update: alicloud/ecs.se1ne.2xlarge
+- Update: alicloud/ecs.sgn7i-vws-m4.2xlarge
+- Update: alicloud/ecs.sn1ne.3xlarge
+- Update: alicloud/ecs.sn2ne.2xlarge
+- Update: alicloud/ecs.sn2.xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u1-c1m8.4xlarge
+- Update: alicloud/ecs.vgn6i-m4-vws.xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: static_web:throughput-extrapolated
+- Update: static_web:rps-extrapolated
+- Update: redis:latency
+- Update: passmark:cpu_encryption_test
+- Update: openssl
+- Update: geekbench:text_processing
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:html5_browser
+- Update: compression_text:compress
+
 ## v0.5.0+20260404122124 (Apr 04, 2026)
 
 This is an automated release with 37 new/updated/deleted resources.
