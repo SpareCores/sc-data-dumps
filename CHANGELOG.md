@@ -1,3 +1,52 @@
+## v0.5.0+20260404003926 (Apr 04, 2026)
+
+This is an automated release with 37 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23966221664
+
+
+### server
+
+- Update: alicloud/ecs.c7se.xlarge
+- Update: alicloud/ecs.c7t.xlarge
+- Update: alicloud/ecs.c8y.2xlarge
+- Update: alicloud/ecs.g5ne.xlarge
+- Update: alicloud/ecs.g6r.xlarge
+- Update: alicloud/ecs.g7.xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc6.xlarge
+- Update: alicloud/ecs.hfc7.xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg6.xlarge
+- Update: alicloud/ecs.ic5.xlarge
+- Update: alicloud/ecs.r5.large
+- Update: alicloud/ecs.r7se.large
+- Update: alicloud/ecs.se1.large
+- Update: alicloud/ecs.se1ne.large
+- Update: alicloud/ecs.t5-c1m1.2xlarge
+- Update: alicloud/ecs.t5-c1m4.xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u0.c1m8.large
+- Update: alicloud/ecs.u1-c1m1.2xlarge
+- Update: alicloud/ecs.u1-c1m2.2xlarge
+- Update: alicloud/ecs.u1-c1m8.xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_latency
+- Update: membench:latency
+- Update: geekbench:structure_from_motion
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:file_compression
+- Update: bw_mem
+
 ## v0.5.0+20260403223528 (Apr 03, 2026)
 
 This is an automated release with 39 new/updated/deleted resources.
