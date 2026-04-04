@@ -1,3 +1,52 @@
+## v0.5.0+20260404122124 (Apr 04, 2026)
+
+This is an automated release with 37 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23977886722
+
+
+### server
+
+- Update: alicloud/ecs.c4.2xlarge
+- Update: alicloud/ecs.c5.2xlarge
+- Update: alicloud/ecs.c6r.4xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7t.3xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g7.3xlarge
+- Update: alicloud/ecs.g7t.2xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc7.3xlarge
+- Update: alicloud/ecs.hfr6.2xlarge
+- Update: alicloud/ecs.hfr7.2xlarge
+- Update: alicloud/ecs.i2g.2xlarge
+- Update: alicloud/ecs.i3g.2xlarge
+- Update: alicloud/ecs.n4.2xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.r8y.2xlarge
+- Update: alicloud/ecs.sn1ne.2xlarge
+- Update: alicloud/ecs.sn1.xlarge
+- Update: alicloud/ecs.t5-c1m2.4xlarge
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: alicloud/ecs.u1-c1m8.3xlarge
+
+### benchmark
+
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: redis:latency
+- Update: membench:bandwidth_copy
+- Update: geekbench:text_processing
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:asset_compression
+- Update: compression_text:decompress
+- Update: bw_mem
+
 ## v0.5.0+20260404101505 (Apr 04, 2026)
 
 This is an automated release with 41 new/updated/deleted resources.
