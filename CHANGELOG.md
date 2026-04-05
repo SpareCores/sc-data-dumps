@@ -1,3 +1,52 @@
+## v0.5.0+20260405032545 (Apr 05, 2026)
+
+This is an automated release with 37 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/23992449681
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6r.16xlarge
+- Update: alicloud/ecs.d1ne.4xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8y.16xlarge
+- Update: alicloud/ecs.gn5-c4g1.xlarge
+- Update: alicloud/ecs.gn6i-c16g1.4xlarge
+- Update: alicloud/ecs.gn7i-c32g1.8xlarge
+- Update: alicloud/ecs.hfc7.12xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg6.10xlarge
+- Update: alicloud/ecs.hfr6.8xlarge
+- Update: alicloud/ecs.i2g.8xlarge
+- Update: alicloud/ecs.i2gne.8xlarge
+- Update: alicloud/ecs.i3g.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r7.8xlarge
+- Update: alicloud/ecs.r7se.6xlarge
+- Update: alicloud/ecs.sn1ne.8xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: static_web:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: geekbench:score
+- Update: geekbench:photo_filter
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:compress
+
 ## v0.5.0+20260405000727 (Apr 05, 2026)
 
 This is an automated release with 42 new/updated/deleted resources.
