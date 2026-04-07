@@ -1,3 +1,33 @@
+## v0.5.0+20260407035759 (Apr 07, 2026)
+
+This is an automated release with 18 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24061922846
+
+
+### server
+
+- New: azure/Standard_ND128isr_NDR_GB200_v6
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: static_web:rps
+- Update: passmark:cpu_physics_test
+- Update: membench:bandwidth_read
+- Update: geekbench:photo_filter
+- Update: geekbench:background_blur
+- Update: compression_text:decompress
+- Update: app:static_web
+
 ## v0.5.0+20260406215157 (Apr 06, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.
