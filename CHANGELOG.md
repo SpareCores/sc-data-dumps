@@ -1,3 +1,46 @@
+## v0.5.0+20260407103934 (Apr 07, 2026)
+
+This is an automated release with 31 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24074775626
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7.6xlarge
+- Update: alicloud/ecs.c7se.8xlarge
+- Update: alicloud/ecs.c7.xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.large
+- Update: alicloud/ecs.g7se.2xlarge
+- Update: alicloud/ecs.gn6i-c4g1.xlarge
+- Update: alicloud/ecs.hfg7.4xlarge
+- Update: alicloud/ecs.hfr7.4xlarge
+- Update: alicloud/ecs.i2.xlarge
+- Update: alicloud/ecs.mn4.2xlarge
+- Update: alicloud/ecs.n4.4xlarge
+- Update: alicloud/ecs.n4.xlarge
+- Update: alicloud/ecs.r8y.4xlarge
+- Update: alicloud/ecs.sgn7i-vws-m4s.2xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.t5-c1m2.2xlarge
+- Update: alicloud/ecs.t6-c1m4.2xlarge
+- Update: alicloud/ecs.u0.c1m2.xlarge
+
+### benchmark
+
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: geekbench:structure_from_motion
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:file_compression
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.0+20260407082055 (Apr 07, 2026)
 
 This is an automated release with 20 new/updated/deleted resources.
