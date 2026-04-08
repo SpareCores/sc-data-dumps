@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "cn-hangzhou-acdr-ut-3",
+  "zone_id": "cn-hangzhou-acdr-ut-3a",
+  "name": "Hangzhou BJZS ACDR Zone A",
+  "api_reference": "cn-hangzhou-acdr-ut-3a",
+  "display_name": "Hangzhou BJZS ACDR Zone A",
+  "status": "ACTIVE"
+}

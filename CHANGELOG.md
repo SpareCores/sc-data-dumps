@@ -1,3 +1,68 @@
+## v0.5.0+20260408164016 (Apr 08, 2026)
+
+This is an automated release with 50 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24144150616
+
+
+### zone
+
+- New: alicloud/cn-hangzhou-acdr-ut-3/cn-hangzhou-acdr-ut-3a
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c8i.12xlarge
+- Update: alicloud/ecs.c8i.16xlarge
+- Update: alicloud/ecs.c8i.24xlarge
+- Update: alicloud/ecs.c8i.2xlarge
+- Update: alicloud/ecs.c8i.3xlarge
+- Update: alicloud/ecs.c8i.48xlarge
+- Update: alicloud/ecs.c8i.4xlarge
+- Update: alicloud/ecs.c8i.6xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.c8i.large
+- Update: alicloud/ecs.c8i.xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.12xlarge
+- Update: alicloud/ecs.g8i.16xlarge
+- Update: alicloud/ecs.g8i.24xlarge
+- Update: alicloud/ecs.g8i.2xlarge
+- Update: alicloud/ecs.g8i.3xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.g8i.large
+- Update: alicloud/ecs.g8i.xlarge
+- Update: alicloud/ecs.r8i.12xlarge
+- Update: alicloud/ecs.r8i.2xlarge
+- Update: alicloud/ecs.r8i.3xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.r8i.large
+- Update: alicloud/ecs.r8i.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: redis:rps-extrapolated
+- Update: passmark:cpu_mark
+- Update: openssl
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:hdr
+- Update: compression_text:decompress
+- Update: bw_mem
+
 ## v0.5.0+20260408103251 (Apr 08, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.
