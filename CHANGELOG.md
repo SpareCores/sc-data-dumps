@@ -1,3 +1,23 @@
+## v0.5.0+20260410182628 (Apr 10, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24255281823
+
+
+### server
+
+- Update: alicloud/ecs.d1.4xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: passmark:cpu_floating_point_maths_test
+- Update: geekbench:html5_browser
+- Update: bw_mem
+
 ## v0.5.0+20260410161726 (Apr 10, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.
