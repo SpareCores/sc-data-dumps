@@ -1,3 +1,26 @@
+## v0.5.0+20260411070826 (Apr 11, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24276331065
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: redis:rps-extrapolated
+- Update: redis:latency
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: bw_mem
+
 ## v0.5.0+20260411050647 (Apr 11, 2026)
 
 This is an automated release with 10 new/updated/deleted resources.
