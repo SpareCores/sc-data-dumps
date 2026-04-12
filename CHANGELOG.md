@@ -1,3 +1,28 @@
+## v0.5.0+20260412115229 (Apr 12, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24305025178
+
+
+### server
+
+- Update: alicloud/ecs.hfc5.4xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: static_web:throughput
+- Update: redis:rps-extrapolated
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_integer_maths_test
+- Update: membench:bandwidth_copy
+- Update: geekbench:text_processing
+- Update: geekbench:photo_filter
+- Update: geekbench:object_detection
+- Update: geekbench:clang
+- Update: compression_text:decompress
+
 ## v0.5.0+20260412083559 (Apr 12, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
