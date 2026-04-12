@@ -1,3 +1,24 @@
+## v0.5.0+20260412183716 (Apr 12, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24312456694
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+
+### benchmark
+
+- Update: stress_ng:bestn
+- Update: openssl
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:navigation
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: bw_mem
+
 ## v0.5.0+20260412163047 (Apr 12, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.
