@@ -1,3 +1,45 @@
+## v0.5.0+20260414134822 (Apr 14, 2026)
+
+This is an automated release with 27 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24399327929
+
+
+### zone
+
+- Update: alicloud/ap-southeast-1/ap-southeast-1a
+- Update: alicloud/ap-southeast-1/ap-southeast-1b
+- Update: alicloud/ap-southeast-1/ap-southeast-1c
+- Update: alicloud/ap-southeast-1/ap-southeast-1d
+- Update: alicloud/cn-beijing/cn-beijing-a
+- Update: alicloud/cn-beijing/cn-beijing-b
+- Update: alicloud/cn-beijing/cn-beijing-c
+- Update: alicloud/cn-beijing/cn-beijing-d
+- Update: alicloud/cn-beijing/cn-beijing-e
+- Update: alicloud/cn-beijing/cn-beijing-f
+- Update: alicloud/cn-beijing/cn-beijing-g
+- Update: alicloud/cn-beijing/cn-beijing-h
+- Update: alicloud/cn-beijing/cn-beijing-i
+- Update: alicloud/cn-beijing/cn-beijing-j
+- Update: alicloud/cn-beijing/cn-beijing-k
+- Update: alicloud/cn-beijing/cn-beijing-l
+
+### server
+
+- Update: ovh/a10-180
+- Update: ovh/a10-45
+- Update: ovh/a10-90
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+
+### benchmark
+
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: redis:rps
+- Update: redis:latency
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+
 ## v0.5.0+20260414113747 (Apr 14, 2026)
 
 This is an automated release with 35 new/updated/deleted resources.

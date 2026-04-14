@@ -4,7 +4,7 @@
   "name": "a10-90",
   "api_reference": "a10-90",
   "display_name": "a10-90",
-  "description": "Cloud GPU (60 vCPUs, 90 GiB RAM, 400 GB SSD, 2xA10 24 GiB VRAM)",
+  "description": "Cloud GPU (60 vCPUs, 85 GiB RAM, 400 GB SSD, 2xA10 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 60,
   "hypervisor": "KVM",
@@ -148,7 +148,7 @@
     "arch_capabilities"
   ],
   "cpus": [],
-  "memory_amount": 92160,
+  "memory_amount": 87040,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,

@@ -4,7 +4,7 @@
   "name": "a10-180",
   "api_reference": "a10-180",
   "display_name": "a10-180",
-  "description": "Cloud GPU (120 vCPUs, 180 GiB RAM, 400 GB SSD, 4xA10 24 GiB VRAM)",
+  "description": "Cloud GPU (120 vCPUs, 170 GiB RAM, 400 GB SSD, 4xA10 24 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 120,
   "hypervisor": "KVM",
@@ -148,7 +148,7 @@
     "arch_capabilities"
   ],
   "cpus": [],
-  "memory_amount": 184320,
+  "memory_amount": 174080,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
