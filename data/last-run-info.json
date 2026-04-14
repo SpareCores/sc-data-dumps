@@ -62,7 +62,7 @@
     "isodate==0.7.2",
     "jinja2==3.1.6",
     "jmespath==1.1.0",
-    "mako==1.3.10",
+    "mako==1.3.11",
     "markdown==3.10.2",
     "markdown-it-py==4.0.0",
     "markupsafe==3.0.3",
@@ -83,7 +83,7 @@
     "multidict==6.7.1",
     "oauthlib==3.3.1",
     "ovh==1.2.0",
-    "packaging==26.0",
+    "packaging==26.1",
     "paginate==0.5.7",
     "pathspec==1.0.4",
     "pillow==12.2.0",
@@ -131,10 +131,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260414182110",
-    "NEWVERSIONDATE": "v0.5.0+20260414182110 (Apr 14, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 12 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24413177599",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24413177599"
+    "NEWVERSION": "v0.5.0+20260414231043",
+    "NEWVERSIONDATE": "v0.5.0+20260414231043 (Apr 14, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24425241250",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24425241250"
   },
-  "timestamp": "2026-04-14T18:21:10Z"
+  "timestamp": "2026-04-14T23:10:43Z"
 }
