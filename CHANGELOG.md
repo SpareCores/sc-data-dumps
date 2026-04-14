@@ -1,3 +1,53 @@
+## v0.5.0+20260414113747 (Apr 14, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24394436011
+
+
+### zone
+
+- Update: alicloud/ap-southeast-1/ap-southeast-1a
+- Update: alicloud/ap-southeast-1/ap-southeast-1b
+- Update: alicloud/ap-southeast-1/ap-southeast-1c
+- Update: alicloud/ap-southeast-1/ap-southeast-1d
+- Update: alicloud/cn-beijing/cn-beijing-a
+- Update: alicloud/cn-beijing/cn-beijing-b
+- Update: alicloud/cn-beijing/cn-beijing-c
+- Update: alicloud/cn-beijing/cn-beijing-d
+- Update: alicloud/cn-beijing/cn-beijing-e
+- Update: alicloud/cn-beijing/cn-beijing-f
+- Update: alicloud/cn-beijing/cn-beijing-g
+- Update: alicloud/cn-beijing/cn-beijing-h
+- Update: alicloud/cn-beijing/cn-beijing-i
+- Update: alicloud/cn-beijing/cn-beijing-j
+- Update: alicloud/cn-beijing/cn-beijing-k
+- Update: alicloud/cn-beijing/cn-beijing-l
+
+### server
+
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.4xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.ebmgn8v.48xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.xlarge
+- Update: alicloud/ecs.u0.c1m2.xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: redis:rps
+- Update: geekbench:text_processing
+- Update: geekbench:pdf_renderer
+- Update: geekbench:background_blur
+
 ## v0.5.0+20260414093301 (Apr 14, 2026)
 
 This is an automated release with 20 new/updated/deleted resources.
