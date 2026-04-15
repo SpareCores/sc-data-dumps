@@ -1,3 +1,19 @@
+## v0.5.0+20260415231651 (Apr 15, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24481483735
+
+
+### server
+
+- Update: alicloud/ecs.sccc7.32xlarge
+
+### benchmark
+
+- Update: passmark:cpu_single_threaded_test
+- Update: openssl
+- Update: bw_mem
+
 ## v0.5.0+20260415211301 (Apr 15, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.
