@@ -1,3 +1,55 @@
+## v0.5.0+20260416213920 (Apr 16, 2026)
+
+This is an automated release with 40 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24532779875
+
+
+### server
+
+- New: aws/c8in.48xlarge
+- New: aws/c8in.24xlarge
+- New: aws/c8in.large
+- New: aws/c8in.8xlarge
+- New: aws/c8in.32xlarge
+- New: aws/c8in.xlarge
+- New: aws/c8in.metal-96xl
+- New: aws/c8in.metal-48xl
+- New: aws/c8in.4xlarge
+- New: aws/c8in.96xlarge
+- New: aws/c8in.16xlarge
+- New: aws/c8in.12xlarge
+- New: aws/c8in.2xlarge
+- New: aws/c8ib.32xlarge
+- New: aws/c8ib.metal-96xl
+- New: aws/c8ib.4xlarge
+- New: aws/c8ib.8xlarge
+- New: aws/c8ib.48xlarge
+- New: aws/c8ib.large
+- New: aws/c8ib.2xlarge
+- New: aws/c8ib.12xlarge
+- New: aws/c8ib.metal-48xl
+- New: aws/c8ib.96xlarge
+- New: aws/c8ib.16xlarge
+- New: aws/c8ib.xlarge
+- New: aws/c8ib.24xlarge
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+
+### benchmark
+
+- Update: redis:latency
+- Update: passmark:memory_latency
+- Update: geekbench:text_processing
+- Update: geekbench:photo_filter
+- Update: geekbench:file_compression
+
 ## v0.5.0+20260416181020 (Apr 16, 2026)
 
 This is an automated release with 21 new/updated/deleted resources.
