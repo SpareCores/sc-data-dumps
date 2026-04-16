@@ -1,3 +1,58 @@
+## v0.5.0+20260416152722 (Apr 16, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24515664473
+
+
+### server
+
+- New: upcloud/STARTER-1xCPU-4GB
+- New: upcloud/STARTER-1xCPU-2GB
+- New: upcloud/STARTER-1xCPU-1GB
+- New: upcloud/PREMIUM-1xCPU-2GB
+- New: upcloud/PREMIUM-1xCPU-1GB
+- New: upcloud/PREMIUM-2xCPU-8GB
+- New: upcloud/PREMIUM-2xCPU-2GB
+- New: upcloud/PREMIUM-2xCPU-4GB
+- New: upcloud/STARTER-2xCPU-8GB
+- New: upcloud/STARTER-2xCPU-2GB
+- New: upcloud/STARTER-2xCPU-4GB
+- New: upcloud/STARTER-2xCPU-16GB
+- New: upcloud/PREMIUM-2xCPU-16GB
+- New: upcloud/STARTER-4xCPU-8GB
+- New: upcloud/PREMIUM-4xCPU-8GB
+- New: upcloud/PREMIUM-4xCPU-32GB
+- New: upcloud/PREMIUM-4xCPU-16GB
+- New: upcloud/STARTER-4xCPU-16GB
+- New: upcloud/PREMIUM-8xCPU-128GB
+- New: upcloud/PREMIUM-8xCPU-64GB
+- New: upcloud/PREMIUM-8xCPU-32GB
+- New: upcloud/PREMIUM-8xCPU-16GB
+- New: upcloud/PREMIUM-16xCPU-32GB
+- New: upcloud/PREMIUM-16xCPU-64GB
+- New: upcloud/PREMIUM-24xCPU-96GB
+- New: upcloud/PREMIUM-32xCPU-128GB
+- New: upcloud/PREMIUM-32xCPU-64GB
+- New: upcloud/PREMIUM-38xCPU-192GB
+- New: upcloud/PREMIUM-48xCPU-256GB
+- New: upcloud/PREMIUM-48xCPU-96GB
+- New: upcloud/PREMIUM-64xCPU-128GB
+- New: upcloud/PREMIUM-64xCPU-384GB
+- New: upcloud/PREMIUM-80xCPU-512GB
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+
+### benchmark
+
+- Update: stress_ng:best1
+- Update: static_web:rps
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: membench:latency
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+
 ## v0.5.0+20260416132105 (Apr 16, 2026)
 
 This is an automated release with 18 new/updated/deleted resources.
