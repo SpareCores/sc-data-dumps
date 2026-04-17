@@ -98,8 +98,8 @@
     "pyasn1==0.6.3",
     "pyasn1-modules==0.4.2",
     "pycparser==3.0",
-    "pydantic==2.13.1",
-    "pydantic-core==2.46.1",
+    "pydantic==2.13.2",
+    "pydantic-core==2.46.2",
     "pydantic-extra-types==2.11.1",
     "pygments==2.20.0",
     "pyjwt==2.12.1",
@@ -115,7 +115,7 @@
     "s3transfer==0.16.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@37e606ce64c389b4599563389f23fd631565d4c2",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@c710dc6d43192ac98e8bb58850596ca6676a2546",
     "sqlalchemy==2.0.49",
     "sqlmodel==0.0.38",
     "tinycss2==1.5.1",
@@ -131,10 +131,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260417102542",
-    "NEWVERSIONDATE": "v0.5.0+20260417102542 (Apr 17, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24557235767",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24557235767"
+    "NEWVERSION": "v0.5.0+20260417124224",
+    "NEWVERSIONDATE": "v0.5.0+20260417124224 (Apr 17, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 13 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24563127833",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24563127833"
   },
-  "timestamp": "2026-04-17T10:25:42Z"
+  "timestamp": "2026-04-17T12:42:24Z"
 }
