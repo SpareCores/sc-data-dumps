@@ -1,3 +1,22 @@
+## v0.5.0+20260418204408 (Apr 18, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24612340525
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+
+### benchmark
+
+- Update: redis:rps
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_integer_maths_test
+- Update: geekbench:horizon_detection
+- Update: compression_text:decompress
+- Update: bogomips
+
 ## v0.5.0+20260418180938 (Apr 18, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
