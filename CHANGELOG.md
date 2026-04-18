@@ -1,3 +1,25 @@
+## v0.5.0+20260418083632 (Apr 18, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24599986901
+
+
+### server
+
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: openssl
+- Update: llm_speed:text_generation
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:clang
+- Update: compression_text:ratio
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.0+20260418042521 (Apr 18, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
