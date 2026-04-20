@@ -1,3 +1,23 @@
+## v0.5.0+20260420002400 (Apr 20, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24641656628
+
+
+### server
+
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:rps
+- Update: membench:latency
+- Update: membench:bandwidth_read
+- Update: geekbench:horizon_detection
+
 ## v0.5.0+20260419173633 (Apr 19, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
