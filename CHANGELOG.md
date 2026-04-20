@@ -1,3 +1,23 @@
+## v0.5.0+20260420070354 (Apr 20, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24651107138
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+
+### benchmark
+
+- Update: stress_ng:bestn
+- Update: geekbench:text_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_detection
+- Update: geekbench:clang
+
 ## v0.5.0+20260420045456 (Apr 20, 2026)
 
 This is an automated release with 21 new/updated/deleted resources.
