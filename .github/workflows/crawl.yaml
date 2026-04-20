@@ -45,6 +45,8 @@ jobs:
       ALIBABA_CLOUD_ACCESS_KEY_SECRET: ${{ secrets.ALIBABA_CLOUD_ACCESS_KEY_SECRET }}
       ALIBABA_CLOUD_REGION: ${{ vars.ALIBABA_CLOUD_REGION }}
       COLUMNS: 160
+      SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+      SENTRY_ENVIRONMENT: ${{ vars.SENTRY_ENVIRONMENT }}
     steps:
       - name: Print Workflow Dispatch Inputs
         uses: shayki5/print-workflow-dispatch-inputs@v1
