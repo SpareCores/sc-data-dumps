@@ -1,3 +1,24 @@
+## v0.5.0+20260420193756 (Apr 20, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24683828663
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:best1
+- Update: static_web:rps-extrapolated
+- Update: redis:latency
+- Update: openssl
+- Update: geekbench:pdf_renderer
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+
 ## v0.5.0+20260420173034 (Apr 20, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
