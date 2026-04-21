@@ -1,3 +1,37 @@
+## v0.5.0+20260421194002 (Apr 21, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24739911296
+
+
+### region
+
+- Update: alicloud/cn-chengdu
+
+### zone
+
+- Update: alicloud/cn-chengdu/cn-chengdu-a
+- Update: alicloud/cn-chengdu/cn-chengdu-b
+- Update: alicloud/cn-chengdu/cn-chengdu-c
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: geekbench:score
+- Update: geekbench:photo_filter
+- Update: geekbench:clang
+- Update: bogomips
+
 ## v0.5.0+20260421163145 (Apr 21, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
