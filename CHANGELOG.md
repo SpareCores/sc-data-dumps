@@ -1,3 +1,27 @@
+## v0.5.0+20260421215118 (Apr 21, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24745606326
+
+
+### region
+
+- Update: alicloud/cn-chengdu
+
+### zone
+
+- Update: alicloud/cn-chengdu/cn-chengdu-a
+- Update: alicloud/cn-chengdu/cn-chengdu-b
+- Update: alicloud/cn-chengdu/cn-chengdu-c
+
+### benchmark
+
+- Update: stress_ng:best1
+- Update: static_web:latency
+- Update: membench:bandwidth_write
+- Update: llm_speed:prompt_processing
+- Update: geekbench:background_blur
+
 ## v0.5.0+20260421194002 (Apr 21, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
