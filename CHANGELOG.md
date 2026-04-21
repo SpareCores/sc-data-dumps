@@ -1,3 +1,21 @@
+## v0.5.0+20260421235423 (Apr 21, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24750618427
+
+
+### zone
+
+- Update: alicloud/ap-northeast-2/ap-northeast-2b
+
+### benchmark
+
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: membench:bandwidth_write
+- Update: geekbench:text_processing
+- Update: geekbench:asset_compression
+
 ## v0.5.0+20260421215118 (Apr 21, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
