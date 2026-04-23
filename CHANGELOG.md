@@ -1,3 +1,25 @@
+## v0.5.0+20260423075650 (Apr 23, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24821370573
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g8i.24xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: static_web:latency
+- Update: redis:latency
+- Update: passmark:memory_read_cached
+- Update: geekbench:pdf_renderer
+
 ## v0.5.0+20260423052157 (Apr 23, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.
