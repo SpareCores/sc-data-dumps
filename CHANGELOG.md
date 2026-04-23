@@ -1,3 +1,20 @@
+## v0.5.0+20260423222505 (Apr 23, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24859547565
+
+
+### server
+
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+
+### benchmark
+
+- Update: static_web:rps
+- Update: redis:rps-extrapolated
+- Update: geekbench:html5_browser
+- Update: geekbench:background_blur
+
 ## v0.5.0+20260423172359 (Apr 23, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
