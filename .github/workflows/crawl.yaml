@@ -49,23 +49,23 @@ jobs:
       SENTRY_ENVIRONMENT: ${{ vars.SENTRY_ENVIRONMENT }}
     steps:
       - name: Print Workflow Dispatch Inputs
-        uses: shayki5/print-workflow-dispatch-inputs@v1
+        uses: shayki5/print-workflow-dispatch-inputs@1.0.2
         with:
           print_env_vars: 'false'
           add_to_summary: 'true'
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6.0.2
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6.2.0
         with:
           python-version: "3.11"
       - name: Cache uv
-        uses: actions/cache@v4
+        uses: actions/cache@v5.0.5
         with:
           key: uv
           path: ~/.cache/uv
       - name: Install uv
-        uses: yezz123/setup-uv@v4
+        uses: yezz123/setup-uv@v4.1
         with:
           uv-venv: "sc_data"
       - name: Set up Python dependencies
@@ -73,20 +73,20 @@ jobs:
           uv pip install psycopg2
           uv pip install "sparecores-crawler[all] @ git+https://github.com/SpareCores/sc-crawler"
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@v6.1.0
         with:
           role-to-assume: ${{ secrets.SC_DATA_ROLE_ARN }}
           role-session-name: sc-data-dumps-gha
           role-duration-seconds: 43200
           aws-region: us-east-1
       - name: Configure GCP credentials
-        uses: google-github-actions/auth@v2
+        uses: google-github-actions/auth@v3
         with:
           credentials_json: '${{ secrets.GCP_SERVICE_ACCOUNT_JSON_KEY }}'
 
       - name: Load cached SQLite file
         id: cache-sqlite-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5.0.5
         with:
           key: sc-data-current-sqlite
           path: sc-data-all.db
@@ -267,7 +267,7 @@ jobs:
         run: gh cache delete sc-data-current-sqlite
       - name: Save SQLite file
         id: cache-sqlite-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5.0.5
         with:
           key: sc-data-current-sqlite
           path: sc-data-all.db
@@ -282,7 +282,7 @@ jobs:
           echo 'EOF' >> $GITHUB_OUTPUT
           git pull
       - name: Commit changes to the repo
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7.1.0
         id: auto-commit-action
         with:
           commit_message: ${{ steps.generate-commit-message.outputs.message }}
@@ -292,7 +292,7 @@ jobs:
 
       - name: Archive data for debugging
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7.0.1
         with:
           name: data-and-changes
           compression-level: 0
