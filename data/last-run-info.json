@@ -56,7 +56,7 @@
     "grpc-google-iam-v1==0.14.4",
     "grpcio==1.80.0",
     "grpcio-status==1.80.0",
-    "hcloud==2.17.1",
+    "hcloud==2.18.0",
     "idna==3.13",
     "iniconfig==2.3.0",
     "isodate==0.7.2",
@@ -132,10 +132,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260423100228",
-    "NEWVERSIONDATE": "v0.5.0+20260423100228 (Apr 23, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 20 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24826809481",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24826809481"
+    "NEWVERSION": "v0.5.0+20260423121900",
+    "NEWVERSIONDATE": "v0.5.0+20260423121900 (Apr 23, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 30 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24831841280",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/24831841280"
   },
-  "timestamp": "2026-04-23T10:02:28Z"
+  "timestamp": "2026-04-23T12:19:00Z"
 }

@@ -1,3 +1,51 @@
+## v0.5.0+20260423121900 (Apr 23, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24831841280
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: static_web:rps-extrapolated
+- Update: redis:rps
+- Update: passmark:cpu_single_threaded_test
+- Update: geekbench:photo_filter
+- Update: geekbench:background_blur
+- Update: bw_mem
+- Update: app:static_web
+
 ## v0.5.0+20260423100228 (Apr 23, 2026)
 
 This is an automated release with 20 new/updated/deleted resources.
