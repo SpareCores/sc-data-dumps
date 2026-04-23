@@ -5,8 +5,8 @@
   "description": "Enterprise SSD with performance level 0.",
   "storage_type": "SSD",
   "max_iops": 10000,
-  "max_throughput": 1440,
+  "max_throughput": 180,
   "min_size": 1,
-  "max_size": 65536,
+  "max_size": 70369,
   "status": "ACTIVE"
 }

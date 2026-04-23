@@ -1,3 +1,64 @@
+## v0.5.0+20260423151233 (Apr 23, 2026)
+
+This is an automated release with 40 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/24839212580
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### storage
+
+- Update: hcloud/block
+- Update: ovh/classic
+- Update: alicloud/cloud
+- Update: alicloud/cloud_efficiency
+- Update: alicloud/cloud_essd-pl0
+- Update: alicloud/cloud_essd-pl1
+- Update: alicloud/cloud_essd-pl2
+- Update: alicloud/cloud_essd-pl3
+- Update: alicloud/cloud_ssd
+- Update: aws/gp2
+- Update: aws/gp3
+- Update: ovh/high-speed
+- Update: ovh/high-speed-gen2
+- Update: aws/io1
+- Update: aws/io2
+- Update: azure/Premium_LRS
+- Update: azure/PremiumV2_LRS
+- Update: azure/Premium_ZRS
+- Update: aws/sc1
+- Update: aws/st1
+- Update: aws/standard
+- Update: azure/Standard_LRS
+- Update: azure/StandardSSD_LRS
+- Update: azure/StandardSSD_ZRS
+- Update: azure/UltraSSD_LRS
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+
+### benchmark
+
+- Update: static_web:rps
+- Update: redis:rps-extrapolated
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: geekbench:horizon_detection
+
 ## v0.5.0+20260423121900 (Apr 23, 2026)
 
 This is an automated release with 30 new/updated/deleted resources.

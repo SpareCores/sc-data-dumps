@@ -7,6 +7,6 @@
   "max_iops": 20000,
   "max_throughput": 320,
   "min_size": 10,
-  "max_size": 12288,
+  "max_size": 12000,
   "status": "ACTIVE"
 }

@@ -4,9 +4,9 @@
   "name": "cloud_efficiency",
   "description": "Ultra Disk, older generation.",
   "storage_type": "SSD",
-  "max_iops": 3000,
-  "max_throughput": 80,
-  "min_size": 20,
-  "max_size": 32768,
+  "max_iops": 5000,
+  "max_throughput": 140,
+  "min_size": 21,
+  "max_size": 35184,
   "status": "ACTIVE"
 }

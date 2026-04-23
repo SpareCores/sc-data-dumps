@@ -5,8 +5,8 @@
   "description": "SSD-backed",
   "storage_type": "SSD",
   "max_iops": 16000,
-  "max_throughput": 250,
+  "max_throughput": 262,
   "min_size": 1,
-  "max_size": 16384,
+  "max_size": 17592,
   "status": "ACTIVE"
 }

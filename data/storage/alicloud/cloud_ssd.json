@@ -4,9 +4,9 @@
   "name": "cloud_ssd",
   "description": "Standard SSD.",
   "storage_type": "SSD",
-  "max_iops": 20000,
-  "max_throughput": 256,
-  "min_size": 20,
-  "max_size": 32768,
+  "max_iops": 25000,
+  "max_throughput": 300,
+  "min_size": 21,
+  "max_size": 35184,
   "status": "ACTIVE"
 }

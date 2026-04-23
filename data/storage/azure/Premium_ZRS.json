@@ -6,7 +6,7 @@
   "storage_type": "SSD",
   "max_iops": 20000,
   "max_throughput": 900,
-  "min_size": 16384,
-  "max_size": 32767,
+  "min_size": 4,
+  "max_size": 35183,
   "status": "ACTIVE"
 }
