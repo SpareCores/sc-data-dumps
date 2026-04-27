@@ -1,3 +1,77 @@
+## v0.5.0+20260427195809 (Apr 27, 2026)
+
+This is an automated release with 62 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25013560654
+
+
+### server
+
+- New: aws/c8ine.xlarge
+- New: aws/c8ine.4xlarge
+- New: aws/c8ine.12xlarge
+- New: aws/c8ine.8xlarge
+- New: aws/c8ine.large
+- New: aws/c8ine.2xlarge
+- New: aws/r8in.xlarge
+- New: aws/m8ib.16xlarge
+- New: aws/r8ib.xlarge
+- New: aws/m8ib.2xlarge
+- New: aws/m8in.16xlarge
+- New: aws/m8in.xlarge
+- New: aws/r8ib.96xlarge
+- New: aws/r8ib.16xlarge
+- New: aws/m8in.48xlarge
+- New: aws/m8ib.4xlarge
+- New: aws/r8ib.12xlarge
+- New: aws/m8ib.xlarge
+- New: aws/m8in.32xlarge
+- New: aws/m8ib.large
+- New: aws/r8in.large
+- New: aws/r8in.48xlarge
+- New: aws/r8in.32xlarge
+- New: aws/r8in.2xlarge
+- New: aws/m8ib.12xlarge
+- New: aws/r8ib.48xlarge
+- New: aws/r8in.4xlarge
+- New: aws/m8in.24xlarge
+- New: aws/r8ib.24xlarge
+- New: aws/r8in.8xlarge
+- New: aws/r8in.12xlarge
+- New: aws/m8ib.24xlarge
+- New: aws/m8in.4xlarge
+- New: aws/r8in.96xlarge
+- New: aws/m8in.2xlarge
+- New: aws/m8in.12xlarge
+- New: aws/m8ib.48xlarge
+- New: aws/m8ib.96xlarge
+- New: aws/r8ib.large
+- New: aws/r8ib.32xlarge
+- New: aws/r8in.24xlarge
+- New: aws/m8in.large
+- New: aws/m8in.8xlarge
+- New: aws/r8ib.2xlarge
+- New: aws/m8in.96xlarge
+- New: aws/r8in.16xlarge
+- New: aws/m8ib.32xlarge
+- New: aws/r8ib.8xlarge
+- New: aws/m8ib.8xlarge
+- New: aws/r8ib.4xlarge
+- New: aws/m8ine.12xlarge
+- New: aws/m8ine.2xlarge
+- New: aws/m8ine.xlarge
+- New: aws/m8ine.large
+- New: aws/m8ine.8xlarge
+- New: aws/m8ine.4xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+
+### benchmark
+
+- Update: static_web:rps
+- Update: geekbench:pdf_renderer
+- Update: bw_mem
+
 ## v0.5.0+20260427115421 (Apr 27, 2026)
 
 This is an automated release with 17 new/updated/deleted resources.
