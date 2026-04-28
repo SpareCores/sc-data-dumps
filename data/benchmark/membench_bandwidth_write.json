@@ -1,6 +1,7 @@
 {
   "benchmark_id": "membench:bandwidth_write",
   "name": "Memory write bandwidth (sc-membench)",
+  "category": "Memory bandwidth",
   "description": "Measures aggregate sequential write bandwidth across all threads using OpenMP parallelization.",
   "framework": "membench",
   "config_fields": {

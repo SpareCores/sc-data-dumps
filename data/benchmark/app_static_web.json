@@ -1,6 +1,7 @@
 {
   "benchmark_id": "app:static_web",
   "name": "Static web server",
+  "category": null,
   "description": "Serving smaller (1-65 kb) and larger (256-512 kb) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads and connections on the same server.",
   "framework": "app",
   "config_fields": {

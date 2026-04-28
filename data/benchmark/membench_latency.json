@@ -1,6 +1,7 @@
 {
   "benchmark_id": "membench:latency",
   "name": "Memory latency (sc-membench)",
+  "category": "Memory latency",
   "description": "Measures median memory latency using pointer chasing with randomized access to defeat hardware prefetching.",
   "framework": "membench",
   "config_fields": {

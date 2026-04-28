@@ -1,6 +1,7 @@
 {
   "benchmark_id": "workload_profile:ml",
   "name": "Workload profile: ML inference",
+  "category": "Workload profile",
   "description": "Precomputed compound score for CPU-based machine-learning inference workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 20% LLM text generation (llama-7b, 128 tokens), 15% memory bandwidth read (256 MB, bw_mem), 10% LLM prompt processing (llama-7b, 512 tokens), 10% LLM text generation (gemma-2b, 128 tokens), 10% PassMark Memory Mark (composite), 10% PassMark AVX/SSE/FMA (SIMD), 10% Geekbench object detection (multi-core), 5% PassMark floating point, 5% Geekbench background blur (multi-core), 5% Geekbench structure-from-motion (multi-core).",
   "framework": "workload_profile",
   "config_fields": {},

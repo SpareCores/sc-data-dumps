@@ -1,6 +1,7 @@
 {
   "benchmark_id": "openssl",
   "name": "OpenSSL speed",
+  "category": "OpenSSL",
   "description": "Measures the performance of OpenSSL's selected hash functions and block ciphers with different block sizes of data.",
   "framework": "openssl",
   "config_fields": {

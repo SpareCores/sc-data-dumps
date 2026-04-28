@@ -1,6 +1,7 @@
 {
   "benchmark_id": "geekbench:asset_compression",
   "name": "Geekbench: Asset Compression",
+  "category": "Geekbench",
   "description": "Compresses 16 texture images and geometry files using ASTC, BC7, DXTC, and Draco.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
   "framework": "geekbench",
   "config_fields": {

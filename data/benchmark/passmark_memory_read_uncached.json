@@ -1,6 +1,7 @@
 {
   "benchmark_id": "passmark:memory_read_uncached",
   "name": "PassMark: Memory Read Uncached",
+  "category": "Passmark",
   "description": "Read a combination of 32-bit and 64-bit data from memory using a 512 MB block size.",
   "framework": "passmark",
   "config_fields": {},

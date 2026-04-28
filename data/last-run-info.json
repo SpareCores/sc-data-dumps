@@ -20,7 +20,7 @@
     "attrs==26.1.0",
     "azure-core==1.39.0",
     "azure-identity==1.25.3",
-    "azure-mgmt-compute==37.2.0",
+    "azure-mgmt-compute==38.0.0",
     "azure-mgmt-core==1.6.0",
     "azure-mgmt-resource==25.0.0",
     "azure-mgmt-resource-subscriptions==1.0.0b1",
@@ -62,7 +62,7 @@
     "isodate==0.7.2",
     "jinja2==3.1.6",
     "jmespath==1.1.0",
-    "mako==1.3.11",
+    "mako==1.3.12",
     "markdown==3.10.2",
     "markdown-it-py==4.0.0",
     "markupsafe==3.0.3",
@@ -116,7 +116,7 @@
     "sentry-sdk==2.58.0",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@9171324a86da385182dd0cb10e7a60118d0a595c",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@4b5d39e179c4adc5a6dd85fb131f56b6e3137873",
     "sqlalchemy==2.0.49",
     "sqlmodel==0.0.38",
     "tinycss2==1.5.1",
@@ -131,11 +131,11 @@
     "yarl==1.23.0"
   ],
   "environment_variables": {
-    "CRAWLER_VERSION": "0.5.0",
-    "NEWVERSION": "v0.5.0+20260428195804",
-    "NEWVERSIONDATE": "v0.5.0+20260428195804 (Apr 28, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 7 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25071697532",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25071697532"
+    "CRAWLER_VERSION": "0.5.1",
+    "NEWVERSION": "v0.5.1+20260428230728",
+    "NEWVERSIONDATE": "v0.5.1+20260428230728 (Apr 28, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 0 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25081640089",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25081640089"
   },
-  "timestamp": "2026-04-28T19:58:04Z"
+  "timestamp": "2026-04-28T23:07:28Z"
 }

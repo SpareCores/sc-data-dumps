@@ -1,6 +1,7 @@
 {
   "benchmark_id": "compression_text:compress",
   "name": "Compression bandwidth",
+  "category": "Compression algos",
   "description": "Measures the compression bandwidth (bytes/second) on the dickens.txt of the Silesia corpus (10 MB uncompressed) using various algorithms, compressions levels and other extra arguments.",
   "framework": "compression_text",
   "config_fields": {

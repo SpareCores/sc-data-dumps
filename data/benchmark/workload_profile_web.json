@@ -1,6 +1,7 @@
 {
   "benchmark_id": "workload_profile:web",
   "name": "Workload profile: Web server",
+  "category": "Workload profile",
   "description": "Precomputed compound score for web server workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 20% static web RPS (1 kB, 8 conn/vCPU), 15% static web throughput (256 kB, 8 conn/vCPU), 10% static web RPS (64 kB, 8 conn/vCPU), 10% static web latency (1 kB, 1 conn/vCPU), 10% Geekbench HTML5 browser (multi-core), 10% OpenSSL AES-256-CBC (16 kB blocks), 10% PassMark encryption (AES/SHA/ECDSA), 5% Geekbench text processing (multi-core), 5% PassMark string sorting, 5% PassMark cached memory reads.",
   "framework": "workload_profile",
   "config_fields": {},

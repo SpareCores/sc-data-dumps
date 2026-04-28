@@ -16,6 +16,13 @@
       "comment": null
     },
     {
+      "name": "category",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "description",
       "type": "VARCHAR",
       "nullable": true,

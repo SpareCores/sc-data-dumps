@@ -1,6 +1,7 @@
 {
   "benchmark_id": "llm_speed:text_generation",
   "name": "LLM inference speed for text generation",
+  "category": "LLM inference speed",
   "description": "Running llama-bench from llama.cpp using various quantized model files to measure the speed of generating 16 to 4k tokens.",
   "framework": "llm_speed",
   "config_fields": {
