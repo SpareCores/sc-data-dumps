@@ -1,3 +1,41 @@
+## v0.5.0+20260428100116 (Apr 28, 2026)
+
+This is an automated release with 26 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25043437363
+
+
+### server
+
+- New: upcloud/GPU-8xCPU-64GB-1xL4
+- New: upcloud/GPU-12xCPU-128GB-1xL4
+- New: upcloud/GPU-12xCPU-128GB-2xL4
+- New: upcloud/GPU-16xCPU-192GB-2xL4
+- New: upcloud/GPU-16xCPU-192GB-1xL4
+- New: upcloud/GPU-16xCPU-192GB-3xL4
+- New: upcloud/GPU-20xCPU-256GB-2xL4
+- New: upcloud/GPU-20xCPU-256GB-3xL4
+- New: upcloud/GPU-20xCPU-256GB-1xL4
+- New: upcloud/GPU-32xCPU-384GB-2xL4
+- New: upcloud/GPU-32xCPU-384GB-3xL4
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6t.26xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: redis:latency
+- Update: passmark:cpu_single_threaded_test
+- Update: membench:latency
+- Update: membench:bandwidth_read
+- Update: geekbench:hdr
+- Update: geekbench:clang
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: bw_mem
+- Update: app:static_web
+
 ## v0.5.0+20260428054926 (Apr 28, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
