@@ -1,7 +1,7 @@
 {
   "benchmark_id": "workload_profile:compute",
-  "name": "Workload profile: Compute heavy",
   "category": "Workload profile",
+  "name": "Workload profile: Compute heavy",
   "description": "Precomputed compound score for compute-heavy (HPC/number-crunching) workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 35% PassMark CPU Mark (composite), 25% stress-ng div16 single core, 20% Geekbench score (multi-core), 20% memory read bandwidth (64 MB, sc-membench).",
   "framework": "workload_profile",
   "config_fields": {},

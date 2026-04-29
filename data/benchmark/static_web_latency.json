@@ -1,7 +1,7 @@
 {
   "benchmark_id": "static_web:latency",
-  "name": "Static web server latency",
   "category": "Static web server",
+  "name": "Static web server latency",
   "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. The average latency reported by wrk.",
   "framework": "static_web",
   "config_fields": {

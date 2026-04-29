@@ -1,7 +1,7 @@
 {
   "benchmark_id": "passmark:database_operations",
-  "name": "PassMark: Database Operations",
   "category": "Passmark",
+  "name": "PassMark: Database Operations",
   "description": "Single threaded and multi-threaded CRUD operations, such as INSERT (40%), SELECT (26%), UPDATE (24%), and DELETE (10%) on a relational database with 4 tables and 1k rows per table.",
   "framework": "passmark",
   "config_fields": {},

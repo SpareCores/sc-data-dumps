@@ -1,7 +1,7 @@
 {
   "benchmark_id": "passmark:memory_read_cached",
-  "name": "PassMark: Memory Read Cached",
   "category": "Passmark",
+  "name": "PassMark: Memory Read Cached",
   "description": "Read a combination of 32-bit and 64-bit data from memory.",
   "framework": "passmark",
   "config_fields": {},

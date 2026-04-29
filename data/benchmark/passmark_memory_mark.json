@@ -1,7 +1,7 @@
 {
   "benchmark_id": "passmark:memory_mark",
-  "name": "PassMark: Memory Mark",
   "category": "Passmark",
+  "name": "PassMark: Memory Mark",
   "description": "A composite score of PassMark's Database and Memory test cases",
   "framework": "passmark",
   "config_fields": {},

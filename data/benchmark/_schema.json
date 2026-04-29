@@ -9,16 +9,16 @@
       "comment": null
     },
     {
-      "name": "name",
+      "name": "category",
       "type": "VARCHAR",
-      "nullable": false,
+      "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "category",
+      "name": "name",
       "type": "VARCHAR",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     },

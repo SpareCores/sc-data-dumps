@@ -1,7 +1,7 @@
 {
   "benchmark_id": "membench:bandwidth_read",
-  "name": "Memory read bandwidth (sc-membench)",
   "category": "Memory bandwidth",
+  "name": "Memory read bandwidth (sc-membench)",
   "description": "Measures aggregate sequential read bandwidth across all threads using OpenMP parallelization.",
   "framework": "membench",
   "config_fields": {
