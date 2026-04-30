@@ -1,3 +1,64 @@
+## v0.5.1+20260430234829 (Apr 30, 2026)
+
+This is an automated release with 49 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25193141766
+
+
+### server
+
+- Update: aws/f1.16xlarge
+- Update: aws/f1.2xlarge
+- Update: aws/f1.4xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: passmark:cpu_encryption_test
+- Update: openssl
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: llm_speed:prompt_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.1+20260430183053 (Apr 30, 2026)
 
 This is an automated release with 54 new/updated/deleted resources.
