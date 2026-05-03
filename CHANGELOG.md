@@ -1,3 +1,61 @@
+## v0.5.1+20260503160840 (May 03, 2026)
+
+This is an automated release with 46 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25282693794
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:memory_latency
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: llm_speed:text_generation
+- Update: geekbench:text_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:horizon_detection
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.1+20260503124726 (May 03, 2026)
 
 This is an automated release with 43 new/updated/deleted resources.
