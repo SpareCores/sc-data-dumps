@@ -5,8 +5,8 @@
   "description": "Running a pair of redis server and benchmarking client (memtier_benchmark) on each vCPU to evaluate the performance of SET operations, using different number of concurrent pipelined requests. The average latency reported by memtier_benchmark.",
   "framework": "redis",
   "config_fields": {
-    "operation": "Type of operation, e.g. SET or GET a key.",
-    "pipeline": "The number of concurrent pipelined requests."
+    "pipeline": "The number of concurrent pipelined requests.",
+    "operation": "Type of operation, e.g. SET or GET a key."
   },
   "measurement": "latency",
   "unit": "Milliseconds (ms)",

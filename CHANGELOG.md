@@ -1,3 +1,60 @@
+## v0.5.1+20260504172248 (May 04, 2026)
+
+This is an automated release with 45 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25330407952
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:memory_latency
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: passmark:cpu_compression_test
+- Update: openssl
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: llm_speed:prompt_processing
+- Update: geekbench:text_processing
+- Update: geekbench:score
+- Update: geekbench:ray_tracer
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: bogomips
+
 ## v0.5.1+20260504062313 (May 04, 2026)
 
 This is an automated release with 41 new/updated/deleted resources.
