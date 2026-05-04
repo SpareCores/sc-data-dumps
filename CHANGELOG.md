@@ -1,3 +1,43 @@
+## v0.5.1+20260504232933 (May 04, 2026)
+
+This is an automated release with 31 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25346994595
+
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:throughput-extrapolated
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: redis:rps-extrapolated
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:database_operations
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_floating_point_maths_test
+- Update: passmark:cpu_encryption_test
+- Update: membench:latency
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: llm_speed:text_generation
+- Update: llm_speed:prompt_processing
+- Update: geekbench:score
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:object_detection
+- Update: geekbench:hdr
+- Update: geekbench:background_blur
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.1+20260504204125 (May 04, 2026)
 
 This is an automated release with 40 new/updated/deleted resources.
