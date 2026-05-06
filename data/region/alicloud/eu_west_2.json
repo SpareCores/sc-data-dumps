@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "eu-west-2",
+  "name": "France\u200c(Paris)",
+  "api_reference": "eu-west-2",
+  "display_name": "Paris (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 2.3522,
+  "lat": 48.8566,
+  "founding_year": 2026,
+  "green_energy": null,
+  "status": "ACTIVE"
+}
