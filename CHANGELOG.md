@@ -1,3 +1,67 @@
+## v0.5.1+20260507110953 (May 07, 2026)
+
+This is an automated release with 52 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25489458465
+
+
+### server
+
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.4xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c9ae.12xlarge
+- Update: alicloud/ecs.c9ae.16xlarge
+- Update: alicloud/ecs.c9ae.24xlarge
+- Update: alicloud/ecs.c9ae.2xlarge
+- Update: alicloud/ecs.c9ae.32xlarge
+- Update: alicloud/ecs.c9ae.48xlarge
+- Update: alicloud/ecs.c9ae.4xlarge
+- Update: alicloud/ecs.c9ae.8xlarge
+- Update: alicloud/ecs.c9ae.large
+- Update: alicloud/ecs.c9ae.xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_latency
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_extended_instructions_test
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: geekbench:score
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_filter
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.1+20260507085630 (May 07, 2026)
 
 This is an automated release with 108 new/updated/deleted resources.
