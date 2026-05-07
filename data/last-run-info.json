@@ -125,17 +125,17 @@
     "typing-inspection==0.4.2",
     "tzlocal==5.3.1",
     "upcloud-api==2.9.0",
-    "urllib3==2.6.3",
+    "urllib3==2.7.0",
     "watchdog==6.0.0",
     "webencodings==0.5.1",
     "yarl==1.23.0"
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.1",
-    "NEWVERSION": "v0.5.1+20260507155049",
-    "NEWVERSIONDATE": "v0.5.1+20260507155049 (May 07, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 86 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25503202006",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25503202006"
+    "NEWVERSION": "v0.5.1+20260507191657",
+    "NEWVERSIONDATE": "v0.5.1+20260507191657 (May 07, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 41 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25513554283",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25513554283"
   },
-  "timestamp": "2026-05-07T15:50:49Z"
+  "timestamp": "2026-05-07T19:16:57Z"
 }

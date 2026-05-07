@@ -1,3 +1,56 @@
+## v0.5.1+20260507191657 (May 07, 2026)
+
+This is an automated release with 41 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25513554283
+
+
+### server
+
+- New: aws/m8idb.xlarge
+- New: aws/m8idn.48xlarge
+- New: aws/m8idb.8xlarge
+- New: aws/m8idb.96xlarge
+- Update: alicloud/ecs.s2.small
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: static_web:throughput-extrapolated
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_encryption_test
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_copy
+- Update: geekbench:text_processing
+- Update: geekbench:structure_from_motion
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.1+20260507155049 (May 07, 2026)
 
 This is an automated release with 86 new/updated/deleted resources.
