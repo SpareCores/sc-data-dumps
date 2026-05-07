@@ -5,8 +5,8 @@
   "description": "Running a pair of redis server and benchmarking client (memtier_benchmark) on each vCPU to evaluate the performance of SET operations, using different number of concurrent pipelined requests. The extrapolated server speed is based on the measured speed adjusted by the server's and client's time spent executing in user/system mode, so trying to control for the client resource usage.",
   "framework": "redis",
   "config_fields": {
-    "operation": "Type of operation, e.g. SET or GET a key.",
-    "pipeline": "The number of concurrent pipelined requests."
+    "pipeline": "The number of concurrent pipelined requests.",
+    "operation": "Type of operation, e.g. SET or GET a key."
   },
   "measurement": "rps-extrapolated",
   "unit": "Operations per second (ops/sec)",

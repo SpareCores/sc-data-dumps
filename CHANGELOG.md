@@ -1,3 +1,101 @@
+## v0.5.1+20260507155049 (May 07, 2026)
+
+This is an automated release with 86 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25503202006
+
+
+### server
+
+- New: aws/r8idb.2xlarge
+- New: aws/r8idn.8xlarge
+- New: aws/r8idb.32xlarge
+- New: aws/m8idn.96xlarge
+- New: aws/r8idb.24xlarge
+- New: aws/m8idn.xlarge
+- New: aws/r8idb.48xlarge
+- New: aws/r8idb.16xlarge
+- New: aws/r8idb.4xlarge
+- New: aws/m8idn.4xlarge
+- New: aws/r8idn.96xlarge
+- New: aws/r8idb.12xlarge
+- New: aws/m8idn.8xlarge
+- New: aws/r8idn.32xlarge
+- New: aws/r8idn.16xlarge
+- New: aws/r8idn.48xlarge
+- New: aws/m8idn.24xlarge
+- New: aws/m8idn.large
+- New: aws/r8idn.4xlarge
+- New: aws/r8idb.xlarge
+- New: aws/m8idn.2xlarge
+- New: aws/m8idb.2xlarge
+- New: aws/m8idb.16xlarge
+- New: aws/m8idb.32xlarge
+- New: aws/m8idb.4xlarge
+- New: aws/r8idn.xlarge
+- New: aws/r8idb.8xlarge
+- New: aws/m8idn.32xlarge
+- New: aws/r8idn.12xlarge
+- New: aws/r8idn.24xlarge
+- New: aws/m8idb.large
+- New: aws/m8idb.12xlarge
+- New: aws/m8idb.24xlarge
+- New: aws/r8idb.large
+- New: aws/r8idb.96xlarge
+- New: aws/r8idn.2xlarge
+- New: aws/r8idn.large
+- New: aws/m8idn.12xlarge
+- New: aws/m8idn.16xlarge
+- New: aws/m8idb.48xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+
+### benchmark
+
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:rps-extrapolated
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: passmark:cpu_encryption_test
+- Update: passmark:cpu_compression_test
+- Update: openssl
+- Update: membench:bandwidth_write
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:html5_browser
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.1+20260507132919 (May 07, 2026)
 
 This is an automated release with 41 new/updated/deleted resources.
