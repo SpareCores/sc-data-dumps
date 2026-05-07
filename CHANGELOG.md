@@ -1,3 +1,123 @@
+## v0.5.1+20260507085630 (May 07, 2026)
+
+This is an automated release with 108 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25483060044
+
+
+### server
+
+- New: azure/Standard_D128ds_v7
+- New: azure/Standard_D128lds_v7
+- New: azure/Standard_D128ls_v7
+- New: azure/Standard_D128s_v7
+- New: azure/Standard_D16ds_v7
+- New: azure/Standard_D16lds_v7
+- New: azure/Standard_D16ls_v7
+- New: azure/Standard_D16s_v7
+- New: azure/Standard_D192ds_v7
+- New: azure/Standard_D192lds_v7
+- New: azure/Standard_D192ls_v7
+- New: azure/Standard_D192s_v7
+- New: azure/Standard_D2ds_v7
+- New: azure/Standard_D2lds_v7
+- New: azure/Standard_D2ls_v7
+- New: azure/Standard_D2s_v7
+- New: azure/Standard_D32ds_v7
+- New: azure/Standard_D32lds_v7
+- New: azure/Standard_D32ls_v7
+- New: azure/Standard_D32s_v7
+- New: azure/Standard_D48ds_v7
+- New: azure/Standard_D48lds_v7
+- New: azure/Standard_D48ls_v7
+- New: azure/Standard_D48s_v7
+- New: azure/Standard_D4ds_v7
+- New: azure/Standard_D4lds_v7
+- New: azure/Standard_D4ls_v7
+- New: azure/Standard_D4s_v7
+- New: azure/Standard_D64ds_v7
+- New: azure/Standard_D64lds_v7
+- New: azure/Standard_D64ls_v7
+- New: azure/Standard_D64s_v7
+- New: azure/Standard_D8ds_v7
+- New: azure/Standard_D8lds_v7
+- New: azure/Standard_D8ls_v7
+- New: azure/Standard_D8s_v7
+- New: azure/Standard_D96ds_v7
+- New: azure/Standard_D96lds_v7
+- New: azure/Standard_D96ls_v7
+- New: azure/Standard_D96s_v7
+- New: azure/Standard_E128ds_v7
+- New: azure/Standard_E128s_v7
+- New: azure/Standard_E16ds_v7
+- New: azure/Standard_E16s_v7
+- New: azure/Standard_E192ds_v7
+- New: azure/Standard_E192s_v7
+- New: azure/Standard_E20ds_v7
+- New: azure/Standard_E20s_v7
+- New: azure/Standard_E2ds_v7
+- New: azure/Standard_E2s_v7
+- New: azure/Standard_E32ds_v7
+- New: azure/Standard_E32s_v7
+- New: azure/Standard_E48ds_v7
+- New: azure/Standard_E48s_v7
+- New: azure/Standard_E4ds_v7
+- New: azure/Standard_E4s_v7
+- New: azure/Standard_E64ds_v7
+- New: azure/Standard_E64s_v7
+- New: azure/Standard_E8ds_v7
+- New: azure/Standard_E8s_v7
+- New: azure/Standard_E96ds_v7
+- New: azure/Standard_E96s_v7
+- New: azure/Standard_M416ds_10_v3
+- New: azure/Standard_M416ds_12_v3
+- New: azure/Standard_M416ds_9_v3
+- New: azure/Standard_M416s_10_v3
+- New: azure/Standard_M416s_12_v3
+- New: azure/Standard_M416s_9_v3
+- Update: alicloud/ecs.c6e.4xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: azure/Standard_E64is_v3
+- Update: azure/Standard_E64i_v3
+
+### benchmark
+
+- Update: workload_profile:ml
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: static_web:throughput-extrapolated
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_integer_maths_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: passmark:cpu_compression_test
+- Update: openssl
+- Update: membench:bandwidth_copy
+- Update: llm_speed:text_generation
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:photo_library
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:horizon_detection
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bogomips
+
 ## v0.5.1+20260507052022 (May 07, 2026)
 
 This is an automated release with 43 new/updated/deleted resources.
