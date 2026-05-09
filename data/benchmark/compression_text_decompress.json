@@ -6,9 +6,9 @@
   "framework": "compression_text",
   "config_fields": {
     "algo": "Compression algorithm, e.g. brotli or bz2.",
-    "compression_level": "Compression level/quality/level.",
     "cores": "Single-Core or Multi-Core compression tests.",
-    "block_size": "Block size"
+    "block_size": "Block size",
+    "compression_level": "Compression level/quality/level."
   },
   "measurement": "decompress",
   "unit": "Bytes per second (Bps)",

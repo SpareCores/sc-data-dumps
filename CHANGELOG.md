@@ -1,3 +1,55 @@
+## v0.5.1+20260509100844 (May 09, 2026)
+
+This is an automated release with 40 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25597303623
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.t1.small
+
+### benchmark
+
+- Update: workload_profile:web
+- Update: workload_profile:compute
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: static_web:throughput
+- Update: static_web:rps
+- Update: static_web:latency
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_latency
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_floating_point_maths_test
+- Update: passmark:cpu_extended_instructions_test
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: llm_speed:text_generation
+- Update: geekbench:text_processing
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:navigation
+- Update: geekbench:hdr
+- Update: geekbench:clang
+- Update: geekbench:background_blur
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.1+20260509051343 (May 09, 2026)
 
 This is an automated release with 42 new/updated/deleted resources.
