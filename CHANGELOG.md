@@ -1,3 +1,51 @@
+## v0.5.1+20260509004452 (May 09, 2026)
+
+This is an automated release with 36 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25584533539
+
+
+### server
+
+- Update: alicloud/ecs.c1.small
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.xlarge
+- Update: alicloud/ecs.s3.large
+
+### benchmark
+
+- Update: workload_profile:ml
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: static_web:latency
+- Update: redis:rps
+- Update: passmark:memory_write
+- Update: passmark:memory_read_cached
+- Update: passmark:cpu_string_sorting_test
+- Update: passmark:cpu_floating_point_maths_test
+- Update: passmark:cpu_compression_test
+- Update: openssl
+- Update: membench:bandwidth_write
+- Update: llm_speed:text_generation
+- Update: geekbench:structure_from_motion
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:hdr
+- Update: geekbench:file_compression
+- Update: geekbench:background_blur
+- Update: compression_text:ratio
+- Update: compression_text:decompress
+- Update: compression_text:compress
+- Update: bw_mem
+
 ## v0.5.1+20260508185203 (May 08, 2026)
 
 This is an automated release with 37 new/updated/deleted resources.
