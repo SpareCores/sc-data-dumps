@@ -109,7 +109,7 @@
     "python-dateutil==2.9.0.post0",
     "pyyaml==6.0.3",
     "pyyaml-env-tag==1.1",
-    "requests==2.33.1",
+    "requests==2.34.0",
     "requests-oauthlib==2.0.0",
     "rich==15.0.0",
     "s3transfer==0.17.0",
@@ -132,10 +132,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.1",
-    "NEWVERSION": "v0.5.1+20260511195411",
-    "NEWVERSIONDATE": "v0.5.1+20260511195411 (May 11, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 30 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25690336685",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25690336685"
+    "NEWVERSION": "v0.5.1+20260511220523",
+    "NEWVERSIONDATE": "v0.5.1+20260511220523 (May 11, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 28 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25697442052",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/25697442052"
   },
-  "timestamp": "2026-05-11T19:54:11Z"
+  "timestamp": "2026-05-11T22:05:23Z"
 }
