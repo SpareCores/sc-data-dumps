@@ -137,7 +137,7 @@
       "description": null
     }
   ],
-  "network_speed": 8000.0,
+  "network_speed": 8.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 1,

@@ -1,3 +1,150 @@
+## v0.5.1+20260511171233 (May 11, 2026)
+
+This is an automated release with 135 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25681978478
+
+
+### server
+
+- Update: ovh/a100-180
+- Update: ovh/a100-360
+- Update: ovh/a100-720
+- Update: ovh/a10-180
+- Update: ovh/a10-45
+- Update: ovh/a10-90
+- Update: ovh/b2-120
+- Update: ovh/b2-15
+- Update: ovh/b2-30
+- Update: ovh/b2-60
+- Update: ovh/b2-7
+- Update: ovh/b3-128
+- Update: ovh/b3-16
+- Update: ovh/b3-256
+- Update: ovh/b3-32
+- Update: ovh/b3-512
+- Update: ovh/b3-64
+- Update: ovh/b3-640
+- Update: ovh/b3-8
+- Update: ovh/bm-l1
+- Update: ovh/bm-m1
+- Update: ovh/bm-s1
+- Update: ovh/c2-120
+- Update: ovh/c2-15
+- Update: ovh/c2-30
+- Update: ovh/c2-60
+- Update: ovh/c2-7
+- Update: ovh/c3-128
+- Update: ovh/c3-16
+- Update: ovh/c3-256
+- Update: ovh/c3-32
+- Update: ovh/c3-320
+- Update: ovh/c3-4
+- Update: ovh/c3-64
+- Update: ovh/c3-8
+- Update: ovh/d2-2
+- Update: ovh/d2-4
+- Update: ovh/d2-8
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6t.26xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: ovh/eg-120
+- Update: ovh/eg-15
+- Update: ovh/eg-30
+- Update: ovh/eg-60
+- Update: ovh/eg-7
+- Update: ovh/g1-15
+- Update: ovh/g1-30
+- Update: ovh/g2-15
+- Update: ovh/g2-30
+- Update: ovh/g3-120
+- Update: ovh/g3-30
+- Update: ovh/h100-1520
+- Update: ovh/h100-380
+- Update: ovh/h100-760
+- Update: ovh/h200-1920
+- Update: ovh/hg-120
+- Update: ovh/hg-15
+- Update: ovh/hg-30
+- Update: ovh/hg-60
+- Update: ovh/hg-7
+- Update: ovh/i1-180
+- Update: ovh/i1-45
+- Update: ovh/i1-90
+- Update: ovh/l40s-180
+- Update: ovh/l40s-360
+- Update: ovh/l40s-90
+- Update: ovh/l4-180
+- Update: ovh/l4-360
+- Update: ovh/l4-90
+- Update: ovh/r2-120
+- Update: ovh/r2-15
+- Update: ovh/r2-240
+- Update: ovh/r2-30
+- Update: ovh/r2-60
+- Update: ovh/r3-1024
+- Update: ovh/r3-128
+- Update: ovh/r3-16
+- Update: ovh/r3-256
+- Update: ovh/r3-32
+- Update: ovh/r3-512
+- Update: ovh/r3-64
+- Update: ovh/rtx5000-28
+- Update: ovh/rtx5000-56
+- Update: ovh/rtx5000-84
+- Update: ovh/s1-2
+- Update: ovh/s1-4
+- Update: ovh/s1-8
+- Update: ovh/sp-120
+- Update: ovh/sp-240
+- Update: ovh/sp-30
+- Update: ovh/sp-60
+- Update: ovh/t1-180
+- Update: ovh/t1-45
+- Update: ovh/t1-90
+- Update: ovh/t1-le-180
+- Update: ovh/t1-le-45
+- Update: ovh/t1-le-90
+- Update: ovh/t2-180
+- Update: ovh/t2-45
+- Update: ovh/t2-90
+- Update: ovh/t2-le-180
+- Update: ovh/t2-le-45
+- Update: ovh/t2-le-90
+- Update: ovh/vps-ssd-1
+- Update: ovh/vps-ssd-2
+- Update: ovh/vps-ssd-3
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:best1
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps
+- Update: passmark:memory_write
+- Update: passmark:memory_read_uncached
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_physics_test
+- Update: openssl
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+- Update: geekbench:photo_filter
+- Update: geekbench:object_remover
+- Update: geekbench:object_detection
+- Update: geekbench:navigation
+- Update: geekbench:file_compression
+- Update: geekbench:background_blur
+- Update: geekbench:asset_compression
+- Update: compression_text:compress
+
 ## v0.5.1+20260511145159 (May 11, 2026)
 
 This is an automated release with 39 new/updated/deleted resources.
