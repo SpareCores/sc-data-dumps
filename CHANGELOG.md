@@ -1,3 +1,58 @@
+## v0.5.1+20260512042647 (May 12, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25711506450
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmr9i-hex.48xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m1.xlarge
+- Update: alicloud/ecs.u0.c1m2.large
+
+### benchmark
+
+- Update: workload_profile:cicd
+- Update: stress_ng:div16
+- Update: stress_ng:best1
+- Update: static_web:throughput
+- Update: static_web:rps-extrapolated
+- Update: static_web:latency
+- Update: redis:rps-extrapolated
+- Update: redis:rps
+- Update: redis:latency
+- Update: passmark:memory_write
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_prime_numbers_test
+- Update: passmark:cpu_mark
+- Update: passmark:cpu_floating_point_maths_test
+- Update: passmark:cpu_encryption_test
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_copy
+- Update: llm_speed:text_generation
+- Update: geekbench:text_processing
+- Update: geekbench:ray_tracer
+- Update: geekbench:photo_library
+- Update: geekbench:photo_filter
+- Update: geekbench:pdf_renderer
+- Update: geekbench:html5_browser
+- Update: geekbench:file_compression
+- Update: geekbench:clang
+- Update: compression_text:compress
+- Update: bogomips
+
 ## v0.5.1+20260512021132 (May 12, 2026)
 
 This is an automated release with 42 new/updated/deleted resources.
