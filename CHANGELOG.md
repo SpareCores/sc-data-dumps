@@ -1,3 +1,53 @@
+## v0.5.1+20260512000655 (May 12, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25702665112
+
+
+### region
+
+- Update: ovh/AP-SOUTHEAST-SYD
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+
+### benchmark
+
+- Update: stress_ng:div16
+- Update: stress_ng:cpu_all
+- Update: stress_ng:bestn
+- Update: stress_ng:best1
+- Update: static_web:latency
+- Update: redis:latency
+- Update: passmark:memory_read_uncached
+- Update: passmark:memory_read_cached
+- Update: passmark:memory_mark
+- Update: passmark:memory_latency
+- Update: passmark:database_operations
+- Update: passmark:cpu_single_threaded_test
+- Update: passmark:cpu_physics_test
+- Update: passmark:cpu_floating_point_maths_test
+- Update: passmark:cpu_encryption_test
+- Update: openssl
+- Update: geekbench:structure_from_motion
+- Update: geekbench:score
+- Update: geekbench:pdf_renderer
+- Update: geekbench:object_remover
+- Update: geekbench:html5_browser
+- Update: geekbench:horizon_detection
+- Update: geekbench:hdr
+- Update: geekbench:asset_compression
+- Update: compression_text:decompress
+- Update: bw_mem
+- Update: bogomips
+
 ## v0.5.1+20260511220523 (May 11, 2026)
 
 This is an automated release with 28 new/updated/deleted resources.
