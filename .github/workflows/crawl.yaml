@@ -28,7 +28,7 @@ jobs:
       DB_PORT: ${{ vars.DB_PORT }}
       DB_USER: ${{ secrets.DB_USER }}
       DB_NAME: ${{ secrets.DB_NAME }}
-      DB_REGION: ${{ vars.DB_REGION }}
+      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
       HCLOUD_TOKEN: ${{ secrets.HCLOUD_TOKEN }}
       AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
       AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
@@ -91,14 +91,12 @@ jobs:
           key: sc-data-current-sqlite
           path: sc-data-all.db
 
-      - name: Get connection string for remote database
+      - name: Build connection string for remote database
         run: |
-          PGPASSWORD="$( aws --region ${DB_REGION} rds generate-db-auth-token --hostname ${DB_HOST} --port ${DB_PORT} --username ${DB_USER} )"
-          # URL-encode the IAM RDS token
-          DB_PASS_ENCODED="$( jq -rn --arg x ${PGPASSWORD} '$x|@uri' )"
-          REMOTE_DB="postgresql://${DB_USER}:${DB_PASS_ENCODED}@${DB_HOST}:${DB_PORT}/${DB_NAME}"
-          echo "::add-mask::$PGPASSWORD"
-          echo "PGPASSWORD=${PGPASSWORD}" >> "$GITHUB_ENV"
+          # URL-encode the password for the libpq connection URI
+          DB_PASS_ENCODED="$( jq -rn --arg x "${DB_PASSWORD}" '$x|@uri' )"
+          REMOTE_DB="postgresql://${DB_USER}:${DB_PASS_ENCODED}@${DB_HOST}:${DB_PORT}/${DB_NAME}?sslmode=require"
+          echo "::add-mask::$REMOTE_DB"
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
       - name: Get current database hourly or if not cached
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly') || steps.cache-sqlite-restore.outputs.cache-hit != 'true'
@@ -114,21 +112,10 @@ jobs:
         # Azure Retail Pricing API is super slow, let's delay checking on their spot prices only in the hourly run
         run: sc-crawler pull --connection-string sqlite:///${FILE} --include-records server_prices_spot --exclude-vendor azure
 
-      - name: Get connection string for remote database again (crawling might take 15+ mins)
-        run: |
-          PGPASSWORD="$( aws --region ${DB_REGION} rds generate-db-auth-token --hostname ${DB_HOST} --port ${DB_PORT} --username ${DB_USER} )"
-          # URL-encode the IAM RDS token
-          DB_PASS_ENCODED="$( jq -rn --arg x ${PGPASSWORD} '$x|@uri' )"
-          REMOTE_DB="postgresql://${DB_USER}:${DB_PASS_ENCODED}@${DB_HOST}:${DB_PORT}/${DB_NAME}"
-          echo "::add-mask::$PGPASSWORD"
-          echo "PGPASSWORD=${PGPASSWORD}" >> "$GITHUB_ENV"
-          echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
-
       - name: Sync back (all records)
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly')
         run: |
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
-          psql "host=${DB_HOST} port=${DB_PORT} dbname=${DB_NAME} user=${DB_USER} sslmode=require" -c "VACUUM ANALYZE"
       - name: Sync back (server prices only)
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'frequent')
         run: |
