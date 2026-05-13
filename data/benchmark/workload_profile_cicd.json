@@ -1,8 +1,8 @@
 {
   "benchmark_id": "workload_profile:cicd",
   "category": "Workload profile",
-  "name": "Workload profile: CI/CD build",
-  "description": "Precomputed compound score for CI/CD build workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 25% Geekbench Clang compilation (multi-core), 15% PassMark single-thread CPU, 10% Geekbench Clang compilation (single-core), 10% PassMark compression, 10% PassMark integer math, 10% Geekbench text processing (multi-core), 5% stress-ng div16 best-N cores, 5% Geekbench file compression (multi-core), 5% Brotli compression (single-thread, level 0), 5% PassMark string sorting.",
+  "name": "Workload profile: CI/CD Build",
+  "description": "Precomputed compound score for CI/CD Build workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 25% Geekbench Clang compilation (multi-core), 10% Geekbench Clang compilation (single-core), 15% PassMark single-thread CPU, 10% PassMark compression, 10% PassMark integer math, 10% Geekbench text processing (multi-core), 5% stress-ng div16 best-N cores, 5% Geekbench file compression (multi-core), 5% Brotli compression (single-thread, level 0), 5% PassMark string sorting. Rationale for component selection: Build performance is driven by single- and multi-core compilation throughput, single-core CPU performance, multi-core compression and text/scripting processing.",
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",
