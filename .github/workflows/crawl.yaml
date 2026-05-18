@@ -122,6 +122,16 @@ jobs:
           sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --sync-tables server_price
           touch changes.log
 
+      - name: Inject metadata to the database
+        run: |
+          sc-crawler metadata set --connection-string sqlite:///${FILE} \
+            published_by"Spare Cores" \
+            license="BSL 1.1" \
+            license_url="https://sparecores.com/legal/license-bsl" \
+            additional_use_grant="Production use is permitted for (a) non-commercial academic research at accredited universities, and (b) entities with less than \$1,000,000 USD in annual revenue, provided that such use does not involve the creation of a competing cloud data, benchmarking, or price-comparison service." \
+            change_date="$(date -u +%Y-%m-%dT%H:%M:%SZ --date='3 years')" \
+            change_license="CC BY-SA 4.0"
+
       - name: Upload binary SQLite file if changed
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
