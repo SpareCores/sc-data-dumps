@@ -18,11 +18,12 @@ the high update frequency of these datasets.
 
 ## License
 
-The data records published in this repository and the referenced SQLite database file are
-licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The data records published in this repository are
+licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), just like the raw benchmarking and hardware inspection reports of the [`sc-inspector-data`](https://github.com/sparecores/sc-inspector-data) repository.
 
-In case you are not comfortable with these licensing terms, please contact us
-to discuss your needs.
+In case you are not comfortable with these licensing terms, please contact us to discuss your needs.
+
+A compiled SQLite database dump is also available under [BSL 1.1 license](https://sparecores.com/legal/license-bsl) -- see the References section for exact location.
 
 ## Use
 
