@@ -125,7 +125,7 @@ jobs:
       - name: Inject metadata to the database
         run: |
           sc-crawler metadata set --connection-string sqlite:///${FILE} \
-            published_by"Spare Cores" \
+            publisher="Spare Cores" \
             license="BSL 1.1" \
             license_url="https://sparecores.com/legal/license-bsl" \
             additional_use_grant="Production use is permitted for (a) non-commercial academic research at accredited universities, and (b) entities with less than \$1,000,000 USD in annual revenue, provided that such use does not involve the creation of a competing cloud data, benchmarking, or price-comparison service." \
