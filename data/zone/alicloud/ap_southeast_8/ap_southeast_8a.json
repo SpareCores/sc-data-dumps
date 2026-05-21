@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "ap-southeast-8",
+  "zone_id": "ap-southeast-8a",
+  "name": "Johor Zone A",
+  "api_reference": "ap-southeast-8a",
+  "display_name": "Johor Zone A",
+  "status": "ACTIVE"
+}

@@ -1,3 +1,40 @@
+## v0.5.1+20260521131314 (May 21, 2026)
+
+This is an automated release with 19 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26224963376
+
+
+### region
+
+- New: alicloud/ap-southeast-8
+
+### zone
+
+- New: alicloud/ap-southeast-8/ap-southeast-8b
+- New: alicloud/ap-southeast-8/ap-southeast-8a
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.gn7i-c56g1.14xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+
+### benchmark
+
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+
 ## v0.5.1+20260521112705 (May 21, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.
