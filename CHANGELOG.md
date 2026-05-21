@@ -1,3 +1,55 @@
+## v0.5.1+20260521153427 (May 21, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26232346342
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL4
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-192xCPU-1920GB-8xB200
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL4
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-32xCPU-384GB-2xL4
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL4
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-48xCPU-960GB-4xH100
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL40S
+- Update: upcloud/GPU-96xCPU-1920GB-8xH100
+- Update: upcloud/GPU-96xCPU-960GB-4xB200
+
 ## v0.5.1+20260521131314 (May 21, 2026)
 
 This is an automated release with 19 new/updated/deleted resources.
