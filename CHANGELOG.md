@@ -1,3 +1,37 @@
+## v0.5.1+20260522171014 (May 22, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26298664901
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: upcloud/PREMIUM-16xCPU-32GB
+- Update: upcloud/PREMIUM-16xCPU-64GB
+- Update: upcloud/PREMIUM-24xCPU-96GB
+- Update: upcloud/PREMIUM-32xCPU-128GB
+- Update: upcloud/PREMIUM-32xCPU-64GB
+- Update: upcloud/PREMIUM-38xCPU-192GB
+- Update: upcloud/PREMIUM-48xCPU-96GB
+- Update: upcloud/PREMIUM-8xCPU-128GB
+- Update: upcloud/PREMIUM-8xCPU-16GB
+- Update: upcloud/PREMIUM-8xCPU-32GB
+- Update: upcloud/PREMIUM-8xCPU-64GB
+
 ## v0.5.1+20260522141519 (May 22, 2026)
 
 This is an automated release with 29 new/updated/deleted resources.
