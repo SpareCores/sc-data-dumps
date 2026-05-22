@@ -1,3 +1,41 @@
+## v0.5.1+20260522141519 (May 22, 2026)
+
+This is an automated release with 29 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26289630580
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c8i.12xlarge
+- Update: alicloud/ecs.c8i.16xlarge
+- Update: alicloud/ecs.c8i.24xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.t1.small
+- Update: upcloud/PREMIUM-1xCPU-1GB
+- Update: upcloud/PREMIUM-1xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-16GB
+- Update: upcloud/PREMIUM-2xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-4GB
+- Update: upcloud/PREMIUM-2xCPU-8GB
+- Update: upcloud/PREMIUM-4xCPU-16GB
+- Update: upcloud/PREMIUM-4xCPU-32GB
+- Update: upcloud/PREMIUM-4xCPU-8GB
+- Update: upcloud/STARTER-1xCPU-1GB
+- Update: upcloud/STARTER-1xCPU-2GB
+- Update: upcloud/STARTER-1xCPU-4GB
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-2xCPU-2GB
+- Update: upcloud/STARTER-2xCPU-4GB
+- Update: upcloud/STARTER-2xCPU-8GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-8GB
+
 ## v0.5.1+20260522120545 (May 22, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.
