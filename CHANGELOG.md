@@ -1,3 +1,13 @@
+## v0.5.1+20260524111142 (May 24, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26358373446
+
+
+### server
+
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+
 ## v0.5.1+20260524090515 (May 24, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
