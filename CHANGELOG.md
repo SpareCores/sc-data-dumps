@@ -1,3 +1,17 @@
+## v0.5.1+20260525091923 (May 25, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26390412873
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: azure/Standard_DC2els_v6
+
 ## v0.5.1+20260525061303 (May 25, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
