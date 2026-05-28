@@ -57,7 +57,7 @@
     "grpcio==1.80.0",
     "grpcio-status==1.80.0",
     "hcloud==2.20.0",
-    "idna==3.16",
+    "idna==3.17",
     "iniconfig==2.3.0",
     "isodate==0.7.2",
     "jinja2==3.1.6",
@@ -113,7 +113,7 @@
     "requests-oauthlib==2.0.0",
     "rich==15.0.0",
     "s3transfer==0.17.1",
-    "sentry-sdk==2.60.0",
+    "sentry-sdk==2.61.0",
     "shellingham==1.5.4",
     "six==1.17.0",
     "sparecores-crawler @ git+https://github.com/sparecores/sc-crawler@c54111500af8f8118467fa5207e53b9cf265e1ed",
@@ -132,10 +132,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.1",
-    "NEWVERSION": "v0.5.1+20260528093159",
-    "NEWVERSIONDATE": "v0.5.1+20260528093159 (May 28, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 9 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26563705223",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/26563705223"
+    "NEWVERSION": "v0.5.1+20260528181158",
+    "NEWVERSIONDATE": "v0.5.1+20260528181158 (May 28, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 7 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26589930589",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/26589930589"
   },
-  "timestamp": "2026-05-28T09:31:59Z"
+  "timestamp": "2026-05-28T18:11:58Z"
 }
