@@ -1,3 +1,13 @@
+## v0.5.1+20260530103219 (May 30, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26680390038
+
+
+### server
+
+- Update: azure/Standard_DC2els_v6
+
 ## v0.5.1+20260530065214 (May 30, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
