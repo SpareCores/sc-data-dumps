@@ -1,3 +1,22 @@
+## v0.5.1+20260601105018 (Jun 01, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26747560312
+
+
+### zone
+
+- Update: alicloud/na-south-1/na-south-1b
+
+### server
+
+- New: alicloud/ecs.i5e-erdma.32xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
 ## v0.5.1+20260601070853 (Jun 01, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
