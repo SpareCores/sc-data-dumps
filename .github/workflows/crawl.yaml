@@ -294,4 +294,6 @@ jobs:
             data/
 
       - name: Notify Spare Cores statuspage monitoring that the job run
-        run: curl -s https://uptime.betterstack.com/api/v1/heartbeat/NTnwVC261MyrLnevn4WJc5Jh
+        run: |
+          curl -s https://uptime.betterstack.com/api/v1/heartbeat/NTnwVC261MyrLnevn4WJc5Jh # hourly
+          curl -s https://uptime.betterstack.com/api/v1/heartbeat/3krkJKCMduZq5FaDoLt1YZF3 # daily
