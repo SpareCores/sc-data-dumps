@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0b2",
     "babel==2.18.0",
     "backrefs==7.0",
-    "boto3==1.43.19",
-    "botocore==1.43.19",
+    "boto3==1.43.20",
+    "botocore==1.43.20",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.0",
@@ -38,7 +38,7 @@
     "colorama==0.4.6",
     "cryptography==46.0.7",
     "cssselect2==0.9.0",
-    "darabonba-core==1.0.5",
+    "darabonba-core==1.0.6",
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
@@ -57,7 +57,7 @@
     "grpcio==1.81.0",
     "grpcio-status==1.81.0",
     "hcloud==2.20.0",
-    "idna==3.17",
+    "idna==3.18",
     "iniconfig==2.3.0",
     "isodate==0.7.2",
     "jinja2==3.1.6",
@@ -120,7 +120,7 @@
     "sqlalchemy==2.0.50",
     "sqlmodel==0.0.38",
     "tinycss2==1.5.1",
-    "typer==0.26.5",
+    "typer==0.26.6",
     "typing-extensions==4.15.0",
     "typing-inspection==0.4.2",
     "tzlocal==5.3.1",
@@ -132,10 +132,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.5.1",
-    "NEWVERSION": "v0.5.1+20260602071134",
-    "NEWVERSIONDATE": "v0.5.1+20260602071134 (Jun 02, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26801850434",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/26801850434"
+    "NEWVERSION": "v0.5.1+20260602221323",
+    "NEWVERSIONDATE": "v0.5.1+20260602221323 (Jun 02, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 25 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26848141070",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/26848141070"
   },
-  "timestamp": "2026-06-02T07:11:34Z"
+  "timestamp": "2026-06-02T22:13:23Z"
 }
