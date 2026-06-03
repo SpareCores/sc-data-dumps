@@ -114,13 +114,17 @@
     "ospke"
   ],
   "cpus": [],
+  "ecpus": 29.5,
+  "scalability": 122.92,
+  "hw_virt": 0,
   "memory_amount": 393216,
+  "memory_amount_actual": 393216,
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
   "gpu_count": 0.0,
   "gpu_memory_min": null,
-  "gpu_memory_total": null,
+  "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,
   "gpu_model": null,
@@ -139,9 +143,13 @@
       "description": null
     }
   ],
-  "network_speed": 12.0,
+  "network_speed_baseline": 12.0,
+  "network_speed_max": 12.0,
+  "network_storage_speed_baseline": 9.5,
+  "network_storage_speed_max": 9.5,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

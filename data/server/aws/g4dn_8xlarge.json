@@ -113,7 +113,11 @@
     "avx512_vnni"
   ],
   "cpus": [],
+  "ecpus": 21.1,
+  "scalability": 131.88,
+  "hw_virt": 0,
   "memory_amount": 131072,
+  "memory_amount_actual": 131072,
   "memory_generation": "DDR4",
   "memory_speed": 2933,
   "memory_ecc": null,
@@ -146,9 +150,13 @@
       "description": null
     }
   ],
-  "network_speed": 50.0,
+  "network_speed_baseline": 50.0,
+  "network_speed_max": 50.0,
+  "network_storage_speed_baseline": 9.5,
+  "network_storage_speed_max": 9.5,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

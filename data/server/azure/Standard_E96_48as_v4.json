@@ -108,7 +108,11 @@
     "fsrm"
   ],
   "cpus": [],
+  "ecpus": 24.0,
+  "scalability": 100.0,
+  "hw_virt": 0,
   "memory_amount": 688128,
+  "memory_amount_actual": 688128,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -128,9 +132,13 @@
       "description": "temp disk"
     }
   ],
-  "network_speed": null,
+  "network_speed_baseline": null,
+  "network_speed_max": null,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

@@ -10,5 +10,9 @@
   "zip_code": "98052",
   "founding_year": 2010,
   "status_page": "https://azure.status.microsoft.com",
+  "stopped_server_charged": 1,
+  "billing_increment_seconds": 1,
+  "minimum_billing_seconds": 300,
+  "billing_comment": "Billing of stopped server depends on allocation status.",
   "status": "ACTIVE"
 }

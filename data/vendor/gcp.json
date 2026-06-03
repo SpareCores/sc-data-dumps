@@ -10,5 +10,9 @@
   "zip_code": "94043",
   "founding_year": 2008,
   "status_page": "https://status.cloud.google.com/",
+  "stopped_server_charged": 0,
+  "billing_increment_seconds": 1,
+  "minimum_billing_seconds": 60,
+  "billing_comment": null,
   "status": "ACTIVE"
 }

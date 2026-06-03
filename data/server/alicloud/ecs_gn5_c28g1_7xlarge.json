@@ -102,7 +102,11 @@
     "arat"
   ],
   "cpus": [],
+  "ecpus": 17.5,
+  "scalability": 62.5,
+  "hw_virt": 0,
   "memory_amount": 114688,
+  "memory_amount_actual": 114688,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -129,9 +133,13 @@
   "storage_size": 472,
   "storage_type": "SSD",
   "storages": [],
-  "network_speed": 5.0,
+  "network_speed_baseline": 5.0,
+  "network_speed_max": null,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

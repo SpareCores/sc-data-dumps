@@ -147,7 +147,11 @@
     "arch_capabilities"
   ],
   "cpus": [],
+  "ecpus": 4.1,
+  "scalability": 102.5,
+  "hw_virt": 0,
   "memory_amount": 65536,
+  "memory_amount_actual": 65536,
   "memory_generation": "DDR5",
   "memory_speed": 5600,
   "memory_ecc": null,
@@ -180,9 +184,13 @@
       "description": null
     }
   ],
-  "network_speed": 50.0,
+  "network_speed_baseline": 50.0,
+  "network_speed_max": 50.0,
+  "network_storage_speed_baseline": 2.0,
+  "network_storage_speed_max": 5.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

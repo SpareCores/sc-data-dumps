@@ -10,5 +10,9 @@
   "zip_code": "98109",
   "founding_year": 2002,
   "status_page": "https://health.aws.amazon.com/health/status",
+  "stopped_server_charged": 0,
+  "billing_increment_seconds": 1,
+  "minimum_billing_seconds": 60,
+  "billing_comment": null,
   "status": "ACTIVE"
 }

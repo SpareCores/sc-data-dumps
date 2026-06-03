@@ -114,7 +114,11 @@
     "rdpid"
   ],
   "cpus": [],
+  "ecpus": 16.0,
+  "scalability": 100.0,
+  "hw_virt": 0,
   "memory_amount": 131072,
+  "memory_amount_actual": 131072,
   "memory_generation": "DDR4",
   "memory_speed": 2933,
   "memory_ecc": null,
@@ -159,9 +163,13 @@
       "description": null
     }
   ],
-  "network_speed": 15.0,
+  "network_speed_baseline": 15.0,
+  "network_speed_max": 15.0,
+  "network_storage_speed_baseline": 3.17,
+  "network_storage_speed_max": 3.17,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }
