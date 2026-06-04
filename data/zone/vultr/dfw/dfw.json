@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "dfw",
+  "zone_id": "dfw",
+  "name": "Dallas",
+  "api_reference": "Dallas",
+  "display_name": "Dallas",
+  "status": "ACTIVE"
+}

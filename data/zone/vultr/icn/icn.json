@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "icn",
+  "zone_id": "icn",
+  "name": "Seoul",
+  "api_reference": "Seoul",
+  "display_name": "Seoul",
+  "status": "ACTIVE"
+}

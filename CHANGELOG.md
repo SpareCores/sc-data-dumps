@@ -1,3 +1,285 @@
+## v0.6.0+20260604225025 (Jun 04, 2026)
+
+This is an automated release with 258 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26981713580
+
+
+### vendor
+
+- New: vultr
+
+### vendor_compliance_link
+
+- New: vultr/hipaa
+- New: vultr/soc2t2
+- New: vultr/iso27001
+
+### region
+
+- New: vultr/ams
+- New: vultr/atl
+- New: vultr/blr
+- New: vultr/bom
+- New: vultr/cdg
+- New: vultr/del
+- New: vultr/dfw
+- New: vultr/ewr
+- New: vultr/fra
+- New: vultr/hnl
+- New: vultr/icn
+- New: vultr/itm
+- New: vultr/jnb
+- New: vultr/lax
+- New: vultr/lhr
+- New: vultr/mad
+- New: vultr/man
+- New: vultr/mel
+- New: vultr/mex
+- New: vultr/mia
+- New: vultr/mxp
+- New: vultr/nrt
+- New: vultr/ord
+- New: vultr/sao
+- New: vultr/scl
+- New: vultr/sea
+- New: vultr/sgp
+- New: vultr/sjc
+- New: vultr/sto
+- New: vultr/syd
+- New: vultr/tlv
+- New: vultr/waw
+- New: vultr/yto
+
+### zone
+
+- New: vultr/ams/ams
+- New: vultr/atl/atl
+- New: vultr/blr/blr
+- New: vultr/bom/bom
+- New: vultr/cdg/cdg
+- New: vultr/del/del
+- New: vultr/dfw/dfw
+- New: vultr/ewr/ewr
+- New: vultr/fra/fra
+- New: vultr/hnl/hnl
+- New: vultr/icn/icn
+- New: vultr/itm/itm
+- New: vultr/jnb/jnb
+- New: vultr/lax/lax
+- New: vultr/lhr/lhr
+- New: vultr/mad/mad
+- New: vultr/man/man
+- New: vultr/mel/mel
+- New: vultr/mex/mex
+- New: vultr/mia/mia
+- New: vultr/mxp/mxp
+- New: vultr/nrt/nrt
+- New: vultr/ord/ord
+- New: vultr/sao/sao
+- New: vultr/scl/scl
+- New: vultr/sea/sea
+- New: vultr/sgp/sgp
+- New: vultr/sjc/sjc
+- New: vultr/sto/sto
+- New: vultr/syd/syd
+- New: vultr/tlv/tlv
+- New: vultr/waw/waw
+- New: vultr/yto/yto
+
+### storage
+
+- New: vultr/block_storage_high_perf
+- New: vultr/block_storage_storage_opt
+
+### server
+
+- New: vultr/vc2-1c-0.5gb-free
+- New: vultr/vc2-1c-0.5gb-v6
+- New: vultr/vc2-1c-0.5gb
+- New: vultr/vc2-1c-1gb
+- New: vultr/vc2-1c-2gb
+- New: vultr/vc2-2c-2gb
+- New: vultr/vc2-2c-4gb
+- New: vultr/vc2-4c-8gb
+- New: vultr/vc2-6c-16gb
+- New: vultr/vc2-8c-32gb
+- New: vultr/vc2-16c-64gb
+- New: vultr/vc2-24c-96gb
+- New: vultr/vhf-1c-1gb
+- New: vultr/vhf-1c-2gb
+- New: vultr/vhf-2c-2gb
+- New: vultr/vhf-2c-4gb
+- New: vultr/vhf-3c-8gb
+- New: vultr/vhf-4c-16gb
+- New: vultr/vhf-6c-24gb
+- New: vultr/vhf-8c-32gb
+- New: vultr/vhf-12c-48gb
+- New: vultr/vhf-16c-58gb
+- New: vultr/vhp-1c-1gb-amd
+- New: vultr/vhp-1c-2gb-amd
+- New: vultr/vhp-2c-2gb-amd
+- New: vultr/vhp-2c-4gb-amd
+- New: vultr/vhp-4c-8gb-amd
+- New: vultr/vhp-4c-12gb-amd
+- New: vultr/vhp-8c-16gb-amd
+- New: vultr/vhp-12c-24gb-amd
+- New: vultr/vhp-1c-1gb-intel
+- New: vultr/vhp-1c-2gb-intel
+- New: vultr/vhp-2c-2gb-intel
+- New: vultr/vhp-2c-4gb-intel
+- New: vultr/vhp-4c-8gb-intel
+- New: vultr/vhp-4c-12gb-intel
+- New: vultr/vhp-8c-16gb-intel
+- New: vultr/vhp-12c-24gb-intel
+- New: vultr/voc-c-1c-2gb-25s-amd
+- New: vultr/voc-g-1c-4gb-30s-amd
+- New: vultr/voc-m-1c-8gb-50s-amd
+- New: vultr/voc-c-2c-4gb-50s-amd
+- New: vultr/voc-g-2c-8gb-50s-amd
+- New: vultr/voc-c-2c-4gb-75s-amd
+- New: vultr/voc-c-4c-8gb-75s-amd
+- New: vultr/voc-g-4c-16gb-80s-amd
+- New: vultr/voc-m-2c-16gb-100s-amd
+- New: vultr/voc-s-1c-8gb-150s-amd
+- New: vultr/voc-c-4c-8gb-150s-amd
+- New: vultr/voc-c-8c-16gb-150s-amd
+- New: vultr/voc-g-8c-32gb-160s-amd
+- New: vultr/voc-m-2c-16gb-200s-amd
+- New: vultr/voc-m-4c-32gb-200s-amd
+- New: vultr/voc-c-8c-16gb-300s-amd
+- New: vultr/voc-c-16c-32gb-300s-amd
+- New: vultr/voc-s-2c-16gb-320s-amd
+- New: vultr/voc-g-16c-64gb-320s-amd
+- New: vultr/voc-m-2c-16gb-400s-amd
+- New: vultr/voc-m-4c-32gb-400s-amd
+- New: vultr/voc-m-8c-64gb-400s-amd
+- New: vultr/voc-s-2c-16gb-480s-amd
+- New: vultr/voc-g-24c-96gb-480s-amd
+- New: vultr/voc-c-16c-32gb-500s-amd
+- New: vultr/voc-c-32c-64gb-500s-amd
+- New: vultr/voc-s-4c-32gb-640s-amd
+- New: vultr/voc-g-32c-128gb-640s-amd
+- New: vultr/voc-g-40c-160gb-768s-amd
+- New: vultr/voc-m-4c-32gb-800s-amd
+- New: vultr/voc-m-8c-64gb-800s-amd
+- New: vultr/voc-m-16c-128gb-800s-amd
+- New: vultr/voc-s-4c-32gb-960s-amd
+- New: vultr/voc-g-64c-192gb-960s-amd
+- New: vultr/voc-c-32c-64gb-1000s-amd
+- New: vultr/voc-m-24c-192gb-1200s-amd
+- New: vultr/voc-s-8c-64gb-1280s-amd
+- New: vultr/voc-g-96c-256gb-1280s-amd
+- New: vultr/voc-m-8c-64gb-1600s-amd
+- New: vultr/voc-m-16c-128gb-1600s-amd
+- New: vultr/voc-m-32c-256gb-1600s-amd
+- New: vultr/voc-s-8c-64gb-1920s-amd
+- New: vultr/voc-m-24c-192gb-2400s-amd
+- New: vultr/voc-s-16c-128gb-2560s-amd
+- New: vultr/voc-m-16c-128gb-3200s-amd
+- New: vultr/voc-m-32c-256gb-3200s-amd
+- New: vultr/voc-s-16c-128gb-3840s-amd
+- New: vultr/voc-s-24c-192gb-3840s-amd
+- New: vultr/voc-m-24c-192gb-4800s-amd
+- New: vultr/voc-s-24c-192gb-5760s-amd
+- New: vultr/voc-s-32c-256gb-5760s-amd
+- New: vultr/vcg-a16-2c-8g-2vram
+- New: vultr/vcg-a16-2c-16g-4vram
+- New: vultr/vcg-a40-1c-5g-2vram
+- New: vultr/vcg-a16-3c-32g-8vram
+- New: vultr/vcg-a40-2c-10g-4vram
+- New: vultr/vcg-a16-6c-64g-16vram
+- New: vultr/vcg-a40-4c-20g-8vram
+- New: vultr/vcg-a40-6c-30g-12vram
+- New: vultr/vcg-a16-12c-128g-32vram
+- New: vultr/vcg-a40-8c-40g-16vram
+- New: vultr/vcg-a40-12c-60g-24vram
+- New: vultr/vcg-l40s-16c-180g-48vram
+- New: vultr/vcg-a16-24c-256g-64vram
+- New: vultr/vcg-a40-24c-120g-48vram
+- New: vultr/vcg-a40-96c-480g-192vram
+- New: vultr/vcg-a16-48c-496g-128vram
+- New: vultr/vcg-a16-96c-960g-256vram
+- New: vultr/vcg-l40s-32c-375g-96vram
+- New: vultr/vcg-l40s-64c-750g-192vram
+- New: vultr/vcg-l40s-128c-1500g-384vram
+- New: vultr/vcg-a16-96c-878g-256vram
+- New: vultr/vcg-a100-96c-896g-320vram
+- New: vultr/vcg-h100-216c-1914gb-640vram
+- New: vultr/vcg-b200-248c-2826g-1536vram
+- New: vultr/vcg-mi355x-252c-2872g-2304vram
+- New: vultr/vcg-mi325x-252c-2872g-1536vram
+- New: vultr/vx1-g-2c-8g
+- New: vultr/vx1-m-2c-16g
+- New: vultr/vx1-g-4c-16g
+- New: vultr/vx1-m-4c-32gb
+- New: vultr/vx1-g-8c-32g
+- New: vultr/vx1-m-8c-64gb
+- New: vultr/vx1-g-16c-64g
+- New: vultr/vx1-m-16c-128gb
+- New: vultr/vx1-g-32c-128g
+- New: vultr/vx1-m-32c-256gb
+- New: vultr/vx1-g-48c-192g
+- New: vultr/vx1-m-48c-384gb
+- New: vultr/vx1-g-64c-256g
+- New: vultr/vx1-m-64c-512gb
+- New: vultr/vx1-g-96c-384g
+- New: vultr/vx1-m-96c-768gb
+- New: vultr/vx1-g-192c-768g
+- New: vultr/vx1-m-192c-1536gb
+- New: vultr/vx1-g-2c-8g-120s
+- New: vultr/vx1-m-2c-16g-120s
+- New: vultr/vx1-g-4c-16g-240s
+- New: vultr/vx1-m-4c-32g-240s
+- New: vultr/vx1-g-8c-32g-480s
+- New: vultr/vx1-m-8c-64g-480s
+- New: vultr/vx1-g-16c-64g-960s
+- New: vultr/vx1-m-16c-128g-960s
+- New: vultr/vx1-g-32c-128g-1920s
+- New: vultr/vx1-m-32c-256g-1920s
+- New: vultr/vx1-g-48c-192g-2880s
+- New: vultr/vx1-m-48c-384g-2880s
+- New: vultr/vx1-g-64c-256g-3840s
+- New: vultr/vx1-m-64c-512g-3840s
+- New: vultr/vx1-g-96c-384g-5760s
+- New: vultr/vx1-m-96c-768g-5760s
+- New: vultr/vx1-g-192c-768g-11520s
+- New: vultr/vx1-m-192c-1536g-11520s
+- New: vultr/vbm-4c-32gb
+- New: vultr/vbm-8c-132gb
+- New: vultr/vbm-6c-32gb
+- New: vultr/vbm-24c-256gb-amd
+- New: vultr/vbm-8c-132gb-v2
+- New: vultr/vbm-128c-2048gb-amd
+- New: vultr/vbm-24c-384gb-amd
+- New: vultr/vbm-32c-755gb-amd
+- New: vultr/vbm-64c-1536gb-amd
+- New: vultr/vbm-48c-1024gb-4-a100-gpu
+- New: vultr/vbm-112c-2048gb-8-h100-gpu
+- New: vultr/vbm-112c-2048gb-8-a100-gpu
+- New: vultr/vbm-64c-2048gb-8-l40-gpu
+- New: vultr/vbm-72c-480gb-gh200-gpu
+- New: vultr/vbm-6c-128gb
+- New: vultr/vbm-256c-2048gb-8-mi300x-gpu
+- New: vultr/vbm-256c-3072gb-8-mi325x-gpu
+- New: vultr/vbm-24c-384gb-amd5
+- New: vultr/vbm-256c-3072gb-8-b200-gpu
+- New: vultr/vbm-6c-32gb-amd
+- New: vultr/vbm-8c-64gb-amd
+- New: vultr/vbm-256c-3072gb-8-mi355x-gpu
+- New: vultr/vbm-8c-128gb-amd
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.3xlarge
+- Update: alicloud/ecs.u0.c1m1.4xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+- Update: alicloud/ecs.u0.c1m2.3xlarge
+- Update: alicloud/ecs.u0.c1m2.4xlarge
+- Update: alicloud/ecs.u0.c1m2.xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_DC2els_v6
+
 ## v0.6.0+20260604190406 (Jun 04, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.

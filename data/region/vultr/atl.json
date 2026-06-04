@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "atl",
+  "name": "Atlanta",
+  "api_reference": "atl",
+  "display_name": "Atlanta (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Georgia",
+  "city": "Atlanta",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -84.388,
+  "lat": 33.749,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

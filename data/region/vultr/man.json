@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "man",
+  "name": "Manchester",
+  "api_reference": "man",
+  "display_name": "Manchester (GB)",
+  "aliases": [],
+  "country_id": "GB",
+  "state": null,
+  "city": "Manchester",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -2.2426,
+  "lat": 53.4808,
+  "founding_year": 2023,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

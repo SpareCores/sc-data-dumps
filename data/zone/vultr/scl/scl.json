@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "scl",
+  "zone_id": "scl",
+  "name": "Santiago",
+  "api_reference": "Santiago",
+  "display_name": "Santiago",
+  "status": "ACTIVE"
+}

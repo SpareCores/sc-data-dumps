@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "waw",
+  "zone_id": "waw",
+  "name": "Warsaw",
+  "api_reference": "Warsaw",
+  "display_name": "Warsaw",
+  "status": "ACTIVE"
+}

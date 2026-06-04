@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "hnl",
+  "name": "Honolulu",
+  "api_reference": "hnl",
+  "display_name": "Honolulu (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "Hawaii",
+  "city": "Honolulu",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -157.8583,
+  "lat": 21.3069,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

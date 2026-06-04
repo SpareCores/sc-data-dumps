@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "mel",
+  "name": "Melbourne",
+  "api_reference": "mel",
+  "display_name": "Melbourne (AU)",
+  "aliases": [],
+  "country_id": "AU",
+  "state": "Victoria",
+  "city": "Melbourne",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 144.9631,
+  "lat": -37.8136,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "lax",
+  "name": "Los Angeles",
+  "api_reference": "lax",
+  "display_name": "Los Angeles (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "California",
+  "city": "Los Angeles",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -118.2437,
+  "lat": 34.0522,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

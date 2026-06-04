@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "syd",
+  "zone_id": "syd",
+  "name": "Sydney",
+  "api_reference": "Sydney",
+  "display_name": "Sydney",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "ewr",
+  "name": "New Jersey",
+  "api_reference": "ewr",
+  "display_name": "New Jersey (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": "New Jersey",
+  "city": "New Jersey",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -74.1724,
+  "lat": 40.7357,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

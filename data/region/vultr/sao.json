@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "sao",
+  "name": "S\u00e3o Paulo",
+  "api_reference": "sao",
+  "display_name": "S\u00e3o Paulo (BR)",
+  "aliases": [],
+  "country_id": "BR",
+  "state": null,
+  "city": "S\u00e3o Paulo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -46.6333,
+  "lat": -23.5505,
+  "founding_year": 2021,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

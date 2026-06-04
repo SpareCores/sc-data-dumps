@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "atl",
+  "zone_id": "atl",
+  "name": "Atlanta",
+  "api_reference": "Atlanta",
+  "display_name": "Atlanta",
+  "status": "ACTIVE"
+}

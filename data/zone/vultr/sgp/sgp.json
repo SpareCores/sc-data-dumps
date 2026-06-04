@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "sgp",
+  "zone_id": "sgp",
+  "name": "Singapore",
+  "api_reference": "Singapore",
+  "display_name": "Singapore",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "jnb",
+  "zone_id": "jnb",
+  "name": "Johannesburg",
+  "api_reference": "Johannesburg",
+  "display_name": "Johannesburg",
+  "status": "ACTIVE"
+}
