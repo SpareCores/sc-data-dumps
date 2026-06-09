@@ -1,3 +1,33 @@
+## v0.6.0+20260609054844 (Jun 09, 2026)
+
+This is an automated release with 15 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27184507065
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### server
+
+- New: azure/Standard_NC144ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC144lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC24lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC288ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC288lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC36ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC36lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC72ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC72lds_xl_RTXPRO6000BSE_v6
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+
 ## v0.6.0+20260608212717 (Jun 08, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
