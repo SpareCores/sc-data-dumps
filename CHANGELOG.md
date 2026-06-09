@@ -1,3 +1,25 @@
+## v0.6.0+20260609090756 (Jun 09, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27192738697
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+
 ## v0.6.0+20260609054844 (Jun 09, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
