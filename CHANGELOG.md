@@ -1,3 +1,89 @@
+## v0.6.0+20260610141012 (Jun 10, 2026)
+
+This is an automated release with 77 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27278483082
+
+
+### server
+
+- New: aws/m9gd.12xlarge
+- New: aws/m9g.16xlarge
+- New: aws/m9g.xlarge
+- New: aws/m9g.8xlarge
+- New: aws/m9g.48xlarge
+- New: aws/m9gd.8xlarge
+- New: aws/m9g.medium
+- New: aws/m9gd.metal-48xl
+- New: aws/m9g.metal-48xl
+- New: aws/m9gd.medium
+- New: aws/m9g.4xlarge
+- New: aws/m9gd.4xlarge
+- New: aws/m9gd.16xlarge
+- New: aws/m9g.large
+- New: aws/m9g.24xlarge
+- New: aws/m9gd.xlarge
+- New: aws/m9gd.large
+- New: aws/m9gd.48xlarge
+- New: aws/m9gd.24xlarge
+- New: aws/m9g.2xlarge
+- New: aws/m9g.12xlarge
+- New: aws/m9gd.2xlarge
+- New: aws/m8in.metal-48xl
+- New: aws/m8in.metal-96xl
+- New: aws/m8idn.metal-48xl
+- New: aws/m8idb.metal-48xl
+- New: aws/r8in.metal-48xl
+- New: aws/r8idb.metal-48xl
+- New: aws/r8in.metal-96xl
+- New: aws/m8ib.metal-48xl
+- New: aws/r8idn.metal-48xl
+- New: aws/m8idn.metal-96xl
+- New: aws/r8ib.metal-48xl
+- New: aws/r8ib.metal-96xl
+- New: aws/m8ib.metal-96xl
+- New: aws/r8idb.metal-96xl
+- New: aws/r8idn.metal-96xl
+- New: aws/m8idb.metal-96xl
+- Update: aws/c8ib.large
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-8xCPU-64GB-1xL40S
+- Update: vultr/vx1-m-192c-1536g-11520s
+
 ## v0.6.0+20260609120543 (Jun 09, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
