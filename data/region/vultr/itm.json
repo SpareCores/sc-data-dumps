@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "itm",
+  "name": "Osaka",
+  "api_reference": "itm",
+  "display_name": "Osaka (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Osaka",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 135.5023,
+  "lat": 34.6937,
+  "founding_year": 2023,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "man",
+  "zone_id": "man",
+  "name": "Manchester",
+  "api_reference": "Manchester",
+  "display_name": "Manchester",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "lhr",
+  "zone_id": "lhr",
+  "name": "London",
+  "api_reference": "London",
+  "display_name": "London",
+  "status": "ACTIVE"
+}

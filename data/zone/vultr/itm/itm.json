@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "itm",
+  "zone_id": "itm",
+  "name": "Osaka",
+  "api_reference": "Osaka",
+  "display_name": "Osaka",
+  "status": "ACTIVE"
+}

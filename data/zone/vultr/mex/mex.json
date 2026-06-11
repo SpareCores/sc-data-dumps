@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "mex",
+  "zone_id": "mex",
+  "name": "Mexico City",
+  "api_reference": "Mexico City",
+  "display_name": "Mexico City",
+  "status": "ACTIVE"
+}

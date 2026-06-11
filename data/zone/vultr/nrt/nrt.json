@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "nrt",
+  "zone_id": "nrt",
+  "name": "Tokyo",
+  "api_reference": "Tokyo",
+  "display_name": "Tokyo",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "ord",
+  "zone_id": "ord",
+  "name": "Chicago",
+  "api_reference": "Chicago",
+  "display_name": "Chicago",
+  "status": "ACTIVE"
+}

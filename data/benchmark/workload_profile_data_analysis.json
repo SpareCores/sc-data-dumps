@@ -1,0 +1,12 @@
+{
+  "benchmark_id": "workload_profile:data_analysis",
+  "category": "Workload profile",
+  "name": "Workload profile: Data Analysis",
+  "description": "Precomputed compound score for Data Analysis workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 30% PassMark CPU Mark (composite), 30% Memory bandwidth (read, 64 MB), 25% PassMark Memory Mark (composite), 15% Gzip compression (single-thread, level 5). Rationale for component selection: Data analysis and ETL workloads are memory-bandwidth-bound and CPU-throughput-driven. The profile combines general CPU performance and memory bandwidth/latency as the primary drivers, supplemented by single-core compression speed as a proxy for serialisation-heavy ETL tasks.",
+  "framework": "workload_profile",
+  "config_fields": {},
+  "measurement": "score",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

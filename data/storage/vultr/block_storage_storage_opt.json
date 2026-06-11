@@ -1,0 +1,12 @@
+{
+  "vendor_id": "vultr",
+  "storage_id": "block_storage_storage_opt",
+  "name": "HDD Block Storage",
+  "description": "VBS storage_opt (CSI vultr-block-storage-hdd).",
+  "storage_type": "HDD",
+  "max_iops": 500,
+  "max_throughput": 100,
+  "min_size": 40,
+  "max_size": 40000,
+  "status": "ACTIVE"
+}

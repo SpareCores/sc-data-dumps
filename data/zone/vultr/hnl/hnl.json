@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "hnl",
+  "zone_id": "hnl",
+  "name": "Honolulu",
+  "api_reference": "Honolulu",
+  "display_name": "Honolulu",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "sea",
+  "zone_id": "sea",
+  "name": "Seattle",
+  "api_reference": "Seattle",
+  "display_name": "Seattle",
+  "status": "ACTIVE"
+}

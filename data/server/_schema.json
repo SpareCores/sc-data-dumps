@@ -184,9 +184,37 @@
       "comment": null
     },
     {
+      "name": "ecpus",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "scalability",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "hw_virt",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "memory_amount",
       "type": "INTEGER",
       "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "memory_amount_actual",
+      "type": "INTEGER",
+      "nullable": true,
       "default": null,
       "comment": null
     },
@@ -282,7 +310,28 @@
       "comment": null
     },
     {
-      "name": "network_speed",
+      "name": "network_speed_baseline",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "network_speed_max",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "network_storage_speed_baseline",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "network_storage_speed_max",
       "type": "FLOAT",
       "nullable": true,
       "default": null,
@@ -306,6 +355,13 @@
       "name": "ipv4",
       "type": "INTEGER",
       "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "average_time_to_start",
+      "type": "FLOAT",
+      "nullable": true,
       "default": null,
       "comment": null
     },

@@ -108,13 +108,17 @@
     "nrip_save"
   ],
   "cpus": [],
+  "ecpus": 47.9,
+  "scalability": 99.79,
+  "hw_virt": 0,
   "memory_amount": 393216,
+  "memory_amount_actual": 393216,
   "memory_generation": "DDR4",
   "memory_speed": 2667,
   "memory_ecc": null,
   "gpu_count": 0.0,
   "gpu_memory_min": null,
-  "gpu_memory_total": null,
+  "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,
   "gpu_model": null,
@@ -143,9 +147,13 @@
       "description": null
     }
   ],
-  "network_speed": 20.0,
+  "network_speed_baseline": 20.0,
+  "network_speed_max": 20.0,
+  "network_storage_speed_baseline": 13.75,
+  "network_storage_speed_max": 13.75,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

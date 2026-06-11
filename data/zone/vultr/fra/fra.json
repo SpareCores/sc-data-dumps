@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "fra",
+  "zone_id": "fra",
+  "name": "Frankfurt",
+  "api_reference": "Frankfurt",
+  "display_name": "Frankfurt",
+  "status": "ACTIVE"
+}

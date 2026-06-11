@@ -1,0 +1,12 @@
+{
+  "benchmark_id": "workload_profile:database",
+  "category": "Workload profile",
+  "name": "Workload profile: Relational Database",
+  "description": "Precomputed compound score for Relational Database workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 35% PassMark in-memory DB operations, 30% PassMark memory latency (512 MB), 20% PassMark Memory Mark (composite), 15% PassMark single-thread CPU. Rationale for component selection: Relational database workload (PostgreSQL, MySQL, transactional OLTP). Direct DB operation throughput is the primary driver, followed by memory latency for index lookups and buffer pool access, memory subsystem performance for working-set throughput, and single-thread CPU for query execution.",
+  "framework": "workload_profile",
+  "config_fields": {},
+  "measurement": "score",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

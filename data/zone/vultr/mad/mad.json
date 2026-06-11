@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "mad",
+  "zone_id": "mad",
+  "name": "Madrid",
+  "api_reference": "Madrid",
+  "display_name": "Madrid",
+  "status": "ACTIVE"
+}

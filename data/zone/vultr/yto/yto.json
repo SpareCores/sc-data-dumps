@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "yto",
+  "zone_id": "yto",
+  "name": "Toronto",
+  "api_reference": "Toronto",
+  "display_name": "Toronto",
+  "status": "ACTIVE"
+}

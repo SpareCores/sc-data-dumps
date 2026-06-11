@@ -8,8 +8,8 @@ vendors (e.g. Azure lookups are slow so we cannot do that so frequently), and
 hourly to update all region, availability zone, server, storage, traffic etc
 vendor data at the supported vendors.
 
-The most recent version of the collected data is available in a single
-compressed SQLite database file. See the References section for exact location.
+The most recent version of the collected data is available as a compressed
+SQLite database dump. See the References section for exact location.
 
 This repository contains JSON dumps of selected tables of this database to
 facilitate data exploration and change tracking of records via git diffs. Note
@@ -18,11 +18,14 @@ the high update frequency of these datasets.
 
 ## License
 
-The data records published in this repository and the referenced SQLite database file are
-licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+The data records published in this repository are
+licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),
+just like the raw benchmarking and hardware inspection reports of the
+[`sc-inspector-data`](https://github.com/sparecores/sc-inspector-data) repository.
 
-In case you are not comfortable with these licensing terms, please contact us
-to discuss your needs.
+The SQLite database dump is available under [BSL 1.1 license](https://sparecores.com/legal/license-bsl).
+
+In case you are not comfortable with these licensing terms, please contact us to discuss your needs.
 
 ## Use
 
@@ -32,12 +35,11 @@ to discuss your needs.
   tags and use the corresponding commit.
 - Although most tables are included in this repository, some tables are excluded
   due to repository size limits and the high update frequency of these datasets.
-  If you need pricing and benchmark data, you can use the SQLite database file
-  referenced below.
+  If you need pricing and benchmark data, check the SQLite database dump.
 - In case of Python, we recommend using the `sparecores-data` package to access
   the data, as it comes with helpers to automatically fetch the latest version
   of the database file and update it periodically in a background thread.
-- For other languages or in case you are looking for a managed database
+- For other languages, or in case you are looking for a managed database
   solution, you can use our public Navigator API to query the data.
 
 ## Repository Structure
@@ -75,7 +77,11 @@ original commit hash and URL on GitHub.
 
 - [`sparecores-crawler` documentation](https://sparecores.github.io/sc-crawler/)
 - [Database schemas](https://dbdocs.io/spare-cores/sc-crawler)
-- [Latest SQLite database release](https://sc-data-public-40e9d310.s3.amazonaws.com/sc-data-all.db.bz2)
+- Latest database dumps under [BSL 1.1 license](https://sparecores.com/legal/license-bsl):
+
+    - [Full database with SKU listings, current pricing information, and benchmark scores](https://cdn.sparecores.net/sc-data/sc-data-all.sql.xz)
+    - [Stripped database without pricing and benchmark data](https://cdn.sparecores.net/sc-data/sc-data-priceless.sql.xz)
+
 - [sparecores-data Python package](https://pypi.org/project/sparecores-data/)
 - [Navigator API](https://keeper.sparecores.net/docs)
 - [sparecores.com](https://sparecores.com)

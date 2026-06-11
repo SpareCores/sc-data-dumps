@@ -5,6 +5,7 @@
   "description": "Measures median memory latency using pointer chasing with randomized access to defeat hardware prefetching.",
   "framework": "membench",
   "config_fields": {
+    "scope": "RAM: working set exceeds total CPU cache (L3, else L2, else L1d).",
     "size_kb": "Per-thread buffer size in KiB."
   },
   "measurement": "memory_latency",

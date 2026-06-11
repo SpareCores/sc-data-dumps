@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "cdg",
+  "name": "Paris",
+  "api_reference": "cdg",
+  "display_name": "Paris (FR)",
+  "aliases": [],
+  "country_id": "FR",
+  "state": null,
+  "city": "Paris",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 2.3522,
+  "lat": 48.8566,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

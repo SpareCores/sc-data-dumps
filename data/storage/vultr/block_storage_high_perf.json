@@ -1,0 +1,12 @@
+{
+  "vendor_id": "vultr",
+  "storage_id": "block_storage_high_perf",
+  "name": "NVMe Block Storage",
+  "description": "VBS high_perf (CSI vultr-block-storage).",
+  "storage_type": "NVME_SSD",
+  "max_iops": 10000,
+  "max_throughput": 400,
+  "min_size": 10,
+  "max_size": 10000,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "sjc",
+  "zone_id": "sjc",
+  "name": "Silicon Valley",
+  "api_reference": "Silicon Valley",
+  "display_name": "Silicon Valley",
+  "status": "ACTIVE"
+}

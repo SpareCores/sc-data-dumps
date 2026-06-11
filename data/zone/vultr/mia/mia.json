@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "mia",
+  "zone_id": "mia",
+  "name": "Miami",
+  "api_reference": "Miami",
+  "display_name": "Miami",
+  "status": "ACTIVE"
+}

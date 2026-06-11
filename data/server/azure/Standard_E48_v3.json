@@ -99,7 +99,11 @@
     "md_clear"
   ],
   "cpus": [],
+  "ecpus": 27.8,
+  "scalability": 115.83,
+  "hw_virt": 1,
   "memory_amount": 393216,
+  "memory_amount_actual": 393216,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -119,9 +123,13 @@
       "description": "temp disk"
     }
   ],
-  "network_speed": null,
+  "network_speed_baseline": null,
+  "network_speed_max": null,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

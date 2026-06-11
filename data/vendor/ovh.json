@@ -10,5 +10,9 @@
   "zip_code": "59100",
   "founding_year": 1999,
   "status_page": "https://www.status-ovhcloud.com",
+  "stopped_server_charged": 0,
+  "billing_increment_seconds": 3600,
+  "minimum_billing_seconds": 3600,
+  "billing_comment": "Billing for stopped servers depends on status: suspended or paused is billed, while shelved is not.",
   "status": "ACTIVE"
 }

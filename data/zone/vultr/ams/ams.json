@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "ams",
+  "zone_id": "ams",
+  "name": "Amsterdam",
+  "api_reference": "Amsterdam",
+  "display_name": "Amsterdam",
+  "status": "ACTIVE"
+}

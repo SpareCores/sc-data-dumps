@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "bom",
+  "name": "Mumbai",
+  "api_reference": "bom",
+  "display_name": "Mumbai (IN)",
+  "aliases": [],
+  "country_id": "IN",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 72.8777,
+  "lat": 19.076,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

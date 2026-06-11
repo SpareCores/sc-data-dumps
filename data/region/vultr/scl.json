@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "scl",
+  "name": "Santiago",
+  "api_reference": "scl",
+  "display_name": "Santiago (CL)",
+  "aliases": [],
+  "country_id": "CL",
+  "state": null,
+  "city": "Santiago",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -70.6693,
+  "lat": -33.4489,
+  "founding_year": 2023,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

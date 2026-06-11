@@ -143,7 +143,11 @@
     "arch_capabilities"
   ],
   "cpus": [],
+  "ecpus": 41.0,
+  "scalability": 85.42,
+  "hw_virt": 1,
   "memory_amount": 196608,
+  "memory_amount_actual": 196608,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -168,9 +172,13 @@
       "description": null
     }
   ],
-  "network_speed": null,
+  "network_speed_baseline": null,
+  "network_speed_max": null,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

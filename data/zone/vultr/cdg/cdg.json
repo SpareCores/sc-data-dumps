@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "cdg",
+  "zone_id": "cdg",
+  "name": "Paris",
+  "api_reference": "Paris",
+  "display_name": "Paris",
+  "status": "ACTIVE"
+}

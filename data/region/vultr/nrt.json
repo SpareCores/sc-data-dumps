@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "nrt",
+  "name": "Tokyo",
+  "api_reference": "nrt",
+  "display_name": "Tokyo (JP)",
+  "aliases": [],
+  "country_id": "JP",
+  "state": null,
+  "city": "Tokyo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 139.6503,
+  "lat": 35.6762,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

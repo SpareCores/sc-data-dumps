@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "sto",
+  "zone_id": "sto",
+  "name": "Stockholm",
+  "api_reference": "Stockholm",
+  "display_name": "Stockholm",
+  "status": "ACTIVE"
+}

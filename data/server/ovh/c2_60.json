@@ -97,13 +97,17 @@
     "md_clear"
   ],
   "cpus": [],
+  "ecpus": 15.9,
+  "scalability": 99.38,
+  "hw_virt": 1,
   "memory_amount": 61440,
+  "memory_amount_actual": 60000,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
   "gpu_count": 0.0,
   "gpu_memory_min": null,
-  "gpu_memory_total": null,
+  "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,
   "gpu_model": null,
@@ -117,9 +121,13 @@
       "description": null
     }
   ],
-  "network_speed": 1.0,
+  "network_speed_baseline": 1.0,
+  "network_speed_max": 4.0,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 1,
+  "average_time_to_start": null,
   "status": "ACTIVE"
 }

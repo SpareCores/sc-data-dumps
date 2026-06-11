@@ -1,0 +1,12 @@
+{
+  "benchmark_id": "workload_profile:llm",
+  "category": "Workload profile",
+  "name": "Workload profile: Multimodal LLM Inference",
+  "description": "Precomputed compound score for Multimodal LLM Inference workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 20% LLM text generation (llama-7b, 128 tok), 10% LLM prompt processing (llama-7b, 512 tok), 10% LLM text generation (gemma-2b, 128 tok), 10% PassMark Memory Mark (composite), 15% Memory bandwidth (read, 256 MB), 10% PassMark AVX/SSE/FMA (SIMD), 5% PassMark floating point, 10% Geekbench object detection (multi-core), 5% Geekbench background blur (multi-core), 5% Geekbench structure-from-motion (multi-core). Rationale for component selection: VRAM and memory-bandwidth-bound LLM inference workload, using direct LLM speed benchmarks at two model sizes, and supplementing with raw memory bandwidth, SIMD, and Geekbench computer vision workloads that exercise ML-style pipelines.",
+  "framework": "workload_profile",
+  "config_fields": {},
+  "measurement": "score",
+  "unit": null,
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

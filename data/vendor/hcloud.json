@@ -10,5 +10,9 @@
   "zip_code": "91710",
   "founding_year": 2018,
   "status_page": "https://status.hetzner.com/",
+  "stopped_server_charged": 1,
+  "billing_increment_seconds": 3600,
+  "minimum_billing_seconds": 3600,
+  "billing_comment": null,
   "status": "ACTIVE"
 }

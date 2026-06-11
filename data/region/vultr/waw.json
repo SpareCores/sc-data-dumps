@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "waw",
+  "name": "Warsaw",
+  "api_reference": "waw",
+  "display_name": "Warsaw (PL)",
+  "aliases": [],
+  "country_id": "PL",
+  "state": null,
+  "city": "Warsaw",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 21.0122,
+  "lat": 52.2297,
+  "founding_year": 2022,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

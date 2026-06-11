@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "mel",
+  "zone_id": "mel",
+  "name": "Melbourne",
+  "api_reference": "Melbourne",
+  "display_name": "Melbourne",
+  "status": "ACTIVE"
+}

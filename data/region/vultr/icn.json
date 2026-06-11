@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "icn",
+  "name": "Seoul",
+  "api_reference": "icn",
+  "display_name": "Seoul (KR)",
+  "aliases": [],
+  "country_id": "KR",
+  "state": null,
+  "city": "Seoul",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 126.978,
+  "lat": 37.5665,
+  "founding_year": 2020,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

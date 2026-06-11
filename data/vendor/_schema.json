@@ -79,6 +79,34 @@
       "comment": null
     },
     {
+      "name": "stopped_server_charged",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "billing_increment_seconds",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "minimum_billing_seconds",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "billing_comment",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "status",
       "type": "VARCHAR(8)",
       "nullable": false,

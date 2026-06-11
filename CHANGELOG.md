@@ -1,3 +1,3264 @@
+## v0.6.0+20260611180913 (Jun 11, 2026)
+
+This is an automated release with 47 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27364089208
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: aws/m9g.12xlarge
+- Update: aws/m9g.16xlarge
+- Update: aws/m9g.24xlarge
+- Update: aws/m9g.2xlarge
+- Update: aws/m9g.48xlarge
+- Update: aws/m9g.4xlarge
+- Update: aws/m9g.8xlarge
+- Update: aws/m9gd.12xlarge
+- Update: aws/m9gd.16xlarge
+- Update: aws/m9gd.24xlarge
+- Update: aws/m9gd.2xlarge
+- Update: aws/m9gd.48xlarge
+- Update: aws/m9gd.4xlarge
+- Update: aws/m9gd.8xlarge
+- Update: aws/m9gd.large
+- Update: aws/m9gd.metal-48xl
+- Update: aws/m9gd.xlarge
+- Update: aws/m9g.large
+- Update: aws/m9g.metal-48xl
+- Update: aws/m9g.xlarge
+- Update: azure/Standard_DC2els_v6
+- Update: vultr/vc2-1c-1gb
+
+## v0.6.0+20260611120209 (Jun 11, 2026)
+
+This is an automated release with 85 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27342168311
+
+
+### server
+
+- New: azure/Standard_D128nds_v6
+- New: azure/Standard_D128nlds_v6
+- New: azure/Standard_D128nls_v6
+- New: azure/Standard_D128ns_v6
+- New: azure/Standard_D16nds_v6
+- New: azure/Standard_D16nlds_v6
+- New: azure/Standard_D16nls_v6
+- New: azure/Standard_D16ns_v6
+- New: azure/Standard_D2nds_v6
+- New: azure/Standard_D2nlds_v6
+- New: azure/Standard_D2nls_v6
+- New: azure/Standard_D2ns_v6
+- New: azure/Standard_D32nds_v6
+- New: azure/Standard_D32nlds_v6
+- New: azure/Standard_D32nls_v6
+- New: azure/Standard_D32ns_v6
+- New: azure/Standard_D48nds_v6
+- New: azure/Standard_D48nlds_v6
+- New: azure/Standard_D48nls_v6
+- New: azure/Standard_D48ns_v6
+- New: azure/Standard_D4nds_v6
+- New: azure/Standard_D4nlds_v6
+- New: azure/Standard_D4nls_v6
+- New: azure/Standard_D4ns_v6
+- New: azure/Standard_D64nds_v6
+- New: azure/Standard_D64nlds_v6
+- New: azure/Standard_D64nls_v6
+- New: azure/Standard_D64ns_v6
+- New: azure/Standard_D8nds_v6
+- New: azure/Standard_D8nlds_v6
+- New: azure/Standard_D8nls_v6
+- New: azure/Standard_D8ns_v6
+- New: azure/Standard_D96nds_v6
+- New: azure/Standard_D96nlds_v6
+- New: azure/Standard_D96nls_v6
+- New: azure/Standard_D96ns_v6
+- New: azure/Standard_E128nds_v6
+- New: azure/Standard_E128ns_v6
+- New: azure/Standard_E16nds_v6
+- New: azure/Standard_E16ns_v6
+- New: azure/Standard_E2nds_v6
+- New: azure/Standard_E2ns_v6
+- New: azure/Standard_E32nds_v6
+- New: azure/Standard_E32ns_v6
+- New: azure/Standard_E48nds_v6
+- New: azure/Standard_E48ns_v6
+- New: azure/Standard_E4nds_v6
+- New: azure/Standard_E4ns_v6
+- New: azure/Standard_E64nds_v6
+- New: azure/Standard_E64ns_v6
+- New: azure/Standard_E8nds_v6
+- New: azure/Standard_E8ns_v6
+- New: azure/Standard_E96nds_v6
+- New: azure/Standard_E96ns_v6
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: aws/m9gd.medium
+- Update: aws/m9g.medium
+- Update: vultr/vbm-48c-1024gb-4-a100-gpu
+- Update: vultr/vcg-a100-96c-896g-320vram
+- Update: vultr/vcg-a16-96c-878g-256vram
+- Update: vultr/vcg-b200-248c-2826g-1536vram
+- Update: vultr/vcg-h100-216c-1914gb-640vram
+- Update: vultr/vcg-mi325x-252c-2872g-1536vram
+- Update: vultr/vcg-mi355x-252c-2872g-2304vram
+
+## v0.6.0+20260611023009 (Jun 11, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27316913612
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260610172800 (Jun 10, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27290316169
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+
+## v0.6.0+20260610141012 (Jun 10, 2026)
+
+This is an automated release with 77 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27278483082
+
+
+### server
+
+- New: aws/m9gd.12xlarge
+- New: aws/m9g.16xlarge
+- New: aws/m9g.xlarge
+- New: aws/m9g.8xlarge
+- New: aws/m9g.48xlarge
+- New: aws/m9gd.8xlarge
+- New: aws/m9g.medium
+- New: aws/m9gd.metal-48xl
+- New: aws/m9g.metal-48xl
+- New: aws/m9gd.medium
+- New: aws/m9g.4xlarge
+- New: aws/m9gd.4xlarge
+- New: aws/m9gd.16xlarge
+- New: aws/m9g.large
+- New: aws/m9g.24xlarge
+- New: aws/m9gd.xlarge
+- New: aws/m9gd.large
+- New: aws/m9gd.48xlarge
+- New: aws/m9gd.24xlarge
+- New: aws/m9g.2xlarge
+- New: aws/m9g.12xlarge
+- New: aws/m9gd.2xlarge
+- New: aws/m8in.metal-48xl
+- New: aws/m8in.metal-96xl
+- New: aws/m8idn.metal-48xl
+- New: aws/m8idb.metal-48xl
+- New: aws/r8in.metal-48xl
+- New: aws/r8idb.metal-48xl
+- New: aws/r8in.metal-96xl
+- New: aws/m8ib.metal-48xl
+- New: aws/r8idn.metal-48xl
+- New: aws/m8idn.metal-96xl
+- New: aws/r8ib.metal-48xl
+- New: aws/r8ib.metal-96xl
+- New: aws/m8ib.metal-96xl
+- New: aws/r8idb.metal-96xl
+- New: aws/r8idn.metal-96xl
+- New: aws/m8idb.metal-96xl
+- Update: aws/c8ib.large
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-8xCPU-64GB-1xL40S
+- Update: vultr/vx1-m-192c-1536g-11520s
+
+## v0.6.0+20260609120543 (Jun 09, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27202020502
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+
+## v0.6.0+20260609090756 (Jun 09, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27192738697
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+
+## v0.6.0+20260609054844 (Jun 09, 2026)
+
+This is an automated release with 15 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27184507065
+
+
+### region
+
+- Update: aws/me-central-1
+
+### zone
+
+- Update: aws/me-central-1/mec1-az1
+- Update: aws/me-central-1/mec1-az2
+- Update: aws/me-central-1/mec1-az3
+
+### server
+
+- New: azure/Standard_NC144ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC144lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC24lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC288ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC288lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC36ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC36lds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC72ds_xl_RTXPRO6000BSE_v6
+- New: azure/Standard_NC72lds_xl_RTXPRO6000BSE_v6
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+
+## v0.6.0+20260608212717 (Jun 08, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27164946632
+
+
+### server
+
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.6.0+20260608170342 (Jun 08, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27150726176
+
+
+### server
+
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.i1.3xlarge
+- Update: alicloud/ecs.i1.4xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.6.0+20260608122730 (Jun 08, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27134525939
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+
+## v0.6.0+20260608081003 (Jun 08, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27121616827
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.6.0+20260608054900 (Jun 08, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27116643981
+
+
+### server
+
+- Update: alicloud/ecs.gn5-c8g1.14xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.xlarge
+
+## v0.6.0+20260607235332 (Jun 07, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27107618622
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.6.0+20260607200442 (Jun 07, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27102005703
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+
+## v0.6.0+20260607175954 (Jun 07, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27099193294
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260607134456 (Jun 07, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27093016177
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260607072135 (Jun 07, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27084935009
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c1.small
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.s2.large
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.s2.xlarge
+- Update: alicloud/ecs.s3.large
+- Update: alicloud/ecs.s3.medium
+
+## v0.6.0+20260607040843 (Jun 07, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27081140150
+
+
+### server
+
+- Update: alicloud/ecs.c1.small
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.large
+- Update: alicloud/ecs.s2.xlarge
+- Update: alicloud/ecs.s3.large
+- Update: alicloud/ecs.s3.medium
+
+## v0.6.0+20260606190143 (Jun 06, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27069940116
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+
+## v0.6.0+20260606163500 (Jun 06, 2026)
+
+This is an automated release with 15 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27066458839
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260606141421 (Jun 06, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27063152115
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260606100456 (Jun 06, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27058256313
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m1.xlarge
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: vultr/vx1-m-192c-1536g-11520s
+- Update: vultr/vx1-m-192c-1536gb
+
+## v0.6.0+20260606015154 (Jun 06, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27047230541
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn5-c8g1.14xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: vultr/vx1-m-192c-1536g-11520s
+- Update: vultr/vx1-m-192c-1536gb
+
+## v0.6.0+20260605201453 (Jun 05, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27035153561
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+## v0.6.0+20260605174434 (Jun 05, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27027949356
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.6.0+20260605150733 (Jun 05, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27019747161
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.6.0+20260605113914 (Jun 05, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27010513059
+
+
+### server
+
+- New: alicloud/ecs.c9aene.8xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+
+## v0.6.0+20260605094359 (Jun 05, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27005185952
+
+
+### server
+
+- New: alicloud/ecs.poc-test.t48
+- New: alicloud/ecs.poc-test.t49
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.c9ine.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.g9ine.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: vultr/vc2-1c-0.5gb-free
+
+## v0.6.0+20260605054241 (Jun 05, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26996004704
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.6.0+20260605034433 (Jun 05, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26992274558
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+
+## v0.6.0+20260605013940 (Jun 05, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26988504383
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.6.0+20260604225025 (Jun 04, 2026)
+
+This is an automated release with 258 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26981713580
+
+
+### vendor
+
+- New: vultr
+
+### vendor_compliance_link
+
+- New: vultr/hipaa
+- New: vultr/soc2t2
+- New: vultr/iso27001
+
+### region
+
+- New: vultr/ams
+- New: vultr/atl
+- New: vultr/blr
+- New: vultr/bom
+- New: vultr/cdg
+- New: vultr/del
+- New: vultr/dfw
+- New: vultr/ewr
+- New: vultr/fra
+- New: vultr/hnl
+- New: vultr/icn
+- New: vultr/itm
+- New: vultr/jnb
+- New: vultr/lax
+- New: vultr/lhr
+- New: vultr/mad
+- New: vultr/man
+- New: vultr/mel
+- New: vultr/mex
+- New: vultr/mia
+- New: vultr/mxp
+- New: vultr/nrt
+- New: vultr/ord
+- New: vultr/sao
+- New: vultr/scl
+- New: vultr/sea
+- New: vultr/sgp
+- New: vultr/sjc
+- New: vultr/sto
+- New: vultr/syd
+- New: vultr/tlv
+- New: vultr/waw
+- New: vultr/yto
+
+### zone
+
+- New: vultr/ams/ams
+- New: vultr/atl/atl
+- New: vultr/blr/blr
+- New: vultr/bom/bom
+- New: vultr/cdg/cdg
+- New: vultr/del/del
+- New: vultr/dfw/dfw
+- New: vultr/ewr/ewr
+- New: vultr/fra/fra
+- New: vultr/hnl/hnl
+- New: vultr/icn/icn
+- New: vultr/itm/itm
+- New: vultr/jnb/jnb
+- New: vultr/lax/lax
+- New: vultr/lhr/lhr
+- New: vultr/mad/mad
+- New: vultr/man/man
+- New: vultr/mel/mel
+- New: vultr/mex/mex
+- New: vultr/mia/mia
+- New: vultr/mxp/mxp
+- New: vultr/nrt/nrt
+- New: vultr/ord/ord
+- New: vultr/sao/sao
+- New: vultr/scl/scl
+- New: vultr/sea/sea
+- New: vultr/sgp/sgp
+- New: vultr/sjc/sjc
+- New: vultr/sto/sto
+- New: vultr/syd/syd
+- New: vultr/tlv/tlv
+- New: vultr/waw/waw
+- New: vultr/yto/yto
+
+### storage
+
+- New: vultr/block_storage_high_perf
+- New: vultr/block_storage_storage_opt
+
+### server
+
+- New: vultr/vc2-1c-0.5gb-free
+- New: vultr/vc2-1c-0.5gb-v6
+- New: vultr/vc2-1c-0.5gb
+- New: vultr/vc2-1c-1gb
+- New: vultr/vc2-1c-2gb
+- New: vultr/vc2-2c-2gb
+- New: vultr/vc2-2c-4gb
+- New: vultr/vc2-4c-8gb
+- New: vultr/vc2-6c-16gb
+- New: vultr/vc2-8c-32gb
+- New: vultr/vc2-16c-64gb
+- New: vultr/vc2-24c-96gb
+- New: vultr/vhf-1c-1gb
+- New: vultr/vhf-1c-2gb
+- New: vultr/vhf-2c-2gb
+- New: vultr/vhf-2c-4gb
+- New: vultr/vhf-3c-8gb
+- New: vultr/vhf-4c-16gb
+- New: vultr/vhf-6c-24gb
+- New: vultr/vhf-8c-32gb
+- New: vultr/vhf-12c-48gb
+- New: vultr/vhf-16c-58gb
+- New: vultr/vhp-1c-1gb-amd
+- New: vultr/vhp-1c-2gb-amd
+- New: vultr/vhp-2c-2gb-amd
+- New: vultr/vhp-2c-4gb-amd
+- New: vultr/vhp-4c-8gb-amd
+- New: vultr/vhp-4c-12gb-amd
+- New: vultr/vhp-8c-16gb-amd
+- New: vultr/vhp-12c-24gb-amd
+- New: vultr/vhp-1c-1gb-intel
+- New: vultr/vhp-1c-2gb-intel
+- New: vultr/vhp-2c-2gb-intel
+- New: vultr/vhp-2c-4gb-intel
+- New: vultr/vhp-4c-8gb-intel
+- New: vultr/vhp-4c-12gb-intel
+- New: vultr/vhp-8c-16gb-intel
+- New: vultr/vhp-12c-24gb-intel
+- New: vultr/voc-c-1c-2gb-25s-amd
+- New: vultr/voc-g-1c-4gb-30s-amd
+- New: vultr/voc-m-1c-8gb-50s-amd
+- New: vultr/voc-c-2c-4gb-50s-amd
+- New: vultr/voc-g-2c-8gb-50s-amd
+- New: vultr/voc-c-2c-4gb-75s-amd
+- New: vultr/voc-c-4c-8gb-75s-amd
+- New: vultr/voc-g-4c-16gb-80s-amd
+- New: vultr/voc-m-2c-16gb-100s-amd
+- New: vultr/voc-s-1c-8gb-150s-amd
+- New: vultr/voc-c-4c-8gb-150s-amd
+- New: vultr/voc-c-8c-16gb-150s-amd
+- New: vultr/voc-g-8c-32gb-160s-amd
+- New: vultr/voc-m-2c-16gb-200s-amd
+- New: vultr/voc-m-4c-32gb-200s-amd
+- New: vultr/voc-c-8c-16gb-300s-amd
+- New: vultr/voc-c-16c-32gb-300s-amd
+- New: vultr/voc-s-2c-16gb-320s-amd
+- New: vultr/voc-g-16c-64gb-320s-amd
+- New: vultr/voc-m-2c-16gb-400s-amd
+- New: vultr/voc-m-4c-32gb-400s-amd
+- New: vultr/voc-m-8c-64gb-400s-amd
+- New: vultr/voc-s-2c-16gb-480s-amd
+- New: vultr/voc-g-24c-96gb-480s-amd
+- New: vultr/voc-c-16c-32gb-500s-amd
+- New: vultr/voc-c-32c-64gb-500s-amd
+- New: vultr/voc-s-4c-32gb-640s-amd
+- New: vultr/voc-g-32c-128gb-640s-amd
+- New: vultr/voc-g-40c-160gb-768s-amd
+- New: vultr/voc-m-4c-32gb-800s-amd
+- New: vultr/voc-m-8c-64gb-800s-amd
+- New: vultr/voc-m-16c-128gb-800s-amd
+- New: vultr/voc-s-4c-32gb-960s-amd
+- New: vultr/voc-g-64c-192gb-960s-amd
+- New: vultr/voc-c-32c-64gb-1000s-amd
+- New: vultr/voc-m-24c-192gb-1200s-amd
+- New: vultr/voc-s-8c-64gb-1280s-amd
+- New: vultr/voc-g-96c-256gb-1280s-amd
+- New: vultr/voc-m-8c-64gb-1600s-amd
+- New: vultr/voc-m-16c-128gb-1600s-amd
+- New: vultr/voc-m-32c-256gb-1600s-amd
+- New: vultr/voc-s-8c-64gb-1920s-amd
+- New: vultr/voc-m-24c-192gb-2400s-amd
+- New: vultr/voc-s-16c-128gb-2560s-amd
+- New: vultr/voc-m-16c-128gb-3200s-amd
+- New: vultr/voc-m-32c-256gb-3200s-amd
+- New: vultr/voc-s-16c-128gb-3840s-amd
+- New: vultr/voc-s-24c-192gb-3840s-amd
+- New: vultr/voc-m-24c-192gb-4800s-amd
+- New: vultr/voc-s-24c-192gb-5760s-amd
+- New: vultr/voc-s-32c-256gb-5760s-amd
+- New: vultr/vcg-a16-2c-8g-2vram
+- New: vultr/vcg-a16-2c-16g-4vram
+- New: vultr/vcg-a40-1c-5g-2vram
+- New: vultr/vcg-a16-3c-32g-8vram
+- New: vultr/vcg-a40-2c-10g-4vram
+- New: vultr/vcg-a16-6c-64g-16vram
+- New: vultr/vcg-a40-4c-20g-8vram
+- New: vultr/vcg-a40-6c-30g-12vram
+- New: vultr/vcg-a16-12c-128g-32vram
+- New: vultr/vcg-a40-8c-40g-16vram
+- New: vultr/vcg-a40-12c-60g-24vram
+- New: vultr/vcg-l40s-16c-180g-48vram
+- New: vultr/vcg-a16-24c-256g-64vram
+- New: vultr/vcg-a40-24c-120g-48vram
+- New: vultr/vcg-a40-96c-480g-192vram
+- New: vultr/vcg-a16-48c-496g-128vram
+- New: vultr/vcg-a16-96c-960g-256vram
+- New: vultr/vcg-l40s-32c-375g-96vram
+- New: vultr/vcg-l40s-64c-750g-192vram
+- New: vultr/vcg-l40s-128c-1500g-384vram
+- New: vultr/vcg-a16-96c-878g-256vram
+- New: vultr/vcg-a100-96c-896g-320vram
+- New: vultr/vcg-h100-216c-1914gb-640vram
+- New: vultr/vcg-b200-248c-2826g-1536vram
+- New: vultr/vcg-mi355x-252c-2872g-2304vram
+- New: vultr/vcg-mi325x-252c-2872g-1536vram
+- New: vultr/vx1-g-2c-8g
+- New: vultr/vx1-m-2c-16g
+- New: vultr/vx1-g-4c-16g
+- New: vultr/vx1-m-4c-32gb
+- New: vultr/vx1-g-8c-32g
+- New: vultr/vx1-m-8c-64gb
+- New: vultr/vx1-g-16c-64g
+- New: vultr/vx1-m-16c-128gb
+- New: vultr/vx1-g-32c-128g
+- New: vultr/vx1-m-32c-256gb
+- New: vultr/vx1-g-48c-192g
+- New: vultr/vx1-m-48c-384gb
+- New: vultr/vx1-g-64c-256g
+- New: vultr/vx1-m-64c-512gb
+- New: vultr/vx1-g-96c-384g
+- New: vultr/vx1-m-96c-768gb
+- New: vultr/vx1-g-192c-768g
+- New: vultr/vx1-m-192c-1536gb
+- New: vultr/vx1-g-2c-8g-120s
+- New: vultr/vx1-m-2c-16g-120s
+- New: vultr/vx1-g-4c-16g-240s
+- New: vultr/vx1-m-4c-32g-240s
+- New: vultr/vx1-g-8c-32g-480s
+- New: vultr/vx1-m-8c-64g-480s
+- New: vultr/vx1-g-16c-64g-960s
+- New: vultr/vx1-m-16c-128g-960s
+- New: vultr/vx1-g-32c-128g-1920s
+- New: vultr/vx1-m-32c-256g-1920s
+- New: vultr/vx1-g-48c-192g-2880s
+- New: vultr/vx1-m-48c-384g-2880s
+- New: vultr/vx1-g-64c-256g-3840s
+- New: vultr/vx1-m-64c-512g-3840s
+- New: vultr/vx1-g-96c-384g-5760s
+- New: vultr/vx1-m-96c-768g-5760s
+- New: vultr/vx1-g-192c-768g-11520s
+- New: vultr/vx1-m-192c-1536g-11520s
+- New: vultr/vbm-4c-32gb
+- New: vultr/vbm-8c-132gb
+- New: vultr/vbm-6c-32gb
+- New: vultr/vbm-24c-256gb-amd
+- New: vultr/vbm-8c-132gb-v2
+- New: vultr/vbm-128c-2048gb-amd
+- New: vultr/vbm-24c-384gb-amd
+- New: vultr/vbm-32c-755gb-amd
+- New: vultr/vbm-64c-1536gb-amd
+- New: vultr/vbm-48c-1024gb-4-a100-gpu
+- New: vultr/vbm-112c-2048gb-8-h100-gpu
+- New: vultr/vbm-112c-2048gb-8-a100-gpu
+- New: vultr/vbm-64c-2048gb-8-l40-gpu
+- New: vultr/vbm-72c-480gb-gh200-gpu
+- New: vultr/vbm-6c-128gb
+- New: vultr/vbm-256c-2048gb-8-mi300x-gpu
+- New: vultr/vbm-256c-3072gb-8-mi325x-gpu
+- New: vultr/vbm-24c-384gb-amd5
+- New: vultr/vbm-256c-3072gb-8-b200-gpu
+- New: vultr/vbm-6c-32gb-amd
+- New: vultr/vbm-8c-64gb-amd
+- New: vultr/vbm-256c-3072gb-8-mi355x-gpu
+- New: vultr/vbm-8c-128gb-amd
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.3xlarge
+- Update: alicloud/ecs.u0.c1m1.4xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+- Update: alicloud/ecs.u0.c1m2.3xlarge
+- Update: alicloud/ecs.u0.c1m2.4xlarge
+- Update: alicloud/ecs.u0.c1m2.xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260604190406 (Jun 04, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26970401199
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.6.0+20260604160950 (Jun 04, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26960564744
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: alicloud/ecs.u0.c1m8.large
+- Update: alicloud/ecs.u0.c1m8.xlarge
+
+## v0.6.0+20260604054506 (Jun 04, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26931427725
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.d1.14xlarge
+
+## v0.6.0+20260604034008 (Jun 04, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26927126057
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+
+## v0.6.0+20260603215142 (Jun 03, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26914302322
+
+
+## v0.5.1+20260603153240 (Jun 03, 2026)
+
+This is an automated release with 21 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26891458632
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.c8i.6xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+## v0.5.1+20260603111208 (Jun 03, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26877968225
+
+
+### server
+
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.c8i.6xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260603053300 (Jun 03, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26863704206
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260602221323 (Jun 02, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26848141070
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.3xlarge
+- Update: alicloud/ecs.u0.c1m1.4xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m1.xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+- Update: alicloud/ecs.u0.c1m2.3xlarge
+- Update: alicloud/ecs.u0.c1m2.4xlarge
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u0.c1m2.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: alicloud/ecs.u0.c1m8.large
+- Update: alicloud/ecs.u0.c1m8.xlarge
+
+## v0.5.1+20260602071134 (Jun 02, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26801850434
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260602044815 (Jun 02, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26797129718
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260602024321 (Jun 02, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26792667663
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.5.1+20260602001055 (Jun 02, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26787536081
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260601105018 (Jun 01, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26747560312
+
+
+### zone
+
+- Update: alicloud/na-south-1/na-south-1b
+
+### server
+
+- New: alicloud/ecs.i5e-erdma.32xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+## v0.5.1+20260601070853 (Jun 01, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26738259459
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.m2.xlarge
+
+## v0.5.1+20260601041304 (Jun 01, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26733010903
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.sccc7.32xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260531231107 (May 31, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26725873009
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.sccc7.32xlarge
+
+## v0.5.1+20260531192953 (May 31, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26720840454
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260531092954 (May 31, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26707703874
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260531071007 (May 31, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26705003124
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260531045102 (May 31, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26702497733
+
+
+### server
+
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+
+## v0.5.1+20260530223952 (May 30, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26695592163
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260530203131 (May 30, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26692844254
+
+
+### server
+
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260530162624 (May 30, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26687619381
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260530141026 (May 30, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26684612399
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260530103219 (May 30, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26680390038
+
+
+### server
+
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260530065214 (May 30, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26676096075
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260530023228 (May 30, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26670674337
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260530000901 (May 30, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26666774885
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+## v0.5.1+20260529155418 (May 29, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26644105964
+
+
+### server
+
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1ne.14xlarge
+
+## v0.5.1+20260529111049 (May 29, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26631287062
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.re4.40xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+
+## v0.5.1+20260529081214 (May 29, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26623463810
+
+
+### server
+
+- New: alicloud/ecs.g9hne.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+
+## v0.5.1+20260529055223 (May 29, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26618609442
+
+
+### server
+
+- New: alicloud/ecs.g9hne.4xlarge
+- New: alicloud/ecs.g9hne.2xlarge
+- New: alicloud/ecs.g9hne.xlarge
+- New: alicloud/ecs.g9hne.large
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.d1.14xlarge
+
+## v0.5.1+20260529021155 (May 29, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26611803688
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+
+## v0.5.1+20260528231323 (May 28, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26605144685
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260528210412 (May 28, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26599320544
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260528181158 (May 28, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26589930589
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260528093159 (May 28, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26563705223
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.i1.3xlarge
+- Update: alicloud/ecs.i1.4xlarge
+
+## v0.5.1+20260528015123 (May 28, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26546959793
+
+
+### server
+
+- Update: alicloud/ecs.ebmg5s.24xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.sccc7.32xlarge
+
+## v0.5.1+20260527231123 (May 27, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26541633759
+
+
+### server
+
+- Update: alicloud/ecs.ebmg5s.24xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.sccc7.32xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260527205346 (May 27, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26534805208
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260527151139 (May 27, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26516394595
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260527105145 (May 27, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26503851647
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.r8i.3xlarge
+
+## v0.5.1+20260527072619 (May 27, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26494773486
+
+
+### server
+
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.r8i.3xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260527041210 (May 27, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26488325517
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260526195215 (May 26, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26468267382
+
+
+### server
+
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+
+## v0.5.1+20260526162853 (May 26, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26457974274
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260526141016 (May 26, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26449855094
+
+
+### server
+
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.re4.40xlarge
+- Update: alicloud/ecs.re6p.26xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260526083559 (May 26, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26438600070
+
+
+### server
+
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+
+## v0.5.1+20260526054436 (May 26, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26432872542
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.sgn8ga-wy-512g-x1.64xlarge
+
+## v0.5.1+20260526021509 (May 26, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26426533689
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260526000647 (May 26, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26423328006
+
+
+### server
+
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260525214943 (May 25, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26419196431
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260525171131 (May 25, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26409500034
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+
+## v0.5.1+20260525145316 (May 25, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26403789151
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260525124536 (May 25, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26398915527
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.poc-test.t22
+
+## v0.5.1+20260525091923 (May 25, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26390412873
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260525061303 (May 25, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26383749487
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260525025242 (May 25, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26379038744
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+
+## v0.5.1+20260524175320 (May 24, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26367060331
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+
+## v0.5.1+20260524154612 (May 24, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26364345186
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+
+## v0.5.1+20260524133706 (May 24, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26361237557
+
+
+### server
+
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+
+## v0.5.1+20260524111142 (May 24, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26358373446
+
+
+### server
+
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+
+## v0.5.1+20260524090515 (May 24, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26355953229
+
+
+### server
+
+- Update: alicloud/ecs.gn8te.16xlarge
+
+## v0.5.1+20260524065131 (May 24, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26353283005
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+
+## v0.5.1+20260524044626 (May 24, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26351139772
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260524023141 (May 24, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26348552772
+
+
+### server
+
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260523231735 (May 23, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26344804384
+
+
+### server
+
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260523205258 (May 23, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26341920651
+
+
+### server
+
+- Update: alicloud/ecs.hfc5.6xlarge
+
+## v0.5.1+20260523182844 (May 23, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26339037311
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.5.1+20260523162253 (May 23, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26336322174
+
+
+### server
+
+- Update: alicloud/ecs.c1.small
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.xlarge
+- Update: alicloud/ecs.s3.large
+
+## v0.5.1+20260523141007 (May 23, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26333536071
+
+
+### server
+
+- Update: alicloud/ecs.c1.small
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.s2.xlarge
+- Update: alicloud/ecs.s3.large
+
+## v0.5.1+20260523093655 (May 23, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26328281126
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260523061026 (May 23, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26324222468
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260523040602 (May 23, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26321876451
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260523020013 (May 23, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26318895345
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260522224704 (May 22, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26313615709
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-48xCPU-960GB-4xH100
+
+## v0.5.1+20260522200946 (May 22, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26306869732
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/PREMIUM-48xCPU-256GB
+- Update: upcloud/PREMIUM-64xCPU-128GB
+- Update: upcloud/PREMIUM-64xCPU-384GB
+- Update: upcloud/PREMIUM-80xCPU-512GB
+
+## v0.5.1+20260522171014 (May 22, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26298664901
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: upcloud/PREMIUM-16xCPU-32GB
+- Update: upcloud/PREMIUM-16xCPU-64GB
+- Update: upcloud/PREMIUM-24xCPU-96GB
+- Update: upcloud/PREMIUM-32xCPU-128GB
+- Update: upcloud/PREMIUM-32xCPU-64GB
+- Update: upcloud/PREMIUM-38xCPU-192GB
+- Update: upcloud/PREMIUM-48xCPU-96GB
+- Update: upcloud/PREMIUM-8xCPU-128GB
+- Update: upcloud/PREMIUM-8xCPU-16GB
+- Update: upcloud/PREMIUM-8xCPU-32GB
+- Update: upcloud/PREMIUM-8xCPU-64GB
+
+## v0.5.1+20260522141519 (May 22, 2026)
+
+This is an automated release with 29 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26289630580
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c8i.12xlarge
+- Update: alicloud/ecs.c8i.16xlarge
+- Update: alicloud/ecs.c8i.24xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.t1.small
+- Update: upcloud/PREMIUM-1xCPU-1GB
+- Update: upcloud/PREMIUM-1xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-16GB
+- Update: upcloud/PREMIUM-2xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-4GB
+- Update: upcloud/PREMIUM-2xCPU-8GB
+- Update: upcloud/PREMIUM-4xCPU-16GB
+- Update: upcloud/PREMIUM-4xCPU-32GB
+- Update: upcloud/PREMIUM-4xCPU-8GB
+- Update: upcloud/STARTER-1xCPU-1GB
+- Update: upcloud/STARTER-1xCPU-2GB
+- Update: upcloud/STARTER-1xCPU-4GB
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-2xCPU-2GB
+- Update: upcloud/STARTER-2xCPU-4GB
+- Update: upcloud/STARTER-2xCPU-8GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-8GB
+
+## v0.5.1+20260522120545 (May 22, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26284277286
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260522094817 (May 22, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26278014520
+
+
+### server
+
+- Update: alicloud/ecs.c8i.12xlarge
+- Update: alicloud/ecs.c8i.16xlarge
+- Update: alicloud/ecs.c8i.24xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.xn4.small
+
+## v0.5.1+20260522061032 (May 22, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26269586476
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260522035224 (May 22, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26265508072
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.s2.small
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260522010715 (May 22, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26259837583
+
+
+### server
+
+- Update: azure/Standard_DC2els_v6
+
+## v0.5.1+20260521220524 (May 21, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26253202130
+
+
+### server
+
+- New: azure/Standard_DC2els_v6
+
+## v0.5.1+20260521200746 (May 21, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26246293702
+
+
+### server
+
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+
+## v0.5.1+20260521174345 (May 21, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26240087951
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260521153427 (May 21, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26232346342
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL4
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-192xCPU-1920GB-8xB200
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL4
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-32xCPU-384GB-2xL4
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL4
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-48xCPU-960GB-4xH100
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL40S
+- Update: upcloud/GPU-96xCPU-1920GB-8xH100
+- Update: upcloud/GPU-96xCPU-960GB-4xB200
+
+## v0.5.1+20260521131314 (May 21, 2026)
+
+This is an automated release with 19 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26224963376
+
+
+### region
+
+- New: alicloud/ap-southeast-8
+
+### zone
+
+- New: alicloud/ap-southeast-8/ap-southeast-8b
+- New: alicloud/ap-southeast-8/ap-southeast-8a
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.gn7i-c56g1.14xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+
+### benchmark
+
+- Update: membench:latency
+- Update: membench:bandwidth_write
+- Update: membench:bandwidth_read
+- Update: membench:bandwidth_copy
+
+## v0.5.1+20260521112705 (May 21, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26222240039
+
+
+## v0.5.1+20260521110318 (May 21, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26219527152
+
+
+### server
+
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.g5.16xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260521081854 (May 21, 2026)
+
+This is an automated release with 21 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26211069905
+
+
+### server
+
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.g5.16xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+
+## v0.5.1+20260521055120 (May 21, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26206059473
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+
+## v0.5.1+20260521030458 (May 21, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26200593594
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.26xlarge
+
+## v0.5.1+20260520195012 (May 20, 2026)
+
+This is an automated release with 15 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26182993576
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260520141218 (May 20, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26164589060
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+
+## v0.5.1+20260520115207 (May 20, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26157656569
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+
+## v0.5.1+20260520093252 (May 20, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26150832960
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+
+## v0.5.1+20260520061346 (May 20, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26142642272
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260520035045 (May 20, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26138165450
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260519230256 (May 19, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26127976596
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+
+## v0.5.1+20260519201517 (May 19, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26119649102
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260519165132 (May 19, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26108479101
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260519132849 (May 19, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26097137340
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+
+## v0.5.1+20260519111928 (May 19, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26090499813
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260519084407 (May 19, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26083743427
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.i5ge.48xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260519062812 (May 19, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26077505464
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.i5ge.48xlarge
+
+## v0.5.1+20260519032651 (May 19, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26071839853
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.s2.small
+
+## v0.5.1+20260519010137 (May 19, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26067167834
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260518203451 (May 18, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26055576030
+
+
+### server
+
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn5-c8g1.14xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+
+## v0.5.1+20260518163142 (May 18, 2026)
+
+This is an automated release with 18 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/26043207538
+
+
+### server
+
+- New: upcloud/GPU-12xCPU-240GB-1xH100
+- New: upcloud/GPU-24xCPU-480GB-2xH100
+- New: upcloud/GPU-24xCPU-240GB-1xB200
+- New: upcloud/GPU-48xCPU-960GB-4xH100
+- New: upcloud/GPU-48xCPU-480GB-2xB200
+- New: upcloud/GPU-96xCPU-1920GB-8xH100
+- New: upcloud/GPU-96xCPU-960GB-4xB200
+- New: upcloud/GPU-192xCPU-1920GB-8xB200
+- Update: alicloud/ecs.g8i.12xlarge
+- Update: alicloud/ecs.g8i.16xlarge
+- Update: alicloud/ecs.g8i.24xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.poc-test.t20
+- Update: alicloud/ecs.r8i.12xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+
+## v0.5.1+20260517181514 (May 17, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25996824380
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+
+## v0.5.1+20260517094408 (May 17, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25985865875
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+
+## v0.5.1+20260516233241 (May 16, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25974621535
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+
+## v0.5.1+20260516061228 (May 16, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25953494700
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.s2.small
+
+## v0.5.1+20260516031256 (May 16, 2026)
+
+This is an automated release with 6 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25949647397
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260515171508 (May 15, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25928124780
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.g8i.12xlarge
+- Update: alicloud/ecs.g8i.16xlarge
+- Update: alicloud/ecs.g8i.24xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.g8i.8xlarge
+- Update: alicloud/ecs.r8i.12xlarge
+- Update: alicloud/ecs.r8i.4xlarge
+- Update: alicloud/ecs.r8i.6xlarge
+- Update: alicloud/ecs.r8i.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260515145040 (May 15, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25921349258
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260515111408 (May 15, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25912255846
+
+
+### server
+
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn7i-4x.16xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260515090523 (May 15, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25907413445
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260515065031 (May 15, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25902619260
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.poc-test.t2
+- Update: alicloud/ecs.poc-test.t50
+- Update: alicloud/ecs.poc-test.t51
+- Update: alicloud/ecs.poc-test.t53
+
+## v0.5.1+20260515035622 (May 15, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25897521770
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+
+## v0.5.1+20260514234924 (May 14, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25890071860
+
+
+### server
+
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260514213321 (May 14, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25883849937
+
+
+### server
+
+- New: aws/mac-m3ultra.metal
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260514175520 (May 14, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25872913381
+
+
+### server
+
+- New: alicloud/ecs.poc-test.t50
+- New: alicloud/ecs.poc-test.t2
+- New: alicloud/ecs.poc-test.t51
+- New: alicloud/ecs.poc-test.t53
+- Update: alicloud/ecs.c8i.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g8i.4xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+
+## v0.5.1+20260514101210 (May 14, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25851760112
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+
+## v0.5.1+20260514041231 (May 14, 2026)
+
+This is an automated release with 17 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25839300274
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+
+## v0.5.1+20260513223040 (May 13, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25827453331
+
+
+### server
+
+- Update: alicloud/ecs.c6t.26xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+## v0.5.1+20260513114532 (May 13, 2026)
+
+This is an automated release with 16 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25794348153
+
+
+### server
+
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g8i.6xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+
+### benchmark
+
+- New: workload_profile:database
+- New: workload_profile:data_analysis
+- New: workload_profile:llm
+- Update: workload_profile:web
+- Update: workload_profile:ml
+- Update: workload_profile:compute
+- Update: workload_profile:cicd
+- Update: workload_profile:cache
+
+## v0.5.1+20260513100744 (May 13, 2026)
+
+This is an automated release with 0 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25791495546
+
+
+## v0.5.1+20260512235508 (May 12, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/25766762097
+
+
+### server
+
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.i1.8xlarge
+
 ## v0.5.1+20260512192537 (May 12, 2026)
 
 This is an automated release with 31 new/updated/deleted resources.

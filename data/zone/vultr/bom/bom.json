@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "bom",
+  "zone_id": "bom",
+  "name": "Mumbai",
+  "api_reference": "Mumbai",
+  "display_name": "Mumbai",
+  "status": "ACTIVE"
+}

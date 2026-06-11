@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "lax",
+  "zone_id": "lax",
+  "name": "Los Angeles",
+  "api_reference": "Los Angeles",
+  "display_name": "Los Angeles",
+  "status": "ACTIVE"
+}

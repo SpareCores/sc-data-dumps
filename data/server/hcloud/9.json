@@ -111,7 +111,11 @@
     "md_clear"
   ],
   "cpus": [],
+  "ecpus": null,
+  "scalability": null,
+  "hw_virt": null,
   "memory_amount": 32768,
+  "memory_amount_actual": null,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -125,9 +129,13 @@
   "storage_size": 240,
   "storage_type": "SSD",
   "storages": [],
-  "network_speed": null,
+  "network_speed_baseline": null,
+  "network_speed_max": null,
+  "network_storage_speed_baseline": null,
+  "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
+  "average_time_to_start": null,
   "status": "INACTIVE"
 }

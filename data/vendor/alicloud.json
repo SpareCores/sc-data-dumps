@@ -10,5 +10,9 @@
   "zip_code": "311121",
   "founding_year": 2009,
   "status_page": "https://status.alibabacloud.com/",
+  "stopped_server_charged": 1,
+  "billing_increment_seconds": 1,
+  "minimum_billing_seconds": 600,
+  "billing_comment": "Billing of stopped server depends on stop mode: Standard or Economical. Min billing 600, 300, or 120 seconds by vCPU.",
   "status": "ACTIVE"
 }
