@@ -22,6 +22,14 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}
     env:
+      TRACKER_PROJECT_NAME: sc-crawler
+      TRACKER_ORCHESTRATOR: github-actions
+      TRACKER_ENV: ci
+      TRACKER_QUIET: "true"
+      TRACKER_EXTERNAL_RUN_ID: ${{ github.run_id }}-${{ github.run_attempt }}
+      TRACKER_STAGE_NAME: ${{ github.workflow }}
+      TRACKER_LANGUAGE: python
+      TRACKER_JOB_NAME: crawl-${{ inputs.run_type }}
       BUCKET: sc-data-public-40e9d310
       FILE: sc-data-all.db
       DB_HOST: ${{ secrets.DB_HOST }}
@@ -55,6 +63,8 @@ jobs:
           add_to_summary: 'true'
       - name: Checkout
         uses: actions/checkout@v6.0.2
+      - name: Install resource-tracker
+        run: bash .github/scripts/install-resource-tracker.sh
       - name: Set up Python
         uses: actions/setup-python@v6.2.0
         with:
@@ -79,6 +89,11 @@ jobs:
           role-session-name: sc-data-dumps-gha
           role-duration-seconds: 43200
           aws-region: us-east-1
+      - name: Get Sentinel API token from SSM
+        run: |
+          SENTINEL_API_TOKEN="$(aws ssm get-parameter --name "/sentinel/api-tokens/public-benchmarks" --with-decryption --region us-east-1 --query 'Parameter.Value' --output text)"
+          echo "::add-mask::$SENTINEL_API_TOKEN"
+          echo "SENTINEL_API_TOKEN=$SENTINEL_API_TOKEN" >> "$GITHUB_ENV"
       - name: Configure GCP credentials
         uses: google-github-actions/auth@v3
         with:
@@ -100,26 +115,36 @@ jobs:
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
       - name: Get current database hourly or if not cached
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly') || steps.cache-sqlite-restore.outputs.cache-hit != 'true'
+        env:
+          TRACKER_TASK_NAME: copy
         run: |
           rm -f ${FILE}
-          sc-crawler copy --source ${REMOTE_DB} --target sqlite:///${FILE}
+          bash .github/scripts/run-with-resource-tracker.sh sc-crawler copy --source ${REMOTE_DB} --target sqlite:///${FILE}
 
       - name: Run SC Crawler on all resources once an hour or on manual request
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly')
-        run: sc-crawler pull --connection-string sqlite:///${FILE}
+        env:
+          TRACKER_TASK_NAME: pull
+        run: bash .github/scripts/run-with-resource-tracker.sh sc-crawler pull --connection-string sqlite:///${FILE}
       - name: Run SC Crawler only for spot prices
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'frequent')
         # Azure Retail Pricing API is super slow, let's delay checking on their spot prices only in the hourly run
-        run: sc-crawler pull --connection-string sqlite:///${FILE} --include-records server_prices_spot --exclude-vendor azure
+        env:
+          TRACKER_TASK_NAME: pull-spot
+        run: bash .github/scripts/run-with-resource-tracker.sh sc-crawler pull --connection-string sqlite:///${FILE} --include-records server_prices_spot --exclude-vendor azure
 
       - name: Sync back (all records)
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'hourly')
+        env:
+          TRACKER_TASK_NAME: sync
         run: |
-          sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
+          bash .github/scripts/run-with-resource-tracker.sh sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
       - name: Sync back (server prices only)
         if: (github.event_name == 'workflow_dispatch' && inputs.run_type == 'frequent')
+        env:
+          TRACKER_TASK_NAME: sync-spot
         run: |
-          sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --sync-tables server_price
+          bash .github/scripts/run-with-resource-tracker.sh sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --sync-tables server_price
           touch changes.log
 
       - name: Upload binary SQLite file if changed
