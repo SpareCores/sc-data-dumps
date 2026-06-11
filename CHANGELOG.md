@@ -1,3 +1,59 @@
+## v0.6.0+20260611180913 (Jun 11, 2026)
+
+This is an automated release with 47 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27364089208
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: alicloud/ecs.u0.c1m8.4xlarge
+- Update: aws/m9g.12xlarge
+- Update: aws/m9g.16xlarge
+- Update: aws/m9g.24xlarge
+- Update: aws/m9g.2xlarge
+- Update: aws/m9g.48xlarge
+- Update: aws/m9g.4xlarge
+- Update: aws/m9g.8xlarge
+- Update: aws/m9gd.12xlarge
+- Update: aws/m9gd.16xlarge
+- Update: aws/m9gd.24xlarge
+- Update: aws/m9gd.2xlarge
+- Update: aws/m9gd.48xlarge
+- Update: aws/m9gd.4xlarge
+- Update: aws/m9gd.8xlarge
+- Update: aws/m9gd.large
+- Update: aws/m9gd.metal-48xl
+- Update: aws/m9gd.xlarge
+- Update: aws/m9g.large
+- Update: aws/m9g.metal-48xl
+- Update: aws/m9g.xlarge
+- Update: azure/Standard_DC2els_v6
+- Update: vultr/vc2-1c-1gb
+
 ## v0.6.0+20260611120209 (Jun 11, 2026)
 
 This is an automated release with 85 new/updated/deleted resources.
