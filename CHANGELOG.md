@@ -1,3 +1,97 @@
+## v0.6.0+20260611120209 (Jun 11, 2026)
+
+This is an automated release with 85 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27342168311
+
+
+### server
+
+- New: azure/Standard_D128nds_v6
+- New: azure/Standard_D128nlds_v6
+- New: azure/Standard_D128nls_v6
+- New: azure/Standard_D128ns_v6
+- New: azure/Standard_D16nds_v6
+- New: azure/Standard_D16nlds_v6
+- New: azure/Standard_D16nls_v6
+- New: azure/Standard_D16ns_v6
+- New: azure/Standard_D2nds_v6
+- New: azure/Standard_D2nlds_v6
+- New: azure/Standard_D2nls_v6
+- New: azure/Standard_D2ns_v6
+- New: azure/Standard_D32nds_v6
+- New: azure/Standard_D32nlds_v6
+- New: azure/Standard_D32nls_v6
+- New: azure/Standard_D32ns_v6
+- New: azure/Standard_D48nds_v6
+- New: azure/Standard_D48nlds_v6
+- New: azure/Standard_D48nls_v6
+- New: azure/Standard_D48ns_v6
+- New: azure/Standard_D4nds_v6
+- New: azure/Standard_D4nlds_v6
+- New: azure/Standard_D4nls_v6
+- New: azure/Standard_D4ns_v6
+- New: azure/Standard_D64nds_v6
+- New: azure/Standard_D64nlds_v6
+- New: azure/Standard_D64nls_v6
+- New: azure/Standard_D64ns_v6
+- New: azure/Standard_D8nds_v6
+- New: azure/Standard_D8nlds_v6
+- New: azure/Standard_D8nls_v6
+- New: azure/Standard_D8ns_v6
+- New: azure/Standard_D96nds_v6
+- New: azure/Standard_D96nlds_v6
+- New: azure/Standard_D96nls_v6
+- New: azure/Standard_D96ns_v6
+- New: azure/Standard_E128nds_v6
+- New: azure/Standard_E128ns_v6
+- New: azure/Standard_E16nds_v6
+- New: azure/Standard_E16ns_v6
+- New: azure/Standard_E2nds_v6
+- New: azure/Standard_E2ns_v6
+- New: azure/Standard_E32nds_v6
+- New: azure/Standard_E32ns_v6
+- New: azure/Standard_E48nds_v6
+- New: azure/Standard_E48ns_v6
+- New: azure/Standard_E4nds_v6
+- New: azure/Standard_E4ns_v6
+- New: azure/Standard_E64nds_v6
+- New: azure/Standard_E64ns_v6
+- New: azure/Standard_E8nds_v6
+- New: azure/Standard_E8ns_v6
+- New: azure/Standard_E96nds_v6
+- New: azure/Standard_E96ns_v6
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c7nex.16xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: aws/m9gd.medium
+- Update: aws/m9g.medium
+- Update: vultr/vbm-48c-1024gb-4-a100-gpu
+- Update: vultr/vcg-a100-96c-896g-320vram
+- Update: vultr/vcg-a16-96c-878g-256vram
+- Update: vultr/vcg-b200-248c-2826g-1536vram
+- Update: vultr/vcg-h100-216c-1914gb-640vram
+- Update: vultr/vcg-mi325x-252c-2872g-1536vram
+- Update: vultr/vcg-mi355x-252c-2872g-2304vram
+
 ## v0.6.0+20260611023009 (Jun 11, 2026)
 
 This is an automated release with 12 new/updated/deleted resources.
