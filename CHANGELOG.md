@@ -1,3 +1,96 @@
+## v0.6.0+20260613161100 (Jun 13, 2026)
+
+This is an automated release with 84 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27470450633
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.ebmgn6i.24xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.3xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+- Update: vultr/vbm-24c-256gb-amd
+- Update: vultr/vbm-24c-384gb-amd
+- Update: vultr/vbm-32c-755gb-amd
+- Update: vultr/vbm-8c-128gb-amd
+- Update: vultr/vbm-8c-132gb
+- Update: vultr/vbm-8c-132gb-v2
+- Update: vultr/vc2-16c-64gb
+- Update: vultr/vc2-24c-96gb
+- Update: vultr/vcg-a16-12c-128g-32vram
+- Update: vultr/vcg-a16-24c-256g-64vram
+- Update: vultr/vcg-a16-48c-496g-128vram
+- Update: vultr/vcg-a16-6c-64g-16vram
+- Update: vultr/vcg-a40-4c-20g-8vram
+- Update: vultr/vhf-12c-48gb
+- Update: vultr/vhf-16c-58gb
+- Update: vultr/vhf-8c-32gb
+- Update: vultr/voc-c-16c-32gb-300s-amd
+- Update: vultr/voc-c-16c-32gb-500s-amd
+- Update: vultr/voc-c-32c-64gb-1000s-amd
+- Update: vultr/voc-c-32c-64gb-500s-amd
+- Update: vultr/voc-g-16c-64gb-320s-amd
+- Update: vultr/voc-g-24c-96gb-480s-amd
+- Update: vultr/voc-g-32c-128gb-640s-amd
+- Update: vultr/voc-g-40c-160gb-768s-amd
+- Update: vultr/voc-g-64c-192gb-960s-amd
+- Update: vultr/voc-g-8c-32gb-160s-amd
+- Update: vultr/voc-g-96c-256gb-1280s-amd
+- Update: vultr/voc-m-16c-128gb-1600s-amd
+- Update: vultr/voc-m-16c-128gb-3200s-amd
+- Update: vultr/voc-m-16c-128gb-800s-amd
+- Update: vultr/voc-m-24c-192gb-1200s-amd
+- Update: vultr/voc-m-24c-192gb-2400s-amd
+- Update: vultr/voc-m-24c-192gb-4800s-amd
+- Update: vultr/voc-m-32c-256gb-1600s-amd
+- Update: vultr/voc-m-32c-256gb-3200s-amd
+- Update: vultr/voc-m-4c-32gb-400s-amd
+- Update: vultr/voc-m-4c-32gb-800s-amd
+- Update: vultr/voc-m-8c-64gb-1600s-amd
+- Update: vultr/voc-m-8c-64gb-400s-amd
+- Update: vultr/voc-m-8c-64gb-800s-amd
+- Update: vultr/voc-s-16c-128gb-2560s-amd
+- Update: vultr/voc-s-16c-128gb-3840s-amd
+- Update: vultr/voc-s-24c-192gb-3840s-amd
+- Update: vultr/voc-s-24c-192gb-5760s-amd
+- Update: vultr/voc-s-32c-256gb-5760s-amd
+- Update: vultr/voc-s-4c-32gb-640s-amd
+- Update: vultr/voc-s-4c-32gb-960s-amd
+- Update: vultr/voc-s-8c-64gb-1280s-amd
+- Update: vultr/voc-s-8c-64gb-1920s-amd
+- Update: vultr/vx1-g-16c-64g
+- Update: vultr/vx1-g-16c-64g-960s
+- Update: vultr/vx1-g-32c-128g
+- Update: vultr/vx1-g-32c-128g-1920s
+- Update: vultr/vx1-g-48c-192g
+- Update: vultr/vx1-g-48c-192g-2880s
+- Update: vultr/vx1-g-64c-256g
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-g-8c-32g-480s
+- Update: vultr/vx1-m-16c-128g-960s
+- Update: vultr/vx1-m-16c-128gb
+- Update: vultr/vx1-m-32c-256g-1920s
+- Update: vultr/vx1-m-32c-256gb
+- Update: vultr/vx1-m-48c-384g-2880s
+- Update: vultr/vx1-m-48c-384gb
+- Update: vultr/vx1-m-64c-512g-3840s
+- Update: vultr/vx1-m-64c-512gb
+- Update: vultr/vx1-m-8c-64g-480s
+- Update: vultr/vx1-m-8c-64gb
+
 ## v0.6.0+20260613020753 (Jun 13, 2026)
 
 This is an automated release with 267 new/updated/deleted resources.
