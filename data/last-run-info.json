@@ -105,7 +105,7 @@
     "pyjwt==2.13.0",
     "pymdown-extensions==10.21.3",
     "pympler==1.1",
-    "pytest==9.0.3",
+    "pytest==9.1.0",
     "python-dateutil==2.9.0.post0",
     "pyyaml==6.0.3",
     "pyyaml-env-tag==1.1",
@@ -132,10 +132,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.6.0",
-    "NEWVERSION": "v0.6.0+20260613161100",
-    "NEWVERSIONDATE": "v0.6.0+20260613161100 (Jun 13, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 84 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27470450633",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27470450633"
+    "NEWVERSION": "v0.6.0+20260615112537",
+    "NEWVERSIONDATE": "v0.6.0+20260615112537 (Jun 15, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 14 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27540084866",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27540084866"
   },
-  "timestamp": "2026-06-13T16:11:00Z"
+  "timestamp": "2026-06-15T11:25:37Z"
 }
