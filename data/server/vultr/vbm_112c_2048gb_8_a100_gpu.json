@@ -38,7 +38,7 @@
   "gpu_memory_total": 655360,
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ampere",
-  "gpu_model": "A100 SXM",
+  "gpu_model": "A100",
   "gpus": [],
   "storage_size": 3840,
   "storage_type": "NVME_SSD",
