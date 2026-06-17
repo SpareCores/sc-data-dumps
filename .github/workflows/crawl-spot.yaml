@@ -1,0 +1,14 @@
+name: Crawl (spot prices)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    permissions:
+      contents: write
+      id-token: write
+    uses: ./.github/workflows/crawl-reusable.yaml
+    with:
+      run_type: spot
+    secrets: inherit
