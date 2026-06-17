@@ -36,8 +36,8 @@
   "gpu_count": 2.0,
   "gpu_memory_min": 49152,
   "gpu_memory_total": 98304,
-  "gpu_manufacturer": null,
-  "gpu_family": null,
+  "gpu_manufacturer": "NVIDIA",
+  "gpu_family": "Ada Lovelace",
   "gpu_model": "L20",
   "gpus": [],
   "storage_size": 0,
@@ -51,5 +51,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

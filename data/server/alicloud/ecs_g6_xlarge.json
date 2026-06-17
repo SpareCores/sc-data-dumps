@@ -108,8 +108,8 @@
     "avx512_vnni"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 2.6,
+  "scalability": 65.0,
   "hw_virt": 0,
   "memory_amount": 16384,
   "memory_amount_actual": 16384,

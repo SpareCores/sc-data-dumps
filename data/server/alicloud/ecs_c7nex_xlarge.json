@@ -125,8 +125,8 @@
     "arch_capabilities"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 2.1,
+  "scalability": 52.5,
   "hw_virt": 0,
   "memory_amount": 8192,
   "memory_amount_actual": 8192,
