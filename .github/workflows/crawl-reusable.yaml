@@ -299,7 +299,10 @@ jobs:
             changes.log
             data/
 
-      - name: Notify Spare Cores statuspage monitoring that the job run
+      - name: Notify Spare Cores statuspage monitoring of price updates
         run: |
           curl -s https://uptime.betterstack.com/api/v1/heartbeat/NTnwVC261MyrLnevn4WJc5Jh # full
           curl -s https://uptime.betterstack.com/api/v1/heartbeat/3krkJKCMduZq5FaDoLt1YZF3 # daily
+      - name: Notify Spare Cores statuspage monitoring of metadata updates
+        if: inputs.run_type == 'full'
+        run: curl -s https://uptime.betterstack.com/api/v1/heartbeat/1Ff2CK32z4vBz8BqxHrrAjFg
