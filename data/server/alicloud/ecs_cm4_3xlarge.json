@@ -118,7 +118,7 @@
   "memory_speed": null,
   "memory_ecc": null,
   "gpu_count": 0.0,
-  "gpu_memory_min": null,
+  "gpu_memory_min": 0,
   "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,
@@ -134,6 +134,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 9.0,
   "status": "ACTIVE"
 }
