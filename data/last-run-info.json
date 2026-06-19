@@ -49,10 +49,10 @@
     "google-cloud-compute==1.48.0",
     "googleapis-common-protos==1.75.0",
     "greenlet==3.5.2",
-    "griffe==2.0.2",
+    "griffe==2.1.0",
     "griffe-inherited-docstrings==1.1.3",
-    "griffecli==2.0.2",
-    "griffelib==2.0.2",
+    "griffecli==2.1.0",
+    "griffelib==2.1.0",
     "grpc-google-iam-v1==0.14.4",
     "grpcio==1.81.1",
     "grpcio-status==1.81.1",
@@ -134,10 +134,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.6.0",
-    "NEWVERSION": "v0.6.0+20260619121638",
-    "NEWVERSIONDATE": "v0.6.0+20260619121638 (Jun 19, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 9 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27823000398",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27823000398"
+    "NEWVERSION": "v0.6.0+20260619145121",
+    "NEWVERSIONDATE": "v0.6.0+20260619145121 (Jun 19, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27829569065",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27829569065"
   },
-  "timestamp": "2026-06-19T12:16:38Z"
+  "timestamp": "2026-06-19T14:51:21Z"
 }
