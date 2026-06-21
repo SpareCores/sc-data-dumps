@@ -27,7 +27,7 @@
   "cpus": [],
   "ecpus": null,
   "scalability": null,
-  "hw_virt": null,
+  "hw_virt": 1,
   "memory_amount": 163840,
   "memory_amount_actual": null,
   "memory_generation": null,
@@ -56,6 +56,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 322.0,
   "status": "ACTIVE"
 }
