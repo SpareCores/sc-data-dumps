@@ -118,7 +118,7 @@
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@c3499668a5f21719fda6e0af4d9b364c5f7da38b",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@4da85e349ff079ad44d24024175cb059ef1a71cb",
     "sqlalchemy==2.0.51",
     "sqlmodel==0.0.38",
     "tinycss2==1.5.1",
@@ -133,11 +133,11 @@
     "yarl==1.24.2"
   ],
   "environment_variables": {
-    "CRAWLER_VERSION": "0.6.0",
-    "NEWVERSION": "v0.6.0+20260621135305",
-    "NEWVERSIONDATE": "v0.6.0+20260621135305 (Jun 21, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 15 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27904817766",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27904817766"
+    "CRAWLER_VERSION": "0.7.0",
+    "NEWVERSION": "v0.7.0+20260621161857",
+    "NEWVERSIONDATE": "v0.7.0+20260621161857 (Jun 21, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 83 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27908426350",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27908426350"
   },
-  "timestamp": "2026-06-21T13:53:05Z"
+  "timestamp": "2026-06-21T16:18:57Z"
 }

@@ -1,3 +1,95 @@
+## v0.7.0+20260621161857 (Jun 21, 2026)
+
+This is an automated release with 83 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27908426350
+
+
+### server
+
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.gn8is-4x.16xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: azure/Standard_D128ads_v7
+- Update: azure/Standard_D128alds_v7
+- Update: azure/Standard_D128als_v7
+- Update: azure/Standard_D128as_v7
+- Update: azure/Standard_D160als_v7
+- Update: azure/Standard_D160as_v7
+- Update: azure/Standard_D32ds_v7
+- Update: azure/Standard_D32lds_v7
+- Update: azure/Standard_D32nls_v6
+- Update: azure/Standard_D32ns_v6
+- Update: azure/Standard_D32s_v7
+- Update: azure/Standard_D48ads_v7
+- Update: azure/Standard_D48ds_v7
+- Update: azure/Standard_D48lds_v7
+- Update: azure/Standard_D48ls_v7
+- Update: azure/Standard_D48nls_v6
+- Update: azure/Standard_D48s_v7
+- Update: azure/Standard_D64ads_v7
+- Update: azure/Standard_D64alds_v7
+- Update: azure/Standard_D64als_v7
+- Update: azure/Standard_D64as_v7
+- Update: azure/Standard_D64lds_v7
+- Update: azure/Standard_D64ls_v7
+- Update: azure/Standard_D64nls_v6
+- Update: azure/Standard_D64ns_v6
+- Update: azure/Standard_D64s_v7
+- Update: azure/Standard_D96ads_v7
+- Update: azure/Standard_D96alds_v7
+- Update: azure/Standard_D96als_v7
+- Update: azure/Standard_D96as_v7
+- Update: azure/Standard_E20ds_v7
+- Update: azure/Standard_E20s_v7
+- Update: azure/Standard_E32ds_v7
+- Update: azure/Standard_E32ns_v6
+- Update: azure/Standard_E32s_v7
+- Update: azure/Standard_E48ads_v7
+- Update: azure/Standard_E48as_v7
+- Update: azure/Standard_E48ds_v7
+- Update: azure/Standard_E48ns_v6
+- Update: azure/Standard_E48s_v7
+- Update: azure/Standard_E64-16ads_v7
+- Update: azure/Standard_E64-16as_v7
+- Update: azure/Standard_E64-32ads_v7
+- Update: azure/Standard_E64-32as_v7
+- Update: azure/Standard_E64ads_v7
+- Update: azure/Standard_E64as_v7
+- Update: azure/Standard_E96-24ads_v7
+- Update: azure/Standard_E96-24as_v7
+- Update: azure/Standard_E96-48ads_v7
+- Update: azure/Standard_E96-48as_v7
+- Update: azure/Standard_E96ads_v7
+- Update: azure/Standard_E96as_v7
+- Update: azure/Standard_F32-16amds_v7
+- Update: azure/Standard_F32-16ams_v7
+- Update: azure/Standard_F32-8amds_v7
+- Update: azure/Standard_F32-8ams_v7
+- Update: azure/Standard_F32ads_v7
+- Update: azure/Standard_F32amds_v7
+- Update: azure/Standard_F48ads_v7
+- Update: azure/Standard_F48alds_v7
+- Update: azure/Standard_F48als_v7
+- Update: azure/Standard_F48amds_v7
+- Update: azure/Standard_F48ams_v7
+- Update: azure/Standard_F48as_v7
+- Update: azure/Standard_F64-16amds_v7
+- Update: azure/Standard_F64-16ams_v7
+- Update: azure/Standard_F64-32amds_v7
+- Update: azure/Standard_F64-32ams_v7
+- Update: azure/Standard_F64ads_v7
+- Update: azure/Standard_F64alds_v7
+- Update: azure/Standard_F64als_v7
+- Update: azure/Standard_F64amds_v7
+- Update: azure/Standard_F64ams_v7
+- Update: azure/Standard_F64as_v7
+- Update: azure/Standard_F80ads_v7
+- Update: azure/Standard_F80alds_v7
+- Update: azure/Standard_F80als_v7
+- Update: azure/Standard_F80ams_v7
+- Update: azure/Standard_F80as_v7
+
 ## v0.6.0+20260621135305 (Jun 21, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
