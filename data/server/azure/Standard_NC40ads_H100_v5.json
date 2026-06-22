@@ -151,7 +151,7 @@
       "family": "Hopper",
       "model": "NVIDIA H100 NVL",
       "memory": 95830,
-      "firmware_version": "535.230.02",
+      "firmware_version": "595.71.05",
       "bios_version": "96.00.9F.00.04",
       "graphics_clock": 1785,
       "sm_clock": 1785,
@@ -180,6 +180,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 28.0,
   "status": "ACTIVE"
 }
