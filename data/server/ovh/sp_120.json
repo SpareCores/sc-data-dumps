@@ -4,7 +4,7 @@
   "name": "sp-120",
   "api_reference": "sp-120",
   "display_name": "sp-120",
-  "description": "None (8 vCPUs, 120 GiB RAM, 800 GB SSD)",
+  "description": "8 vCPUs, 120 GiB RAM, 800 GB SSD",
   "family": null,
   "vcpus": 8,
   "hypervisor": "KVM",

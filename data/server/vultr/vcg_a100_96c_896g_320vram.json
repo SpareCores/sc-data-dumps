@@ -4,7 +4,7 @@
   "name": "vcg-a100-96c-896g-320vram",
   "api_reference": "vcg-a100-96c-896g-320vram",
   "display_name": "vcg-a100-96c-896g-320vram",
-  "description": null,
+  "description": "Dedicated Metal GPU (96 vCPUs, 896.0 GiB RAM, 3072 GB NVMe, 4xA100 40 GiB VRAM)",
   "family": "Dedicated Metal GPU",
   "vcpus": 96,
   "hypervisor": null,

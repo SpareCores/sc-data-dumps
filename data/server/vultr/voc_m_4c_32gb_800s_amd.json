@@ -4,7 +4,7 @@
   "name": "voc-m-4c-32gb-800s-amd",
   "api_reference": "voc-m-4c-32gb-800s-amd",
   "display_name": "voc-m-4c-32gb-800s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (4 vCPUs, 32.0 GiB RAM, 800 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 4,
   "hypervisor": null,

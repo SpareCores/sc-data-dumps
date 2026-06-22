@@ -4,7 +4,7 @@
   "name": "vcg-a40-2c-10g-4vram",
   "api_reference": "vcg-a40-2c-10g-4vram",
   "display_name": "vcg-a40-2c-10g-4vram",
-  "description": null,
+  "description": "Cloud GPU (2 vCPUs, 10.0 GiB RAM, 180 GB NVMe, 0.0833xA40 48 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 2,
   "hypervisor": null,

@@ -4,7 +4,7 @@
   "name": "vhp-1c-1gb-intel",
   "api_reference": "vhp-1c-1gb-intel",
   "display_name": "vhp-1c-1gb-intel",
-  "description": null,
+  "description": "High Performance (1 vCPUs, 1.0 GiB RAM, 25 GB NVMe)",
   "family": "High Performance",
   "vcpus": 1,
   "hypervisor": null,

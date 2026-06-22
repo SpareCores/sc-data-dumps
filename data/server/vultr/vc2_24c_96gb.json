@@ -4,7 +4,7 @@
   "name": "vc2-24c-96gb",
   "api_reference": "vc2-24c-96gb",
   "display_name": "vc2-24c-96gb",
-  "description": null,
+  "description": "Cloud Compute (24 vCPUs, 96.0 GiB RAM, 1600 GB NVMe)",
   "family": "Cloud Compute",
   "vcpus": 24,
   "hypervisor": null,

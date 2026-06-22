@@ -4,7 +4,7 @@
   "name": "s1-8",
   "api_reference": "s1-8",
   "display_name": "s1-8",
-  "description": "None (2 vCPUs, 8 GiB RAM, 40 GB SSD)",
+  "description": "2 vCPUs, 8 GiB RAM, 40 GB SSD",
   "family": null,
   "vcpus": 2,
   "hypervisor": "KVM",

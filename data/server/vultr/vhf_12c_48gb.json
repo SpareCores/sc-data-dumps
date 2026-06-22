@@ -4,7 +4,7 @@
   "name": "vhf-12c-48gb",
   "api_reference": "vhf-12c-48gb",
   "display_name": "vhf-12c-48gb",
-  "description": null,
+  "description": "High Frequency Compute (12 vCPUs, 48.0 GiB RAM, 768 GB NVMe)",
   "family": "High Frequency Compute",
   "vcpus": 12,
   "hypervisor": null,

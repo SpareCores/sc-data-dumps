@@ -4,7 +4,7 @@
   "name": "hg-7",
   "api_reference": "hg-7",
   "display_name": "hg-7",
-  "description": "None (2 vCPUs, 7 GiB RAM, 200 GB SSD)",
+  "description": "2 vCPUs, 7 GiB RAM, 200 GB SSD",
   "family": null,
   "vcpus": 2,
   "hypervisor": "KVM",

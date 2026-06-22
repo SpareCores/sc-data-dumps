@@ -4,7 +4,7 @@
   "name": "hg-30",
   "api_reference": "hg-30",
   "display_name": "hg-30",
-  "description": "None (8 vCPUs, 30 GiB RAM, 800 GB SSD)",
+  "description": "8 vCPUs, 30 GiB RAM, 800 GB SSD",
   "family": null,
   "vcpus": 8,
   "hypervisor": "KVM",

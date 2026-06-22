@@ -4,7 +4,7 @@
   "name": "vx1-m-8c-64gb",
   "api_reference": "vx1-m-8c-64gb",
   "display_name": "vx1-m-8c-64gb",
-  "description": null,
+  "description": "VX1 Cloud Compute (8 vCPUs, 64.0 GiB RAM)",
   "family": "VX1 Cloud Compute",
   "vcpus": 8,
   "hypervisor": null,

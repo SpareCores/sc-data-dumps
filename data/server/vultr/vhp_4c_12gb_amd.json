@@ -4,7 +4,7 @@
   "name": "vhp-4c-12gb-amd",
   "api_reference": "vhp-4c-12gb-amd",
   "display_name": "vhp-4c-12gb-amd",
-  "description": null,
+  "description": "High Performance (4 vCPUs, 12.0 GiB RAM, 260 GB NVMe)",
   "family": "High Performance",
   "vcpus": 4,
   "hypervisor": null,

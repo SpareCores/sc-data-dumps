@@ -4,7 +4,7 @@
   "name": "voc-g-64c-192gb-960s-amd",
   "api_reference": "voc-g-64c-192gb-960s-amd",
   "display_name": "voc-g-64c-192gb-960s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (64 vCPUs, 192.0 GiB RAM, 960 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 64,
   "hypervisor": null,

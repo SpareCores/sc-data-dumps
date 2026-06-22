@@ -4,7 +4,7 @@
   "name": "g1-15",
   "api_reference": "g1-15",
   "display_name": "g1-15",
-  "description": "None (4 vCPUs, 15 GiB RAM, 100 GB SSD, 1xGeForce GTX 1060 6 GiB VRAM)",
+  "description": "4 vCPUs, 15 GiB RAM, 100 GB SSD, 1xGeForce GTX 1060 6 GiB VRAM",
   "family": null,
   "vcpus": 4,
   "hypervisor": "KVM",

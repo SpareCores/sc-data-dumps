@@ -4,7 +4,7 @@
   "name": "vc2-6c-16gb",
   "api_reference": "vc2-6c-16gb",
   "display_name": "vc2-6c-16gb",
-  "description": null,
+  "description": "Cloud Compute (6 vCPUs, 16.0 GiB RAM, 320 GB NVMe)",
   "family": "Cloud Compute",
   "vcpus": 6,
   "hypervisor": null,

@@ -4,7 +4,7 @@
   "name": "voc-m-2c-16gb-200s-amd",
   "api_reference": "voc-m-2c-16gb-200s-amd",
   "display_name": "voc-m-2c-16gb-200s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (2 vCPUs, 16.0 GiB RAM, 200 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 2,
   "hypervisor": null,

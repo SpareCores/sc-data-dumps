@@ -4,7 +4,7 @@
   "name": "vx1-g-16c-64g",
   "api_reference": "vx1-g-16c-64g",
   "display_name": "vx1-g-16c-64g",
-  "description": null,
+  "description": "VX1 Cloud Compute (16 vCPUs, 64.0 GiB RAM)",
   "family": "VX1 Cloud Compute",
   "vcpus": 16,
   "hypervisor": null,

@@ -4,7 +4,7 @@
   "name": "sp-240",
   "api_reference": "sp-240",
   "display_name": "sp-240",
-  "description": "None (16 vCPUs, 240 GiB RAM, 1600 GB SSD)",
+  "description": "16 vCPUs, 240 GiB RAM, 1600 GB SSD",
   "family": null,
   "vcpus": 16,
   "hypervisor": "KVM",

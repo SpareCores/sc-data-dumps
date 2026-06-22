@@ -4,7 +4,7 @@
   "name": "vhf-6c-24gb",
   "api_reference": "vhf-6c-24gb",
   "display_name": "vhf-6c-24gb",
-  "description": null,
+  "description": "High Frequency Compute (6 vCPUs, 24.0 GiB RAM, 448 GB NVMe)",
   "family": "High Frequency Compute",
   "vcpus": 6,
   "hypervisor": null,

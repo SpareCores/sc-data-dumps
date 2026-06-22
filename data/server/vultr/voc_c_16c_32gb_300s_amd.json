@@ -4,7 +4,7 @@
   "name": "voc-c-16c-32gb-300s-amd",
   "api_reference": "voc-c-16c-32gb-300s-amd",
   "display_name": "voc-c-16c-32gb-300s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (16 vCPUs, 32.0 GiB RAM, 300 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 16,
   "hypervisor": null,

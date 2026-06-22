@@ -4,7 +4,7 @@
   "name": "vbm-72c-480gb-gh200-gpu",
   "api_reference": "vbm-72c-480gb-gh200-gpu",
   "display_name": "vbm-72c-480gb-gh200-gpu",
-  "description": null,
+  "description": "Bare Metal NVMe (72 vCPUs, 480.0 GiB RAM, 960 GB NVMe, 1xGH200 96 GiB VRAM)",
   "family": "Bare Metal NVMe",
   "vcpus": 72,
   "hypervisor": null,

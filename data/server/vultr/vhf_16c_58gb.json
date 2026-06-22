@@ -4,7 +4,7 @@
   "name": "vhf-16c-58gb",
   "api_reference": "vhf-16c-58gb",
   "display_name": "vhf-16c-58gb",
-  "description": null,
+  "description": "High Frequency Compute (16 vCPUs, 58.0 GiB RAM, 1024 GB NVMe)",
   "family": "High Frequency Compute",
   "vcpus": 16,
   "hypervisor": null,

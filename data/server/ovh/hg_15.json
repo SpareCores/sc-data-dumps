@@ -4,7 +4,7 @@
   "name": "hg-15",
   "api_reference": "hg-15",
   "display_name": "hg-15",
-  "description": "None (4 vCPUs, 15 GiB RAM, 400 GB SSD)",
+  "description": "4 vCPUs, 15 GiB RAM, 400 GB SSD",
   "family": null,
   "vcpus": 4,
   "hypervisor": "KVM",

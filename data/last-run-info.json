@@ -38,7 +38,7 @@
     "colorama==0.4.6",
     "cryptography==46.0.7",
     "cssselect2==0.9.0",
-    "darabonba-core==1.0.6",
+    "darabonba-core==1.0.7",
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
@@ -134,10 +134,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.7.0",
-    "NEWVERSION": "v0.7.0+20260622115142",
-    "NEWVERSIONDATE": "v0.7.0+20260622115142 (Jun 22, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 0 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27949359070",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27949359070"
+    "NEWVERSION": "v0.7.0+20260622135859",
+    "NEWVERSIONDATE": "v0.7.0+20260622135859 (Jun 22, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 236 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27953790203",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/27953790203"
   },
-  "timestamp": "2026-06-22T11:51:42Z"
+  "timestamp": "2026-06-22T13:58:59Z"
 }

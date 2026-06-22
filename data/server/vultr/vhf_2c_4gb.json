@@ -4,7 +4,7 @@
   "name": "vhf-2c-4gb",
   "api_reference": "vhf-2c-4gb",
   "display_name": "vhf-2c-4gb",
-  "description": null,
+  "description": "High Frequency Compute (2 vCPUs, 4.0 GiB RAM, 128 GB NVMe)",
   "family": "High Frequency Compute",
   "vcpus": 2,
   "hypervisor": null,

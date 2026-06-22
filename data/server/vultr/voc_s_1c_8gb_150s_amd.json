@@ -4,7 +4,7 @@
   "name": "voc-s-1c-8gb-150s-amd",
   "api_reference": "voc-s-1c-8gb-150s-amd",
   "display_name": "voc-s-1c-8gb-150s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (1 vCPUs, 8.0 GiB RAM, 150 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 1,
   "hypervisor": null,

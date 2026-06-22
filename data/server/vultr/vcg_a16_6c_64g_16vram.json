@@ -4,7 +4,7 @@
   "name": "vcg-a16-6c-64g-16vram",
   "api_reference": "vcg-a16-6c-64g-16vram",
   "display_name": "vcg-a16-6c-64g-16vram",
-  "description": null,
+  "description": "Cloud GPU (6 vCPUs, 64.0 GiB RAM, 350 GB NVMe, 1xA16 16 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 6,
   "hypervisor": null,

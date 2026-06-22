@@ -4,7 +4,7 @@
   "name": "g2-30",
   "api_reference": "g2-30",
   "display_name": "g2-30",
-  "description": "None (8 vCPUs, 30 GiB RAM, 200 GB SSD, 1xGeForce GTX 1070 6 GiB VRAM)",
+  "description": "8 vCPUs, 30 GiB RAM, 200 GB SSD, 1xGeForce GTX 1070 6 GiB VRAM",
   "family": null,
   "vcpus": 8,
   "hypervisor": "KVM",

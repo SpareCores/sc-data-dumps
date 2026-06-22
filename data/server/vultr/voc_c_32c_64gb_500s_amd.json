@@ -4,7 +4,7 @@
   "name": "voc-c-32c-64gb-500s-amd",
   "api_reference": "voc-c-32c-64gb-500s-amd",
   "display_name": "voc-c-32c-64gb-500s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (32 vCPUs, 64.0 GiB RAM, 500 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 32,
   "hypervisor": null,

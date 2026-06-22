@@ -4,7 +4,7 @@
   "name": "voc-g-1c-4gb-30s-amd",
   "api_reference": "voc-g-1c-4gb-30s-amd",
   "display_name": "voc-g-1c-4gb-30s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (1 vCPUs, 4.0 GiB RAM, 30 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 1,
   "hypervisor": null,

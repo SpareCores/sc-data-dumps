@@ -4,7 +4,7 @@
   "name": "vhp-8c-16gb-amd",
   "api_reference": "vhp-8c-16gb-amd",
   "display_name": "vhp-8c-16gb-amd",
-  "description": null,
+  "description": "High Performance (8 vCPUs, 16.0 GiB RAM, 350 GB NVMe)",
   "family": "High Performance",
   "vcpus": 8,
   "hypervisor": null,

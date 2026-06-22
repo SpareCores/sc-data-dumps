@@ -4,7 +4,7 @@
   "name": "vhp-2c-2gb-amd",
   "api_reference": "vhp-2c-2gb-amd",
   "display_name": "vhp-2c-2gb-amd",
-  "description": null,
+  "description": "High Performance (2 vCPUs, 2.0 GiB RAM, 60 GB NVMe)",
   "family": "High Performance",
   "vcpus": 2,
   "hypervisor": null,

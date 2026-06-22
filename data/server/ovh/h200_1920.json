@@ -4,7 +4,7 @@
   "name": "h200-1920",
   "api_reference": "h200-1920",
   "display_name": "h200-1920",
-  "description": "None (224 vCPUs, 1920 GiB RAM, 8080 GB NVMe, 8xH200 141 GiB VRAM)",
+  "description": "224 vCPUs, 1920 GiB RAM, 8080 GB NVMe, 8xH200 141 GiB VRAM",
   "family": null,
   "vcpus": 224,
   "hypervisor": "KVM",

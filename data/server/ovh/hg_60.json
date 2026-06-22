@@ -4,7 +4,7 @@
   "name": "hg-60",
   "api_reference": "hg-60",
   "display_name": "hg-60",
-  "description": "None (16 vCPUs, 60 GiB RAM, 1600 GB SSD)",
+  "description": "16 vCPUs, 60 GiB RAM, 1600 GB SSD",
   "family": null,
   "vcpus": 16,
   "hypervisor": "KVM",

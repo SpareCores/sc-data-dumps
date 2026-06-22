@@ -4,7 +4,7 @@
   "name": "vx1-g-8c-32g",
   "api_reference": "vx1-g-8c-32g",
   "display_name": "vx1-g-8c-32g",
-  "description": null,
+  "description": "VX1 Cloud Compute (8 vCPUs, 32.0 GiB RAM)",
   "family": "VX1 Cloud Compute",
   "vcpus": 8,
   "hypervisor": null,

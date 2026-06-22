@@ -4,7 +4,7 @@
   "name": "vps-ssd-1",
   "api_reference": "vps-ssd-1",
   "display_name": "vps-ssd-1",
-  "description": "None (1 vCPUs, 2 GiB RAM, 10 GB SSD)",
+  "description": "1 vCPUs, 2 GiB RAM, 10 GB SSD",
   "family": null,
   "vcpus": 1,
   "hypervisor": "KVM",

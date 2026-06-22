@@ -4,7 +4,7 @@
   "name": "vx1-m-16c-128gb",
   "api_reference": "vx1-m-16c-128gb",
   "display_name": "vx1-m-16c-128gb",
-  "description": null,
+  "description": "VX1 Cloud Compute (16 vCPUs, 128.0 GiB RAM)",
   "family": "VX1 Cloud Compute",
   "vcpus": 16,
   "hypervisor": null,

@@ -4,7 +4,7 @@
   "name": "vcg-mi325x-252c-2872g-1536vram",
   "api_reference": "vcg-mi325x-252c-2872g-1536vram",
   "display_name": "vcg-mi325x-252c-2872g-1536vram",
-  "description": null,
+  "description": "Dedicated Metal GPU (252 vCPUs, 2872.0 GiB RAM, 14336 GB NVMe, 6xMI325X 256 GiB VRAM)",
   "family": "Dedicated Metal GPU",
   "vcpus": 252,
   "hypervisor": null,

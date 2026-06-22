@@ -4,7 +4,7 @@
   "name": "vx1-m-4c-32g-240s",
   "api_reference": "vx1-m-4c-32g-240s",
   "display_name": "vx1-m-4c-32g-240s",
-  "description": null,
+  "description": "VX1 Cloud Compute (4 vCPUs, 32.0 GiB RAM, 240 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "vcpus": 4,
   "hypervisor": null,

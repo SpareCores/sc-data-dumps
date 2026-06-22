@@ -4,7 +4,7 @@
   "name": "sp-30",
   "api_reference": "sp-30",
   "display_name": "sp-30",
-  "description": "None (2 vCPUs, 30 GiB RAM, 200 GB SSD)",
+  "description": "2 vCPUs, 30 GiB RAM, 200 GB SSD",
   "family": null,
   "vcpus": 2,
   "hypervisor": "KVM",

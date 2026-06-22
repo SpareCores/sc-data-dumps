@@ -4,7 +4,7 @@
   "name": "voc-c-2c-4gb-50s-amd",
   "api_reference": "voc-c-2c-4gb-50s-amd",
   "display_name": "voc-c-2c-4gb-50s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (2 vCPUs, 4.0 GiB RAM, 50 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 2,
   "hypervisor": null,

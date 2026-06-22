@@ -4,7 +4,7 @@
   "name": "vhp-2c-4gb-intel",
   "api_reference": "vhp-2c-4gb-intel",
   "display_name": "vhp-2c-4gb-intel",
-  "description": null,
+  "description": "High Performance (2 vCPUs, 4.0 GiB RAM, 100 GB NVMe)",
   "family": "High Performance",
   "vcpus": 2,
   "hypervisor": null,

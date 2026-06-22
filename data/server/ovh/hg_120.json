@@ -4,7 +4,7 @@
   "name": "hg-120",
   "api_reference": "hg-120",
   "display_name": "hg-120",
-  "description": "None (32 vCPUs, 120 GiB RAM, 1600 GB SSD)",
+  "description": "32 vCPUs, 120 GiB RAM, 1600 GB SSD",
   "family": null,
   "vcpus": 32,
   "hypervisor": "KVM",

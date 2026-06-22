@@ -4,7 +4,7 @@
   "name": "s1-2",
   "api_reference": "s1-2",
   "display_name": "s1-2",
-  "description": "None (1 vCPUs, 2 GiB RAM, 10 GB SSD)",
+  "description": "1 vCPUs, 2 GiB RAM, 10 GB SSD",
   "family": null,
   "vcpus": 1,
   "hypervisor": "KVM",

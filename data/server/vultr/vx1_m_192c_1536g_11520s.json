@@ -4,7 +4,7 @@
   "name": "vx1-m-192c-1536g-11520s",
   "api_reference": "vx1-m-192c-1536g-11520s",
   "display_name": "vx1-m-192c-1536g-11520s",
-  "description": null,
+  "description": "VX1 Cloud Compute (192 vCPUs, 1430.0 GiB RAM, 10720 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "vcpus": 192,
   "hypervisor": null,

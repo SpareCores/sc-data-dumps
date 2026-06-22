@@ -4,7 +4,7 @@
   "name": "vc2-4c-8gb",
   "api_reference": "vc2-4c-8gb",
   "display_name": "vc2-4c-8gb",
-  "description": null,
+  "description": "Cloud Compute (4 vCPUs, 8.0 GiB RAM, 160 GB NVMe)",
   "family": "Cloud Compute",
   "vcpus": 4,
   "hypervisor": null,

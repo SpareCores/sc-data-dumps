@@ -4,7 +4,7 @@
   "name": "voc-g-24c-96gb-480s-amd",
   "api_reference": "voc-g-24c-96gb-480s-amd",
   "display_name": "voc-g-24c-96gb-480s-amd",
-  "description": null,
+  "description": "Optimized Cloud Compute (24 vCPUs, 96.0 GiB RAM, 480 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "vcpus": 24,
   "hypervisor": null,
