@@ -1,3 +1,57 @@
+## v0.7.0+20260622190606 (Jun 22, 2026)
+
+This is an automated release with 45 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/27973134403
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: azure/Standard_D128ads_v7
+- Update: azure/Standard_D128ds_v7
+- Update: azure/Standard_D128lds_v7
+- Update: azure/Standard_D128s_v7
+- Update: azure/Standard_D160ads_v7
+- Update: azure/Standard_D160alds_v7
+- Update: azure/Standard_D160as_v7
+- Update: azure/Standard_D192ds_v7
+- Update: azure/Standard_D192lds_v7
+- Update: azure/Standard_D192ls_v7
+- Update: azure/Standard_D192s_v7
+- Update: azure/Standard_D64ds_v7
+- Update: azure/Standard_D96ds_v7
+- Update: azure/Standard_D96lds_v7
+- Update: azure/Standard_D96ls_v7
+- Update: azure/Standard_D96s_v7
+- Update: azure/Standard_E128-32ads_v7
+- Update: azure/Standard_E128-32as_v7
+- Update: azure/Standard_E128-64ads_v7
+- Update: azure/Standard_E128-64as_v7
+- Update: azure/Standard_E128as_v7
+- Update: azure/Standard_E128s_v7
+- Update: azure/Standard_E160ads_v7
+- Update: azure/Standard_E192ds_v7
+- Update: azure/Standard_E192s_v7
+- Update: azure/Standard_E48ds_v7
+- Update: azure/Standard_E64ds_v7
+- Update: azure/Standard_E64ns_v6
+- Update: azure/Standard_E64s_v7
+- Update: azure/Standard_E96s_v7
+- Update: azure/Standard_F64-16amds_v7
+- Update: azure/Standard_F64-32amds_v7
+- Update: azure/Standard_F64amds_v7
+- Update: azure/Standard_F80amds_v7
+- Update: azure/Standard_F80ams_v7
+
 ## v0.7.0+20260622164013 (Jun 22, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
