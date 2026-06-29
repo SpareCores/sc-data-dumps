@@ -125,7 +125,7 @@
     "typer==0.26.8",
     "typing-extensions==4.15.0",
     "typing-inspection==0.4.2",
-    "tzlocal==5.4.3",
+    "tzlocal==5.4.4",
     "upcloud-api==2.9.0",
     "urllib3==2.7.0",
     "watchdog==6.0.0",
@@ -134,10 +134,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.7.0",
-    "NEWVERSION": "v0.7.0+20260629065514",
-    "NEWVERSIONDATE": "v0.7.0+20260629065514 (Jun 29, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28350683854",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28350683854"
+    "NEWVERSION": "v0.7.0+20260629093643",
+    "NEWVERSIONDATE": "v0.7.0+20260629093643 (Jun 29, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28358838861",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28358838861"
   },
-  "timestamp": "2026-06-29T06:55:14Z"
+  "timestamp": "2026-06-29T09:36:43Z"
 }
