@@ -1,8 +1,12 @@
 {
   "benchmark_id": "geekbench:html5_browser",
   "category": "Geekbench",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Geekbench: HTML5 Browser",
   "description": "Opens and renders web pages (8 in single-core mode, 32 in multi-core mode) using a headless web browser.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "note": "This benchmark does not scale well on instances with more than 32 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "geekbench",
   "config_fields": {
     "cores": "Single-Core or Multi-Core performance tests."

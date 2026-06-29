@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_single_threaded_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU Single Threaded Test",
   "description": "Using a single logical core for a mixture of floating point, string sorting and data compression tests.",
+  "note": "This benchmark measures single-threaded CPU performance only, so scores do not increase with vCPU count beyond one core.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_single_threaded_test",

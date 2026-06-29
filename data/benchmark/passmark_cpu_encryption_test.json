@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_encryption_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU Encryption Test",
   "description": "Encrypting blocks of random data using AES, SHA256 and ECDSA with any available specialized CPU instruction sets and memory buffers totaling about 1MB per core.",
+  "note": null,
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_encryption_test",

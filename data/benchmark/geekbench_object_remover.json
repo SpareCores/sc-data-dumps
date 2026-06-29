@@ -1,8 +1,12 @@
 {
   "benchmark_id": "geekbench:object_remover",
   "category": "Geekbench",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Geekbench: Object Remover",
   "description": "Removes an object (using a mask) from a 3MP photo, and fills in the gap left behind using the iterative PatchMatch Inpainting approach (Barnes et al. 2009).The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "note": "This benchmark does not scale well on instances with more than 32 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "geekbench",
   "config_fields": {
     "cores": "Single-Core or Multi-Core performance tests."

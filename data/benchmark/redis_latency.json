@@ -1,8 +1,12 @@
 {
   "benchmark_id": "redis:latency",
   "category": "Redis",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Redis latency",
   "description": "Running a pair of redis server and benchmarking client (memtier_benchmark) on each vCPU to evaluate the performance of SET operations, using different number of concurrent pipelined requests. The average latency reported by memtier_benchmark.",
+  "note": "Latency is recorded during the redis:rps run, not as a standalone benchmark. As it reflects a characteristic of that throughput measurement, it is not recommended for comparing instances on its own; use it instead as a filter when interpreting the related throughput scores.",
   "framework": "redis",
   "config_fields": {
     "pipeline": "The number of concurrent pipelined requests.",

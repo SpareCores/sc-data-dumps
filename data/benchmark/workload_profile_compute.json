@@ -1,8 +1,75 @@
 {
   "benchmark_id": "workload_profile:compute",
   "category": "Workload profile",
+  "source": {
+    "aggregation": "weighted_geometric_mean",
+    "components": [
+      {
+        "benchmark_id": "stress_ng:bestn",
+        "config_filter": null,
+        "label": "stress-ng div16 best-N cores",
+        "on_missing": "ignore",
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "stress_ng:best1",
+        "config_filter": null,
+        "label": "stress-ng div16 single core",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "passmark:cpu_mark",
+        "config_filter": null,
+        "label": "PassMark CPU Mark (composite)",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "bw_mem",
+        "config_filter": {
+          "operation": "rd",
+          "size": 64.0
+        },
+        "label": "Memory bandwidth (read, 64 MB)",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "passmark:cpu_floating_point_maths_test",
+        "config_filter": null,
+        "label": "PassMark floating point",
+        "on_missing": "ignore",
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "passmark:cpu_extended_instructions_test",
+        "config_filter": null,
+        "label": "PassMark AVX/SSE/FMA (SIMD)",
+        "on_missing": "ignore",
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "passmark:cpu_integer_maths_test",
+        "config_filter": null,
+        "label": "PassMark integer math",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "passmark:cpu_physics_test",
+        "config_filter": null,
+        "label": "PassMark physics simulation",
+        "on_missing": "ignore",
+        "weight": 0.05
+      }
+    ],
+    "kind": "compound",
+    "normalization": "median_ratio"
+  },
   "name": "Workload profile: Compute Heavy Applications",
-  "description": "Precomputed compound score for Compute Heavy Applications workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 15% stress-ng div16 best-N cores, 10% stress-ng div16 single core, 10% PassMark CPU Mark (composite), 10% Geekbench score (multi-core), 10% Memory bandwidth (read, 64 MB), 15% PassMark floating point, 15% PassMark AVX/SSE/FMA (SIMD), 10% PassMark integer math, 5% PassMark physics simulation. Rationale for component selection: Number-crunching workload augmenting raw CPU performance stressing, general CPU performance benchmarks, memory bandwidth, and pure math computation speed like floating point, integer, SIMD (AVX/SSE/FMA) operations.",
+  "description": "Precomputed compound score for Compute Heavy Applications workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 15% stress-ng div16 best-N cores, 10% stress-ng div16 single core, 20% PassMark CPU Mark (composite), 10% Memory bandwidth (read, 64 MB), 15% PassMark floating point, 15% PassMark AVX/SSE/FMA (SIMD), 10% PassMark integer math, 5% PassMark physics simulation. Rationale for component selection: Number-crunching workload augmenting raw CPU performance stressing, general CPU performance benchmarks, memory bandwidth, and pure math computation speed like floating point, integer, SIMD (AVX/SSE/FMA) operations.",
+  "note": null,
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",

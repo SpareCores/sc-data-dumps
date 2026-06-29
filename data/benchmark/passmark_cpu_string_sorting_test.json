@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_string_sorting_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU String Sorting Test",
   "description": "Sorting strings using the Quicksort algorithm with memory buffers totaling about 25MB per core.",
+  "note": null,
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_string_sorting_test",

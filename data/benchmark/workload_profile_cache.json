@@ -1,8 +1,60 @@
 {
   "benchmark_id": "workload_profile:cache",
   "category": "Workload profile",
+  "source": {
+    "aggregation": "weighted_geometric_mean",
+    "components": [
+      {
+        "benchmark_id": "redis:rps-extrapolated",
+        "config_filter": {
+          "operation": "SET",
+          "pipeline": 1.0
+        },
+        "label": "Redis RPS (pipeline=1, SET)",
+        "on_missing": "ignore",
+        "weight": 0.5
+      },
+      {
+        "benchmark_id": "redis:rps-extrapolated",
+        "config_filter": {
+          "operation": "SET",
+          "pipeline": 16.0
+        },
+        "label": "Redis RPS (pipeline=16, SET)",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "passmark:memory_mark",
+        "config_filter": null,
+        "label": "PassMark Memory Mark (composite)",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "bw_mem",
+        "config_filter": {
+          "operation": "rd",
+          "size": 16.0
+        },
+        "label": "Memory bandwidth (read, 16 MB ~ L3)",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "passmark:cpu_single_threaded_test",
+        "config_filter": null,
+        "label": "PassMark single-thread CPU",
+        "on_missing": "ignore",
+        "weight": 0.1
+      }
+    ],
+    "kind": "compound",
+    "normalization": "median_ratio"
+  },
   "name": "Workload profile: Cache Intensive",
-  "description": "Precomputed compound score for Cache Intensive workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 25% Redis RPS (pipeline=1, SET), 10% Redis RPS (pipeline=16, SET), 10% Redis latency (pipeline=1, SET), 10% PassMark memory latency (512 MB), 10% PassMark Memory Mark (composite), 10% PassMark cached memory reads, 10% Memory bandwidth (read, 16 MB ~ L3), 10% PassMark single-thread CPU, 5% PassMark in-memory DB operations. Rationale for component selection: In-memory key-value store workload, mixing direct Redis performance metrics with memory speed and latency benchmarks, and single-core CPU performance profiles.",
+  "description": "Precomputed compound score for Cache Intensive workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 50% Redis RPS (pipeline=1, SET), 20% Redis RPS (pipeline=16, SET), 10% PassMark Memory Mark (composite), 10% Memory bandwidth (read, 16 MB ~ L3), 10% PassMark single-thread CPU. Rationale for component selection: In-memory key-value store workload, mixing direct Redis performance metrics with memory speed and latency benchmarks, and single-core CPU performance profiles.",
+  "note": null,
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",

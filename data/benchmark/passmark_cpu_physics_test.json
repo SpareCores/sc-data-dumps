@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_physics_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU Physics Test",
   "description": "Simulating the same physics interactions as many times as possible within a timeframe, using the Bullet Physics Engine (version 2.88 for x86, 3.07 for ARM).",
+  "note": null,
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_physics_test",

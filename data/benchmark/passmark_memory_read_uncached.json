@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:memory_read_uncached",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: Memory Read Uncached",
   "description": "Read a combination of 32-bit and 64-bit data from memory using a 512 MB block size.",
+  "note": "This benchmark score is largely independent of vCPU count within an instance family and mainly reflects hardware generation and memory characteristics, not instance size.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "memory_read_uncached",

@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_integer_maths_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU Integer Maths Test",
   "description": "Testing how fast the CPU can perform mathematical integer operations, using large sets of an equal number of random 32-bit and 64-bit integers for addition, subtraction, multiplication and division, with integer buffers totaling about 240kb per core.",
+  "note": null,
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_integer_maths_test",

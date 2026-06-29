@@ -1,8 +1,12 @@
 {
   "benchmark_id": "llm_speed:prompt_processing",
   "category": "LLM inference speed",
+  "source": {
+    "kind": "measured"
+  },
   "name": "LLM inference speed for prompt processing",
   "description": "Running llama-bench from llama.cpp using various quantized model files to measure the speed of processing 16 to 16k tokens.",
+  "note": "Throughput depends on model size and hardware. On CPU, smaller models often top out around 96 vCPUs; larger models hit memory limits sooner. GPUs are much faster than CPUs for this workload. llama.cpp only uses multiple GPUs when one card cannot hold the model weights. Extra GPUs are for fitting the model, not for serving more requests in parallel. These runs target single-user, low-concurrency inference. For high concurrency, use the vLLM benchmarks.",
   "framework": "llm_speed",
   "config_fields": {
     "model": "Name of the model file used.",

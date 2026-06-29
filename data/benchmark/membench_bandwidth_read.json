@@ -1,8 +1,12 @@
 {
   "benchmark_id": "membench:bandwidth_read",
   "category": "Memory bandwidth",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Memory read bandwidth (sc-membench)",
   "description": "Measures aggregate sequential read bandwidth across all threads using OpenMP parallelization.",
+  "note": null,
   "framework": "membench",
   "config_fields": {
     "scope": "RAM: working set exceeds total CPU cache (L3, else L2, else L1d).",

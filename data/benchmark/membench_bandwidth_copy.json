@@ -1,8 +1,12 @@
 {
   "benchmark_id": "membench:bandwidth_copy",
   "category": "Memory bandwidth",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Memory copy bandwidth (sc-membench)",
   "description": "Measures aggregate memory copy bandwidth across all threads using OpenMP parallelization.",
+  "note": null,
   "framework": "membench",
   "config_fields": {
     "scope": "RAM: working set exceeds total CPU cache (L3, else L2, else L1d).",

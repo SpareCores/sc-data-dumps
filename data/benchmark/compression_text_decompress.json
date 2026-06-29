@@ -1,8 +1,12 @@
 {
   "benchmark_id": "compression_text:decompress",
   "category": "Compression algos",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Decompression bandwidth",
   "description": "Measures the decompression bandwidth (bytes/second) on the compressed dickens.txt of the Silesia corpus (10 MB uncompressed) using various algorithms, compression levels and other extra arguments.",
+  "note": null,
   "framework": "compression_text",
   "config_fields": {
     "algo": "Compression algorithm, e.g. brotli or bz2.",

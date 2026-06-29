@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:memory_write",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: Memory Write",
   "description": "Write a combination of 32-bit and 64-bit data to the memory using a 512 MB block size.",
+  "note": "This benchmark score is largely independent of vCPU count within an instance family and mainly reflects hardware generation and memory characteristics, not instance size.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "memory_write",

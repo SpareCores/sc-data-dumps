@@ -1,8 +1,12 @@
 {
   "benchmark_id": "stress_ng:best1",
   "category": "stress-ng",
+  "source": {
+    "kind": "measured"
+  },
   "name": "stress-ng div16 single-core",
   "description": "Stress a single vCPU core with the div16 method of stress-ng, and count the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": "This benchmark measures single-threaded CPU performance only, so scores do not increase with vCPU count beyond one core.",
   "framework": "stress_ng",
   "config_fields": {},
   "measurement": "best1",

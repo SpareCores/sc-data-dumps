@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:database_operations",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: Database Operations",
   "description": "Single threaded and multi-threaded CRUD operations, such as INSERT (40%), SELECT (26%), UPDATE (24%), and DELETE (10%) on a relational database with 4 tables and 1k rows per table.",
+  "note": "This benchmark does not scale well on instances with more than 32 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "database_operations",

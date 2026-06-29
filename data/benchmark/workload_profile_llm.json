@@ -1,8 +1,104 @@
 {
   "benchmark_id": "workload_profile:llm",
   "category": "Workload profile",
-  "name": "Workload profile: Multimodal LLM Inference",
-  "description": "Precomputed compound score for Multimodal LLM Inference workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 20% LLM text generation (llama-7b, 128 tok), 10% LLM prompt processing (llama-7b, 512 tok), 10% LLM text generation (gemma-2b, 128 tok), 10% PassMark Memory Mark (composite), 15% Memory bandwidth (read, 256 MB), 10% PassMark AVX/SSE/FMA (SIMD), 5% PassMark floating point, 10% Geekbench object detection (multi-core), 5% Geekbench background blur (multi-core), 5% Geekbench structure-from-motion (multi-core). Rationale for component selection: VRAM and memory-bandwidth-bound LLM inference workload, using direct LLM speed benchmarks at two model sizes, and supplementing with raw memory bandwidth, SIMD, and Geekbench computer vision workloads that exercise ML-style pipelines.",
+  "source": {
+    "aggregation": "weighted_geometric_mean",
+    "components": [
+      {
+        "benchmark_id": "llm_speed:text_generation",
+        "config_filter": {
+          "model": "SmolLM-135M.Q4_K_M.gguf",
+          "tokens": 128
+        },
+        "label": "LLM text generation (SmolLM-135M, 128 tok)",
+        "on_missing": "require",
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "llm_speed:prompt_processing",
+        "config_filter": {
+          "model": "SmolLM-135M.Q4_K_M.gguf",
+          "tokens": 512
+        },
+        "label": "LLM prompt processing (SmolLM-135M, 512 tok)",
+        "on_missing": "require",
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "llm_speed:text_generation",
+        "config_filter": {
+          "model": "llama-7b.Q4_K_M.gguf",
+          "tokens": 128
+        },
+        "label": "LLM text generation (Llama 7B, 128 tok)",
+        "on_missing": "penalize",
+        "penalty": 0.0001,
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "llm_speed:prompt_processing",
+        "config_filter": {
+          "model": "llama-7b.Q4_K_M.gguf",
+          "tokens": 512
+        },
+        "label": "LLM prompt processing (Llama 7B, 512 tok)",
+        "on_missing": "penalize",
+        "penalty": 0.0001,
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "llm_speed:text_generation",
+        "config_filter": {
+          "model": "Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+          "tokens": 128
+        },
+        "label": "LLM text generation (Llama-3.3 70B, 128 tok)",
+        "on_missing": "penalize",
+        "penalty": 0.01,
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "llm_speed:prompt_processing",
+        "config_filter": {
+          "model": "Llama-3.3-70B-Instruct-Q4_K_M.gguf",
+          "tokens": 512
+        },
+        "label": "LLM prompt processing (Llama-3.3 70B, 512 tok)",
+        "on_missing": "penalize",
+        "penalty": 0.01,
+        "weight": 0.15
+      },
+      {
+        "benchmark_id": "bw_mem",
+        "config_filter": {
+          "operation": "rd",
+          "size": 256.0
+        },
+        "label": "Memory bandwidth (read, 256 MB)",
+        "on_missing": "ignore",
+        "weight": 0.05
+      },
+      {
+        "benchmark_id": "passmark:cpu_extended_instructions_test",
+        "config_filter": null,
+        "label": "PassMark AVX/SSE/FMA (SIMD)",
+        "on_missing": "ignore",
+        "weight": 0.025
+      },
+      {
+        "benchmark_id": "passmark:cpu_floating_point_maths_test",
+        "config_filter": null,
+        "label": "PassMark floating point",
+        "on_missing": "ignore",
+        "weight": 0.025
+      }
+    ],
+    "kind": "compound",
+    "normalization": "median_ratio"
+  },
+  "name": "Workload profile: LLM Inference",
+  "description": "Precomputed compound score for LLM Inference workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 15% LLM text generation (SmolLM-135M, 128 tok), 15% LLM prompt processing (SmolLM-135M, 512 tok), 15% LLM text generation (Llama 7B, 128 tok), 15% LLM prompt processing (Llama 7B, 512 tok), 15% LLM text generation (Llama-3.3 70B, 128 tok), 15% LLM prompt processing (Llama-3.3 70B, 512 tok), 5% Memory bandwidth (read, 256 MB), 2% PassMark AVX/SSE/FMA (SIMD), 2% PassMark floating point. Rationale for component selection: VRAM and memory-bandwidth-bound LLM inference workload, using direct LLM speed benchmarks at three model sizes, and supplementing with raw memory bandwidth and SIMD performance benchmarks.",
+  "note": null,
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",

@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0b2",
     "babel==2.18.0",
     "backrefs==7.0",
-    "boto3==1.43.36",
-    "botocore==1.43.36",
+    "boto3==1.43.37",
+    "botocore==1.43.37",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.0",
@@ -118,7 +118,7 @@
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@65ac49cb8827769497696407b541b4bfd339c13d",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@bf42a03f3e872a178ea83eea692a5fb527ea20b3",
     "sqlalchemy==2.0.51",
     "sqlmodel==0.0.39",
     "tinycss2==1.5.1",
@@ -133,11 +133,11 @@
     "yarl==1.24.2"
   ],
   "environment_variables": {
-    "CRAWLER_VERSION": "0.7.0",
-    "NEWVERSION": "v0.7.0+20260629211522",
-    "NEWVERSIONDATE": "v0.7.0+20260629211522 (Jun 29, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28399455391",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28399455391"
+    "CRAWLER_VERSION": "0.8.1",
+    "NEWVERSION": "v0.8.1+20260629235321",
+    "NEWVERSIONDATE": "v0.8.1+20260629235321 (Jun 29, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 67 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28404279953",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28404279953"
   },
-  "timestamp": "2026-06-29T21:15:22Z"
+  "timestamp": "2026-06-29T23:53:21Z"
 }
