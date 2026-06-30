@@ -48,8 +48,8 @@
         "benchmark_id": "compression_text:compress",
         "config_filter": {
           "algo": "gzip",
-          "compression_level": 5,
-          "cores": "multi"
+          "cores": "multi",
+          "compression_level": 5
         },
         "label": "Gzip compression (multi-core, level 5)",
         "on_missing": "ignore",

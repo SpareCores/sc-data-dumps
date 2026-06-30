@@ -28,8 +28,8 @@
       {
         "benchmark_id": "bw_mem",
         "config_filter": {
-          "operation": "rd",
-          "size": 64.0
+          "size": 64.0,
+          "operation": "rd"
         },
         "label": "Memory bandwidth (read, 64 MB)",
         "on_missing": "ignore",
