@@ -1,11 +1,15 @@
 {
   "benchmark_id": "geekbench:clang",
   "category": "Geekbench",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Geekbench: Clang",
   "description": "Compiles files (8 in single-core mode, 96 in multi-core mode) of the Lua interpreter using Clang and the musl libc as the C standard library for the compiled files.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "note": null,
   "framework": "geekbench",
   "config_fields": {
-    "cores": "Single-Core or Multi-Core peformance tests."
+    "cores": "Single-Core or Multi-Core performance tests."
   },
   "measurement": "clang",
   "unit": null,

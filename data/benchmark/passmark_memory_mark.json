@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:memory_mark",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: Memory Mark",
   "description": "A composite score of PassMark's Database and Memory test cases",
+  "note": "This benchmark does not scale well on instances with more than 16 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "memory_mark",

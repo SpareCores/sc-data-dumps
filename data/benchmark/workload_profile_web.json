@@ -1,8 +1,74 @@
 {
   "benchmark_id": "workload_profile:web",
   "category": "Workload profile",
+  "source": {
+    "aggregation": "weighted_geometric_mean",
+    "components": [
+      {
+        "benchmark_id": "static_web:rps-extrapolated",
+        "config_filter": {
+          "size": "1k",
+          "connections_per_vcpus": 8.0
+        },
+        "label": "Static web RPS (1 kB, 8 conn/vCPU)",
+        "on_missing": "ignore",
+        "weight": 0.3
+      },
+      {
+        "benchmark_id": "static_web:rps-extrapolated",
+        "config_filter": {
+          "size": "64k",
+          "connections_per_vcpus": 8.0
+        },
+        "label": "Static web RPS (64 kB, 8 conn/vCPU)",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "static_web:throughput-extrapolated",
+        "config_filter": {
+          "size": "256k",
+          "connections_per_vcpus": 8.0
+        },
+        "label": "Static web throughput (256 kB, 8 conn/vCPU)",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "openssl",
+        "config_filter": {
+          "algo": "AES-256-CBC",
+          "block_size": 16384
+        },
+        "label": "OpenSSL AES-256-CBC (16 kB blocks)",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "compression_text:compress",
+        "config_filter": {
+          "algo": "gzip",
+          "cores": "multi",
+          "compression_level": 5
+        },
+        "label": "Gzip compression (multi-core, level 5)",
+        "on_missing": "ignore",
+        "weight": 0.05
+      },
+      {
+        "benchmark_id": "passmark:cpu_string_sorting_test",
+        "config_filter": null,
+        "label": "PassMark string sorting",
+        "on_missing": "ignore",
+        "weight": 0.05
+      }
+    ],
+    "kind": "compound",
+    "normalization": "median_ratio"
+  },
   "name": "Workload profile: Web Server",
-  "description": "Precomputed compound score for Web Server workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 25% Static web RPS (1 kB, 8 conn/vCPU), 15% Static web RPS (64 kB, 8 conn/vCPU), 15% Static web throughput (256 kB, 8 conn/vCPU), 10% Geekbench HTML5 browser (multi-core), 5% Geekbench text processing (multi-core), 10% OpenSSL AES-256-CBC (16 kB blocks), 10% PassMark encryption (AES/SHA/ECDSA), 5% PassMark string sorting, 5% PassMark cached memory reads. Rationale for component selection: Primary workloads drivers are HTTP serving speed and throughput, HTML and text processing, TLS termination, and asset compression.",
+  "description": "Precomputed compound score for Web Server workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 30% Static web RPS (1 kB, 8 conn/vCPU), 20% Static web RPS (64 kB, 8 conn/vCPU), 20% Static web throughput (256 kB, 8 conn/vCPU), 20% OpenSSL AES-256-CBC (16 kB blocks), 5% Gzip compression (multi-core, level 5), 5% PassMark string sorting. Rationale for component selection: Primary workloads drivers are single-process static HTTP serving speed and throughput, text processing, TLS termination, and asset compression.",
+  "note": null,
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",

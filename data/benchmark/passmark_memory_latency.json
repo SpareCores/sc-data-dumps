@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:memory_latency",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: Memory Latency",
   "description": "Measuring the time it takes for a single byte of memory to be transferred to the CPU for processing. A 512 MB buffer is allocated and then filled with pointers to other locations in the buffer, looping through a linked list.",
+  "note": "This benchmark score is largely independent of vCPU count within an instance family and mainly reflects hardware generation and memory characteristics, not instance size.",
   "framework": "passmark",
   "config_fields": {},
   "measurement": "memory_latency",

@@ -4,7 +4,7 @@
   "name": "vcg-a16-96c-878g-256vram",
   "api_reference": "vcg-a16-96c-878g-256vram",
   "display_name": "vcg-a16-96c-878g-256vram",
-  "description": null,
+  "description": "Dedicated Metal GPU (96 vCPUs, 877.0 GiB RAM, 3072 GB NVMe, 16xA16 16 GiB VRAM)",
   "family": "Dedicated Metal GPU",
   "vcpus": 96,
   "hypervisor": null,

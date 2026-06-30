@@ -4,7 +4,7 @@
   "name": "g3-120",
   "api_reference": "g3-120",
   "display_name": "g3-120",
-  "description": "None (32 vCPUs, 120 GiB RAM, 600 GB SSD, 3xGeForce GTX 1080 Ti 11 GiB VRAM)",
+  "description": "32 vCPUs, 120 GiB RAM, 600 GB SSD, 3xGeForce GTX 1080 Ti 11 GiB VRAM",
   "family": null,
   "vcpus": 32,
   "hypervisor": "KVM",

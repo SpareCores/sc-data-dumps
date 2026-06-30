@@ -1,8 +1,12 @@
 {
   "benchmark_id": "static_web:throughput",
   "category": "Static web server",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Static web server+client throughput",
-  "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. Throughput is calculated by multiplying the RPS with the served file size. The measured RPS is not the maximum expected server speed, as the server shared CPU with the client.",
+  "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve) as a single process, and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. Throughput is calculated by multiplying the RPS with the served file size. The measured RPS is not the maximum expected server speed, as the server shares CPU with the client.",
+  "note": "This benchmark does not scale well on large instances (100+ vCPUs) due to a listener bottleneck in the single-process HTTP server.",
   "framework": "static_web",
   "config_fields": {
     "size": "Served file size (kB).",

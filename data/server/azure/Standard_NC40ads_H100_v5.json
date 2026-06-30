@@ -4,8 +4,8 @@
   "name": "NC40ads_H100_v5",
   "api_reference": "Standard_NC40ads_H100_v5",
   "display_name": "NC40ads_H100_v5",
-  "description": "StandardNCadsH100v5 family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
-  "family": "StandardNCadsH100v5",
+  "description": "NCadsH100v5 family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
+  "family": "NCadsH100v5",
   "vcpus": 40,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -151,7 +151,7 @@
       "family": "Hopper",
       "model": "NVIDIA H100 NVL",
       "memory": 95830,
-      "firmware_version": "535.230.02",
+      "firmware_version": "595.71.05",
       "bios_version": "96.00.9F.00.04",
       "graphics_clock": 1785,
       "sm_clock": 1785,
@@ -180,6 +180,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 28.0,
   "status": "ACTIVE"
 }

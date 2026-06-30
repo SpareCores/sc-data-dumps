@@ -116,7 +116,7 @@
   "memory_speed": 2667,
   "memory_ecc": null,
   "gpu_count": 0.0,
-  "gpu_memory_min": null,
+  "gpu_memory_min": 0,
   "gpu_memory_total": 0,
   "gpu_manufacturer": null,
   "gpu_family": null,

@@ -39,7 +39,7 @@
     {
       "name": "description",
       "type": "VARCHAR",
-      "nullable": true,
+      "nullable": false,
       "default": null,
       "comment": null
     },

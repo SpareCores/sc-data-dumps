@@ -16,6 +16,13 @@
       "comment": null
     },
     {
+      "name": "source",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "name",
       "type": "VARCHAR",
       "nullable": false,
@@ -24,6 +31,13 @@
     },
     {
       "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "note",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,

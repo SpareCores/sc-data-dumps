@@ -1,8 +1,12 @@
 {
   "benchmark_id": "passmark:cpu_extended_instructions_test",
   "category": "Passmark",
+  "source": {
+    "kind": "measured"
+  },
   "name": "PassMark: CPU Extended Instructions Test",
   "description": "Testing how fast the CPU can perform mathematical operations using extended instructions, such as SSE, FMA, AVX, AVX512 and NEON.",
+  "note": null,
   "framework": "passmark",
   "config_fields": {},
   "measurement": "cpu_extended_instructions_test",

@@ -1,8 +1,12 @@
 {
   "benchmark_id": "static_web:latency",
   "category": "Static web server",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Static web server latency",
-  "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve), and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. The average latency reported by wrk.",
+  "description": "Serving smaller (1-65 kB) and larger (256-512 kB) files using a static HTTP server (binserve) as a single process, and benchmarking each workload (wrk) using variable number of threads (and keeping the threads with the maximum performance) and connections (recorded after divided by the number of vCPUs to make it comparable with other servers with different vCPU count) on the same server. The average latency reported by wrk.",
+  "note": "Latency is recorded during the static_web:rps run, not as a standalone benchmark. As it reflects a characteristic of that throughput measurement, it is not recommended for comparing instances on its own; use it instead as a filter when interpreting the related throughput scores.",
   "framework": "static_web",
   "config_fields": {
     "size": "Served file size (kB).",

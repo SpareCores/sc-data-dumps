@@ -4,7 +4,7 @@
   "name": "vcg-l40s-128c-1500g-384vram",
   "api_reference": "vcg-l40s-128c-1500g-384vram",
   "display_name": "vcg-l40s-128c-1500g-384vram",
-  "description": null,
+  "description": "Cloud GPU (128 vCPUs, 1500.0 GiB RAM, 3400 GB NVMe, 8xL40S 48 GiB VRAM)",
   "family": "Cloud GPU",
   "vcpus": 128,
   "hypervisor": null,

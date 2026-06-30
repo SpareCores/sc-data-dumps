@@ -1,8 +1,73 @@
 {
   "benchmark_id": "workload_profile:cicd",
   "category": "Workload profile",
+  "source": {
+    "aggregation": "weighted_geometric_mean",
+    "components": [
+      {
+        "benchmark_id": "geekbench:clang",
+        "config_filter": {
+          "cores": "multi"
+        },
+        "label": "Geekbench Clang compilation (multi-core)",
+        "on_missing": "ignore",
+        "weight": 0.5
+      },
+      {
+        "benchmark_id": "geekbench:clang",
+        "config_filter": {
+          "cores": "single"
+        },
+        "label": "Geekbench Clang compilation (single-core)",
+        "on_missing": "ignore",
+        "weight": 0.1
+      },
+      {
+        "benchmark_id": "stress_ng:bestn",
+        "config_filter": null,
+        "label": "stress-ng div16 best-N cores",
+        "on_missing": "ignore",
+        "weight": 0.2
+      },
+      {
+        "benchmark_id": "passmark:cpu_integer_maths_test",
+        "config_filter": null,
+        "label": "PassMark integer math",
+        "on_missing": "ignore",
+        "weight": 0.05
+      },
+      {
+        "benchmark_id": "passmark:cpu_compression_test",
+        "config_filter": null,
+        "label": "PassMark compression",
+        "on_missing": "ignore",
+        "weight": 0.05
+      },
+      {
+        "benchmark_id": "compression_text:compress",
+        "config_filter": {
+          "algo": "brotli",
+          "cores": "single",
+          "compression_level": 0
+        },
+        "label": "Brotli compression (multi-core, level 0)",
+        "on_missing": "ignore",
+        "weight": 0.05
+      },
+      {
+        "benchmark_id": "passmark:cpu_string_sorting_test",
+        "config_filter": null,
+        "label": "PassMark string sorting",
+        "on_missing": "ignore",
+        "weight": 0.05
+      }
+    ],
+    "kind": "compound",
+    "normalization": "median_ratio"
+  },
   "name": "Workload profile: CI/CD Build",
-  "description": "Precomputed compound score for CI/CD Build workloads. A weighted average of normalised scores, each normalised to [0, 1] across all servers in the dataset. Component weights: 25% Geekbench Clang compilation (multi-core), 10% Geekbench Clang compilation (single-core), 15% PassMark single-thread CPU, 10% PassMark compression, 10% PassMark integer math, 10% Geekbench text processing (multi-core), 5% stress-ng div16 best-N cores, 5% Geekbench file compression (multi-core), 5% Brotli compression (single-thread, level 0), 5% PassMark string sorting. Rationale for component selection: Build performance is driven by single- and multi-core compilation throughput, single-core CPU performance, multi-core compression and text/scripting processing.",
+  "description": "Precomputed compound score for CI/CD Build workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 50% Geekbench Clang compilation (multi-core), 10% Geekbench Clang compilation (single-core), 20% stress-ng div16 best-N cores, 5% PassMark integer math, 5% PassMark compression, 5% Brotli compression (multi-core, level 0), 5% PassMark string sorting. Rationale for component selection: Build performance is mainly driven by multi-core compilation throughput, but also bundles single-core compilation speed and general CPU performance, multi-core compression and text/scripting processing.",
+  "note": null,
   "framework": "workload_profile",
   "config_fields": {},
   "measurement": "score",

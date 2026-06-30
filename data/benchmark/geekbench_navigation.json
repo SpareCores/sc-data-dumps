@@ -1,11 +1,15 @@
 {
   "benchmark_id": "geekbench:navigation",
   "category": "Geekbench",
+  "source": {
+    "kind": "measured"
+  },
   "name": "Geekbench: Navigation",
   "description": "Generates 24 different routes between a sequence of locations on two OpenStreetMap maps (one for a small city, one for a large city) using Dijkstra's algorithm.The score is calibrated against a baseline score of 2,500 (Dell Precision 3460 with a Core i7-12700 processor) as per the Geekbench 6 Benchmark Internals.",
+  "note": "This benchmark does not scale well on instances with more than 32 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "geekbench",
   "config_fields": {
-    "cores": "Single-Core or Multi-Core peformance tests."
+    "cores": "Single-Core or Multi-Core performance tests."
   },
   "measurement": "navigation",
   "unit": null,
