@@ -1,3 +1,54 @@
+## v0.8.1+20260630163741 (Jun 30, 2026)
+
+This is an automated release with 42 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28456015236
+
+
+### server
+
+- New: aws/c9gd.large
+- New: aws/c9g.xlarge
+- New: aws/c9g.2xlarge
+- New: aws/c9g.8xlarge
+- New: aws/c9g.large
+- New: aws/c9g.48xlarge
+- New: aws/c9gd.48xlarge
+- New: aws/c9g.24xlarge
+- New: aws/c9gd.8xlarge
+- New: aws/c9gd.medium
+- New: aws/c9g.12xlarge
+- New: aws/c9gd.16xlarge
+- New: aws/c9gd.4xlarge
+- New: aws/c9gd.24xlarge
+- New: aws/c9gd.2xlarge
+- New: aws/c9gd.metal-48xl
+- New: aws/c9g.4xlarge
+- New: aws/c9g.16xlarge
+- New: aws/c9g.medium
+- New: aws/c9gd.xlarge
+- New: aws/c9gd.12xlarge
+- New: aws/c9g.metal-48xl
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: vultr/vbm-24c-384gb-amd5
+- Update: vultr/vc2-6c-16gb
+- Update: vultr/vhf-1c-2gb
+- Update: vultr/voc-g-1c-4gb-30s-amd
+- Update: vultr/voc-g-32c-128gb-640s-amd
+- Update: vultr/voc-m-16c-128gb-3200s-amd
+- Update: vultr/voc-m-24c-192gb-1200s-amd
+- Update: vultr/voc-s-16c-128gb-2560s-amd
+- Update: vultr/vx1-g-32c-128g-1920s
+- Update: vultr/vx1-g-48c-192g
+- Update: vultr/vx1-m-32c-256g-1920s
+- Update: vultr/vx1-m-32c-256gb
+
 ## v0.8.1+20260630133254 (Jun 30, 2026)
 
 This is an automated release with 35 new/updated/deleted resources.
