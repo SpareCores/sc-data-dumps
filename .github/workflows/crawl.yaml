@@ -175,7 +175,7 @@ jobs:
             echo "Dumping schema and data to single file..."
             sqlite3 $FILE .dump > sc-data-all.sql
             echo "Compressing dump..."
-            xz -9ek -T1 sc-data-all.sql
+            xz -9ek -T0 sc-data-all.sql
             echo "Uploading dump to CDN bucket (versioned and latest)..."
             aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-all.sql.xz" --metadata="hash=$LHASH"
             aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-all.sql.xz" --metadata="hash=$LHASH"
@@ -215,7 +215,7 @@ jobs:
           echo "Dumping priceless database schema and data to single file..."
           sqlite3 $FILE .dump > sc-data-priceless.sql
           echo "Compressing priceless SQL dump..."
-          xz -9ek -T1 sc-data-priceless.sql
+          xz -9ek -T0 sc-data-priceless.sql
           echo "Uploading priceless SQL dump to CDN bucket (versioned and latest)..."
           aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
           aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
