@@ -9,7 +9,7 @@
     "alibabacloud-bssopenapi20171214==5.1.1",
     "alibabacloud-credentials==1.0.9",
     "alibabacloud-credentials-api==1.0.1",
-    "alibabacloud-ecs20140526==7.8.7",
+    "alibabacloud-ecs20140526==7.9.0",
     "alibabacloud-gateway-spi==0.0.4",
     "alibabacloud-tea==0.4.3",
     "alibabacloud-tea-openapi==0.4.4",
@@ -118,7 +118,7 @@
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@bf42a03f3e872a178ea83eea692a5fb527ea20b3",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@2411a714f7946e18519ae5e59fd294830a698058",
     "sqlalchemy==2.0.51",
     "sqlmodel==0.0.39",
     "tinycss2==1.5.1",
@@ -134,10 +134,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.1",
-    "NEWVERSION": "v0.8.1+20260701065230",
-    "NEWVERSIONDATE": "v0.8.1+20260701065230 (Jul 01, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 9 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28496514963",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28496514963"
+    "NEWVERSION": "v0.8.1+20260701091757",
+    "NEWVERSIONDATE": "v0.8.1+20260701091757 (Jul 01, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 237 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28503117311",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/28503117311"
   },
-  "timestamp": "2026-07-01T06:52:30Z"
+  "timestamp": "2026-07-01T09:17:57Z"
 }
