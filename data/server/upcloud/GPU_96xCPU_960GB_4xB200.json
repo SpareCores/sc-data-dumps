@@ -4,7 +4,7 @@
   "name": "GPU-96xCPU-960GB-4xB200",
   "api_reference": "GPU-96xCPU-960GB-4xB200",
   "display_name": "GPU-96xCPU-960GB-4xB200",
-  "description": "GPU (96 vCPUs, 960 GiB RAM)",
+  "description": "GPU (96 vCPUs, 960 GiB RAM, 4x B200)",
   "family": "GPU",
   "vcpus": 96,
   "hypervisor": "KVM",

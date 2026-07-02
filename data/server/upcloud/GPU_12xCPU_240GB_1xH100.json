@@ -4,7 +4,7 @@
   "name": "GPU-12xCPU-240GB-1xH100",
   "api_reference": "GPU-12xCPU-240GB-1xH100",
   "display_name": "GPU-12xCPU-240GB-1xH100",
-  "description": "GPU (12 vCPUs, 240 GiB RAM)",
+  "description": "GPU (12 vCPUs, 240 GiB RAM, 1x H100)",
   "family": "GPU",
   "vcpus": 12,
   "hypervisor": "KVM",

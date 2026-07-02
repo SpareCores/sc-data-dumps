@@ -4,7 +4,7 @@
   "name": "GPU-20xCPU-256GB-3xL4",
   "api_reference": "GPU-20xCPU-256GB-3xL4",
   "display_name": "GPU-20xCPU-256GB-3xL4",
-  "description": "GPU (20 vCPUs, 256 GiB RAM)",
+  "description": "GPU (20 vCPUs, 256 GiB RAM, 3x L4)",
   "family": "GPU",
   "vcpus": 20,
   "hypervisor": "KVM",

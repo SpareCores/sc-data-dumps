@@ -4,8 +4,8 @@
   "name": "CLOUDNATIVE-64xCPU-512GB",
   "api_reference": "CLOUDNATIVE-64xCPU-512GB",
   "display_name": "CLOUDNATIVE-64xCPU-512GB",
-  "description": "CLOUDNATIVE (64 vCPUs, 512 GiB RAM)",
-  "family": "CLOUDNATIVE",
+  "description": "Cloud Native (64 vCPUs, 512 GiB RAM)",
+  "family": "Cloud Native",
   "vcpus": 64,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -138,7 +138,7 @@
   "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 97280.0,
-  "ipv4": 0,
+  "ipv4": 1,
   "average_time_to_start": null,
   "status": "ACTIVE"
 }

@@ -4,8 +4,8 @@
   "name": "CLOUDNATIVE-16xCPU-128GB",
   "api_reference": "CLOUDNATIVE-16xCPU-128GB",
   "display_name": "CLOUDNATIVE-16xCPU-128GB",
-  "description": "CLOUDNATIVE (16 vCPUs, 128 GiB RAM)",
-  "family": "CLOUDNATIVE",
+  "description": "Cloud Native (16 vCPUs, 128 GiB RAM)",
+  "family": "Cloud Native",
   "vcpus": 16,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -138,7 +138,7 @@
   "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 35840.0,
-  "ipv4": 0,
+  "ipv4": 1,
   "average_time_to_start": null,
   "status": "ACTIVE"
 }

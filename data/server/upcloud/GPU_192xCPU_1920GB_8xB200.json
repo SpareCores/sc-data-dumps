@@ -4,7 +4,7 @@
   "name": "GPU-192xCPU-1920GB-8xB200",
   "api_reference": "GPU-192xCPU-1920GB-8xB200",
   "display_name": "GPU-192xCPU-1920GB-8xB200",
-  "description": "GPU (192 vCPUs, 1920 GiB RAM)",
+  "description": "GPU (192 vCPUs, 1920 GiB RAM, 8x B200)",
   "family": "GPU",
   "vcpus": 192,
   "hypervisor": "KVM",

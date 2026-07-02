@@ -4,7 +4,7 @@
   "name": "GPU-48xCPU-480GB-2xB200",
   "api_reference": "GPU-48xCPU-480GB-2xB200",
   "display_name": "GPU-48xCPU-480GB-2xB200",
-  "description": "GPU (48 vCPUs, 480 GiB RAM)",
+  "description": "GPU (48 vCPUs, 480 GiB RAM, 2x B200)",
   "family": "GPU",
   "vcpus": 48,
   "hypervisor": "KVM",

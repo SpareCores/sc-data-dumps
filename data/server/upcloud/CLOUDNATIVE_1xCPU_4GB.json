@@ -4,8 +4,8 @@
   "name": "CLOUDNATIVE-1xCPU-4GB",
   "api_reference": "CLOUDNATIVE-1xCPU-4GB",
   "display_name": "CLOUDNATIVE-1xCPU-4GB",
-  "description": "CLOUDNATIVE (1 vCPUs, 4 GiB RAM)",
-  "family": "CLOUDNATIVE",
+  "description": "Cloud Native (1 vCPUs, 4 GiB RAM)",
+  "family": "Cloud Native",
   "vcpus": 1,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -138,7 +138,7 @@
   "network_storage_speed_max": null,
   "inbound_traffic": 0.0,
   "outbound_traffic": 1024.0,
-  "ipv4": 0,
+  "ipv4": 1,
   "average_time_to_start": null,
   "status": "ACTIVE"
 }

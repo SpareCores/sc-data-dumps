@@ -4,7 +4,7 @@
   "name": "GPU-48xCPU-960GB-4xH100",
   "api_reference": "GPU-48xCPU-960GB-4xH100",
   "display_name": "GPU-48xCPU-960GB-4xH100",
-  "description": "GPU (48 vCPUs, 960 GiB RAM)",
+  "description": "GPU (48 vCPUs, 960 GiB RAM, 4x H100)",
   "family": "GPU",
   "vcpus": 48,
   "hypervisor": "KVM",
