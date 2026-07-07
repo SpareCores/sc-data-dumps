@@ -10,7 +10,7 @@
           "size": "1k",
           "connections_per_vcpus": 8.0
         },
-        "label": "Static web RPS (1 kB, 8 conn/vCPU)",
+        "label": "Static web RPS (1 KiB, 8 conn/vCPU)",
         "on_missing": "ignore",
         "weight": 0.3
       },
@@ -20,7 +20,7 @@
           "size": "64k",
           "connections_per_vcpus": 8.0
         },
-        "label": "Static web RPS (64 kB, 8 conn/vCPU)",
+        "label": "Static web RPS (64 KiB, 8 conn/vCPU)",
         "on_missing": "ignore",
         "weight": 0.2
       },
@@ -30,7 +30,7 @@
           "size": "256k",
           "connections_per_vcpus": 8.0
         },
-        "label": "Static web throughput (256 kB, 8 conn/vCPU)",
+        "label": "Static web throughput (256 KiB, 8 conn/vCPU)",
         "on_missing": "ignore",
         "weight": 0.2
       },
@@ -48,8 +48,8 @@
         "benchmark_id": "compression_text:compress",
         "config_filter": {
           "algo": "gzip",
-          "cores": "multi",
-          "compression_level": 5
+          "compression_level": 5,
+          "cores": "multi"
         },
         "label": "Gzip compression (multi-core, level 5)",
         "on_missing": "ignore",
@@ -68,7 +68,7 @@
     "normalization": "median_ratio"
   },
   "name": "Workload profile: Web Server",
-  "description": "Precomputed compound score for Web Server workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 30% Static web RPS (1 kB, 8 conn/vCPU), 20% Static web RPS (64 kB, 8 conn/vCPU), 20% Static web throughput (256 kB, 8 conn/vCPU), 20% OpenSSL AES-256-CBC (16 kB blocks), 5% Gzip compression (multi-core, level 5), 5% PassMark string sorting. Rationale for component selection: Primary workloads drivers are single-process static HTTP serving speed and throughput, text processing, TLS termination, and asset compression.",
+  "description": "Precomputed compound score for Web Server workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 30% Static web RPS (1 KiB, 8 conn/vCPU), 20% Static web RPS (64 KiB, 8 conn/vCPU), 20% Static web throughput (256 KiB, 8 conn/vCPU), 20% OpenSSL AES-256-CBC (16 kB blocks), 5% Gzip compression (multi-core, level 5), 5% PassMark string sorting. Rationale for component selection: Primary workloads drivers are single-process static HTTP serving speed and throughput, text processing, TLS termination, and asset compression.",
   "note": null,
   "framework": "workload_profile",
   "config_fields": {},
