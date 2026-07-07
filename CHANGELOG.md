@@ -1,3 +1,48 @@
+## v0.8.2+20260707183345 (Jul 07, 2026)
+
+This is an automated release with 36 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28885735684
+
+
+### server
+
+- Update: hcloud/114
+- Update: upcloud/1xCPU-1GB
+- Update: gcp/2000
+- Update: ovh/d2-2
+- Update: upcloud/DEV-1xCPU-1GB
+- Update: upcloud/DEV-1xCPU-1GB-10GB
+- Update: upcloud/DEV-1xCPU-2GB
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.g8i.48xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: upcloud/PREMIUM-1xCPU-1GB
+- Update: azure/Standard_B1ms
+- Update: azure/Standard_B1s
+- Update: azure/Standard_B2ats_v2
+- Update: azure/Standard_B2pls_v2
+- Update: azure/Standard_B2pts_v2
+- Update: azure/Standard_B2ts_v2
+- Update: azure/Standard_F2ams_v6
+- Update: upcloud/STARTER-1xCPU-1GB
+- Update: upcloud/STARTER-1xCPU-2GB
+- Update: upcloud/STARTER-2xCPU-2GB
+- Update: vultr/vc2-1c-1gb
+- Update: vultr/vc2-1c-2gb
+- Update: vultr/vhf-1c-1gb
+- Update: vultr/vhf-1c-2gb
+- Update: vultr/vhp-1c-1gb-amd
+- Update: vultr/vhp-1c-1gb-intel
+
 ## v0.8.2+20260707161036 (Jul 07, 2026)
 
 This is an automated release with 18 new/updated/deleted resources.
