@@ -1,3 +1,135 @@
+## v0.8.2+20260708205249 (Jul 08, 2026)
+
+This is an automated release with 123 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28971028967
+
+
+### server
+
+- Update: gcp/1000024
+- Update: gcp/1000048
+- Update: gcp/1100056
+- Update: gcp/1100112
+- Update: gcp/1110112
+- Update: gcp/1120056
+- Update: gcp/1210060
+- Update: gcp/1220007
+- Update: gcp/1300044
+- Update: gcp/1301044
+- Update: gcp/1320044
+- Update: gcp/1330022
+- Update: gcp/1330044
+- Update: gcp/1400064
+- Update: gcp/1600048
+- Update: gcp/1700060
+- Update: gcp/1700090
+- Update: gcp/1710030
+- Update: gcp/1710090
+- Update: gcp/1720060
+- Update: gcp/1720362
+- Update: gcp/1720368
+- Update: gcp/1730060
+- Update: gcp/1730090
+- Update: gcp/1742009
+- Update: gcp/1742010
+- Update: gcp/1742011
+- Update: gcp/1742015
+- Update: gcp/1750006
+- Update: gcp/1750007
+- Update: gcp/1750013
+- Update: gcp/1750014
+- Update: gcp/1750022
+- Update: gcp/1750023
+- Update: gcp/1750024
+- Update: gcp/1760048
+- Update: gcp/1761032
+- Update: gcp/1761048
+- Update: gcp/1762032
+- Update: gcp/1762048
+- Update: gcp/3032
+- Update: gcp/3064
+- Update: gcp/4064
+- Update: gcp/4096
+- Update: gcp/5032
+- Update: gcp/801030
+- Update: gcp/801060
+- Update: gcp/804417
+- Update: gcp/901032
+- Update: gcp/901048
+- Update: gcp/901064
+- Update: gcp/902032
+- Update: gcp/902048
+- Update: gcp/903048
+- Update: gcp/903064
+- Update: gcp/903080
+- Update: gcp/903096
+- Update: gcp/910080
+- Update: gcp/910096
+- Update: gcp/910128
+- Update: gcp/911032
+- Update: gcp/911064
+- Update: gcp/911080
+- Update: gcp/911096
+- Update: gcp/911128
+- Update: gcp/912080
+- Update: gcp/912096
+- Update: gcp/9905030
+- Update: gcp/999911144
+- Update: gcp/999912024
+- Update: gcp/999913032
+- Update: gcp/999913048
+- Update: gcp/999914024
+- Update: gcp/999914032
+- Update: gcp/999914048
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: azure/Standard_A4_v2
+- Update: azure/Standard_B4ms
+- Update: azure/Standard_B4s_v2
+- Update: azure/Standard_B8als_v2
+- Update: azure/Standard_B8pls_v2
+- Update: azure/Standard_B8ps_v2
+- Update: azure/Standard_D11
+- Update: azure/Standard_D4ls_v5
+- Update: azure/Standard_D4ls_v6
+- Update: azure/Standard_D4_v3
+- Update: azure/Standard_D4_v4
+- Update: azure/Standard_D8pls_v5
+- Update: azure/Standard_D8pls_v6
+- Update: azure/Standard_D8ps_v6
+- Update: azure/Standard_DS11
+- Update: azure/Standard_E2bds_v5
+- Update: azure/Standard_E2ds_v6
+- Update: azure/Standard_E32-8ds_v6
+- Update: azure/Standard_E4-2ads_v5
+- Update: azure/Standard_E4-2ads_v7
+- Update: azure/Standard_E4-2as_v7
+- Update: azure/Standard_E4ads_v5
+- Update: azure/Standard_E4ads_v6
+- Update: azure/Standard_E4ads_v7
+- Update: azure/Standard_E4as_v4
+- Update: azure/Standard_E4as_v6
+- Update: azure/Standard_E4as_v7
+- Update: azure/Standard_E4a_v4
+- Update: azure/Standard_E4bs_v5
+- Update: azure/Standard_E4pds_v5
+- Update: azure/Standard_E4pds_v6
+- Update: azure/Standard_EC4ads_cc_v5
+- Update: azure/Standard_F16ams_v6
+- Update: azure/Standard_F4alds_v7
+- Update: azure/Standard_F4als_v6
+- Update: azure/Standard_F4als_v7
+- Update: azure/Standard_F4as_v6
+- Update: azure/Standard_F4as_v7
+- Update: azure/Standard_F4s_v2
+- Update: azure/Standard_L2as_v4
+- Update: azure/Standard_L2s_v4
+- Update: vultr/vcg-a100-96c-896g-320vram
+
 ## v0.8.2+20260708184220 (Jul 08, 2026)
 
 This is an automated release with 130 new/updated/deleted resources.
