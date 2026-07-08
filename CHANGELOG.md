@@ -1,3 +1,58 @@
+## v0.8.2+20260708231331 (Jul 08, 2026)
+
+This is an automated release with 46 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28979143732
+
+
+### server
+
+- Update: gcp/1000048
+- Update: gcp/11080
+- Update: gcp/1120112
+- Update: gcp/1300088
+- Update: gcp/1360088
+- Update: gcp/1410032
+- Update: gcp/1410128
+- Update: gcp/1710360
+- Update: gcp/1720090
+- Update: gcp/1720180
+- Update: gcp/1722000
+- Update: gcp/1750015
+- Update: gcp/1760192
+- Update: gcp/1762192
+- Update: gcp/3096
+- Update: gcp/901128
+- Update: gcp/902080
+- Update: gcp/912048
+- Update: gcp/912064
+- Update: gcp/9905180
+- Update: gcp/9905360
+- Update: gcp/999912144
+- Update: gcp/999914096
+- Update: gcp/999914288
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_A8m_v2
+- Update: azure/Standard_D96lds_v6
+- Update: azure/Standard_E160as_v7
+- Update: azure/Standard_E20as_v5
+- Update: azure/Standard_E32pds_v6
+- Update: azure/Standard_E48s_v4
+- Update: azure/Standard_E4s_v4
+- Update: azure/Standard_E80ids_v4
+- Update: azure/Standard_E8-2ads_v5
+- Update: azure/Standard_E8-4s_v3
+- Update: azure/Standard_E96-48s_v5
+- Update: azure/Standard_F4ams_v7
+- Update: azure/Standard_FX64-16mds_v2
+- Update: azure/Standard_GS4
+- Update: azure/Standard_L64as_v4
+- Update: azure/Standard_M8-2ms
+- Update: azure/Standard_M8-4ms
+
 ## v0.8.2+20260708205249 (Jul 08, 2026)
 
 This is an automated release with 123 new/updated/deleted resources.
