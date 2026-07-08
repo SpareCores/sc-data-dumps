@@ -1,3 +1,93 @@
+## v0.8.2+20260708161924 (Jul 08, 2026)
+
+This is an automated release with 81 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28953273372
+
+
+### server
+
+- Update: gcp/1100008
+- Update: gcp/1100016
+- Update: gcp/1110016
+- Update: gcp/1120008
+- Update: gcp/1210008
+- Update: gcp/1210016
+- Update: gcp/1220004
+- Update: gcp/1300004
+- Update: gcp/1300008
+- Update: gcp/1301004
+- Update: gcp/1301008
+- Update: gcp/1310008
+- Update: gcp/1330004
+- Update: gcp/1600008
+- Update: gcp/1600012
+- Update: gcp/1700008
+- Update: gcp/1710004
+- Update: gcp/1710008
+- Update: gcp/1720008
+- Update: gcp/1730008
+- Update: gcp/1750003
+- Update: gcp/1750010
+- Update: gcp/1750011
+- Update: gcp/1750019
+- Update: gcp/1760008
+- Update: gcp/1761004
+- Update: gcp/1761008
+- Update: gcp/1762008
+- Update: gcp/3008
+- Update: gcp/335008
+- Update: gcp/336008
+- Update: gcp/337016
+- Update: gcp/4008
+- Update: gcp/5004
+- Update: gcp/5008
+- Update: gcp/801004
+- Update: gcp/901008
+- Update: gcp/902004
+- Update: gcp/903008
+- Update: gcp/910016
+- Update: gcp/911008
+- Update: gcp/911016
+- Update: gcp/912008
+- Update: gcp/9905008
+- Update: gcp/999913008
+- Update: gcp/999914004
+- Update: gcp/999914008
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.r7a-nps1.16xlarge
+- Update: azure/Standard_B4als_v2
+- Update: azure/Standard_B4as_v2
+- Update: azure/Standard_B4ps_v2
+- Update: azure/Standard_D2lds_v5
+- Update: azure/Standard_D2ls_v6
+- Update: azure/Standard_D2s_v3
+- Update: azure/Standard_D2s_v4
+- Update: azure/Standard_D2s_v5
+- Update: azure/Standard_D2s_v6
+- Update: azure/Standard_D2_v3
+- Update: azure/Standard_D2_v4
+- Update: azure/Standard_D2_v5
+- Update: azure/Standard_D4plds_v5
+- Update: azure/Standard_D4plds_v6
+- Update: azure/Standard_D4pls_v5
+- Update: azure/Standard_D4ps_v6
+- Update: azure/Standard_E2ads_v6
+- Update: azure/Standard_E2ads_v7
+- Update: azure/Standard_F1ads_v7
+- Update: azure/Standard_F1alds_v7
+- Update: azure/Standard_F1als_v7
+- Update: azure/Standard_F1amds_v7
+- Update: azure/Standard_F1ams_v7
+- Update: azure/Standard_F1as_v7
+- Update: azure/Standard_F2
+- Update: azure/Standard_F2alds_v7
+- Update: azure/Standard_F2als_v7
+- Update: azure/Standard_F2as_v6
+- Update: azure/Standard_F2as_v7
+- Update: azure/Standard_F2s
+- Update: azure/Standard_F8ams_v6
+
 ## v0.8.2+20260708140039 (Jul 08, 2026)
 
 This is an automated release with 34 new/updated/deleted resources.
