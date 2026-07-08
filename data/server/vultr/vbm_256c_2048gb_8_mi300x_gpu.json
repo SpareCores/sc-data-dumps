@@ -8,7 +8,7 @@
   "family": "Bare Metal NVMe",
   "vcpus": 256,
   "hypervisor": null,
-  "cpu_allocation": "SHARED",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 128,
   "cpu_speed": 2.45,
   "cpu_architecture": "X86_64",

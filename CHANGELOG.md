@@ -1,3 +1,60 @@
+## v0.8.2+20260708112113 (Jul 08, 2026)
+
+This is an automated release with 48 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28934645127
+
+
+### server
+
+- Update: gcp/1120004
+- Update: gcp/1220003
+- Update: gcp/1310004
+- Update: gcp/1750018
+- Update: gcp/1760004
+- Update: gcp/336004
+- Update: gcp/910008
+- Update: gcp/912004
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8t-4x.16xlarge
+- Update: alicloud/ecs.gn8v-tee.4xlarge
+- Update: alicloud/ecs.gn8v-tee.6xlarge
+- Update: alicloud/ecs.gn8v-tee-8x.48xlarge
+- Update: alicloud/ecs.t1.small
+- Update: azure/Standard_B4pls_v2
+- Update: azure/Standard_D8als_v7
+- Update: azure/Standard_E2as_v6
+- Update: azure/Standard_E2as_v7
+- Update: azure/Standard_E2a_v4
+- Update: azure/Standard_E2pds_v6
+- Update: azure/Standard_F2als_v6
+- Update: azure/Standard_F2als_v7
+- Update: vultr/vbm-112c-2048gb-8-a100-gpu
+- Update: vultr/vbm-112c-2048gb-8-h100-gpu
+- Update: vultr/vbm-128c-2048gb-amd
+- Update: vultr/vbm-24c-256gb-amd
+- Update: vultr/vbm-24c-384gb-amd
+- Update: vultr/vbm-24c-384gb-amd5
+- Update: vultr/vbm-256c-2048gb-8-mi300x-gpu
+- Update: vultr/vbm-256c-3072gb-8-b200-gpu
+- Update: vultr/vbm-256c-3072gb-8-mi325x-gpu
+- Update: vultr/vbm-256c-3072gb-8-mi355x-gpu
+- Update: vultr/vbm-32c-755gb-amd
+- Update: vultr/vbm-48c-1024gb-4-a100-gpu
+- Update: vultr/vbm-4c-32gb
+- Update: vultr/vbm-64c-1536gb-amd
+- Update: vultr/vbm-64c-2048gb-8-l40-gpu
+- Update: vultr/vbm-6c-128gb
+- Update: vultr/vbm-6c-32gb
+- Update: vultr/vbm-6c-32gb-amd
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+- Update: vultr/vbm-8c-128gb-amd
+- Update: vultr/vbm-8c-132gb
+- Update: vultr/vbm-8c-132gb-v2
+- Update: vultr/vbm-8c-64gb-amd
+
 ## v0.8.2+20260708083445 (Jul 08, 2026)
 
 This is an automated release with 29 new/updated/deleted resources.

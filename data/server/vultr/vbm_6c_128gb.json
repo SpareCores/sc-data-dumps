@@ -8,7 +8,7 @@
   "family": "Bare Metal SSD",
   "vcpus": 12,
   "hypervisor": null,
-  "cpu_allocation": "SHARED",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 6,
   "cpu_speed": 3.5,
   "cpu_architecture": "X86_64",
