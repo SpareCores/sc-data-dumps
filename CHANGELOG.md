@@ -1,3 +1,46 @@
+## v0.8.2+20260708140039 (Jul 08, 2026)
+
+This is an automated release with 34 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/28943777358
+
+
+### server
+
+- Update: gcp/1110008
+- Update: gcp/1220001
+- Update: gcp/1220002
+- Update: gcp/1220003
+- Update: gcp/1720004
+- Update: gcp/1750002
+- Update: gcp/1762004
+- Update: gcp/3004
+- Update: gcp/337008
+- Update: gcp/901004
+- Update: gcp/999913004
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.gn7i-4x.8xlarge
+- Update: alicloud/ecs.i1.3xlarge
+- Update: alicloud/ecs.i1.4xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.r7a-nps1.16xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_B2ms
+- Update: azure/Standard_B2s_v2
+- Update: azure/Standard_D2ads_v5
+- Update: azure/Standard_D2ads_v7
+- Update: azure/Standard_D2alds_v7
+- Update: azure/Standard_D2als_v7
+- Update: azure/Standard_D2as_v7
+- Update: azure/Standard_D2ls_v5
+- Update: azure/Standard_D4pls_v6
+- Update: azure/Standard_D8als_v7
+- Update: azure/Standard_E2ads_v5
+- Update: azure/Standard_E2as_v4
+- Update: azure/Standard_E2as_v7
+- Update: azure/Standard_E2pds_v5
+- Update: azure/Standard_F2s_v2
+
 ## v0.8.2+20260708112113 (Jul 08, 2026)
 
 This is an automated release with 48 new/updated/deleted resources.
