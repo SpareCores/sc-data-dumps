@@ -1,3 +1,47 @@
+## v0.8.2+20260709163659 (Jul 09, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29029623586
+
+
+### server
+
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.ebmgn9ge.64xlarge
+- Update: alicloud/ecs.g7nex.16xlarge
+- Update: alicloud/ecs.r7a-nps1.16xlarge
+- Update: azure/Standard_D4ads_v7
+- Update: azure/Standard_D4alds_v7
+- Update: azure/Standard_D4als_v7
+- Update: azure/Standard_D4as_v4
+- Update: azure/Standard_D4as_v7
+- Update: azure/Standard_DC1s_v2
+- Update: azure/Standard_DC2s_v2
+- Update: azure/Standard_DC4s_v2
+- Update: azure/Standard_DC8_v2
+- Update: azure/Standard_E160as_v7
+- Update: azure/Standard_E16-4ads_v5
+- Update: azure/Standard_E2ads_v7
+- Update: azure/Standard_E4-2ads_v5
+- Update: azure/Standard_E4-2ads_v7
+- Update: azure/Standard_E4-2as_v7
+- Update: azure/Standard_E4ads_v5
+- Update: azure/Standard_E4ads_v7
+- Update: azure/Standard_E4as_v7
+- Update: azure/Standard_E8-4as_v5
+- Update: azure/Standard_F2-1amds_v7
+- Update: azure/Standard_F2-1ams_v7
+- Update: azure/Standard_F2ads_v7
+- Update: azure/Standard_F2alds_v7
+- Update: azure/Standard_F2amds_v7
+- Update: azure/Standard_F2ams_v7
+- Update: azure/Standard_F2as_v7
+- Update: azure/Standard_F4alds_v7
+- Update: azure/Standard_F4als_v7
+- Update: azure/Standard_F4ams_v7
+- Update: azure/Standard_F4as_v7
+- Update: azure/Standard_FX64-16mds_v2
+
 ## v0.8.2+20260709135308 (Jul 09, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.
