@@ -19,10 +19,10 @@
   "cpu_l1d_cache_total": 2304,
   "cpu_l1i_cache": 32,
   "cpu_l1i_cache_total": 1536,
-  "cpu_l2_cache": 1280,
-  "cpu_l2_cache_total": 61440,
-  "cpu_l3_cache": 49152,
-  "cpu_l3_cache_total": 98304,
+  "cpu_l2_cache": 2048,
+  "cpu_l2_cache_total": 98304,
+  "cpu_l3_cache": 266240,
+  "cpu_l3_cache_total": 532480,
   "cpu_flags": [
     "fpu",
     "vme",
@@ -160,6 +160,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 15.0,
   "status": "ACTIVE"
 }
