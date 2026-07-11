@@ -76,7 +76,7 @@
     "mkdocs-material==9.7.6",
     "mkdocs-material-extensions==1.3.1",
     "mkdocs-section-index==0.3.12",
-    "mkdocstrings==1.0.5",
+    "mkdocstrings==1.0.6",
     "mkdocstrings-python==2.0.5",
     "msal==1.37.0",
     "msal-extensions==1.3.1",
@@ -134,10 +134,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.2",
-    "NEWVERSION": "v0.8.2+20260711194652",
-    "NEWVERSIONDATE": "v0.8.2+20260711194652 (Jul 11, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29164121428",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29164121428"
+    "NEWVERSION": "v0.8.2+20260711215249",
+    "NEWVERSIONDATE": "v0.8.2+20260711215249 (Jul 11, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29167672615",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29167672615"
   },
-  "timestamp": "2026-07-11T19:46:52Z"
+  "timestamp": "2026-07-11T21:52:49Z"
 }
