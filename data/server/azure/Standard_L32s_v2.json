@@ -22,7 +22,7 @@
   "cpu_l2_cache": 512,
   "cpu_l2_cache_total": 8192,
   "cpu_l3_cache": 8192,
-  "cpu_l3_cache_total": 8192,
+  "cpu_l3_cache_total": 32768,
   "cpu_flags": [
     "fpu",
     "vme",
@@ -137,6 +137,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 69.0,
   "status": "ACTIVE"
 }
