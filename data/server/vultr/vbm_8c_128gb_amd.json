@@ -190,8 +190,8 @@
     "srso_user_kernel_no"
   ],
   "cpus": [],
-  "ecpus": 7.7,
-  "scalability": 96.25,
+  "ecpus": 7.8,
+  "scalability": 97.5,
   "hw_virt": 1,
   "memory_amount": 126386,
   "memory_amount_actual": 131072,
@@ -215,6 +215,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 10240.0,
   "ipv4": 1,
-  "average_time_to_start": 386.0,
+  "average_time_to_start": 379.5,
   "status": "ACTIVE"
 }

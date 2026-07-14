@@ -1,3 +1,55 @@
+## v0.8.2+20260714203205 (Jul 14, 2026)
+
+This is an automated release with 43 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29361926093
+
+
+### server
+
+- Update: gcp/1300022
+- Update: gcp/1400064
+- Update: gcp/1720362
+- Update: gcp/1720368
+- Update: gcp/1722000
+- Update: upcloud/24xCPU-96GB
+- Update: gcp/804417
+- Update: gcp/911016
+- Update: gcp/999914024
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/DEV-2xCPU-4GB
+- Update: upcloud/DEV-2xCPU-8GB
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: upcloud/HIMEM-2xCPU-16GB
+- Update: upcloud/PREMIUM-64xCPU-384GB
+- Update: ovh/r2-60
+- Update: azure/Standard_D16as_v4
+- Update: azure/Standard_D4ds_v4
+- Update: azure/Standard_D64alds_v7
+- Update: azure/Standard_E128-64as_v7
+- Update: azure/Standard_E16ds_v5
+- Update: azure/Standard_E32-16ads_v7
+- Update: azure/Standard_E32-8ds_v6
+- Update: azure/Standard_E8ds_v6
+- Update: azure/Standard_E8pds_v5
+- Update: azure/Standard_F16ams_v6
+- Update: azure/Standard_FX96ms_v2
+- Update: azure/Standard_M176bds_4_v3
+- Update: azure/Standard_M416ms_v2
+- Update: azure/Standard_M8-2ms
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: vultr/vbm-8c-128gb-amd
+- Update: vultr/vcg-a16-3c-32g-8vram
+- Update: vultr/vhp-1c-2gb-intel
+- Update: vultr/vhp-2c-4gb-amd
+- Update: vultr/vhp-2c-4gb-intel
+- Update: vultr/voc-c-16c-32gb-500s-amd
+- Update: vultr/voc-c-4c-8gb-75s-amd
+- Update: vultr/vx1-m-2c-16g-120s
+
 ## v0.8.2+20260714181248 (Jul 14, 2026)
 
 This is an automated release with 13 new/updated/deleted resources.

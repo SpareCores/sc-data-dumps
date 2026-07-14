@@ -57,6 +57,7 @@
     "constant_tsc",
     "rep_good",
     "nopl",
+    "xtopology",
     "nonstop_tsc",
     "cpuid",
     "extd_apicid",
@@ -112,8 +113,6 @@
     "clzero",
     "xsaveerptr",
     "arat",
-    "npt",
-    "nrip_save",
     "umip",
     "vaes",
     "vpclmulqdq",
@@ -146,6 +145,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 16.5,
+  "average_time_to_start": 16.33,
   "status": "ACTIVE"
 }

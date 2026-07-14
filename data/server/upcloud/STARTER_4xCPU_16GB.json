@@ -139,8 +139,8 @@
     "arch_capabilities"
   ],
   "cpus": [],
-  "ecpus": 3.9,
-  "scalability": 97.5,
+  "ecpus": 4.2,
+  "scalability": 105.0,
   "hw_virt": 0,
   "memory_amount": 16384,
   "memory_amount_actual": 16384,
@@ -164,6 +164,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 2560.0,
   "ipv4": 1,
-  "average_time_to_start": 149.5,
+  "average_time_to_start": 148.33,
   "status": "ACTIVE"
 }

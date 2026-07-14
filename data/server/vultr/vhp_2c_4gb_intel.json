@@ -79,10 +79,10 @@
     "lahf_lm",
     "abm",
     "cpuid_fault",
-    "pti",
     "ssbd",
     "ibrs",
     "ibpb",
+    "ibrs_enhanced",
     "fsgsbase",
     "bmi1",
     "avx2",
@@ -101,7 +101,8 @@
     "arat",
     "pku",
     "ospke",
-    "avx512_vnni"
+    "avx512_vnni",
+    "arch_capabilities"
   ],
   "cpus": [],
   "ecpus": 2.0,
@@ -129,6 +130,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 5120.0,
   "ipv4": 1,
-  "average_time_to_start": 142.75,
+  "average_time_to_start": 123.0,
   "status": "ACTIVE"
 }

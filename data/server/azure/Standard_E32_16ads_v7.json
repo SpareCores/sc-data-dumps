@@ -145,8 +145,8 @@
     "avx512_vp2intersect"
   ],
   "cpus": [],
-  "ecpus": 8.0,
-  "scalability": 100.0,
+  "ecpus": 8.2,
+  "scalability": 102.5,
   "hw_virt": 1,
   "memory_amount": 262144,
   "memory_amount_actual": 262144,
@@ -181,6 +181,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 55.33,
+  "average_time_to_start": 71.25,
   "status": "ACTIVE"
 }
