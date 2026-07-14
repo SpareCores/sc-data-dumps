@@ -12,7 +12,7 @@
     "alibabacloud-ecs20140526==7.9.1",
     "alibabacloud-gateway-spi==0.0.4",
     "alibabacloud-tea==0.4.3",
-    "alibabacloud-tea-openapi==0.4.4",
+    "alibabacloud-tea-openapi==0.4.5",
     "alibabacloud-tea-util==0.3.14",
     "annotated-doc==0.0.4",
     "annotated-types==0.7.0",
@@ -36,7 +36,7 @@
     "charset-normalizer==3.4.9",
     "click==8.4.2",
     "colorama==0.4.6",
-    "cryptography==46.0.7",
+    "cryptography==48.0.1",
     "cssselect2==0.9.0",
     "darabonba-core==1.0.8",
     "defusedxml==0.7.1",
@@ -135,10 +135,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.2",
-    "NEWVERSION": "v0.8.2+20260714134548",
-    "NEWVERSIONDATE": "v0.8.2+20260714134548 (Jul 14, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29333397099",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29333397099"
+    "NEWVERSION": "v0.8.2+20260714155706",
+    "NEWVERSIONDATE": "v0.8.2+20260714155706 (Jul 14, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 30 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29342488567",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29342488567"
   },
-  "timestamp": "2026-07-14T13:45:48Z"
+  "timestamp": "2026-07-14T15:57:06Z"
 }

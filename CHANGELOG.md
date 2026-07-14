@@ -1,3 +1,42 @@
+## v0.8.2+20260714155706 (Jul 14, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29342488567
+
+
+### server
+
+- Update: gcp/1300022
+- Update: gcp/1400064
+- Update: gcp/1720362
+- Update: upcloud/24xCPU-96GB
+- Update: gcp/804417
+- Update: gcp/911016
+- Update: gcp/999914024
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/DEV-2xCPU-4GB
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.s2.small
+- Update: upcloud/HIMEM-2xCPU-16GB
+- Update: upcloud/PREMIUM-64xCPU-384GB
+- Update: ovh/r2-60
+- Update: azure/Standard_D64alds_v7
+- Update: azure/Standard_E128-64as_v7
+- Update: azure/Standard_E32-16ads_v7
+- Update: azure/Standard_E32-8ds_v6
+- Update: azure/Standard_M8-2ms
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: vultr/vcg-a16-3c-32g-8vram
+- Update: vultr/vcg-a40-12c-60g-24vram
+- Update: vultr/vhp-2c-4gb-amd
+- Update: vultr/vhp-2c-4gb-intel
+- Update: vultr/vhp-4c-8gb-intel
+- Update: vultr/voc-c-16c-32gb-500s-amd
+- Update: vultr/voc-c-4c-8gb-75s-amd
+- Update: vultr/voc-m-4c-32gb-400s-amd
+- Update: vultr/vx1-m-2c-16g-120s
+
 ## v0.8.2+20260714134548 (Jul 14, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
