@@ -53,11 +53,11 @@
     "pdpe1gb",
     "rdtscp",
     "lm",
-    "constant_tsc",
     "rep_good",
     "nopl",
     "xtopology",
     "cpuid",
+    "tsc_known_freq",
     "pni",
     "pclmulqdq",
     "ssse3",
@@ -105,8 +105,8 @@
     "arch_capabilities"
   ],
   "cpus": [],
-  "ecpus": 274.7,
-  "scalability": 132.07,
+  "ecpus": 259.4,
+  "scalability": 124.71,
   "hw_virt": 0,
   "memory_amount": 11673600,
   "memory_amount_actual": 11673600,
@@ -136,6 +136,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 239.0,
+  "average_time_to_start": 243.0,
   "status": "ACTIVE"
 }

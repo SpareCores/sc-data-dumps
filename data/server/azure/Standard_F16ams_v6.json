@@ -57,11 +57,13 @@
     "constant_tsc",
     "rep_good",
     "nopl",
+    "xtopology",
     "tsc_reliable",
     "nonstop_tsc",
     "cpuid",
     "extd_apicid",
     "aperfmperf",
+    "tsc_known_freq",
     "pni",
     "pclmulqdq",
     "ssse3",
@@ -171,6 +173,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 17.55,
+  "average_time_to_start": 17.25,
   "status": "ACTIVE"
 }
