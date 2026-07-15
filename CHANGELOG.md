@@ -1,3 +1,40 @@
+## v0.8.2+20260715011907 (Jul 15, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29378143256
+
+
+### server
+
+- Update: gcp/1720368
+- Update: gcp/1722000
+- Update: upcloud/24xCPU-96GB
+- Update: gcp/804417
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: upcloud/PREMIUM-64xCPU-384GB
+- Update: azure/Standard_B20ms
+- Update: azure/Standard_D128lds_v6
+- Update: azure/Standard_D32lds_v6
+- Update: azure/Standard_D48ds_v7
+- Update: azure/Standard_D64ps_v6
+- Update: azure/Standard_D8ads_v5
+- Update: azure/Standard_DC32ads_cc_v5
+- Update: azure/Standard_E16-8s_v5
+- Update: azure/Standard_E16bds_v5
+- Update: azure/Standard_E16ds_v5
+- Update: azure/Standard_E16_v4
+- Update: azure/Standard_E32-16ds_v4
+- Update: azure/Standard_E32-16s_v6
+- Update: azure/Standard_E8-2ds_v4
+- Update: azure/Standard_E8-2s_v5
+- Update: azure/Standard_E8-4ads_v5
+- Update: azure/Standard_EC48as_cc_v5
+- Update: azure/Standard_L8s
+- Update: azure/Standard_M416s_8_v2
+- Update: vultr/vbm-8c-128gb-amd
+
 ## v0.8.2+20260714225309 (Jul 14, 2026)
 
 This is an automated release with 37 new/updated/deleted resources.
