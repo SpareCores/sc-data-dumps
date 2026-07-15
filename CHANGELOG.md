@@ -1,3 +1,44 @@
+## v0.8.2+20260715113835 (Jul 15, 2026)
+
+This is an automated release with 32 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29408011897
+
+
+### server
+
+- New: alicloud/ecs.gn9i.4xlarge
+- New: alicloud/ecs.g10a.128xlarge
+- New: alicloud/ecs.g10a.32xlarge
+- New: alicloud/ecs.g10a.24xlarge
+- New: alicloud/ecs.g10a.12xlarge
+- New: alicloud/ecs.g10a.8xlarge
+- New: alicloud/ecs.g10a.4xlarge
+- New: alicloud/ecs.g10a.xlarge
+- New: alicloud/ecs.g10a.large
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: azure/Standard_B16as_v2
+- Update: azure/Standard_D13_v2
+- Update: azure/Standard_D48d_v4
+- Update: azure/Standard_D4d_v5
+- Update: azure/Standard_D8plds_v5
+- Update: azure/Standard_DS12_v2
+- Update: azure/Standard_E20_v5
+- Update: azure/Standard_E32as_v6
+- Update: azure/Standard_E64-16s_v5
+- Update: azure/Standard_E8-4s_v6
+- Update: azure/Standard_E96s_v5
+- Update: azure/Standard_F8-4ams_v7
+- Update: azure/Standard_F8alds_v7
+- Update: azure/Standard_FX12mds_v2
+- Update: azure/Standard_L4aos_v4
+
 ## v0.8.2+20260715084558 (Jul 15, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
