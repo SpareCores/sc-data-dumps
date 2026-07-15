@@ -107,7 +107,7 @@
   "cpus": [],
   "ecpus": 274.8,
   "scalability": 132.12,
-  "hw_virt": null,
+  "hw_virt": 0,
   "memory_amount": 5836800,
   "memory_amount_actual": 5836800,
   "memory_generation": null,
@@ -136,6 +136,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 161.0,
   "status": "ACTIVE"
 }
