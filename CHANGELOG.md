@@ -1,3 +1,17 @@
+## v0.8.2+20260718202018 (Jul 18, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29657211479
+
+
+### server
+
+- Update: azure/Standard_D160as_v7
+- Update: azure/Standard_E16-8as_v7
+- Update: azure/Standard_E2s_v7
+- Update: azure/Standard_E64s_v7
+- Update: azure/Standard_E96-48as_v7
+
 ## v0.8.2+20260718175532 (Jul 18, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
