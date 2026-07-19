@@ -1,3 +1,14 @@
+## v0.8.2+20260719212429 (Jul 19, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29702571626
+
+
+### server
+
+- Update: azure/Standard_B2pts_v2
+- Update: azure/Standard_D64nls_v6
+
 ## v0.8.2+20260719192050 (Jul 19, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.
