@@ -152,7 +152,7 @@
   "gpu_model": null,
   "gpus": [],
   "storage_size": 160,
-  "storage_type": "SSD",
+  "storage_type": "NVME_SSD",
   "storages": [],
   "network_speed_baseline": null,
   "network_speed_max": null,
