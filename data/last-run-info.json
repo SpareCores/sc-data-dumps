@@ -3,7 +3,7 @@
   "pip_freeze": [
     "aiofiles==24.1.0",
     "aiohappyeyeballs==2.7.1",
-    "aiohttp==3.14.1",
+    "aiohttp==3.14.2",
     "aiosignal==1.4.0",
     "alembic==1.18.5",
     "alibabacloud-bssopenapi20171214==5.1.1",
@@ -26,8 +26,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0",
     "babel==2.18.0",
     "backrefs==7.0",
-    "boto3==1.43.51",
-    "botocore==1.43.51",
+    "boto3==1.43.52",
+    "botocore==1.43.52",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.0",
@@ -135,10 +135,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.2",
-    "NEWVERSION": "v0.8.2+20260720191628",
-    "NEWVERSIONDATE": "v0.8.2+20260720191628 (Jul 20, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29766465691",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29766465691"
+    "NEWVERSION": "v0.8.2+20260720214032",
+    "NEWVERSIONDATE": "v0.8.2+20260720214032 (Jul 20, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29776248896",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29776248896"
   },
-  "timestamp": "2026-07-20T19:16:28Z"
+  "timestamp": "2026-07-20T21:40:32Z"
 }
