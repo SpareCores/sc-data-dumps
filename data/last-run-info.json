@@ -131,14 +131,14 @@
     "watchdog==6.0.0",
     "webencodings==0.5.1",
     "websocket-client==1.9.0",
-    "yarl==1.24.2"
+    "yarl==1.24.5"
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.2",
-    "NEWVERSION": "v0.8.2+20260719234554",
-    "NEWVERSIONDATE": "v0.8.2+20260719234554 (Jul 19, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29706328746",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29706328746"
+    "NEWVERSION": "v0.8.2+20260720040744",
+    "NEWVERSIONDATE": "v0.8.2+20260720040744 (Jul 20, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29712694109",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29712694109"
   },
-  "timestamp": "2026-07-19T23:45:54Z"
+  "timestamp": "2026-07-20T04:07:44Z"
 }
