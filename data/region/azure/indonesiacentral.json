@@ -4,7 +4,9 @@
   "name": "Indonesia Central",
   "api_reference": "indonesiacentral",
   "display_name": "Indonesia Central (ID)",
-  "aliases": [],
+  "aliases": [
+    "Indonesia Central"
+  ],
   "country_id": "ID",
   "state": null,
   "city": "Jakarta",

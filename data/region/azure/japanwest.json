@@ -4,7 +4,9 @@
   "name": "Japan West",
   "api_reference": "japanwest",
   "display_name": "Japan West (JP)",
-  "aliases": [],
+  "aliases": [
+    "Japan West"
+  ],
   "country_id": "JP",
   "state": null,
   "city": "Osaka",

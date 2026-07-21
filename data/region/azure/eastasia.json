@@ -4,7 +4,9 @@
   "name": "East Asia",
   "api_reference": "eastasia",
   "display_name": "East Asia (HK)",
-  "aliases": [],
+  "aliases": [
+    "East Asia"
+  ],
   "country_id": "HK",
   "state": null,
   "city": null,

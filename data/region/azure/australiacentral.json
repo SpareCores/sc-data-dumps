@@ -4,7 +4,9 @@
   "name": "Australia Central",
   "api_reference": "australiacentral",
   "display_name": "Australia Central (AU)",
-  "aliases": [],
+  "aliases": [
+    "Australia Central"
+  ],
   "country_id": "AU",
   "state": null,
   "city": "Canberra",

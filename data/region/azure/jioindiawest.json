@@ -4,7 +4,9 @@
   "name": "Jio India West",
   "api_reference": "jioindiawest",
   "display_name": "Jio India West (IN)",
-  "aliases": [],
+  "aliases": [
+    "Jio India West"
+  ],
   "country_id": "IN",
   "state": null,
   "city": "Jamnagar",

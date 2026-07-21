@@ -4,7 +4,9 @@
   "name": "West US 3",
   "api_reference": "westus3",
   "display_name": "West US 3 (US)",
-  "aliases": [],
+  "aliases": [
+    "West US 3"
+  ],
   "country_id": "US",
   "state": "Arizona",
   "city": "Phoenix",

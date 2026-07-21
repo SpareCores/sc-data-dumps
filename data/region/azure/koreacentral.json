@@ -4,7 +4,9 @@
   "name": "Korea Central",
   "api_reference": "koreacentral",
   "display_name": "Korea Central (KR)",
-  "aliases": [],
+  "aliases": [
+    "Korea Central"
+  ],
   "country_id": "KR",
   "state": null,
   "city": "Seoul",

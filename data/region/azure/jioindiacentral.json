@@ -4,7 +4,9 @@
   "name": "Jio India Central",
   "api_reference": "jioindiacentral",
   "display_name": "Jio India Central (IN)",
-  "aliases": [],
+  "aliases": [
+    "Jio India Central"
+  ],
   "country_id": "IN",
   "state": null,
   "city": "Nagpur",

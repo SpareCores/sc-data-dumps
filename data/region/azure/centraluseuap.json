@@ -4,7 +4,9 @@
   "name": "Central US EUAP",
   "api_reference": "centraluseuap",
   "display_name": "Central US EUAP (US)",
-  "aliases": [],
+  "aliases": [
+    "Central US EUAP"
+  ],
   "country_id": "US",
   "state": "Iowa",
   "city": null,

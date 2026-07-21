@@ -4,7 +4,9 @@
   "name": "South Africa West",
   "api_reference": "southafricawest",
   "display_name": "South Africa West (ZA)",
-  "aliases": [],
+  "aliases": [
+    "South Africa West"
+  ],
   "country_id": "ZA",
   "state": null,
   "city": "Cape Town",

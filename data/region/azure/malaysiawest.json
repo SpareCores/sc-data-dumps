@@ -4,7 +4,9 @@
   "name": "Malaysia West",
   "api_reference": "malaysiawest",
   "display_name": "Malaysia West (MY)",
-  "aliases": [],
+  "aliases": [
+    "Malaysia West"
+  ],
   "country_id": "MY",
   "state": null,
   "city": "Kuala Lumpur",

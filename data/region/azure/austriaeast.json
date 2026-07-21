@@ -4,7 +4,9 @@
   "name": "Austria East",
   "api_reference": "austriaeast",
   "display_name": "Austria East (AT)",
-  "aliases": [],
+  "aliases": [
+    "Austria East"
+  ],
   "country_id": "AT",
   "state": null,
   "city": "Vienna",

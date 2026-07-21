@@ -4,7 +4,9 @@
   "name": "Central US",
   "api_reference": "centralus",
   "display_name": "Central US (US)",
-  "aliases": [],
+  "aliases": [
+    "Central US"
+  ],
   "country_id": "US",
   "state": "Iowa",
   "city": null,

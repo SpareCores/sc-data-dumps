@@ -4,7 +4,9 @@
   "name": "Australia Southeast",
   "api_reference": "australiasoutheast",
   "display_name": "Australia Southeast (AU)",
-  "aliases": [],
+  "aliases": [
+    "Australia Southeast"
+  ],
   "country_id": "AU",
   "state": "Victoria",
   "city": "Melbourne",

@@ -4,7 +4,9 @@
   "name": "West US 2",
   "api_reference": "westus2",
   "display_name": "West US 2 (US)",
-  "aliases": [],
+  "aliases": [
+    "West US 2"
+  ],
   "country_id": "US",
   "state": "Washington",
   "city": null,

@@ -4,7 +4,9 @@
   "name": "Norway East",
   "api_reference": "norwayeast",
   "display_name": "Norway East (NO)",
-  "aliases": [],
+  "aliases": [
+    "Norway East"
+  ],
   "country_id": "NO",
   "state": null,
   "city": "Oslo",

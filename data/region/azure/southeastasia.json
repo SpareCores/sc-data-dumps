@@ -4,7 +4,9 @@
   "name": "Southeast Asia",
   "api_reference": "southeastasia",
   "display_name": "Southeast Asia (SG)",
-  "aliases": [],
+  "aliases": [
+    "Southeast Asia"
+  ],
   "country_id": "SG",
   "state": null,
   "city": "Singapore",

@@ -4,7 +4,9 @@
   "name": "Germany West Central",
   "api_reference": "germanywestcentral",
   "display_name": "Germany West Central (DE)",
-  "aliases": [],
+  "aliases": [
+    "Germany West Central"
+  ],
   "country_id": "DE",
   "state": null,
   "city": "Frankfurt",

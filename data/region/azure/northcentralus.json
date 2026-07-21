@@ -4,7 +4,9 @@
   "name": "North Central US",
   "api_reference": "northcentralus",
   "display_name": "North Central US (US)",
-  "aliases": [],
+  "aliases": [
+    "North Central US"
+  ],
   "country_id": "US",
   "state": "Illinois",
   "city": "Chicago",

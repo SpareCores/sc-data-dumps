@@ -4,7 +4,9 @@
   "name": "Italy North",
   "api_reference": "italynorth",
   "display_name": "Italy North (IT)",
-  "aliases": [],
+  "aliases": [
+    "Italy North"
+  ],
   "country_id": "IT",
   "state": null,
   "city": "Milan",

@@ -4,7 +4,9 @@
   "name": "UAE North",
   "api_reference": "uaenorth",
   "display_name": "UAE North (AE)",
-  "aliases": [],
+  "aliases": [
+    "UAE North"
+  ],
   "country_id": "AE",
   "state": null,
   "city": "Dubai",

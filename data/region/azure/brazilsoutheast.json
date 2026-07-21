@@ -4,7 +4,9 @@
   "name": "Brazil Southeast",
   "api_reference": "brazilsoutheast",
   "display_name": "Brazil Southeast (US)",
-  "aliases": [],
+  "aliases": [
+    "Brazil Southeast"
+  ],
   "country_id": "US",
   "state": null,
   "city": "Rio de Janeiro",

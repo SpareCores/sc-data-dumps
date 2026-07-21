@@ -4,7 +4,9 @@
   "name": "UAE Central",
   "api_reference": "uaecentral",
   "display_name": "UAE Central (AE)",
-  "aliases": [],
+  "aliases": [
+    "UAE Central"
+  ],
   "country_id": "AE",
   "state": null,
   "city": "Abu Dhabi",

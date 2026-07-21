@@ -4,7 +4,9 @@
   "name": "Japan East",
   "api_reference": "japaneast",
   "display_name": "Japan East (JP)",
-  "aliases": [],
+  "aliases": [
+    "Japan East"
+  ],
   "country_id": "JP",
   "state": null,
   "city": "Tokyo",

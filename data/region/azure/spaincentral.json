@@ -4,7 +4,9 @@
   "name": "Spain Central",
   "api_reference": "spaincentral",
   "display_name": "Spain Central (ES)",
-  "aliases": [],
+  "aliases": [
+    "Spain Central"
+  ],
   "country_id": "ES",
   "state": null,
   "city": "Madrid",

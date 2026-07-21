@@ -4,7 +4,9 @@
   "name": "Poland Central",
   "api_reference": "polandcentral",
   "display_name": "Poland Central (PL)",
-  "aliases": [],
+  "aliases": [
+    "Poland Central"
+  ],
   "country_id": "PL",
   "state": null,
   "city": "Warsaw",

@@ -4,7 +4,9 @@
   "name": "Chile Central",
   "api_reference": "chilecentral",
   "display_name": "Chile Central (CL)",
-  "aliases": [],
+  "aliases": [
+    "Chile Central"
+  ],
   "country_id": "CL",
   "state": null,
   "city": "Santiago",

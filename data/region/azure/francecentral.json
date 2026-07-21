@@ -4,7 +4,9 @@
   "name": "France Central",
   "api_reference": "francecentral",
   "display_name": "France Central (FR)",
-  "aliases": [],
+  "aliases": [
+    "France Central"
+  ],
   "country_id": "FR",
   "state": null,
   "city": "Paris",

@@ -4,7 +4,9 @@
   "name": "Belgium Central",
   "api_reference": "belgiumcentral",
   "display_name": "Belgium Central (BE)",
-  "aliases": [],
+  "aliases": [
+    "Belgium Central"
+  ],
   "country_id": "BE",
   "state": null,
   "city": null,

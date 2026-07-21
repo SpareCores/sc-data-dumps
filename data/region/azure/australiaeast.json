@@ -4,7 +4,9 @@
   "name": "Australia East",
   "api_reference": "australiaeast",
   "display_name": "Australia East (AU)",
-  "aliases": [],
+  "aliases": [
+    "Australia East"
+  ],
   "country_id": "AU",
   "state": "New South Wales",
   "city": "Sydney",

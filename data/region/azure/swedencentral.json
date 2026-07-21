@@ -4,7 +4,9 @@
   "name": "Sweden Central",
   "api_reference": "swedencentral",
   "display_name": "Sweden Central (SE)",
-  "aliases": [],
+  "aliases": [
+    "Sweden Central"
+  ],
   "country_id": "SE",
   "state": null,
   "city": "G\u00e4vle and Sandviken",

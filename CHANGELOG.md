@@ -1,3 +1,90 @@
+## v0.8.3+20260721145119 (Jul 21, 2026)
+
+This is an automated release with 72 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29834563273
+
+
+### region
+
+- New: azure/indiasouthcentral
+- Update: azure/australiacentral
+- Update: azure/australiacentral2
+- Update: azure/australiaeast
+- Update: azure/australiasoutheast
+- Update: azure/austriaeast
+- Update: azure/belgiumcentral
+- Update: azure/brazilsouth
+- Update: azure/brazilsoutheast
+- Update: azure/canadacentral
+- Update: azure/canadaeast
+- Update: azure/centralindia
+- Update: azure/centralus
+- Update: azure/centraluseuap
+- Update: azure/chilecentral
+- Update: azure/denmarkeast
+- Update: azure/eastasia
+- Update: azure/eastus
+- Update: azure/eastus2
+- Update: azure/eastus2euap
+- Update: azure/francecentral
+- Update: azure/francesouth
+- Update: azure/germanynorth
+- Update: azure/germanywestcentral
+- Update: azure/indonesiacentral
+- Update: azure/israelcentral
+- Update: azure/italynorth
+- Update: azure/japaneast
+- Update: azure/japanwest
+- Update: azure/jioindiacentral
+- Update: azure/jioindiawest
+- Update: azure/koreacentral
+- Update: azure/koreasouth
+- Update: azure/malaysiawest
+- Update: azure/mexicocentral
+- Update: azure/northcentralus
+- Update: azure/northeurope
+- Update: azure/norwayeast
+- Update: azure/norwaywest
+- Update: azure/polandcentral
+- Update: azure/qatarcentral
+- Update: azure/southafricanorth
+- Update: azure/southafricawest
+- Update: azure/southcentralus
+- Update: azure/southeastasia
+- Update: azure/southindia
+- Update: azure/spaincentral
+- Update: azure/swedencentral
+- Update: azure/switzerlandnorth
+- Update: azure/switzerlandwest
+- Update: azure/uaecentral
+- Update: azure/uaenorth
+- Update: azure/uksouth
+- Update: azure/ukwest
+- Update: azure/westcentralus
+- Update: azure/westeurope
+- Update: azure/westindia
+- Update: azure/westus
+- Update: azure/westus2
+- Update: azure/westus3
+
+### zone
+
+- New: azure/indiasouthcentral/3
+- New: azure/indiasouthcentral/1
+- New: azure/indiasouthcentral/2
+
+### server
+
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.xlarge
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u0.c1m2.xlarge
+- Update: vultr/vbm-64c-1536gb-amd
+
 ## v0.8.3+20260721131006 (Jul 21, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.

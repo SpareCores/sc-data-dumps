@@ -4,7 +4,9 @@
   "name": "South India",
   "api_reference": "southindia",
   "display_name": "South India (IN)",
-  "aliases": [],
+  "aliases": [
+    "South India"
+  ],
   "country_id": "IN",
   "state": "Chennai",
   "city": null,

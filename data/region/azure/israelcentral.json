@@ -4,7 +4,9 @@
   "name": "Israel Central",
   "api_reference": "israelcentral",
   "display_name": "Israel Central (IL)",
-  "aliases": [],
+  "aliases": [
+    "Israel Central"
+  ],
   "country_id": "IL",
   "state": null,
   "city": null,

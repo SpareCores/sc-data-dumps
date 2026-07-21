@@ -4,7 +4,9 @@
   "name": "Denmark East",
   "api_reference": "denmarkeast",
   "display_name": "Denmark East (DK)",
-  "aliases": [],
+  "aliases": [
+    "Denmark East"
+  ],
   "country_id": "DK",
   "state": null,
   "city": "Copenhagen",

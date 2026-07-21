@@ -4,7 +4,9 @@
   "name": "Switzerland West",
   "api_reference": "switzerlandwest",
   "display_name": "Switzerland West (CH)",
-  "aliases": [],
+  "aliases": [
+    "Switzerland West"
+  ],
   "country_id": "CH",
   "state": null,
   "city": "Geneva",

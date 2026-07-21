@@ -4,7 +4,9 @@
   "name": "Switzerland North",
   "api_reference": "switzerlandnorth",
   "display_name": "Switzerland North (CH)",
-  "aliases": [],
+  "aliases": [
+    "Switzerland North"
+  ],
   "country_id": "CH",
   "state": null,
   "city": "Z\u00fcrich",

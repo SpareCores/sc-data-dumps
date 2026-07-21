@@ -4,7 +4,9 @@
   "name": "West Europe",
   "api_reference": "westeurope",
   "display_name": "West Europe (NL)",
-  "aliases": [],
+  "aliases": [
+    "West Europe"
+  ],
   "country_id": "NL",
   "state": null,
   "city": null,

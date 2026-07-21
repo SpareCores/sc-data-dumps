@@ -4,7 +4,9 @@
   "name": "Central India",
   "api_reference": "centralindia",
   "display_name": "Central India (IN)",
-  "aliases": [],
+  "aliases": [
+    "Central India"
+  ],
   "country_id": "IN",
   "state": "Pune",
   "city": null,

@@ -4,7 +4,9 @@
   "name": "East US",
   "api_reference": "eastus",
   "display_name": "East US (US)",
-  "aliases": [],
+  "aliases": [
+    "East US"
+  ],
   "country_id": "US",
   "state": "Virginia",
   "city": "Boydton",

@@ -4,7 +4,9 @@
   "name": "UK West",
   "api_reference": "ukwest",
   "display_name": "UK West (GB)",
-  "aliases": [],
+  "aliases": [
+    "UK West"
+  ],
   "country_id": "GB",
   "state": null,
   "city": "Cardiff",

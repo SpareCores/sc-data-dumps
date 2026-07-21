@@ -4,7 +4,9 @@
   "name": "Korea South",
   "api_reference": "koreasouth",
   "display_name": "Korea South (KR)",
-  "aliases": [],
+  "aliases": [
+    "Korea South"
+  ],
   "country_id": "KR",
   "state": null,
   "city": "Busan",

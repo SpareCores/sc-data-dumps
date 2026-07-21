@@ -4,7 +4,9 @@
   "name": "East US 2 EUAP",
   "api_reference": "eastus2euap",
   "display_name": "East US 2 EUAP (US)",
-  "aliases": [],
+  "aliases": [
+    "East US 2 EUAP"
+  ],
   "country_id": "US",
   "state": "Virginia",
   "city": null,

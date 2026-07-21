@@ -4,7 +4,9 @@
   "name": "Norway West",
   "api_reference": "norwaywest",
   "display_name": "Norway West (NO)",
-  "aliases": [],
+  "aliases": [
+    "Norway West"
+  ],
   "country_id": "NO",
   "state": null,
   "city": null,

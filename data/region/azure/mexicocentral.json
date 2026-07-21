@@ -4,7 +4,9 @@
   "name": "Mexico Central",
   "api_reference": "mexicocentral",
   "display_name": "Mexico Central (ZA)",
-  "aliases": [],
+  "aliases": [
+    "Mexico Central"
+  ],
   "country_id": "ZA",
   "state": "Quer\u00e9taro",
   "city": null,

@@ -4,7 +4,9 @@
   "name": "South Africa North",
   "api_reference": "southafricanorth",
   "display_name": "South Africa North (ZA)",
-  "aliases": [],
+  "aliases": [
+    "South Africa North"
+  ],
   "country_id": "ZA",
   "state": null,
   "city": "Johannesburg",

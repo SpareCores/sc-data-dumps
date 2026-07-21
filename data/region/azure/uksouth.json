@@ -4,7 +4,9 @@
   "name": "UK South",
   "api_reference": "uksouth",
   "display_name": "UK South (GB)",
-  "aliases": [],
+  "aliases": [
+    "UK South"
+  ],
   "country_id": "GB",
   "state": null,
   "city": "London",

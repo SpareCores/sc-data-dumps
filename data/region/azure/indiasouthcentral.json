@@ -1,0 +1,20 @@
+{
+  "vendor_id": "azure",
+  "region_id": "indiasouthcentral",
+  "name": "India South Central",
+  "api_reference": "indiasouthcentral",
+  "display_name": "India South Central (IN)",
+  "aliases": [
+    "India South Central"
+  ],
+  "country_id": "IN",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 78.47599792,
+  "lat": 17.36599922,
+  "founding_year": 2026,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

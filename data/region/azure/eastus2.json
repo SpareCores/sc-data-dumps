@@ -4,7 +4,9 @@
   "name": "East US 2",
   "api_reference": "eastus2",
   "display_name": "East US 2 (US)",
-  "aliases": [],
+  "aliases": [
+    "East US 2"
+  ],
   "country_id": "US",
   "state": "Virginia",
   "city": "Boydton",

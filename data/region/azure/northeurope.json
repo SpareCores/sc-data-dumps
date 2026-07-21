@@ -4,7 +4,9 @@
   "name": "North Europe",
   "api_reference": "northeurope",
   "display_name": "North Europe (IE)",
-  "aliases": [],
+  "aliases": [
+    "North Europe"
+  ],
   "country_id": "IE",
   "state": null,
   "city": "Dublin",

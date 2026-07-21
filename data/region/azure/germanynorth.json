@@ -4,7 +4,9 @@
   "name": "Germany North",
   "api_reference": "germanynorth",
   "display_name": "Germany North (DE)",
-  "aliases": [],
+  "aliases": [
+    "Germany North"
+  ],
   "country_id": "DE",
   "state": null,
   "city": "Berlin",

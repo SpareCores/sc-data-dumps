@@ -4,7 +4,9 @@
   "name": "Qatar Central",
   "api_reference": "qatarcentral",
   "display_name": "Qatar Central (QA)",
-  "aliases": [],
+  "aliases": [
+    "Qatar Central"
+  ],
   "country_id": "QA",
   "state": null,
   "city": "Doha",

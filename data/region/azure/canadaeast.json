@@ -4,7 +4,9 @@
   "name": "Canada East",
   "api_reference": "canadaeast",
   "display_name": "Canada East (CA)",
-  "aliases": [],
+  "aliases": [
+    "Canada East"
+  ],
   "country_id": "CA",
   "state": "Quebec",
   "city": "Quebec City",

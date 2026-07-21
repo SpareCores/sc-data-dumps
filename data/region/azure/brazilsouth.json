@@ -4,7 +4,9 @@
   "name": "Brazil South",
   "api_reference": "brazilsouth",
   "display_name": "Brazil South (BR)",
-  "aliases": [],
+  "aliases": [
+    "Brazil South"
+  ],
   "country_id": "BR",
   "state": "Campinas",
   "city": null,

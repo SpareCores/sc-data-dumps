@@ -4,7 +4,9 @@
   "name": "West India",
   "api_reference": "westindia",
   "display_name": "West India (IN)",
-  "aliases": [],
+  "aliases": [
+    "West India"
+  ],
   "country_id": "IN",
   "state": "Mumbai",
   "city": null,

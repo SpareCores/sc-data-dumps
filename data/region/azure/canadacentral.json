@@ -4,7 +4,9 @@
   "name": "Canada Central",
   "api_reference": "canadacentral",
   "display_name": "Canada Central (CA)",
-  "aliases": [],
+  "aliases": [
+    "Canada Central"
+  ],
   "country_id": "CA",
   "state": null,
   "city": "Toronto",

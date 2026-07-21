@@ -4,7 +4,9 @@
   "name": "France South",
   "api_reference": "francesouth",
   "display_name": "France South (FR)",
-  "aliases": [],
+  "aliases": [
+    "France South"
+  ],
   "country_id": "FR",
   "state": null,
   "city": "Marseille",

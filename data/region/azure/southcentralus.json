@@ -4,7 +4,9 @@
   "name": "South Central US",
   "api_reference": "southcentralus",
   "display_name": "South Central US (US)",
-  "aliases": [],
+  "aliases": [
+    "South Central US"
+  ],
   "country_id": "US",
   "state": "Texas",
   "city": "San Antonio",
