@@ -44,7 +44,7 @@
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
-    "google-api-core==2.32.0",
+    "google-api-core==2.33.0",
     "google-api-python-client==2.198.0",
     "google-auth==2.56.2",
     "google-auth-httplib2==0.4.0",
@@ -99,7 +99,7 @@
     "portalocker==3.2.0",
     "propcache==0.5.2",
     "properdocs==1.6.7",
-    "proto-plus==1.28.1",
+    "proto-plus==1.28.2",
     "protobuf==7.35.1",
     "psycopg2==2.9.12",
     "pyasn1==0.6.4",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.3",
-    "NEWVERSION": "v0.8.3+20260722160304",
-    "NEWVERSIONDATE": "v0.8.3+20260722160304 (Jul 22, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29928734939",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29928734939"
+    "NEWVERSION": "v0.8.3+20260722182757",
+    "NEWVERSIONDATE": "v0.8.3+20260722182757 (Jul 22, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/29941051886",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/29941051886"
   },
-  "timestamp": "2026-07-22T16:03:04Z"
+  "timestamp": "2026-07-22T18:27:57Z"
 }
