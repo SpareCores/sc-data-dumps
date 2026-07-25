@@ -28,8 +28,8 @@
       {
         "benchmark_id": "bw_mem",
         "config_filter": {
-          "size": 64.0,
-          "operation": "rd"
+          "operation": "rd",
+          "size": 64.0
         },
         "label": "Memory bandwidth (read, 64 MB)",
         "on_missing": "ignore",
@@ -64,7 +64,7 @@
         "weight": 0.05
       }
     ],
-    "impact_formula": "How much this benchmark raised or lowered the overall workload score (1.0 = median on all parts). Effects multiply, they don't add.",
+    "impact_formula": "Approximate effect on the workload score: positive is above baseline (1.0 = median on all parts), negative below. Effects multiply, they don't add.",
     "kind": "compound",
     "normalization": "median_ratio"
   },
