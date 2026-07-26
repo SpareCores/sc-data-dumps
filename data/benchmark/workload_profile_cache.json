@@ -7,8 +7,8 @@
       {
         "benchmark_id": "redis:rps-extrapolated",
         "config_filter": {
-          "operation": "SET",
-          "pipeline": 1.0
+          "pipeline": 1.0,
+          "operation": "SET"
         },
         "label": "Redis RPS (pipeline=1, SET)",
         "on_missing": "ignore",
@@ -17,8 +17,8 @@
       {
         "benchmark_id": "redis:rps-extrapolated",
         "config_filter": {
-          "operation": "SET",
-          "pipeline": 16.0
+          "pipeline": 16.0,
+          "operation": "SET"
         },
         "label": "Redis RPS (pipeline=16, SET)",
         "on_missing": "ignore",
@@ -34,8 +34,8 @@
       {
         "benchmark_id": "bw_mem",
         "config_filter": {
-          "operation": "rd",
-          "size": 16.0
+          "size": 16.0,
+          "operation": "rd"
         },
         "label": "Memory bandwidth (read, 16 MB ~ L3)",
         "on_missing": "ignore",

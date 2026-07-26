@@ -47,8 +47,8 @@
         "benchmark_id": "compression_text:compress",
         "config_filter": {
           "algo": "brotli",
-          "compression_level": 0,
-          "cores": "single"
+          "cores": "single",
+          "compression_level": 0
         },
         "label": "Brotli compression (multi-core, level 0)",
         "on_missing": "ignore",
