@@ -1,3 +1,18 @@
+## v0.8.3+20260726195734 (Jul 26, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30215498714
+
+
+### region
+
+- Update: ovh/AP-SOUTHEAST-SYD-2
+- Update: ovh/BHS
+
+### server
+
+- Update: alicloud/ecs.g6.4xlarge
+
 ## v0.8.3+20260726174500 (Jul 26, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
