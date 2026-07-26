@@ -1,3 +1,14 @@
+## v0.8.3+20260726222013 (Jul 26, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30220442590
+
+
+### region
+
+- Update: ovh/AP-SOUTHEAST-SYD-2
+- Update: ovh/BHS
+
 ## v0.8.3+20260726195734 (Jul 26, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
