@@ -1,3 +1,17 @@
+## v0.8.3+20260728012836 (Jul 28, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30315102130
+
+
+### server
+
+- Update: gcp/901008
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: azure/Standard_NV28adms_V710_v5
+
 ## v0.8.3+20260727221227 (Jul 27, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.
