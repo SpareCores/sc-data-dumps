@@ -15,7 +15,7 @@
     "alibabacloud-tea==0.4.3",
     "alibabacloud-tea-openapi==0.4.5",
     "alibabacloud-tea-util==0.3.15",
-    "annotated-doc==0.0.4",
+    "annotated-doc==0.0.5",
     "annotated-types==0.8.0",
     "apscheduler==3.11.3",
     "attrs==26.1.0",
@@ -125,7 +125,7 @@
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@c1a97f80299f8766ac23bee66583c434858fb6fb",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@1c72aa6a10612ec43cfbb0bb2c9625802e8c569c",
     "sqlalchemy==2.0.51",
     "sqlmodel==0.0.39",
     "tinycss2==1.5.1",
@@ -142,11 +142,11 @@
     "yarl==1.24.5"
   ],
   "environment_variables": {
-    "CRAWLER_VERSION": "0.8.3",
-    "NEWVERSION": "v0.8.3+20260728122746",
-    "NEWVERSIONDATE": "v0.8.3+20260728122746 (Jul 28, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30353571848",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/30353571848"
+    "CRAWLER_VERSION": "0.8.4",
+    "NEWVERSION": "v0.8.4+20260728165202",
+    "NEWVERSIONDATE": "v0.8.4+20260728165202 (Jul 28, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 27 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30373516689",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/30373516689"
   },
-  "timestamp": "2026-07-28T12:27:46Z"
+  "timestamp": "2026-07-28T16:52:02Z"
 }
