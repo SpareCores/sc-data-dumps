@@ -1,3 +1,44 @@
+## v0.8.4+20260728194250 (Jul 28, 2026)
+
+This is an automated release with 32 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30387571071
+
+
+### server
+
+- Update: gcp/901002
+- Update: gcp/901004
+- Update: gcp/901008
+- Update: gcp/901016
+- Update: gcp/901032
+- Update: gcp/901048
+- Update: gcp/901064
+- Update: gcp/901080
+- Update: gcp/901096
+- Update: gcp/901128
+- Update: alicloud/ecs.ebmgn9g.64xlarge
+- Update: vultr/vc2-8c-16gb
+- Update: vultr/vhp-32c-128gb-i-a
+- Update: vultr/voc-g-64c-750gb-5900s-amd
+- Update: vultr/vx1-c-16c-32g
+- Update: vultr/vx1-c-16c-32g-960s
+- Update: vultr/vx1-c-192c-384g
+- Update: vultr/vx1-c-192c-384g-11520s
+- Update: vultr/vx1-c-2c-4g
+- Update: vultr/vx1-c-2c-4g-120s
+- Update: vultr/vx1-c-32c-64g
+- Update: vultr/vx1-c-32c-64g-1920s
+- Update: vultr/vx1-c-48c-96g
+- Update: vultr/vx1-c-48c-96g-2880s
+- Update: vultr/vx1-c-4c-8g
+- Update: vultr/vx1-c-4c-8g-240s
+- Update: vultr/vx1-c-64c-128g
+- Update: vultr/vx1-c-64c-128g-3840s
+- Update: vultr/vx1-c-8c-16g
+- Update: vultr/vx1-c-8c-16g-480s
+- Update: vultr/vx1-c-96c-192g
+- Update: vultr/vx1-c-96c-192g-5760s
+
 ## v0.8.4+20260728165202 (Jul 28, 2026)
 
 This is an automated release with 27 new/updated/deleted resources.
