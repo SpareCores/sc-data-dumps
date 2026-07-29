@@ -1,3 +1,65 @@
+## v0.8.4+20260729173620 (Jul 29, 2026)
+
+This is an automated release with 53 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30469519963
+
+
+### server
+
+- Update: gcp/1210016
+- Update: gcp/1210048
+- Update: gcp/1210060
+- Update: gcp/901016
+- Update: gcp/901032
+- Update: gcp/901080
+- Update: gcp/901096
+- Update: aws/c9g.12xlarge
+- Update: aws/c9g.16xlarge
+- Update: aws/c9g.2xlarge
+- Update: aws/c9g.48xlarge
+- Update: aws/c9g.4xlarge
+- Update: aws/c9g.8xlarge
+- Update: aws/c9gd.12xlarge
+- Update: aws/c9gd.16xlarge
+- Update: aws/c9gd.24xlarge
+- Update: aws/c9gd.2xlarge
+- Update: aws/c9gd.48xlarge
+- Update: aws/c9gd.4xlarge
+- Update: aws/c9gd.8xlarge
+- Update: aws/c9gd.large
+- Update: aws/c9gd.medium
+- Update: aws/c9gd.metal-48xl
+- Update: aws/c9gd.xlarge
+- Update: aws/c9g.large
+- Update: aws/c9g.medium
+- Update: aws/c9g.metal-48xl
+- Update: aws/c9g.xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.t1.small
+- Update: aws/g7.8xlarge
+- Update: aws/m9g.12xlarge
+- Update: aws/m9g.16xlarge
+- Update: aws/m9g.24xlarge
+- Update: aws/m9g.2xlarge
+- Update: aws/m9g.48xlarge
+- Update: aws/m9g.4xlarge
+- Update: aws/m9g.8xlarge
+- Update: aws/m9gd.12xlarge
+- Update: aws/m9gd.16xlarge
+- Update: aws/m9gd.24xlarge
+- Update: aws/m9gd.2xlarge
+- Update: aws/m9gd.48xlarge
+- Update: aws/m9gd.4xlarge
+- Update: aws/m9gd.8xlarge
+- Update: aws/m9gd.large
+- Update: aws/m9gd.medium
+- Update: aws/m9gd.metal-48xl
+- Update: aws/m9gd.xlarge
+- Update: aws/m9g.large
+- Update: aws/m9g.medium
+- Update: aws/m9g.metal-48xl
+- Update: aws/m9g.xlarge
+
 ## v0.8.4+20260729150618 (Jul 29, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.

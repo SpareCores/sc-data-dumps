@@ -62,7 +62,7 @@
       "description": null
     }
   ],
-  "network_speed_baseline": 85.0,
+  "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 16.0,
   "network_storage_speed_max": 16.0,
