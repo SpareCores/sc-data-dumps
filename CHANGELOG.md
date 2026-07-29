@@ -1,3 +1,25 @@
+## v0.8.4+20260729122754 (Jul 29, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30446387344
+
+
+### server
+
+- Update: gcp/901128
+- Update: aws/c9g.12xlarge
+- Update: aws/c9gd.16xlarge
+- Update: aws/c9gd.48xlarge
+- Update: aws/c9gd.4xlarge
+- Update: aws/c9gd.8xlarge
+- Update: aws/c9gd.medium
+- Update: alicloud/ecs.ebmgn9g.64xlarge
+- Update: alicloud/ecs.ebmgn9ge.64xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: aws/m9g.12xlarge
+- Update: aws/m9gd.24xlarge
+
 ## v0.8.4+20260729094933 (Jul 29, 2026)
 
 This is an automated release with 9 new/updated/deleted resources.
