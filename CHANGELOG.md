@@ -1,3 +1,16 @@
+## v0.8.4+20260729014045 (Jul 29, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30409138544
+
+
+### server
+
+- Update: gcp/901064
+- Update: gcp/901128
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+
 ## v0.8.4+20260728222945 (Jul 28, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
