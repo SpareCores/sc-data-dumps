@@ -1,3 +1,91 @@
+## v0.8.4+20260801234220 (Aug 01, 2026)
+
+This is an automated release with 79 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30721474363
+
+
+### server
+
+- Update: gcp/1300008
+- Update: gcp/1724001
+- Update: gcp/1724003
+- Update: gcp/1765193
+- Update: gcp/1765194
+- Update: gcp/1765195
+- Update: gcp/1765196
+- Update: gcp/1765197
+- Update: gcp/1765198
+- Update: gcp/1765199
+- Update: gcp/1765200
+- Update: gcp/1765201
+- Update: gcp/1765202
+- Update: gcp/1765203
+- Update: gcp/1765204
+- Update: gcp/1765205
+- Update: gcp/1765206
+- Update: gcp/1765207
+- Update: gcp/1765208
+- Update: gcp/1765209
+- Update: gcp/1765210
+- Update: gcp/1765211
+- Update: gcp/1765212
+- Update: gcp/1765213
+- Update: gcp/1765214
+- Update: gcp/1765215
+- Update: gcp/1765216
+- Update: gcp/1765217
+- Update: gcp/1765218
+- Update: gcp/1765219
+- Update: gcp/1765220
+- Update: gcp/1765221
+- Update: gcp/1765222
+- Update: gcp/1765223
+- Update: gcp/1765224
+- Update: gcp/1765225
+- Update: gcp/1765226
+- Update: gcp/1765227
+- Update: gcp/1765228
+- Update: gcp/1765229
+- Update: gcp/1765230
+- Update: gcp/1765231
+- Update: gcp/1765232
+- Update: gcp/1765233
+- Update: gcp/902002
+- Update: gcp/910016
+- Update: gcp/9905180
+- Update: gcp/999921000
+- Update: gcp/999921001
+- Update: gcp/999921002
+- Update: gcp/999921003
+- Update: gcp/999921004
+- Update: gcp/999921005
+- Update: gcp/999921006
+- Update: gcp/999921007
+- Update: gcp/999921008
+- Update: gcp/999921009
+- Update: gcp/999921010
+- Update: gcp/999921011
+- Update: gcp/999921012
+- Update: gcp/999921013
+- Update: gcp/999921014
+- Update: gcp/999921015
+- Update: gcp/999921016
+- Update: gcp/999921017
+- Update: gcp/999921018
+- Update: gcp/999921019
+- Update: gcp/999921020
+- Update: gcp/999921021
+- Update: gcp/999921022
+- Update: gcp/999921023
+- Update: gcp/999921025
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+
 ## v0.8.4+20260801212648 (Aug 01, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
