@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.4",
-    "NEWVERSION": "v0.8.4+20260803081031",
-    "NEWVERSIONDATE": "v0.8.4+20260803081031 (Aug 03, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30791386394",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/30791386394"
+    "NEWVERSION": "v0.8.4+20260803105850",
+    "NEWVERSIONDATE": "v0.8.4+20260803105850 (Aug 03, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/30802951993",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/30802951993"
   },
-  "timestamp": "2026-08-03T08:10:31Z"
+  "timestamp": "2026-08-03T10:58:50Z"
 }
