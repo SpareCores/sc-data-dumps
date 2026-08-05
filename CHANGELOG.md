@@ -1,3 +1,128 @@
+## v0.8.4+20260805215122 (Aug 05, 2026)
+
+This is an automated release with 116 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31044206814
+
+
+### server
+
+- Update: alicloud/ecs.ebmgn7i.32xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: vultr/vcg-a100-12c-120g-80vram
+- Update: vultr/vcg-a100-96c-960g-640vram
+- Update: vultr/vcg-a16-12c-128g-32vram
+- Update: vultr/vcg-a16-24c-256g-64vram
+- Update: vultr/vcg-a16-2c-16g-4vram
+- Update: vultr/vcg-a16-2c-8g-2vram
+- Update: vultr/vcg-a16-3c-32g-8vram
+- Update: vultr/vcg-a16-48c-496g-128vram
+- Update: vultr/vcg-a16-6c-64g-16vram
+- Update: vultr/vcg-a16-96c-878g-256vram
+- Update: vultr/vcg-a16-96c-960g-256vram
+- Update: vultr/vcg-a40-12c-60g-24vram
+- Update: vultr/vcg-a40-1c-5g-2vram
+- Update: vultr/vcg-a40-24c-120g-48vram
+- Update: vultr/vcg-a40-2c-10g-4vram
+- Update: vultr/vcg-a40-4c-20g-8vram
+- Update: vultr/vcg-a40-6c-30g-12vram
+- Update: vultr/vcg-a40-8c-40g-16vram
+- Update: vultr/vcg-a40-96c-480g-192vram
+- Update: vultr/vcg-b200-248c-2826g-1536vram
+- Update: vultr/vcg-h100-216c-1914gb-640vram
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+- Update: vultr/vcg-l40s-64c-750g-192vram
+- Update: vultr/vcg-mi325x-252c-2872g-1536vram
+- Update: vultr/vcg-mi355x-252c-2872g-2304vram
+- Update: vultr/voc-c-16c-32gb-300s-amd
+- Update: vultr/voc-c-16c-32gb-500s-amd
+- Update: vultr/voc-c-1c-2gb-25s-amd
+- Update: vultr/voc-c-2c-4gb-50s-amd
+- Update: vultr/voc-c-2c-4gb-75s-amd
+- Update: vultr/voc-c-32c-64gb-1000s-amd
+- Update: vultr/voc-c-32c-64gb-500s-amd
+- Update: vultr/voc-c-4c-8gb-150s-amd
+- Update: vultr/voc-c-4c-8gb-75s-amd
+- Update: vultr/voc-c-8c-16gb-150s-amd
+- Update: vultr/voc-c-8c-16gb-300s-amd
+- Update: vultr/voc-g-16c-64gb-320s-amd
+- Update: vultr/voc-g-1c-4gb-30s-amd
+- Update: vultr/voc-g-24c-96gb-480s-amd
+- Update: vultr/voc-g-2c-8gb-50s-amd
+- Update: vultr/voc-g-32c-128gb-640s-amd
+- Update: vultr/voc-g-40c-160gb-768s-amd
+- Update: vultr/voc-g-4c-16gb-80s-amd
+- Update: vultr/voc-g-64c-192gb-960s-amd
+- Update: vultr/voc-g-8c-32gb-160s-amd
+- Update: vultr/voc-g-96c-256gb-1280s-amd
+- Update: vultr/voc-m-16c-128gb-1600s-amd
+- Update: vultr/voc-m-16c-128gb-3200s-amd
+- Update: vultr/voc-m-16c-128gb-800s-amd
+- Update: vultr/voc-m-1c-8gb-50s-amd
+- Update: vultr/voc-m-24c-192gb-1200s-amd
+- Update: vultr/voc-m-24c-192gb-2400s-amd
+- Update: vultr/voc-m-24c-192gb-4800s-amd
+- Update: vultr/voc-m-2c-16gb-100s-amd
+- Update: vultr/voc-m-2c-16gb-200s-amd
+- Update: vultr/voc-m-2c-16gb-400s-amd
+- Update: vultr/voc-m-32c-256gb-1600s-amd
+- Update: vultr/voc-m-32c-256gb-3200s-amd
+- Update: vultr/voc-m-4c-32gb-200s-amd
+- Update: vultr/voc-m-4c-32gb-400s-amd
+- Update: vultr/voc-m-4c-32gb-800s-amd
+- Update: vultr/voc-m-8c-64gb-1600s-amd
+- Update: vultr/voc-m-8c-64gb-400s-amd
+- Update: vultr/voc-m-8c-64gb-800s-amd
+- Update: vultr/voc-s-16c-128gb-2560s-amd
+- Update: vultr/voc-s-16c-128gb-3840s-amd
+- Update: vultr/voc-s-1c-8gb-150s-amd
+- Update: vultr/voc-s-24c-192gb-3840s-amd
+- Update: vultr/voc-s-24c-192gb-5760s-amd
+- Update: vultr/voc-s-2c-16gb-320s-amd
+- Update: vultr/voc-s-2c-16gb-480s-amd
+- Update: vultr/voc-s-32c-256gb-5760s-amd
+- Update: vultr/voc-s-4c-32gb-640s-amd
+- Update: vultr/voc-s-4c-32gb-960s-amd
+- Update: vultr/voc-s-8c-64gb-1280s-amd
+- Update: vultr/voc-s-8c-64gb-1920s-amd
+- Update: vultr/vx1-g-16c-64g
+- Update: vultr/vx1-g-16c-64g-960s
+- Update: vultr/vx1-g-192c-768g
+- Update: vultr/vx1-g-192c-768g-11520s
+- Update: vultr/vx1-g-2c-8g
+- Update: vultr/vx1-g-2c-8g-120s
+- Update: vultr/vx1-g-32c-128g
+- Update: vultr/vx1-g-32c-128g-1920s
+- Update: vultr/vx1-g-48c-192g
+- Update: vultr/vx1-g-48c-192g-2880s
+- Update: vultr/vx1-g-4c-16g
+- Update: vultr/vx1-g-4c-16g-240s
+- Update: vultr/vx1-g-64c-256g
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-g-8c-32g
+- Update: vultr/vx1-g-8c-32g-480s
+- Update: vultr/vx1-g-96c-384g
+- Update: vultr/vx1-g-96c-384g-5760s
+- Update: vultr/vx1-m-16c-128g-960s
+- Update: vultr/vx1-m-16c-128gb
+- Update: vultr/vx1-m-192c-1536g-11520s
+- Update: vultr/vx1-m-192c-1536gb
+- Update: vultr/vx1-m-2c-16g
+- Update: vultr/vx1-m-2c-16g-120s
+- Update: vultr/vx1-m-32c-256g-1920s
+- Update: vultr/vx1-m-32c-256gb
+- Update: vultr/vx1-m-48c-384g-2880s
+- Update: vultr/vx1-m-48c-384gb
+- Update: vultr/vx1-m-4c-32g-240s
+- Update: vultr/vx1-m-4c-32gb
+- Update: vultr/vx1-m-64c-512g-3840s
+- Update: vultr/vx1-m-64c-512gb
+- Update: vultr/vx1-m-8c-64g-480s
+- Update: vultr/vx1-m-8c-64gb
+- Update: vultr/vx1-m-96c-768g-5760s
+- Update: vultr/vx1-m-96c-768gb
+
 ## v0.8.4+20260805185203 (Aug 05, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.

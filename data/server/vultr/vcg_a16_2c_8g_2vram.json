@@ -8,7 +8,7 @@
   "family": "Cloud GPU",
   "vcpus": 2,
   "hypervisor": null,
-  "cpu_allocation": "SHARED",
+  "cpu_allocation": "DEDICATED",
   "cpu_cores": 1,
   "cpu_speed": 2.0,
   "cpu_architecture": "X86_64",
