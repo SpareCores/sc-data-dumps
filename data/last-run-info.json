@@ -7,7 +7,7 @@
     "aiosignal==1.4.0",
     "alembic==1.19.0",
     "alibabacloud-bssopenapi20171214==5.1.1",
-    "alibabacloud-credentials==1.0.10",
+    "alibabacloud-credentials==1.0.11",
     "alibabacloud-credentials-api==1.0.1",
     "alibabacloud-ecs20140526==7.9.5",
     "alibabacloud-gateway-spi==0.0.4",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.4",
-    "NEWVERSION": "v0.8.4+20260807023127",
-    "NEWVERSIONDATE": "v0.8.4+20260807023127 (Aug 07, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31137028021",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31137028021"
+    "NEWVERSION": "v0.8.4+20260807055312",
+    "NEWVERSIONDATE": "v0.8.4+20260807055312 (Aug 07, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31146462129",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31146462129"
   },
-  "timestamp": "2026-08-07T02:31:27Z"
+  "timestamp": "2026-08-07T05:53:12Z"
 }
