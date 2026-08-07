@@ -119,7 +119,7 @@ jobs:
         env:
           TRACKER_TASK_NAME: sync
         run: |
-          bash .github/scripts/run-with-resource-tracker.sh sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark
+          bash .github/scripts/run-with-resource-tracker.sh sc-crawler sync --source sqlite:///${FILE} --target ${REMOTE_DB} --scd --log-changes-path changes.log --log-changes-tables country --log-changes-tables compliance_framework --log-changes-tables vendor --log-changes-tables vendor_compliance_link --log-changes-tables region --log-changes-tables zone --log-changes-tables storage --log-changes-tables server --log-changes-tables benchmark --log-changes-tables database --log-changes-tables database_storage
       - name: Sync back (server prices only)
         if: inputs.run_type == 'spot'
         env:
@@ -171,6 +171,8 @@ jobs:
             DELETE FROM traffic_price;
             DELETE FROM ipv4_price;
             DELETE FROM benchmark_score;
+            DELETE FROM database_price;
+            DELETE FROM database_storage_price;
             VACUUM;"
           echo "Dumping $FILE to JSON files..."
           find data -mindepth 1 -maxdepth 1 -type d -exec rm -rf {} +
@@ -182,6 +184,8 @@ jobs:
             --dump-tables benchmark \
             --dump-tables compliance_framework \
             --dump-tables country \
+            --dump-tables database \
+            --dump-tables database_storage \
             --dump-tables region \
             --dump-tables server \
             --dump-tables storage \
