@@ -1,0 +1,62 @@
+{
+  "vendor_id": "aws",
+  "database_id": "db.r6g.xlarge",
+  "name": "db.r6g.xlarge",
+  "api_reference": "db.r6g.xlarge",
+  "api_reference_object": {
+    "instance_class": "db.r6g.xlarge"
+  },
+  "display_name": "db.r6g.xlarge",
+  "description": "Memory optimized (4 vCPU, 32.0 GiB RAM)",
+  "family": "Memory optimized",
+  "server_id": "r6g.xlarge",
+  "vcpus": 4,
+  "memory_amount": 32768,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 15,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": null,
+  "storage_extra_min": 5,
+  "storage_extra_max": 70369,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 1,
+  "autotuning_apply": 0,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

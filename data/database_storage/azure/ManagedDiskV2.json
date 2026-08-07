@@ -1,0 +1,13 @@
+{
+  "vendor_id": "azure",
+  "database_storage_id": "ManagedDiskV2",
+  "name": "ManagedDiskV2",
+  "description": "Premium SSD v2 managed disk, 34-70369 GB, up to 80000 IOPS, up to 1200 MB/s throughput",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 34,
+  "max_size": 70369,
+  "max_iops": 80000,
+  "max_throughput": 1200,
+  "status": "ACTIVE"
+}

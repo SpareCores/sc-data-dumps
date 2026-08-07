@@ -1,0 +1,13 @@
+{
+  "vendor_id": "gcp",
+  "database_storage_id": "cloudsql-hyperdisk",
+  "name": "Hyperdisk Balanced",
+  "description": "Hyperdisk Balanced capacity for N4 and C4A machine series; 20-65536 GB, up to 160k IOPS",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 20,
+  "max_size": 65536,
+  "max_iops": 160000,
+  "max_throughput": 2400,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,63 @@
+{
+  "vendor_id": "aws",
+  "database_id": "db.r6id.16xlarge",
+  "name": "db.r6id.16xlarge",
+  "api_reference": "db.r6id.16xlarge",
+  "api_reference_object": {
+    "instance_class": "db.r6id.16xlarge"
+  },
+  "display_name": "db.r6id.16xlarge",
+  "description": "Memory optimized (64 vCPU, 512.0 GiB RAM, 4080 GB NVMe SSD)",
+  "family": "Memory optimized",
+  "server_id": "r6id.16xlarge",
+  "vcpus": 64,
+  "memory_amount": 524288,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "readable-cluster",
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 15,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 4080,
+  "storage_extra_min": 5,
+  "storage_extra_max": 70369,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 1,
+  "autotuning_apply": 0,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor_id": "aws",
+  "database_storage_id": "gp2",
+  "name": "General Purpose",
+  "description": "SSD-backed",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 5,
+  "max_size": 70369,
+  "max_iops": null,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

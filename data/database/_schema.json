@@ -1,0 +1,274 @@
+{
+  "table_name": "database",
+  "columns": [
+    {
+      "name": "vendor_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "database_id",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "api_reference",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "api_reference_object",
+      "type": "JSON",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "display_name",
+      "type": "VARCHAR",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "description",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "family",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "server_id",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "vcpus",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "memory_amount",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "engine",
+      "type": "VARCHAR(10)",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "wire_protocol",
+      "type": "VARCHAR(10)",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "engine_versions",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "auto_upgrade_versions",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "ha",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "ha_strategy",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "max_read_replicas",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "custom_config",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "custom_extensions",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_size",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_extra_min",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_extra_max",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_extra_autosize",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "disk_encryption",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "scheduled_backups",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "continuous_backups",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "connection_pool",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "system_monitoring",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "database_monitoring",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "autotuning_advice",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "autotuning_apply",
+      "type": "BOOLEAN",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "sla",
+      "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "security_features",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "status",
+      "type": "VARCHAR(8)",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "observed_at",
+      "type": "DATETIME",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    }
+  ],
+  "primary_key": [
+    "vendor_id",
+    "database_id"
+  ],
+  "foreign_keys": [
+    {
+      "constrained_columns": [
+        "vendor_id"
+      ],
+      "referred_table": "vendor",
+      "referred_columns": [
+        "vendor_id"
+      ]
+    }
+  ],
+  "unique_constraints": [],
+  "indexes": []
+}

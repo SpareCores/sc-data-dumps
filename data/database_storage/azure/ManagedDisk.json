@@ -1,0 +1,13 @@
+{
+  "vendor_id": "azure",
+  "database_storage_id": "ManagedDisk",
+  "name": "ManagedDisk",
+  "description": "Premium SSD managed disk, 34-35183 GB, up to 20000 IOPS",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 34,
+  "max_size": 35183,
+  "max_iops": 20000,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

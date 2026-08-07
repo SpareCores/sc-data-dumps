@@ -1,0 +1,13 @@
+{
+  "vendor_id": "aws",
+  "database_storage_id": "io1",
+  "name": "Provisioned IOPS",
+  "description": "SSD-backed",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 107,
+  "max_size": 70369,
+  "max_iops": 256000,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

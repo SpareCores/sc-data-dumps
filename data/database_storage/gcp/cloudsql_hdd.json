@@ -1,0 +1,13 @@
+{
+  "vendor_id": "gcp",
+  "database_storage_id": "cloudsql-hdd",
+  "name": "Low-cost HDD",
+  "description": "Low cost HDD for general-purpose shared or dedicated core series; 10-65536 GB, up to 15k IOPS",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 10,
+  "max_size": 65536,
+  "max_iops": 15000,
+  "max_throughput": 1200,
+  "status": "ACTIVE"
+}

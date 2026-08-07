@@ -1,0 +1,63 @@
+{
+  "vendor_id": "aws",
+  "database_id": "db.r8gd.4xlarge",
+  "name": "db.r8gd.4xlarge",
+  "api_reference": "db.r8gd.4xlarge",
+  "api_reference_object": {
+    "instance_class": "db.r8gd.4xlarge"
+  },
+  "display_name": "db.r8gd.4xlarge",
+  "description": "Memory optimized (16 vCPU, 128.0 GiB RAM, 127 GB NVMe SSD)",
+  "family": "Memory optimized",
+  "server_id": "r8gd.4xlarge",
+  "vcpus": 16,
+  "memory_amount": 131072,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "readable-cluster",
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 15,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 127,
+  "storage_extra_min": 5,
+  "storage_extra_max": 70369,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 1,
+  "autotuning_apply": 0,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

@@ -1,0 +1,68 @@
+{
+  "vendor_id": "gcp",
+  "database_id": "db-g1-small",
+  "name": "db-g1-small",
+  "api_reference": "db-g1-small",
+  "api_reference_object": {
+    "settings": {
+      "tier": "db-g1-small"
+    }
+  },
+  "display_name": "db-g1-small",
+  "description": "PostgreSQL Cloud SQL Shared g1-small (1.7 GB RAM)",
+  "family": "g1-small",
+  "server_id": "2000",
+  "vcpus": null,
+  "memory_amount": 1740,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "9.6",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": null,
+  "storage_extra_min": 10,
+  "storage_extra_max": 3279,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 7,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 0,
+  "autotuning_apply": 0,
+  "sla": null,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "client-cert-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

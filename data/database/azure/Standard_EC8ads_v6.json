@@ -1,0 +1,63 @@
+{
+  "vendor_id": "azure",
+  "database_id": "Standard_EC8ads_v6",
+  "name": "EC8ads_v6",
+  "api_reference": "Standard_EC8ads_v6",
+  "api_reference_object": {
+    "sku_name": "MO_Standard_EC8ads_v6"
+  },
+  "display_name": "EC8ads_v6",
+  "description": "PostgreSQL MemoryOptimized (8 vCPUs, 64 GB RAM)",
+  "family": "MemoryOptimized",
+  "server_id": "Standard_EC8ads_v6",
+  "vcpus": 8,
+  "memory_amount": 65536,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "single-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 5,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": null,
+  "storage_extra_min": 34,
+  "storage_extra_max": 70369,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 1,
+  "autotuning_apply": 1,
+  "sla": 99.99,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

@@ -1,0 +1,63 @@
+{
+  "vendor_id": "azure",
+  "database_id": "Standard_E96ds_v5",
+  "name": "E96ds_v5",
+  "api_reference": "Standard_E96ds_v5",
+  "api_reference_object": {
+    "sku_name": "MO_Standard_E96ds_v5"
+  },
+  "display_name": "E96ds_v5",
+  "description": "PostgreSQL MemoryOptimized (96 vCPUs, 672 GB RAM)",
+  "family": "MemoryOptimized",
+  "server_id": "Standard_E96ds_v5",
+  "vcpus": 96,
+  "memory_amount": 688128,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "single-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 5,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": null,
+  "storage_extra_min": 34,
+  "storage_extra_max": 70369,
+  "storage_extra_autosize": 1,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": 1,
+  "autotuning_apply": 1,
+  "sla": 99.99,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

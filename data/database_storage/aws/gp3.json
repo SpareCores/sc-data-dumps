@@ -1,0 +1,13 @@
+{
+  "vendor_id": "aws",
+  "database_storage_id": "gp3",
+  "name": "General Purpose-GP3",
+  "description": "SSD-backed",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 21,
+  "max_size": 70369,
+  "max_iops": 64000,
+  "max_throughput": 4000,
+  "status": "ACTIVE"
+}

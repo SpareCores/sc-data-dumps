@@ -1,0 +1,62 @@
+{
+  "vendor_id": "aws",
+  "database_id": "db.m3.large",
+  "name": "db.m3.large",
+  "api_reference": "db.m3.large",
+  "api_reference_object": {
+    "instance_class": "db.m3.large"
+  },
+  "display_name": "db.m3.large",
+  "description": "General purpose (2 vCPU, 7.5 GiB RAM, 34 GB NVMe SSD)",
+  "family": "General purpose",
+  "server_id": "m3.large",
+  "vcpus": 2,
+  "memory_amount": 7680,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 34,
+  "storage_extra_min": null,
+  "storage_extra_max": null,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 0,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 0,
+  "database_monitoring": 0,
+  "autotuning_advice": 1,
+  "autotuning_apply": 0,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "INACTIVE"
+}

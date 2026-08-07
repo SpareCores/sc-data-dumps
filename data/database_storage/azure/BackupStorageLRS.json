@@ -1,0 +1,13 @@
+{
+  "vendor_id": "azure",
+  "database_storage_id": "BackupStorageLRS",
+  "name": "BackupStorageLRS",
+  "description": "Flexible Server backup storage (locally redundant)",
+  "scope": "BACKUP",
+  "redundancy": "LRS",
+  "min_size": null,
+  "max_size": null,
+  "max_iops": null,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

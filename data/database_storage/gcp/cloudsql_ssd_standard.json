@@ -1,0 +1,13 @@
+{
+  "vendor_id": "gcp",
+  "database_storage_id": "cloudsql-ssd-standard",
+  "name": "Enterprise SSD",
+  "description": "Standard SSD storage for Enterprise edition (N1, custom, shared-core); 10-65536 GB, up to 100k IOPS",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 10,
+  "max_size": 65536,
+  "max_iops": 100000,
+  "max_throughput": 1200,
+  "status": "ACTIVE"
+}

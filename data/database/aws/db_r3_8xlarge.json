@@ -1,0 +1,62 @@
+{
+  "vendor_id": "aws",
+  "database_id": "db.r3.8xlarge",
+  "name": "db.r3.8xlarge",
+  "api_reference": "db.r3.8xlarge",
+  "api_reference_object": {
+    "instance_class": "db.r3.8xlarge"
+  },
+  "display_name": "db.r3.8xlarge",
+  "description": "Memory optimized (32 vCPU, 244.0 GiB RAM, 687 GB NVMe SSD)",
+  "family": "Memory optimized",
+  "server_id": "r3.8xlarge",
+  "vcpus": 32,
+  "memory_amount": 249856,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "none"
+  ],
+  "ha_strategy": [
+    "passive-standby",
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 687,
+  "storage_extra_min": null,
+  "storage_extra_max": null,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 0,
+  "scheduled_backups": 1,
+  "continuous_backups": 35,
+  "connection_pool": 1,
+  "system_monitoring": 0,
+  "database_monitoring": 0,
+  "autotuning_advice": 1,
+  "autotuning_apply": 0,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "network-peering",
+    "identity-based-auth",
+    "enforced-tls",
+    "customer-managed-keys",
+    "audit-logging"
+  ],
+  "status": "INACTIVE"
+}
