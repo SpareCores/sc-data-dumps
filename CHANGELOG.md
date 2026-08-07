@@ -1,3 +1,30 @@
+## v0.8.5+20260807091637 (Aug 07, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31158457362
+
+
+### region
+
+- New: alicloud/sa-east-1
+
+### zone
+
+- New: alicloud/sa-east-1/sa-east-1b
+- New: alicloud/sa-east-1/sa-east-1a
+
+### server
+
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.ebmg7.32xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+
+### benchmark
+
+- New: pgbench:heavy_read_only
+
 ## v0.8.4+20260807055312 (Aug 07, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "sa-east-1",
+  "name": "Brazil (Sau Paulo)",
+  "api_reference": "sa-east-1",
+  "display_name": "Sao Paulo (BR)",
+  "aliases": [],
+  "country_id": "BR",
+  "state": null,
+  "city": "Sao Paulo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -46.6333,
+  "lat": -23.5505,
+  "founding_year": 2026,
+  "green_energy": null,
+  "status": "ACTIVE"
+}
