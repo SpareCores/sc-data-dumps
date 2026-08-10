@@ -121,7 +121,7 @@
     "requests-oauthlib==2.0.0",
     "rich==15.0.0",
     "s3transfer==0.19.2",
-    "sentry-sdk==2.66.1",
+    "sentry-sdk==2.67.1",
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
@@ -131,7 +131,7 @@
     "tinycss2==1.5.1",
     "typer==0.27.1",
     "typing-extensions==4.16.0",
-    "typing-inspection==0.4.2",
+    "typing-inspection==0.4.3",
     "tzlocal==5.4.4",
     "upcloud-api==2.9.0",
     "uritemplate==4.2.0",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.5",
-    "NEWVERSION": "v0.8.5+20260810103311",
-    "NEWVERSIONDATE": "v0.8.5+20260810103311 (Aug 10, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31373187076",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31373187076"
+    "NEWVERSION": "v0.8.5+20260810142854",
+    "NEWVERSIONDATE": "v0.8.5+20260810142854 (Aug 10, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31391353207",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31391353207"
   },
-  "timestamp": "2026-08-10T10:33:11Z"
+  "timestamp": "2026-08-10T14:28:54Z"
 }
