@@ -52,7 +52,7 @@
     "google-cloud-billing==1.20.0",
     "google-cloud-compute==1.50.0",
     "googleapis-common-protos==1.75.1",
-    "greenlet==3.5.4",
+    "greenlet==3.5.5",
     "griffe==2.1.0",
     "griffe-inherited-docstrings==1.1.3",
     "griffecli==2.1.0",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.8.5",
-    "NEWVERSION": "v0.8.5+20260810142854",
-    "NEWVERSIONDATE": "v0.8.5+20260810142854 (Aug 10, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31391353207",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31391353207"
+    "NEWVERSION": "v0.8.5+20260810173341",
+    "NEWVERSIONDATE": "v0.8.5+20260810173341 (Aug 10, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31404535741",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31404535741"
   },
-  "timestamp": "2026-08-10T14:28:54Z"
+  "timestamp": "2026-08-10T17:33:41Z"
 }
