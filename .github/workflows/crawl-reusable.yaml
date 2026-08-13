@@ -94,6 +94,10 @@ jobs:
           REMOTE_DB="postgresql://${DB_USER}:${DB_PASS_ENCODED}@${DB_HOST}:${DB_PORT}/${DB_NAME}?sslmode=require"
           echo "::add-mask::$REMOTE_DB"
           echo "REMOTE_DB=${REMOTE_DB}" >> "$GITHUB_ENV"
+      - name: Upgrade remote database schema
+        run: |
+          sc-crawler schemas upgrade --connection-string "${REMOTE_DB}"
+          sc-crawler schemas upgrade --connection-string "${REMOTE_DB}" --scd
       - name: Copy remote database for full run or if not cached
         if: inputs.run_type == 'full' || steps.cache-sqlite-restore.outputs.cache-hit != 'true'
         env:
