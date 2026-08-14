@@ -94,7 +94,7 @@
     "pathspec==1.1.1",
     "pillow==12.3.0",
     "pip==26.1.2",
-    "platformdirs==4.11.2",
+    "platformdirs==4.11.3",
     "pluggy==1.6.0",
     "portalocker==4.1.0",
     "propcache==0.5.2",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.0",
-    "NEWVERSION": "v0.9.0+20260813224315",
-    "NEWVERSIONDATE": "v0.9.0+20260813224315 (Aug 13, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31743181325",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31743181325"
+    "NEWVERSION": "v0.9.0+20260814045922",
+    "NEWVERSIONDATE": "v0.9.0+20260814045922 (Aug 14, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 8 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/31766893166",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/31766893166"
   },
-  "timestamp": "2026-08-13T22:43:15Z"
+  "timestamp": "2026-08-14T04:59:22Z"
 }
