@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "pgbench:heavy_read_only:single",
+  "category": "Database",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "PostgreSQL heavy read-only baseline (single connection)",
+  "description": "Baseline PostgreSQL throughput with a single remote pgbench client connection against a custom, cache-resident, read-only transaction (joins, aggregates, full-text search, arrays, regex, TOAST) that fits in shared_buffers. Server and client run in the same availability zone. Servers use pgtune-style host GUCs, while DBaaS keep the vendor-managed config. Useful for comparing per-session engine and CPU efficiency across server types and sizes, because the score does not necessarily scale with extra vCPUs the way peak throughput does. This is a synthetic proxy for relative RDBMS performance, not a prediction of any specific application's throughput.",
+  "note": "This benchmark is measured with a single client session, so throughput does not necessarily grow with vCPU count. On the other hand, it is not a purely single-threaded metric, as the server may still engage multiple cores (e.g. parallel request handlers and background processes). Use it as a per-session efficiency baseline rather than a measure of instance capacity.",
+  "framework": "pgbench",
+  "config_fields": {},
+  "measurement": "heavy_read_only:single",
+  "unit": "Transactions per minute (TPM)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

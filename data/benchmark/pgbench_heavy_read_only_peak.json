@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "pgbench:heavy_read_only:peak",
+  "category": "Database",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "PostgreSQL heavy read-only peak throughput",
+  "description": "Maximum PostgreSQL throughput over the pgbench concurrency profile (typically 1, vCPUs/2, vCPUs, and 2*vCPUs) with a remote client against a custom, cache-resident, read-only transaction (joins, aggregates, full-text search, arrays, regex, TOAST) that fits in shared_buffers. Server and client run in the same availability zone. Servers use pgtune-style host GUCs, while DBaaS keep the vendor-managed config. This is a synthetic proxy for relative RDBMS performance across server types, not a prediction of any specific application's throughput.",
+  "note": null,
+  "framework": "pgbench",
+  "config_fields": {},
+  "measurement": "heavy_read_only:peak",
+  "unit": "Transactions per minute (TPM)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

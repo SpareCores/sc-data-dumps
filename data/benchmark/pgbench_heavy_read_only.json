@@ -5,11 +5,11 @@
     "kind": "measured"
   },
   "name": "PostgreSQL heavy read-only throughput",
-  "description": "Measures peak PostgreSQL throughput with a remote pgbench client against a custom, cache-resident, read-only transaction (joins, aggregates, full-text search, arrays, regex, TOAST) that fits in shared_buffers, so the score reflects engine CPU and memory behavior rather than disk or network. Server and client run in the same availability zone. Servers use pgtune-style host GUCs, while DBaaS keep the vendor-managed config. Headline score is the maximum TPM over a fixed concurrency profile of 1, vCPUS/2, vCPUS, and 2*vCPUs. This is a synthetic proxy for relative RDBMS performance across server types, not a prediction of any specific application's throughput.",
+  "description": "Measures PostgreSQL throughput with a remote pgbench client against a custom, cache-resident, read-only transaction (joins, aggregates, full-text search, arrays, regex, TOAST) that fits in shared_buffers, so the score reflects engine CPU and memory behavior rather than disk or network. Server and client run in the same availability zone. Servers use pgtune-style host GUCs, while DBaaS keep the vendor-managed config. Each score is TPM at a given client concurrency; the typical profile is 1, vCPUs/2, vCPUs, and 2*vCPUs (additional points may be present). This is a synthetic proxy for relative RDBMS performance across server types, not a prediction of any specific application's throughput.",
   "note": null,
   "framework": "pgbench",
   "config_fields": {
-    "concurrency": "Parallel client query count. Single means sequential connection, peak refers to the concurrency profile setting yielding maximum measured TPM."
+    "concurrency": "Parallel client query count (integer). Typical profile: 1, vCPUs/2, vCPUs, and 2*vCPUs (may include additional points)."
   },
   "measurement": "heavy_read_only",
   "unit": "Transactions per minute (TPM)",
