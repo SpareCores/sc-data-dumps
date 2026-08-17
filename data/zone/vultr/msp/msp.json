@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "msp",
+  "zone_id": "msp",
+  "name": "Minneapolis",
+  "api_reference": "Minneapolis",
+  "display_name": "Minneapolis",
+  "status": "ACTIVE"
+}

@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "cmh",
+  "name": "Ohio",
+  "api_reference": "cmh",
+  "display_name": "Ohio (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": null,
+  "city": "Ohio",
+  "address_line": null,
+  "zip_code": null,
+  "lon": null,
+  "lat": null,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

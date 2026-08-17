@@ -1,0 +1,18 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "msp",
+  "name": "Minneapolis",
+  "api_reference": "msp",
+  "display_name": "Minneapolis (US)",
+  "aliases": [],
+  "country_id": "US",
+  "state": null,
+  "city": "Minneapolis",
+  "address_line": null,
+  "zip_code": null,
+  "lon": null,
+  "lat": null,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "ACTIVE"
+}

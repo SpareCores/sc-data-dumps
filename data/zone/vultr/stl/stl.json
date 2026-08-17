@@ -1,0 +1,9 @@
+{
+  "vendor_id": "vultr",
+  "region_id": "stl",
+  "zone_id": "stl",
+  "name": "St. Louis",
+  "api_reference": "St. Louis",
+  "display_name": "St. Louis",
+  "status": "ACTIVE"
+}
