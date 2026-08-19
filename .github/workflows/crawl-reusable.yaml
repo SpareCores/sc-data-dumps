@@ -48,6 +48,7 @@ jobs:
       COLUMNS: 160
       SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
       SENTRY_ENVIRONMENT: ${{ vars.SENTRY_ENVIRONMENT }}
+      VULTR_API_KEY: ${{ secrets.VULTR_API_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6.0.2
