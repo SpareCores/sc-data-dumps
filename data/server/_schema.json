@@ -367,7 +367,7 @@
     },
     {
       "name": "status",
-      "type": "VARCHAR(8)",
+      "type": "VARCHAR(22)",
       "nullable": false,
       "default": null,
       "comment": null

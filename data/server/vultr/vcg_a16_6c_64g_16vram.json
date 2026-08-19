@@ -119,5 +119,5 @@
   "outbound_traffic": 6144.0,
   "ipv4": 1,
   "average_time_to_start": 71.33,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

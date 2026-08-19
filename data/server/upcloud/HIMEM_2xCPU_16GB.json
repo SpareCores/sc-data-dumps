@@ -165,5 +165,5 @@
   "outbound_traffic": 2048.0,
   "ipv4": 1,
   "average_time_to_start": 166.67,
-  "status": "ACTIVE"
+  "status": "RETIRED"
 }
