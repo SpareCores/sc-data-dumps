@@ -1,0 +1,9 @@
+{
+  "vendor_id": "aws",
+  "region_id": "eu-west-2",
+  "zone_id": "euw2-az4",
+  "name": "eu-west-2d",
+  "api_reference": "eu-west-2d",
+  "display_name": "eu-west-2d",
+  "status": "ACTIVE"
+}
