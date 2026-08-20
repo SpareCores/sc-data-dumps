@@ -1,0 +1,9 @@
+{
+  "vendor_id": "alicloud",
+  "region_id": "eu-west-2",
+  "zone_id": "eu-west-2c",
+  "name": "Paris Zone C",
+  "api_reference": "eu-west-2c",
+  "display_name": "Paris Zone C",
+  "status": "ACTIVE"
+}

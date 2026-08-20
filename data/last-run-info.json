@@ -1,5 +1,5 @@
 {
-  "python_version": "3.11.16",
+  "python_version": "3.11.15",
   "pip_freeze": [
     "aiofiles==24.1.0",
     "aiohappyeyeballs==2.7.1",
@@ -143,10 +143,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.2",
-    "NEWVERSION": "v0.9.2+20260820040257",
-    "NEWVERSIONDATE": "v0.9.2+20260820040257 (Aug 20, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 23 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32323552370",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/32323552370"
+    "NEWVERSION": "v0.9.2+20260820070023",
+    "NEWVERSIONDATE": "v0.9.2+20260820070023 (Aug 20, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 16 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32335543206",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/32335543206"
   },
-  "timestamp": "2026-08-20T04:02:57Z"
+  "timestamp": "2026-08-20T07:00:23Z"
 }
