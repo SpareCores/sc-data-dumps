@@ -1,3 +1,31 @@
+## v0.9.2+20260821075713 (Aug 21, 2026)
+
+This is an automated release with 19 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32453993150
+
+
+### server
+
+- New: azure/Standard_D248ds_v7
+- New: azure/Standard_D248lds_v7
+- New: azure/Standard_D248ls_v7
+- New: azure/Standard_D248s_v7
+- New: azure/Standard_D372ds_v7
+- New: azure/Standard_D372s_v7
+- New: azure/Standard_E248ds_v7
+- New: azure/Standard_E248s_v7
+- New: azure/Standard_E372ids_v7
+- New: azure/Standard_E372is_v7
+- Update: hcloud/116
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.u0.c1m1.2xlarge
+- Update: alicloud/ecs.u0.c1m1.3xlarge
+- Update: alicloud/ecs.u0.c1m1.4xlarge
+- Update: alicloud/ecs.u0.c1m2.2xlarge
+- Update: alicloud/ecs.u0.c1m2.3xlarge
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+
 ## v0.9.2+20260821045826 (Aug 21, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
