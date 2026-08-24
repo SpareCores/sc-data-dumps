@@ -73,8 +73,8 @@
     "wfxt"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 2.0,
+  "scalability": 100.0,
   "hw_virt": 0,
   "memory_amount": 4096,
   "memory_amount_actual": 3968,
@@ -98,6 +98,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 5.0,
+  "average_time_to_start": 6.0,
   "status": "ACTIVE"
 }
