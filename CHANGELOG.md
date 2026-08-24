@@ -1,3 +1,23 @@
+## v0.9.2+20260824205024 (Aug 24, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32768302405
+
+
+### server
+
+- Update: aws/c8a.4xlarge
+- Update: aws/c8a.large
+- Update: aws/c8g.2xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+
+### database
+
+- Update: gcp/db-perf-optimized-C4-2
+- Update: gcp/db-perf-optimized-C4-4
+- Update: gcp/db-perf-optimized-C4-8
+
 ## v0.9.2+20260824182159 (Aug 24, 2026)
 
 This is an automated release with 50 new/updated/deleted resources.
