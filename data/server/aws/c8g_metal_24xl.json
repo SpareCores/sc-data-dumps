@@ -13,7 +13,7 @@
   "cpu_speed": 2.8,
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "AWS",
-  "cpu_family": null,
+  "cpu_family": "ARMv9",
   "cpu_model": "Neoverse-V2",
   "cpu_l1d_cache": 64,
   "cpu_l1d_cache_total": 6144,
@@ -96,6 +96,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 10.0,
+  "average_time_to_start": 11.0,
   "status": "ACTIVE"
 }

@@ -1,3 +1,56 @@
+## v0.9.2+20260825141136 (Aug 25, 2026)
+
+This is an automated release with 41 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32849630078
+
+
+### server
+
+- Update: aws/c8a.12xlarge
+- Update: aws/c8a.16xlarge
+- Update: aws/c8a.24xlarge
+- Update: aws/c8a.2xlarge
+- Update: aws/c8a.48xlarge
+- Update: aws/c8a.4xlarge
+- Update: aws/c8a.8xlarge
+- Update: aws/c8a.large
+- Update: aws/c8a.medium
+- Update: aws/c8a.xlarge
+- Update: aws/c8g.16xlarge
+- Update: aws/c8g.24xlarge
+- Update: aws/c8g.2xlarge
+- Update: aws/c8g.48xlarge
+- Update: aws/c8g.4xlarge
+- Update: aws/c8g.medium
+- Update: aws/c8g.metal-24xl
+- Update: aws/c8g.metal-48xl
+- Update: aws/c8g.xlarge
+- Update: aws/c8i.24xlarge
+- Update: aws/c8i.48xlarge
+- Update: aws/c8i.large
+- Update: aws/c8i.metal-96xl
+- Update: aws/c8i.xlarge
+- Update: aws/c9g.12xlarge
+- Update: aws/c9g.16xlarge
+- Update: aws/c9g.24xlarge
+- Update: aws/c9g.2xlarge
+- Update: aws/c9g.4xlarge
+- Update: aws/c9g.8xlarge
+- Update: aws/c9g.large
+- Update: aws/c9g.medium
+- Update: aws/c9g.metal-48xl
+- Update: aws/c9g.xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.t1.small
+- Update: aws/t3.2xlarge
+- Update: aws/t3.small
+
+### database
+
+- Update: gcp/db-perf-optimized-C4-2
+- Update: gcp/db-perf-optimized-C4-4
+- Update: gcp/db-perf-optimized-C4-8
+
 ## v0.9.2+20260825113641 (Aug 25, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.

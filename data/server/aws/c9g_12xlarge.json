@@ -13,7 +13,7 @@
   "cpu_speed": 3.3,
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "AWS",
-  "cpu_family": null,
+  "cpu_family": "ARMv9",
   "cpu_model": "Neoverse-V3",
   "cpu_l1d_cache": 64,
   "cpu_l1d_cache_total": 3072,
@@ -73,8 +73,8 @@
     "wfxt"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 47.8,
+  "scalability": 99.58,
   "hw_virt": 0,
   "memory_amount": 98304,
   "memory_amount_actual": 96768,
@@ -98,6 +98,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 6.5,
+  "average_time_to_start": 6.67,
   "status": "ACTIVE"
 }

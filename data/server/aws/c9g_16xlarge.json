@@ -13,7 +13,7 @@
   "cpu_speed": 3.3,
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "AWS",
-  "cpu_family": null,
+  "cpu_family": "ARMv9",
   "cpu_model": "Neoverse-V3",
   "cpu_l1d_cache": 64,
   "cpu_l1d_cache_total": 4096,
