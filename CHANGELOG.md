@@ -1,3 +1,42 @@
+## v0.9.2+20260825170727 (Aug 25, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/32868051595
+
+
+### server
+
+- Update: aws/c8a.metal-48xl
+- Update: aws/c8g.12xlarge
+- Update: aws/c8g.8xlarge
+- Update: aws/c8g.large
+- Update: aws/c8g.metal-48xl
+- Update: aws/c8i.12xlarge
+- Update: aws/c8i.2xlarge
+- Update: aws/c8i.32xlarge
+- Update: aws/c8i.4xlarge
+- Update: aws/c8i.8xlarge
+- Update: aws/c8i.96xlarge
+- Update: aws/c9g.16xlarge
+- Update: aws/c9g.48xlarge
+- Update: aws/c9g.8xlarge
+- Update: aws/c9g.metal-48xl
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.4xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.t1.small
+- Update: aws/t3.large
+- Update: aws/t3.medium
+- Update: aws/t3.micro
+- Update: aws/t3.xlarge
+- Update: vultr/vcg-a40-6c-30g-12vram
+
 ## v0.9.2+20260825141136 (Aug 25, 2026)
 
 This is an automated release with 41 new/updated/deleted resources.
