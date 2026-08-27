@@ -1,3 +1,69 @@
+## v0.9.2+20260827120840 (Aug 27, 2026)
+
+This is an automated release with 57 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33063164127
+
+
+### server
+
+- Update: hcloud/114
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: aws/i7i.16xlarge
+- Update: aws/i7i.24xlarge
+- Update: aws/i7i.48xlarge
+- Update: aws/i7i.4xlarge
+- Update: aws/i7i.8xlarge
+- Update: aws/i7ie.18xlarge
+- Update: aws/i7ie.2xlarge
+- Update: aws/i7ie.6xlarge
+- Update: aws/i7ie.large
+- Update: aws/i7ie.metal-24xl
+- Update: aws/i7ie.xlarge
+- Update: aws/i7i.metal-48xl
+- Update: aws/m6g.12xlarge
+- Update: aws/m6g.2xlarge
+- Update: aws/m6g.4xlarge
+- Update: aws/m6g.large
+- Update: aws/m6g.metal
+- Update: aws/m6i.2xlarge
+- Update: aws/m6i.32xlarge
+- Update: aws/m6i.8xlarge
+- Update: aws/m6i.metal
+- Update: aws/m7g.16xlarge
+- Update: aws/m7g.2xlarge
+- Update: aws/m7g.8xlarge
+- Update: aws/m7g.large
+- Update: aws/m7i.16xlarge
+- Update: aws/m7i.24xlarge
+- Update: aws/m7i.2xlarge
+- Update: aws/m7i.48xlarge
+- Update: aws/m7i.4xlarge
+- Update: aws/m7i.large
+- Update: aws/m7i.metal-24xl
+- Update: aws/m7i.metal-48xl
+- Update: aws/m8g.12xlarge
+- Update: aws/m8g.24xlarge
+- Update: aws/m8g.2xlarge
+- Update: aws/m8g.48xlarge
+- Update: aws/m8g.4xlarge
+- Update: aws/m8g.medium
+- Update: aws/m8g.metal-24xl
+- Update: aws/m8g.metal-48xl
+- Update: aws/m8g.xlarge
+- Update: aws/m9g.12xlarge
+- Update: aws/m9g.16xlarge
+- Update: aws/m9g.24xlarge
+- Update: aws/m9g.2xlarge
+- Update: aws/m9g.48xlarge
+- Update: aws/m9g.8xlarge
+- Update: aws/m9g.large
+- Update: aws/m9g.medium
+- Update: aws/m9g.metal-48xl
+- Update: aws/m9g.xlarge
+- Update: aws/t4g.2xlarge
+
 ## v0.9.2+20260827090253 (Aug 27, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
