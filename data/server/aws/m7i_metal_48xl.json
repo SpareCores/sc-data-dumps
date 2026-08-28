@@ -206,7 +206,7 @@
   "memory_amount": 786432,
   "memory_amount_actual": 786432,
   "memory_generation": "DDR5",
-  "memory_speed": 4800,
+  "memory_speed": 5600,
   "memory_ecc": null,
   "gpu_count": 0.0,
   "gpu_memory_min": 0,

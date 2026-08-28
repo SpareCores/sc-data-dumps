@@ -1,3 +1,72 @@
+## v0.9.2+20260828000150 (Aug 28, 2026)
+
+This is an automated release with 60 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33122620585
+
+
+### server
+
+- Update: hcloud/109
+- Update: hcloud/110
+- Update: hcloud/25
+- Update: hcloud/26
+- Update: hcloud/95
+- Update: hcloud/96
+- Update: hcloud/97
+- Update: hcloud/98
+- Update: ovh/b3-32
+- Update: ovh/c3-16
+- Update: ovh/c3-4
+- Update: ovh/c3-8
+- Update: aws/c9g.large
+- Update: upcloud/CLOUDNATIVE-1xCPU-4GB
+- Update: upcloud/CLOUDNATIVE-1xCPU-8GB
+- Update: upcloud/CLOUDNATIVE-8xCPU-32GB
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmhfc6.20xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: ovh/i1-45
+- Update: aws/m6a.2xlarge
+- Update: aws/m6i.xlarge
+- Update: aws/m7g.medium
+- Update: aws/m7i.16xlarge
+- Update: aws/m7i.24xlarge
+- Update: aws/m7i.2xlarge
+- Update: aws/m7i.48xlarge
+- Update: aws/m7i.metal-24xl
+- Update: aws/m7i.metal-48xl
+- Update: aws/m8g.12xlarge
+- Update: aws/m8g.16xlarge
+- Update: aws/m8g.24xlarge
+- Update: aws/m8g.2xlarge
+- Update: aws/m8g.48xlarge
+- Update: aws/m8g.4xlarge
+- Update: aws/m8g.8xlarge
+- Update: aws/m8g.large
+- Update: aws/m8g.medium
+- Update: aws/m8g.metal-24xl
+- Update: aws/m8g.metal-48xl
+- Update: aws/m8g.xlarge
+- Update: ovh/rtx5000-28
+- Update: ovh/t2-le-90
+- Update: aws/t3.medium
+- Update: aws/t3.xlarge
+- Update: aws/t4g.large
+- Update: vultr/vc2-4c-8gb
+- Update: vultr/vcg-a16-24c-256g-64vram
+- Update: vultr/vhf-8c-32gb
+- Update: vultr/vhp-8c-16gb-intel
+- Update: vultr/voc-m-2c-16gb-400s-amd
+- Update: vultr/voc-m-8c-64gb-800s-amd
+- Update: vultr/voc-s-2c-16gb-480s-amd
+
 ## v0.9.2+20260827210231 (Aug 27, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.
