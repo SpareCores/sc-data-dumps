@@ -1,3 +1,43 @@
+## v0.9.2+20260829092122 (Aug 29, 2026)
+
+This is an automated release with 31 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33241680498
+
+
+### server
+
+- Update: ovh/b3-64
+- Update: ovh/c2-7
+- Update: aws/c8g.xlarge
+- Update: aws/c8i.xlarge
+- Update: aws/c9g.xlarge
+- Update: upcloud/CLOUDNATIVE-16xCPU-96GB
+- Update: upcloud/CLOUDNATIVE-2xCPU-16GB
+- Update: upcloud/CLOUDNATIVE-32xCPU-256GB
+- Update: upcloud/CLOUDNATIVE-32xCPU-64GB
+- Update: upcloud/CLOUDNATIVE-4xCPU-24GB
+- Update: upcloud/CLOUDNATIVE-8xCPU-24GB
+- Update: ovh/d2-4
+- Update: ovh/d2-8
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: upcloud/GPU-16xCPU-192GB-3xL4
+- Update: upcloud/GPU-20xCPU-256GB-3xL4
+- Update: upcloud/GPU-32xCPU-384GB-3xL4
+- Update: aws/m6i.8xlarge
+- Update: aws/m8g.xlarge
+- Update: upcloud/PREMIUM-2xCPU-16GB
+- Update: ovh/r3-256
+- Update: ovh/r3-64
+- Update: upcloud/STARTER-2xCPU-8GB
+- Update: vultr/vhf-16c-58gb
+- Update: vultr/vhf-4c-16gb
+- Update: vultr/vhp-4c-12gb-amd
+- Update: vultr/voc-m-16c-128gb-3200s-amd
+- Update: vultr/voc-m-1c-8gb-50s-amd
+- Update: vultr/voc-m-24c-192gb-2400s-amd
+- Update: vultr/voc-m-2c-16gb-100s-amd
+- Update: vultr/voc-s-8c-64gb-1280s-amd
+
 ## v0.9.2+20260829061519 (Aug 29, 2026)
 
 This is an automated release with 31 new/updated/deleted resources.
