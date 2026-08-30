@@ -1,3 +1,47 @@
+## v0.9.2+20260830000323 (Aug 30, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33278662609
+
+
+### server
+
+- Update: hcloud/115
+- Update: upcloud/CLOUDNATIVE-12xCPU-32GB
+- Update: upcloud/CLOUDNATIVE-16xCPU-192GB
+- Update: upcloud/CLOUDNATIVE-16xCPU-32GB
+- Update: upcloud/CLOUDNATIVE-24xCPU-256GB
+- Update: upcloud/CLOUDNATIVE-8xCPU-128GB
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn9gc.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL4
+- Update: upcloud/PREMIUM-16xCPU-64GB
+- Update: upcloud/PREMIUM-2xCPU-4GB
+- Update: upcloud/PREMIUM-2xCPU-8GB
+- Update: upcloud/STARTER-4xCPU-8GB
+- Update: vultr/vbm-8c-132gb
+- Update: vultr/vc2-24c-96gb
+- Update: vultr/vc2-2c-4gb
+- Update: vultr/vc2-8c-32gb
+- Update: vultr/vcg-a16-12c-128g-32vram
+- Update: vultr/vhf-2c-4gb
+- Update: vultr/vhp-4c-8gb-amd
+- Update: vultr/voc-c-16c-32gb-300s-amd
+- Update: vultr/voc-c-4c-8gb-150s-amd
+- Update: vultr/voc-c-8c-16gb-300s-amd
+- Update: vultr/voc-m-16c-128gb-1600s-amd
+- Update: vultr/voc-m-32c-256gb-3200s-amd
+- Update: vultr/vx1-g-4c-16g-240s
+- Update: vultr/vx1-g-8c-32g
+
 ## v0.9.2+20260829210436 (Aug 29, 2026)
 
 This is an automated release with 25 new/updated/deleted resources.

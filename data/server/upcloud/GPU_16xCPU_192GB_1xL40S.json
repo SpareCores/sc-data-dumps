@@ -153,7 +153,20 @@
   "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Ada Lovelace",
   "gpu_model": "L40S",
-  "gpus": [],
+  "gpus": [
+    {
+      "manufacturer": "NVIDIA",
+      "family": "Ada Lovelace",
+      "model": "NVIDIA L40S",
+      "memory": 46068,
+      "firmware_version": "595.84",
+      "bios_version": "95.02.66.00.15",
+      "graphics_clock": 2520,
+      "sm_clock": 2520,
+      "mem_clock": 9001,
+      "video_clock": 1965
+    }
+  ],
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
@@ -164,6 +177,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 24576.0,
   "ipv4": 1,
-  "average_time_to_start": null,
+  "average_time_to_start": 49.0,
   "status": "ACTIVE"
 }
