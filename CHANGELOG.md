@@ -1,3 +1,14 @@
+## v0.9.2+20260830223741 (Aug 30, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33335905900
+
+
+### server
+
+- Update: hcloud/114
+- Update: vultr/vcg-a40-2c-10g-4vram
+
 ## v0.9.2+20260830195929 (Aug 30, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
