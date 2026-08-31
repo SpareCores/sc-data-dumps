@@ -1,3 +1,45 @@
+## v0.9.2+20260831175714 (Aug 31, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33412402752
+
+
+### region
+
+- Update: vultr/cmh
+- Update: vultr/msp
+- Update: vultr/stl
+
+### server
+
+- New: aws/r9g.12xlarge
+- New: aws/r9g.2xlarge
+- New: aws/r9g.48xlarge
+- New: aws/r9g.metal-48xl
+- New: aws/r9g.large
+- New: aws/r9g.4xlarge
+- New: aws/r9g.16xlarge
+- New: aws/r9g.medium
+- New: aws/r9g.8xlarge
+- New: aws/r9g.xlarge
+- New: aws/r9g.24xlarge
+- Update: hcloud/115
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+- Update: vultr/vcg-a16-24c-256g-64vram
+
 ## v0.9.2+20260831144306 (Aug 31, 2026)
 
 This is an automated release with 22 new/updated/deleted resources.
