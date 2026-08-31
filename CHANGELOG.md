@@ -1,3 +1,37 @@
+## v0.9.2+20260831144306 (Aug 31, 2026)
+
+This is an automated release with 22 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33395299140
+
+
+### server
+
+- New: aws/r9gd.4xlarge
+- New: aws/r9gd.12xlarge
+- New: aws/r9gd.8xlarge
+- New: aws/r9gd.16xlarge
+- New: aws/r9gd.medium
+- New: aws/r9gd.2xlarge
+- New: aws/r9gd.metal-48xl
+- New: aws/r9gd.48xlarge
+- New: aws/r9gd.24xlarge
+- New: aws/r9gd.xlarge
+- New: aws/r9gd.large
+- Update: hcloud/116
+- Update: hcloud/117
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: vultr/vbm-112c-2048gb-8-a100-gpu
+- Update: vultr/vcg-a40-1c-5g-2vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4-2
+- Update: gcp/db-perf-optimized-C4-4
+- Update: gcp/db-perf-optimized-C4-8
+
 ## v0.9.2+20260831114711 (Aug 31, 2026)
 
 This is an automated release with 44 new/updated/deleted resources.
