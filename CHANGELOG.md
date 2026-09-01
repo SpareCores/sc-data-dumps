@@ -1,3 +1,27 @@
+## v0.9.2+20260901212401 (Sep 01, 2026)
+
+This is an automated release with 15 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33551620563
+
+
+### server
+
+- Update: hcloud/116
+- Update: ovh/c2-120
+- Update: ovh/c2-7
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: aws/m6g.12xlarge
+- Update: aws/m6g.2xlarge
+- Update: aws/m6g.4xlarge
+- Update: aws/m6i.12xlarge
+- Update: aws/m6i.8xlarge
+- Update: aws/m7g.8xlarge
+- Update: ovh/r3-256
+- Update: ovh/r3-64
+- Update: ovh/t1-le-180
+- Update: ovh/t1-le-45
+- Update: vultr/vcg-a16-24c-256g-64vram
+
 ## v0.9.2+20260901182834 (Sep 01, 2026)
 
 This is an automated release with 14 new/updated/deleted resources.
