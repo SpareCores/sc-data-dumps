@@ -1,0 +1,56 @@
+{
+  "vendor_id": "ovh",
+  "database_id": "postgresql-enterprise-db1-120",
+  "name": "postgresql-enterprise-db1-120",
+  "api_reference": "postgresql-enterprise-db1-120",
+  "api_reference_object": {
+    "engine": "postgresql",
+    "plan": "enterprise",
+    "flavor": "db1-120"
+  },
+  "display_name": "Enterprise db1-120",
+  "description": "PostgreSQL Enterprise (32 vCPUs, 120 GB RAM, 800 GB SSD)",
+  "family": "Enterprise",
+  "server_id": null,
+  "vcpus": 32,
+  "memory_amount": 122880,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 2,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 800,
+  "storage_extra_min": 0,
+  "storage_extra_max": 5120,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 30,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

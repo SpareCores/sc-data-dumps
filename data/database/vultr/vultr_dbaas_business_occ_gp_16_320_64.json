@@ -1,0 +1,53 @@
+{
+  "vendor_id": "vultr",
+  "database_id": "vultr-dbaas-business-occ-gp-16-320-64",
+  "name": "vultr-dbaas-business-occ-gp-16-320-64",
+  "api_reference": "vultr-dbaas-business-occ-gp-16-320-64",
+  "api_reference_object": {
+    "plan": "vultr-dbaas-business-occ-gp-16-320-64",
+    "database_engine": "pg"
+  },
+  "display_name": "vultr-dbaas-business-occ-gp-16-320-64",
+  "description": "Vultr PostgreSQL Business Optimized Cloud Compute General Purpose (16 vCPUs, 64.0 GiB RAM, 320 GB SSD)",
+  "family": "Business Optimized Cloud Compute General Purpose",
+  "server_id": null,
+  "vcpus": 16,
+  "memory_amount": 65536,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 1,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 320,
+  "storage_extra_min": 0,
+  "storage_extra_max": 0,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 14,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.99,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls"
+  ],
+  "status": "ACTIVE"
+}

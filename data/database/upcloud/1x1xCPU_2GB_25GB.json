@@ -1,0 +1,54 @@
+{
+  "vendor_id": "upcloud",
+  "database_id": "1x1xCPU-2GB-25GB",
+  "name": "1x1xCPU-2GB-25GB",
+  "api_reference": "1x1xCPU-2GB-25GB",
+  "api_reference_object": {
+    "service_type": "pg",
+    "service_plan": "1x1xCPU-2GB-25GB"
+  },
+  "display_name": "1CPU-2GB",
+  "description": "UpCloud PostgreSQL Single node (1 vCPUs, 2 GiB RAM, 27 GB storage)",
+  "family": "Single node",
+  "server_id": "1xCPU-2GB",
+  "vcpus": 1,
+  "memory_amount": 2048,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "none"
+  ],
+  "ha_strategy": [
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 27,
+  "storage_extra_min": 11,
+  "storage_extra_max": 107,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 3,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.999,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

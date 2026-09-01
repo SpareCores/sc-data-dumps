@@ -1,0 +1,54 @@
+{
+  "vendor_id": "upcloud",
+  "database_id": "2x16xCPU-64GB-1500GB",
+  "name": "2x16xCPU-64GB-1500GB",
+  "api_reference": "2x16xCPU-64GB-1500GB",
+  "api_reference_object": {
+    "service_type": "pg",
+    "service_plan": "2x16xCPU-64GB-1500GB"
+  },
+  "display_name": "16CPU-64GB",
+  "description": "UpCloud PostgreSQL 2-node HA (16 vCPUs, 64 GiB RAM, 1611 GB storage)",
+  "family": "2-node HA",
+  "server_id": "16xCPU-64GB",
+  "vcpus": 16,
+  "memory_amount": 65536,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 1,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 1611,
+  "storage_extra_min": 11,
+  "storage_extra_max": 6086,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 15,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.999,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

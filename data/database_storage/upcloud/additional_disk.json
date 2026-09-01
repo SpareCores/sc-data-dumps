@@ -1,0 +1,13 @@
+{
+  "vendor_id": "upcloud",
+  "database_storage_id": "additional-disk",
+  "name": "Additional disk",
+  "description": "Additional managed PostgreSQL disk in 11 GB increments up to 4x bundled storage",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 0,
+  "max_size": 6086,
+  "max_iops": 100000,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

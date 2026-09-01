@@ -1,0 +1,13 @@
+{
+  "vendor_id": "ovh",
+  "database_storage_id": "postgresql-business-additional",
+  "name": "postgresql-business-additional",
+  "description": "PostgreSQL Business additional storage",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 0,
+  "max_size": 5120,
+  "max_iops": 500,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

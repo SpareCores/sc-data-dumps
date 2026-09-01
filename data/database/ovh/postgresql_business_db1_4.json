@@ -1,0 +1,56 @@
+{
+  "vendor_id": "ovh",
+  "database_id": "postgresql-business-db1-4",
+  "name": "postgresql-business-db1-4",
+  "api_reference": "postgresql-business-db1-4",
+  "api_reference_object": {
+    "engine": "postgresql",
+    "plan": "business",
+    "flavor": "db1-4"
+  },
+  "display_name": "Business db1-4",
+  "description": "PostgreSQL Business (2 vCPUs, 4 GB RAM, 50 GB SSD)",
+  "family": "Business",
+  "server_id": null,
+  "vcpus": 2,
+  "memory_amount": 4096,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 1,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 50,
+  "storage_extra_min": 0,
+  "storage_extra_max": 160,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 14,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.9,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

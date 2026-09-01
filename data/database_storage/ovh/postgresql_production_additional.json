@@ -1,0 +1,13 @@
+{
+  "vendor_id": "ovh",
+  "database_storage_id": "postgresql-production-additional",
+  "name": "postgresql-production-additional",
+  "description": "PostgreSQL Production additional storage",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 0,
+  "max_size": 20480,
+  "max_iops": 500,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

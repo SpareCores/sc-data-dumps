@@ -1,0 +1,53 @@
+{
+  "vendor_id": "vultr",
+  "database_id": "vultr-dbaas-business-cc-hp-amd-4-384-16",
+  "name": "vultr-dbaas-business-cc-hp-amd-4-384-16",
+  "api_reference": "vultr-dbaas-business-cc-hp-amd-4-384-16",
+  "api_reference_object": {
+    "plan": "vultr-dbaas-business-cc-hp-amd-4-384-16",
+    "database_engine": "pg"
+  },
+  "display_name": "vultr-dbaas-business-cc-hp-amd-4-384-16",
+  "description": "Vultr PostgreSQL Business High Performance AMD (4 vCPUs, 16.0 GiB RAM, 384 GB SSD)",
+  "family": "Business High Performance AMD",
+  "server_id": null,
+  "vcpus": 4,
+  "memory_amount": 16384,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 1,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 384,
+  "storage_extra_min": 0,
+  "storage_extra_max": 0,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 14,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.99,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls"
+  ],
+  "status": "ACTIVE"
+}

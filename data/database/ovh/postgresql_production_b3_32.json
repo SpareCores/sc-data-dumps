@@ -1,0 +1,57 @@
+{
+  "vendor_id": "ovh",
+  "database_id": "postgresql-production-b3-32",
+  "name": "postgresql-production-b3-32",
+  "api_reference": "postgresql-production-b3-32",
+  "api_reference_object": {
+    "engine": "postgresql",
+    "plan": "production",
+    "flavor": "b3-32"
+  },
+  "display_name": "Production b3-32",
+  "description": "PostgreSQL Production (8 vCPUs, 32 GB RAM, 200 GB SSD)",
+  "family": "Production",
+  "server_id": "b3-32",
+  "vcpus": 8,
+  "memory_amount": 32768,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "multi-zone",
+    "single-zone"
+  ],
+  "ha_strategy": [
+    "readable-cluster"
+  ],
+  "max_read_replicas": 1,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 200,
+  "storage_extra_min": 0,
+  "storage_extra_max": 2560,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 14,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.95,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

@@ -1,0 +1,13 @@
+{
+  "vendor_id": "ovh",
+  "database_storage_id": "postgresql-essential-additional",
+  "name": "postgresql-essential-additional",
+  "description": "PostgreSQL Essential additional storage",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 0,
+  "max_size": 1280,
+  "max_iops": 500,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,56 @@
+{
+  "vendor_id": "ovh",
+  "database_id": "postgresql-essential-db1-15",
+  "name": "postgresql-essential-db1-15",
+  "api_reference": "postgresql-essential-db1-15",
+  "api_reference_object": {
+    "engine": "postgresql",
+    "plan": "essential",
+    "flavor": "db1-15"
+  },
+  "display_name": "Essential db1-15",
+  "description": "PostgreSQL Essential (4 vCPUs, 15 GB RAM, 100 GB SSD)",
+  "family": "Essential",
+  "server_id": null,
+  "vcpus": 4,
+  "memory_amount": 15360,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "none"
+  ],
+  "ha_strategy": [
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": 100,
+  "storage_extra_min": 0,
+  "storage_extra_max": 640,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 2,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": null,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}
