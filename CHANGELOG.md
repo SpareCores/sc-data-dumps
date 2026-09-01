@@ -1,3 +1,59 @@
+## v0.9.2+20260901154628 (Sep 01, 2026)
+
+This is an automated release with 47 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33515594446
+
+
+### server
+
+- Update: hcloud/115
+- Update: hcloud/116
+- Update: hcloud/24
+- Update: hcloud/25
+- Update: hcloud/26
+- Update: ovh/b2-120
+- Update: ovh/b2-60
+- Update: ovh/b2-7
+- Update: ovh/b3-128
+- Update: ovh/b3-16
+- Update: ovh/b3-32
+- Update: ovh/c2-15
+- Update: ovh/c2-60
+- Update: ovh/c3-16
+- Update: ovh/c3-32
+- Update: aws/c8i.large
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.d1.14xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.sn2.13xlarge
+- Update: ovh/i1-180
+- Update: ovh/i1-90
+- Update: aws/m6g.12xlarge
+- Update: aws/m6g.2xlarge
+- Update: aws/m6g.4xlarge
+- Update: aws/m6g.metal
+- Update: aws/m6i.12xlarge
+- Update: aws/m6i.2xlarge
+- Update: aws/m6i.32xlarge
+- Update: aws/m6i.4xlarge
+- Update: aws/m6i.8xlarge
+- Update: aws/m6i.metal
+- Update: aws/m7g.8xlarge
+- Update: upcloud/PREMIUM-4xCPU-16GB
+- Update: ovh/r2-120
+- Update: ovh/r2-30
+- Update: ovh/r3-128
+- Update: ovh/r3-32
+- Update: ovh/rtx5000-28
+- Update: upcloud/STARTER-2xCPU-4GB
+- Update: ovh/t1-le-90
+- Update: ovh/t2-le-45
+- Update: ovh/t2-le-90
+- Update: aws/t4g.2xlarge
+- Update: vultr/vcg-a40-24c-120g-48vram
+
 ## v0.9.2+20260901124028 (Sep 01, 2026)
 
 This is an automated release with 237 new/updated/deleted resources.
