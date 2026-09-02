@@ -1,3 +1,40 @@
+## v0.9.2+20260902180706 (Sep 02, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33655107679
+
+
+### server
+
+- Update: hcloud/115
+- Update: hcloud/116
+- Update: aws/dl1.24xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7nex.32xlarge
+- Update: alicloud/ecs.gn5i-c28g1.14xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/g4ad.16xlarge
+- Update: aws/g4ad.2xlarge
+- Update: aws/g4ad.4xlarge
+- Update: aws/g4ad.8xlarge
+- Update: aws/g4ad.xlarge
+- Update: vultr/vbm-112c-2048gb-8-a100-gpu
+- Update: vultr/vcg-a40-2c-10g-4vram
+- Update: vultr/vcg-a40-4c-20g-8vram
+
 ## v0.9.2+20260902090345 (Sep 02, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.
