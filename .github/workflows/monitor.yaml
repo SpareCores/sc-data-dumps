@@ -83,6 +83,26 @@ jobs:
 
           LAST_FULL=$(jq -r '.workflow_runs[] | select(.status == "completed" and .conclusion == "success") | .updated_at' runs-full.json | head -1)
           LAST_SPOT=$(jq -r '.workflow_runs[] | select(.status == "completed" and .conclusion == "success") | .updated_at' runs-spot.json | head -1)
+          LAST_FULL_CONCLUSION=$(jq -r '[.workflow_runs[] | select(.status == "completed")][0].conclusion // empty' runs-full.json)
+          LAST_FULL_COMPLETED=$(jq -r '[.workflow_runs[] | select(.status == "completed")][0].updated_at // empty' runs-full.json)
+
+          # make sure prices are updated after a non-success full run to avoid hourly price update SLA violations
+          if [ -n "$LAST_FULL_CONCLUSION" ] && [ "$LAST_FULL_CONCLUSION" != "success" ]; then
+            NEED_SPOT_FIRST=true
+            if [ -n "$LAST_SPOT" ] && [ "$LAST_SPOT" != "null" ] && [ -n "$LAST_FULL_COMPLETED" ]; then
+              LAST_SPOT_TIME=$(date -u -d "$LAST_SPOT" +%s)
+              LAST_FULL_COMPLETED_TIME=$(date -u -d "$LAST_FULL_COMPLETED" +%s)
+              if [ "$LAST_SPOT_TIME" -ge "$LAST_FULL_COMPLETED_TIME" ]; then
+                NEED_SPOT_FIRST=false
+              fi
+            fi
+            if [ "$NEED_SPOT_FIRST" = "true" ]; then
+              echo "Last full run failed and we there's no recent spot run, so prioritizing price update SLA."
+              trigger_workflow "$WORKFLOW_SPOT" "spot run"
+              exit 0
+            fi
+            echo "Although recent full run failed, spot run succeeded recently, so we can try full or spot -- whatever is due."
+          fi
 
           if [ -n "$LAST_FULL" ] && [ "$LAST_FULL" != "null" ]; then
             echo "Last full run finished at: $LAST_FULL (UTC)"
