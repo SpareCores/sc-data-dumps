@@ -1,3 +1,14 @@
+## v0.9.2+20260905224019 (Sep 05, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/33992141779
+
+
+### server
+
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: vultr/vcg-a40-1c-5g-2vram
+
 ## v0.9.2+20260905194408 (Sep 05, 2026)
 
 This is an automated release with 16 new/updated/deleted resources.
