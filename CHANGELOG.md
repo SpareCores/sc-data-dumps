@@ -1,3 +1,35 @@
+## v0.9.2+20260909045656 (Sep 09, 2026)
+
+This is an automated release with 23 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/34305940689
+
+
+### server
+
+- Update: hcloud/115
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.ebmgn8t.32xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.gn8v-8x.16xlarge
+- Update: alicloud/ecs.gn8v-8x.48xlarge
+- Update: alicloud/ecs.gn8v-tee-8x.16xlarge
+- Update: alicloud/ecs.gn8v-tee-8x.48xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.s2.small
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL4
+- Update: upcloud/GPU-32xCPU-384GB-2xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+- Update: vultr/vcg-a16-24c-256g-64vram
+- Update: vultr/vcg-a40-24c-120g-48vram
+
 ## v0.9.2+20260909013143 (Sep 09, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
