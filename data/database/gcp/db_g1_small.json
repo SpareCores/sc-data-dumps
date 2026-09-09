@@ -26,16 +26,13 @@
     "15",
     "16",
     "17",
-    "18",
-    "19"
+    "18"
   ],
   "auto_upgrade_versions": 1,
   "ha": [
-    "multi-zone",
     "none"
   ],
   "ha_strategy": [
-    "passive-standby",
     "none"
   ],
   "max_read_replicas": 0,

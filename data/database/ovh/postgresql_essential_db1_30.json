@@ -9,7 +9,7 @@
     "flavor": "db1-30"
   },
   "display_name": "Essential db1-30",
-  "description": "PostgreSQL Essential (8 vCPUs, 30 GB RAM, 200 GB SSD)",
+  "description": "PostgreSQL Essential (8 vCPUs, 30 GB RAM, 640 GB SSD)",
   "family": "Essential",
   "server_id": null,
   "vcpus": 8,
@@ -33,7 +33,7 @@
   "max_read_replicas": 0,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 200,
+  "storage_size": 640,
   "storage_extra_min": 0,
   "storage_extra_max": 1280,
   "storage_extra_autosize": 0,

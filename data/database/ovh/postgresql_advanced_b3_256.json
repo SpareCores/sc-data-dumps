@@ -9,7 +9,7 @@
     "flavor": "b3-256"
   },
   "display_name": "Advanced b3-256",
-  "description": "PostgreSQL Advanced (64 vCPUs, 256 GB RAM, 400 GB SSD)",
+  "description": "PostgreSQL Advanced (64 vCPUs, 256 GB RAM, 5120 GB SSD)",
   "family": "Advanced",
   "server_id": "b3-256",
   "vcpus": 64,
@@ -34,7 +34,7 @@
   "max_read_replicas": 2,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 400,
+  "storage_size": 5120,
   "storage_extra_min": 0,
   "storage_extra_max": 20480,
   "storage_extra_autosize": 0,

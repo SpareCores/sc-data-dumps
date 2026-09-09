@@ -9,7 +9,7 @@
     "flavor": "b3-32"
   },
   "display_name": "Advanced b3-32",
-  "description": "PostgreSQL Advanced (8 vCPUs, 32 GB RAM, 200 GB SSD)",
+  "description": "PostgreSQL Advanced (8 vCPUs, 32 GB RAM, 640 GB SSD)",
   "family": "Advanced",
   "server_id": "b3-32",
   "vcpus": 8,
@@ -34,7 +34,7 @@
   "max_read_replicas": 2,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 200,
+  "storage_size": 640,
   "storage_extra_min": 0,
   "storage_extra_max": 2560,
   "storage_extra_autosize": 0,

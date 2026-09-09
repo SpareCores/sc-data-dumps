@@ -17,17 +17,13 @@
   "engine": "POSTGRESQL",
   "wire_protocol": "POSTGRESQL",
   "engine_versions": [
-    "9.6",
-    "10",
-    "11",
     "12",
     "13",
     "14",
     "15",
     "16",
     "17",
-    "18",
-    "19"
+    "18"
   ],
   "auto_upgrade_versions": 1,
   "ha": [

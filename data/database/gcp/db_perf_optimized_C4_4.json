@@ -9,7 +9,7 @@
     }
   },
   "display_name": "db-perf-optimized-C4-4",
-  "description": "PostgreSQL Cloud SQL Perf Optimized C4 (4 vCPUs, 31 GB RAM)",
+  "description": "PostgreSQL Cloud SQL Performance Optimized C4 (4 vCPUs, 31 GB RAM)",
   "family": "perf-optimized-C4",
   "server_id": null,
   "vcpus": 4,
@@ -17,17 +17,13 @@
   "engine": "POSTGRESQL",
   "wire_protocol": "POSTGRESQL",
   "engine_versions": [
-    "9.6",
-    "10",
-    "11",
     "12",
     "13",
     "14",
     "15",
     "16",
     "17",
-    "18",
-    "19"
+    "18"
   ],
   "auto_upgrade_versions": 1,
   "ha": [

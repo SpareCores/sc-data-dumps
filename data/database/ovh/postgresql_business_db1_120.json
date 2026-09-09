@@ -9,7 +9,7 @@
     "flavor": "db1-120"
   },
   "display_name": "Business db1-120",
-  "description": "PostgreSQL Business (32 vCPUs, 120 GB RAM, 800 GB SSD)",
+  "description": "PostgreSQL Business (32 vCPUs, 120 GB RAM, 2560 GB SSD)",
   "family": "Business",
   "server_id": null,
   "vcpus": 32,
@@ -33,7 +33,7 @@
   "max_read_replicas": 1,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 800,
+  "storage_size": 2560,
   "storage_extra_min": 0,
   "storage_extra_max": 5120,
   "storage_extra_autosize": 0,

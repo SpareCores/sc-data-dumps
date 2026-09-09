@@ -9,7 +9,7 @@
     "flavor": "b3-8"
   },
   "display_name": "Discovery b3-8",
-  "description": "PostgreSQL Discovery (2 vCPUs, 8 GB RAM, 50 GB SSD)",
+  "description": "PostgreSQL Discovery (2 vCPUs, 8 GB RAM, 160 GB SSD)",
   "family": "Discovery",
   "server_id": "b3-8",
   "vcpus": 2,
@@ -33,7 +33,7 @@
   "max_read_replicas": 0,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 50,
+  "storage_size": 160,
   "storage_extra_min": 0,
   "storage_extra_max": 640,
   "storage_extra_autosize": 0,

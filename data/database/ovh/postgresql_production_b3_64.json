@@ -9,7 +9,7 @@
     "flavor": "b3-64"
   },
   "display_name": "Production b3-64",
-  "description": "PostgreSQL Production (16 vCPUs, 64 GB RAM, 400 GB SSD)",
+  "description": "PostgreSQL Production (16 vCPUs, 64 GB RAM, 1280 GB SSD)",
   "family": "Production",
   "server_id": "b3-64",
   "vcpus": 16,
@@ -34,7 +34,7 @@
   "max_read_replicas": 1,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 400,
+  "storage_size": 1280,
   "storage_extra_min": 0,
   "storage_extra_max": 5120,
   "storage_extra_autosize": 0,

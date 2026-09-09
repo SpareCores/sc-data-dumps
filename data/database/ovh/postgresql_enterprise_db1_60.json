@@ -9,7 +9,7 @@
     "flavor": "db1-60"
   },
   "display_name": "Enterprise db1-60",
-  "description": "PostgreSQL Enterprise (16 vCPUs, 60 GB RAM, 400 GB SSD)",
+  "description": "PostgreSQL Enterprise (16 vCPUs, 60 GB RAM, 1280 GB SSD)",
   "family": "Enterprise",
   "server_id": null,
   "vcpus": 16,
@@ -33,7 +33,7 @@
   "max_read_replicas": 2,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 400,
+  "storage_size": 1280,
   "storage_extra_min": 0,
   "storage_extra_max": 2560,
   "storage_extra_autosize": 0,

@@ -1,3 +1,137 @@
+## v0.9.2+20260909163209 (Sep 09, 2026)
+
+This is an automated release with 122 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/34366454640
+
+
+### server
+
+- Update: hcloud/114
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: upcloud/GPU-12xCPU-128GB-1xL40S
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-8xCPU-64GB-1xL40S
+- Update: vultr/vcg-a40-24c-120g-48vram
+
+### database
+
+- Update: azure/Standard_B12ms
+- Update: azure/Standard_B16ms
+- Update: azure/Standard_B1ms
+- Update: azure/Standard_B20ms
+- Update: azure/Standard_B2ms
+- Update: azure/Standard_B2s
+- Update: azure/Standard_B4ms
+- Update: azure/Standard_B8ms
+- Update: gcp/db-c4a-highmem-16
+- Update: gcp/db-c4a-highmem-2
+- Update: gcp/db-c4a-highmem-32
+- Update: gcp/db-c4a-highmem-4
+- Update: gcp/db-c4a-highmem-48
+- Update: gcp/db-c4a-highmem-64
+- Update: gcp/db-c4a-highmem-72
+- Update: gcp/db-c4a-highmem-8
+- Update: gcp/db-f1-micro
+- Update: gcp/db-g1-small
+- Update: gcp/db-memory-optimized-N-16
+- Update: gcp/db-memory-optimized-N-4
+- Update: gcp/db-memory-optimized-N-8
+- Update: gcp/db-n1-highmem-16
+- Update: gcp/db-n1-highmem-2
+- Update: gcp/db-n1-highmem-32
+- Update: gcp/db-n1-highmem-4
+- Update: gcp/db-n1-highmem-64
+- Update: gcp/db-n1-highmem-8
+- Update: gcp/db-n1-highmem-96
+- Update: gcp/db-n1-standard-1
+- Update: gcp/db-n1-standard-16
+- Update: gcp/db-n1-standard-2
+- Update: gcp/db-n1-standard-32
+- Update: gcp/db-n1-standard-4
+- Update: gcp/db-n1-standard-64
+- Update: gcp/db-n1-standard-8
+- Update: gcp/db-n1-standard-96
+- Update: gcp/db-perf-optimized-C4-2
+- Update: gcp/db-perf-optimized-C4-4
+- Update: gcp/db-perf-optimized-C4-8
+- Update: gcp/db-perf-optimized-N-128
+- Update: gcp/db-perf-optimized-N-16
+- Update: gcp/db-perf-optimized-N-2
+- Update: gcp/db-perf-optimized-N-32
+- Update: gcp/db-perf-optimized-N-4
+- Update: gcp/db-perf-optimized-N-48
+- Update: gcp/db-perf-optimized-N-64
+- Update: gcp/db-perf-optimized-N-8
+- Update: gcp/db-perf-optimized-N-80
+- Update: gcp/db-perf-optimized-N-96
+- Update: ovh/postgresql-advanced-b3-128
+- Update: ovh/postgresql-advanced-b3-16
+- Update: ovh/postgresql-advanced-b3-256
+- Update: ovh/postgresql-advanced-b3-32
+- Update: ovh/postgresql-advanced-b3-64
+- Update: ovh/postgresql-advanced-b3-8
+- Update: ovh/postgresql-business-db1-120
+- Update: ovh/postgresql-business-db1-15
+- Update: ovh/postgresql-business-db1-30
+- Update: ovh/postgresql-business-db1-4
+- Update: ovh/postgresql-business-db1-60
+- Update: ovh/postgresql-business-db1-7
+- Update: ovh/postgresql-discovery-b3-16
+- Update: ovh/postgresql-discovery-b3-32
+- Update: ovh/postgresql-discovery-b3-8
+- Update: ovh/postgresql-enterprise-db1-120
+- Update: ovh/postgresql-enterprise-db1-15
+- Update: ovh/postgresql-enterprise-db1-30
+- Update: ovh/postgresql-enterprise-db1-4
+- Update: ovh/postgresql-enterprise-db1-60
+- Update: ovh/postgresql-enterprise-db1-7
+- Update: ovh/postgresql-essential-db1-15
+- Update: ovh/postgresql-essential-db1-30
+- Update: ovh/postgresql-essential-db1-4
+- Update: ovh/postgresql-essential-db1-7
+- Update: ovh/postgresql-production-b3-128
+- Update: ovh/postgresql-production-b3-16
+- Update: ovh/postgresql-production-b3-256
+- Update: ovh/postgresql-production-b3-32
+- Update: ovh/postgresql-production-b3-64
+- Update: ovh/postgresql-production-b3-8
+- Update: upcloud/2x16xCPU-64GB-1000GB
+- Update: upcloud/2x16xCPU-64GB-1500GB
+- Update: upcloud/2x20xCPU-128GB-2000GB
+- Update: upcloud/2x2xCPU-4GB-100GB
+- Update: upcloud/2x2xCPU-4GB-50GB
+- Update: upcloud/2x4xCPU-8GB-100GB
+- Update: upcloud/2x4xCPU-8GB-50GB
+- Update: upcloud/2x6xCPU-16GB-100GB
+- Update: upcloud/2x6xCPU-16GB-250GB
+- Update: upcloud/2x8xCPU-32GB-100GB
+- Update: upcloud/2x8xCPU-32GB-250GB
+- Update: upcloud/2x8xCPU-32GB-500GB
+- Update: upcloud/3x16xCPU-64GB-1000GB
+- Update: upcloud/3x16xCPU-64GB-2000GB
+- Update: upcloud/3x20xCPU-128GB-2000GB
+- Update: upcloud/3x2xCPU-4GB-100GB
+- Update: upcloud/3x2xCPU-4GB-200GB
+- Update: upcloud/3x4xCPU-8GB-100GB
+- Update: upcloud/3x4xCPU-8GB-200GB
+- Update: upcloud/3x6xCPU-16GB-200GB
+- Update: upcloud/3x6xCPU-16GB-500GB
+- Update: upcloud/3x8xCPU-32GB-1000GB
+- Update: upcloud/3x8xCPU-32GB-200GB
+- Update: upcloud/3x8xCPU-32GB-500GB
+
 ## v0.9.2+20260909142707 (Sep 09, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.

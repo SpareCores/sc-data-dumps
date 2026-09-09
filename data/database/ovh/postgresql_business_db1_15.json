@@ -9,7 +9,7 @@
     "flavor": "db1-15"
   },
   "display_name": "Business db1-15",
-  "description": "PostgreSQL Business (4 vCPUs, 15 GB RAM, 100 GB SSD)",
+  "description": "PostgreSQL Business (4 vCPUs, 15 GB RAM, 320 GB SSD)",
   "family": "Business",
   "server_id": null,
   "vcpus": 4,
@@ -33,7 +33,7 @@
   "max_read_replicas": 1,
   "custom_config": 1,
   "custom_extensions": 1,
-  "storage_size": 100,
+  "storage_size": 320,
   "storage_extra_min": 0,
   "storage_extra_max": 640,
   "storage_extra_autosize": 0,
