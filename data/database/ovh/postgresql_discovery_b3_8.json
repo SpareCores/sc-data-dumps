@@ -4,8 +4,8 @@
   "name": "postgresql-discovery-b3-8",
   "api_reference": "postgresql-discovery-b3-8",
   "api_reference_object": {
-    "engine": "postgresql",
     "plan": "discovery",
+    "engine": "postgresql",
     "flavor": "b3-8"
   },
   "display_name": "Discovery b3-8",

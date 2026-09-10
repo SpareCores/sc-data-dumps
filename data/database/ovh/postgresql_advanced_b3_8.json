@@ -4,8 +4,8 @@
   "name": "postgresql-advanced-b3-8",
   "api_reference": "postgresql-advanced-b3-8",
   "api_reference_object": {
-    "engine": "postgresql",
     "plan": "advanced",
+    "engine": "postgresql",
     "flavor": "b3-8"
   },
   "display_name": "Advanced b3-8",
