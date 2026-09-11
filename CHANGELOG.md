@@ -1,3 +1,68 @@
+## v0.9.2+20260911131818 (Sep 11, 2026)
+
+This is an automated release with 56 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/34594679740
+
+
+### server
+
+- Update: hcloud/114
+- Update: hcloud/115
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.se1ne.14xlarge
+- Update: alicloud/ecs.t1.small
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: azure/Standard_DC16ads_cc_v5
+- Update: azure/Standard_DC16as_cc_v5
+- Update: azure/Standard_DC16ds_v3
+- Update: azure/Standard_DC16s_v3
+- Update: azure/Standard_DC1ds_v3
+- Update: azure/Standard_DC1s_v3
+- Update: azure/Standard_DC24ds_v3
+- Update: azure/Standard_DC24s_v3
+- Update: azure/Standard_DC2ds_v3
+- Update: azure/Standard_DC2s_v3
+- Update: azure/Standard_DC32ads_cc_v5
+- Update: azure/Standard_DC32as_cc_v5
+- Update: azure/Standard_DC32ds_v3
+- Update: azure/Standard_DC32s_v3
+- Update: azure/Standard_DC48ads_cc_v5
+- Update: azure/Standard_DC48as_cc_v5
+- Update: azure/Standard_DC48ds_v3
+- Update: azure/Standard_DC48s_v3
+- Update: azure/Standard_DC4ads_cc_v5
+- Update: azure/Standard_DC4as_cc_v5
+- Update: azure/Standard_DC4ds_v3
+- Update: azure/Standard_DC4s_v3
+- Update: azure/Standard_DC64ads_cc_v5
+- Update: azure/Standard_DC64as_cc_v5
+- Update: azure/Standard_DC8ads_cc_v5
+- Update: azure/Standard_DC8as_cc_v5
+- Update: azure/Standard_DC8ds_v3
+- Update: azure/Standard_DC8s_v3
+- Update: azure/Standard_DC96ads_cc_v5
+- Update: azure/Standard_DC96as_cc_v5
+- Update: azure/Standard_EC16ads_cc_v5
+- Update: azure/Standard_EC16as_cc_v5
+- Update: azure/Standard_EC20ads_cc_v5
+- Update: azure/Standard_EC20as_cc_v5
+- Update: azure/Standard_EC32ads_cc_v5
+- Update: azure/Standard_EC32as_cc_v5
+- Update: azure/Standard_EC48ads_cc_v5
+- Update: azure/Standard_EC48as_cc_v5
+- Update: azure/Standard_EC4ads_cc_v5
+- Update: azure/Standard_EC4as_cc_v5
+- Update: azure/Standard_EC64ads_cc_v5
+- Update: azure/Standard_EC64as_cc_v5
+- Update: azure/Standard_EC8ads_cc_v5
+- Update: azure/Standard_EC8as_cc_v5
+- Update: azure/Standard_EC96ads_cc_v5
+- Update: azure/Standard_EC96as_cc_v5
+- Update: vultr/vcg-a16-12c-128g-32vram
+
 ## v0.9.2+20260911112722 (Sep 11, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
