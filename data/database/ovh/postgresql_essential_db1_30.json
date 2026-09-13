@@ -4,8 +4,8 @@
   "name": "postgresql-essential-db1-30",
   "api_reference": "postgresql-essential-db1-30",
   "api_reference_object": {
-    "plan": "essential",
     "engine": "postgresql",
+    "plan": "essential",
     "flavor": "db1-30"
   },
   "display_name": "Essential db1-30",
