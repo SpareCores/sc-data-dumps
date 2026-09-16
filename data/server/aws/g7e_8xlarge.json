@@ -159,7 +159,7 @@
   "gpu_memory_min": 98304,
   "gpu_memory_total": 98304,
   "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Blackwell",
+  "gpu_family": "Ada Lovelace",
   "gpu_model": "RTX Pro 6000",
   "gpus": [
     {

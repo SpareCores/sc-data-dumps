@@ -118,7 +118,7 @@
   "gpu_count": 0.25,
   "gpu_memory_min": 4096,
   "gpu_memory_total": 4096,
-  "gpu_manufacturer": null,
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": null,
   "gpu_model": "T4",
   "gpus": [],

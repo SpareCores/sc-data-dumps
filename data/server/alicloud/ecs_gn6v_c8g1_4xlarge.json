@@ -36,7 +36,7 @@
   "gpu_count": 2.0,
   "gpu_memory_min": 16384,
   "gpu_memory_total": 32768,
-  "gpu_manufacturer": null,
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": null,
   "gpu_model": "V100",
   "gpus": [],

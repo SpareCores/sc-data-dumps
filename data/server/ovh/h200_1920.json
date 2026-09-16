@@ -36,7 +36,7 @@
   "gpu_count": 8.0,
   "gpu_memory_min": 144384,
   "gpu_memory_total": 1155072,
-  "gpu_manufacturer": null,
+  "gpu_manufacturer": "NVIDIA",
   "gpu_family": "Hopper",
   "gpu_model": "H200",
   "gpus": [],
