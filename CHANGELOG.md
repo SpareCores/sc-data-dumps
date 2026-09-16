@@ -1,3 +1,25 @@
+## v0.9.2+20260916103022 (Sep 16, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35075792455
+
+
+### server
+
+- Update: hcloud/116
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmhfc6.20xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.i5ge.24xlarge
+- Update: alicloud/ecs.i5ge.48xlarge
+- Update: alicloud/ecs.se1.14xlarge
+
+### database
+
+- New: ovh/postgresql-discovery-b3-4
+
 ## v0.9.2+20260916072024 (Sep 16, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
