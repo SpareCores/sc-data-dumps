@@ -1,3 +1,24 @@
+## v0.9.2+20260917173117 (Sep 17, 2026)
+
+This is an automated release with 9 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35242594366
+
+
+### region
+
+- Update: ovh/GRA9
+
+### server
+
+- New: aws/t8i.medium
+- New: aws/t8i.nano
+- New: aws/t8i.micro
+- New: aws/t8i.small
+- Update: alicloud/ecs.poc-test.t88
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+
 ## v0.9.2+20260917141449 (Sep 17, 2026)
 
 This is an automated release with 25 new/updated/deleted resources.
