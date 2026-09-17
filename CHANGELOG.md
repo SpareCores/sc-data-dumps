@@ -1,3 +1,43 @@
+## v0.9.2+20260917141449 (Sep 17, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35221276392
+
+
+### region
+
+- Update: ovh/GRA9
+- Update: alicloud/sa-east-1
+
+### zone
+
+- Update: alicloud/sa-east-1/sa-east-1a
+- Update: alicloud/sa-east-1/sa-east-1b
+
+### server
+
+- New: alicloud/ecs.poc-test.t88
+- Update: hcloud/114
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.gn9gc-8x.64xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+
 ## v0.9.2+20260917104951 (Sep 17, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.

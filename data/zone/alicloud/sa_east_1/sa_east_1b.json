@@ -2,8 +2,8 @@
   "vendor_id": "alicloud",
   "region_id": "sa-east-1",
   "zone_id": "sa-east-1b",
-  "name": "Sau Paulo Zone B",
+  "name": "S\u00e3o Paulo Zone B",
   "api_reference": "sa-east-1b",
-  "display_name": "Sau Paulo Zone B",
+  "display_name": "S\u00e3o Paulo Zone B",
   "status": "ACTIVE"
 }
