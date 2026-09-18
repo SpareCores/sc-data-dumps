@@ -1,3 +1,22 @@
+## v0.9.2+20260918211731 (Sep 18, 2026)
+
+This is an automated release with 10 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35386795483
+
+
+### server
+
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.i5ge.24xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: aws/t8i.micro
+- Update: aws/t8i.small
+
 ## v0.9.2+20260918181619 (Sep 18, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.
