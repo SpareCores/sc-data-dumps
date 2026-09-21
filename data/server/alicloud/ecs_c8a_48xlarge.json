@@ -9,7 +9,7 @@
   "vcpus": 192,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 192,
+  "cpu_cores": null,
   "cpu_speed": 2.7,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "AMD",
@@ -51,5 +51,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

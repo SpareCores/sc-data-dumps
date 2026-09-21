@@ -9,7 +9,7 @@
   "vcpus": 192,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 192,
+  "cpu_cores": null,
   "cpu_speed": 2.8,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",

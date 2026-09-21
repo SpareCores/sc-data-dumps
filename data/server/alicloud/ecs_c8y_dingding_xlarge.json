@@ -9,7 +9,7 @@
   "vcpus": 4,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 4,
+  "cpu_cores": null,
   "cpu_speed": 2.75,
   "cpu_architecture": "ARM64",
   "cpu_manufacturer": "Alibaba",

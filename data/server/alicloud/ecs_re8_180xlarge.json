@@ -9,7 +9,7 @@
   "vcpus": 720,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
-  "cpu_cores": 720,
+  "cpu_cores": null,
   "cpu_speed": 1.9,
   "cpu_architecture": "X86_64",
   "cpu_manufacturer": "Intel",
