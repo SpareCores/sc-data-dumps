@@ -9,7 +9,7 @@
     "alibabacloud-bssopenapi20171214==5.1.1",
     "alibabacloud-credentials==1.0.12",
     "alibabacloud-credentials-api==1.0.1",
-    "alibabacloud-ecs20140526==7.11.5",
+    "alibabacloud-ecs20140526==7.11.6",
     "alibabacloud-gateway-spi==0.0.4",
     "alibabacloud-rds20140815==15.9.1",
     "alibabacloud-tea==0.4.3",
@@ -95,7 +95,7 @@
     "pathspec==1.1.1",
     "pillow==12.3.0",
     "pip==26.2.1",
-    "platformdirs==4.11.11",
+    "platformdirs==4.11.12",
     "pluggy==1.6.0",
     "portalocker==4.4.0",
     "propcache==0.5.4",
@@ -122,13 +122,13 @@
     "requests-oauthlib==2.0.0",
     "rich==15.0.0",
     "s3transfer==0.19.2",
-    "sentry-sdk==2.69.2",
+    "sentry-sdk==2.70.0",
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@0cf7e4b32cc51c80e75780db7684acb8b33c6400",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@9805ac73817f3672a1c53c8eb73e77f919f64e3b",
     "sqlalchemy==2.0.54",
-    "sqlmodel==0.0.45",
+    "sqlmodel==0.0.44",
     "tinycss2==1.5.1",
     "typer==0.27.2",
     "typing-extensions==4.16.0",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.2",
-    "NEWVERSION": "v0.9.2+20260922015033",
-    "NEWVERSIONDATE": "v0.9.2+20260922015033 (Sep 22, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 0 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35673433325",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/35673433325"
+    "NEWVERSION": "v0.9.2+20260922144142",
+    "NEWVERSIONDATE": "v0.9.2+20260922144142 (Sep 22, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 2021 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/35730393633",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/35730393633"
   },
-  "timestamp": "2026-09-22T01:50:33Z"
+  "timestamp": "2026-09-22T14:41:42Z"
 }

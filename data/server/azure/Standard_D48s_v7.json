@@ -145,7 +145,7 @@
   ],
   "cpus": [],
   "ecpus": 22.8,
-  "scalability": 95.0,
+  "scalability": 47.5,
   "hw_virt": 1,
   "memory_amount": 196608,
   "memory_amount_actual": 196608,

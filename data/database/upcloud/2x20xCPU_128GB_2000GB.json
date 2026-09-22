@@ -4,8 +4,8 @@
   "name": "2x20xCPU-128GB-2000GB",
   "api_reference": "2x20xCPU-128GB-2000GB",
   "api_reference_object": {
-    "service_plan": "2x20xCPU-128GB-2000GB",
-    "service_type": "pg"
+    "service_type": "pg",
+    "service_plan": "2x20xCPU-128GB-2000GB"
   },
   "display_name": "20CPU-128GB",
   "description": "UpCloud PostgreSQL 2-node HA (20 vCPUs, 128 GiB RAM, 1074 GB storage)",
