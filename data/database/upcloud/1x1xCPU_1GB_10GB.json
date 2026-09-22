@@ -4,8 +4,8 @@
   "name": "1x1xCPU-1GB-10GB",
   "api_reference": "1x1xCPU-1GB-10GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "service_plan": "1x1xCPU-1GB-10GB"
+    "service_plan": "1x1xCPU-1GB-10GB",
+    "service_type": "pg"
   },
   "display_name": "1CPU-1GB",
   "description": "UpCloud PostgreSQL Single node (1 vCPUs, 1 GiB RAM, 11 GB storage)",
