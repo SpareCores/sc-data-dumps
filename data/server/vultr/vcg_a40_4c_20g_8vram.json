@@ -94,7 +94,7 @@
   ],
   "cpus": [],
   "ecpus": 4.0,
-  "scalability": 200.0,
+  "scalability": 100.0,
   "hw_virt": 0,
   "memory_amount": 20480,
   "memory_amount_actual": 20480,
@@ -119,5 +119,5 @@
   "outbound_traffic": 5120.0,
   "ipv4": 1,
   "average_time_to_start": 77.67,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
