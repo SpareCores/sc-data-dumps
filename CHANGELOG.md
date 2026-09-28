@@ -1,3 +1,39 @@
+## v0.9.2+20260928145842 (Sep 28, 2026)
+
+This is an automated release with 21 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36426452418
+
+
+### storage
+
+- Update: aws/sc1
+- Update: aws/st1
+- Update: aws/standard
+
+### server
+
+- Update: hcloud/116
+- Update: hcloud/117
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+
+### benchmark
+
+- New: nvbandwidth:all:host_to_gpu
+- New: nvbandwidth:all:gpu_to_host
+- New: nvbandwidth:all:duplex
+- New: nvbandwidth:slot:host_to_gpu
+- New: nvbandwidth:slot:gpu_to_host
+- New: nvbandwidth:slot:latency
+- New: nvbandwidth:p2p:single
+- New: nvbandwidth:p2p:duplex
+- New: nvbandwidth:p2p:latency
+- New: nvbandwidth:p2p:gather
+- New: nvbandwidth:efficiency:sm_ce_ratio
+
 ## v0.9.2+20260928125648 (Sep 28, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.

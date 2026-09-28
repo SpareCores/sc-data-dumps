@@ -4,7 +4,7 @@
   "name": "Cold HDD",
   "description": "HDD-backed",
   "storage_type": "HDD",
-  "max_iops": 1,
+  "max_iops": 250,
   "max_throughput": 262,
   "min_size": 134,
   "max_size": 17592,

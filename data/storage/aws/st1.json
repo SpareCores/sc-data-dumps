@@ -4,7 +4,7 @@
   "name": "Throughput Optimized HDD",
   "description": "HDD-backed",
   "storage_type": "HDD",
-  "max_iops": 1,
+  "max_iops": 500,
   "max_throughput": 524,
   "min_size": 134,
   "max_size": 17592,
