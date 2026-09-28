@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:slot:latency",
+  "category": "GPU latency",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "Per-GPU host-device latency (nvbandwidth)",
+  "description": "Average round-trip transit time (ns) between CPU and individual GPUs utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_latency",
+  "unit": "ns",
+  "higher_is_better": 0,
+  "status": "ACTIVE"
+}

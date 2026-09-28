@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:all:duplex",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "Node baseline directional bandwidth (nvbandwidth)",
+  "description": "Conservative per-direction bandwidth (GB/s) under simultaneous bi-directional saturation utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

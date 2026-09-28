@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:p2p:gather",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "GPU-to-GPU P2P gather bandwidth (nvbandwidth)",
+  "description": "Intake bandwidth (GB/s) on a single target GPU when all peer GPUs send to it at once utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

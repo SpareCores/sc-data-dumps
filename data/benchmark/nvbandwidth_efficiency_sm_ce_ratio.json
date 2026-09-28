@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:efficiency:sm_ce_ratio",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "SM/CE copy efficiency (nvbandwidth)",
+  "description": "Ratio (between 0.0 and 1.0) showing compute-core copy efficiency vs. raw DMA Copy Engine capacity, or in other terms, the ratio between CE (Copy Engine) and Streaming Multiprocessor (SM).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_efficiency",
+  "unit": "ratio",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

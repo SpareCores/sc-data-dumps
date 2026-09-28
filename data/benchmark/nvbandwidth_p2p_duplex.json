@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:p2p:duplex",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "GPU-to-GPU P2P duplex bandwidth (nvbandwidth)",
+  "description": "Full-duplex NVLink/P2P lane speed (GB/s) during simultaneous dual-GPU transfers utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

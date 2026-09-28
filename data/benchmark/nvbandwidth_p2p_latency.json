@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:p2p:latency",
+  "category": "GPU latency",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "GPU-to-GPU P2P latency (nvbandwidth)",
+  "description": "Direct transit latency (ns) between GPU pairs over NVLink/P2P utilizing SM (Streaming Multiprocessor).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_latency",
+  "unit": "ns",
+  "higher_is_better": 0,
+  "status": "ACTIVE"
+}

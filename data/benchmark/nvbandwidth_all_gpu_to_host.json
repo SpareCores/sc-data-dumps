@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:all:gpu_to_host",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "Node GPU-to-host bandwidth (nvbandwidth)",
+  "description": "Total node egress rate (GB/s) when ALL GPUs stream to CPU concurrently utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

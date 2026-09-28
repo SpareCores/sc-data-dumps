@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:p2p:single",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "GPU-to-GPU P2P bandwidth (nvbandwidth)",
+  "description": "Single NVLink/P2P lane write speed (GB/s) between any two GPUs utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

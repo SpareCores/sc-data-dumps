@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "nvbandwidth:slot:host_to_gpu",
+  "category": "GPU bandwidth",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "Per-GPU host-to-GPU bandwidth (nvbandwidth)",
+  "description": "Average physical PCIe slot ingest speed (GB/s) per single GPU utilizing CE (Copy Engine).",
+  "note": null,
+  "framework": "nvbandwidth",
+  "config_fields": {},
+  "measurement": "gpu_bandwidth",
+  "unit": "GB/s",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}
