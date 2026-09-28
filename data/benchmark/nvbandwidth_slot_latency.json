@@ -5,7 +5,7 @@
     "kind": "measured"
   },
   "name": "Per-GPU host-device latency (nvbandwidth)",
-  "description": "Average round-trip transit time (ns) between CPU and individual GPUs utilizing CE (Copy Engine).",
+  "description": "Average round-trip transit time (ns) between CPU and individual GPUs utilizing SM (Streaming Multiprocessor).",
   "note": null,
   "framework": "nvbandwidth",
   "config_fields": {},
