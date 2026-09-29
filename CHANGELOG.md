@@ -1,3 +1,42 @@
+## v0.9.2+20260929043020 (Sep 29, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36513323810
+
+
+### server
+
+- New: azure/Standard_L128aos_v5
+- New: azure/Standard_L128as_v5
+- New: azure/Standard_L12aos_v5
+- New: azure/Standard_L160iaos_v5
+- New: azure/Standard_L160ias_v5
+- New: azure/Standard_L16aos_v5
+- New: azure/Standard_L16as_v5
+- New: azure/Standard_L24aos_v5
+- New: azure/Standard_L2aos_v5
+- New: azure/Standard_L2as_v5
+- New: azure/Standard_L32aos_v5
+- New: azure/Standard_L32as_v5
+- New: azure/Standard_L48aos_v5
+- New: azure/Standard_L48as_v5
+- New: azure/Standard_L4aos_v5
+- New: azure/Standard_L4as_v5
+- New: azure/Standard_L64aos_v5
+- New: azure/Standard_L64as_v5
+- New: azure/Standard_L80as_v5
+- New: azure/Standard_L8aos_v5
+- New: azure/Standard_L8as_v5
+- New: azure/Standard_L96aos_v5
+- New: azure/Standard_L96as_v5
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: vultr/vbm-112c-2048gb-8-a100-gpu
+
 ## v0.9.2+20260929011206 (Sep 29, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.
