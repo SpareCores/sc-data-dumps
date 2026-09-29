@@ -8,7 +8,7 @@
   },
   "display_name": "EC20ads_v6",
   "description": "PostgreSQL MemoryOptimized (20 vCPUs, 160 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "ECadsv6",
   "server_id": null,
   "vcpus": 20,
   "memory_amount": 163840,

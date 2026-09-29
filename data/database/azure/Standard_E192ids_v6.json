@@ -8,7 +8,7 @@
   },
   "display_name": "E192ids_v6",
   "description": "PostgreSQL MemoryOptimized (192 vCPUs, 1832 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv6",
   "server_id": "Standard_E192ids_v6",
   "vcpus": 192,
   "memory_amount": 1876032,

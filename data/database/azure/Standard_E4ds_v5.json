@@ -8,7 +8,7 @@
   },
   "display_name": "E4ds_v5",
   "description": "PostgreSQL MemoryOptimized (4 vCPUs, 32 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv5",
   "server_id": "Standard_E4ds_v5",
   "vcpus": 4,
   "memory_amount": 32768,

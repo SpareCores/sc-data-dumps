@@ -8,7 +8,7 @@
   },
   "display_name": "E4ads_v6",
   "description": "PostgreSQL MemoryOptimized (4 vCPUs, 32 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Eadsv6",
   "server_id": "Standard_E4ads_v6",
   "vcpus": 4,
   "memory_amount": 32768,

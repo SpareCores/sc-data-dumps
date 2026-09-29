@@ -8,7 +8,7 @@
   },
   "display_name": "D48ads_v5",
   "description": "PostgreSQL GeneralPurpose (48 vCPUs, 192 GB RAM)",
-  "family": "GeneralPurpose",
+  "family": "Dadsv5",
   "server_id": "Standard_D48ads_v5",
   "vcpus": 48,
   "memory_amount": 196608,

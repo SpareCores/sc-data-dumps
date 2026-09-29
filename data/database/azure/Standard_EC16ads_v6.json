@@ -8,7 +8,7 @@
   },
   "display_name": "EC16ads_v6",
   "description": "PostgreSQL MemoryOptimized (16 vCPUs, 128 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "ECadsv6",
   "server_id": "Standard_EC16ads_v6",
   "vcpus": 16,
   "memory_amount": 131072,

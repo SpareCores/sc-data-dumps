@@ -8,7 +8,7 @@
   },
   "display_name": "E2ds_v4",
   "description": "PostgreSQL MemoryOptimized (2 vCPUs, 16 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv4",
   "server_id": "Standard_E2ds_v4",
   "vcpus": 2,
   "memory_amount": 16384,

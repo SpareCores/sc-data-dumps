@@ -8,7 +8,7 @@
   },
   "display_name": "E8ds_v6",
   "description": "PostgreSQL MemoryOptimized (8 vCPUs, 64 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv6",
   "server_id": "Standard_E8ds_v6",
   "vcpus": 8,
   "memory_amount": 65536,

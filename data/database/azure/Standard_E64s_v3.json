@@ -8,7 +8,7 @@
   },
   "display_name": "E64s_v3",
   "description": "PostgreSQL MemoryOptimized (64 vCPUs, 432 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Esv3",
   "server_id": "Standard_E64s_v3",
   "vcpus": 64,
   "memory_amount": 442368,

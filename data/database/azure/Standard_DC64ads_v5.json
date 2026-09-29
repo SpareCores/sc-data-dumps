@@ -8,7 +8,7 @@
   },
   "display_name": "DC64ads_v5",
   "description": "PostgreSQL GeneralPurpose (64 vCPUs, 256 GB RAM)",
-  "family": "GeneralPurpose",
+  "family": "DCadsv5",
   "server_id": "Standard_DC64ads_v5",
   "vcpus": 64,
   "memory_amount": 262144,

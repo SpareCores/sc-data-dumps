@@ -8,7 +8,7 @@
   },
   "display_name": "B8ms",
   "description": "PostgreSQL Burstable (8 vCPUs, 32 GB RAM)",
-  "family": "Burstable",
+  "family": "Bs",
   "server_id": "Standard_B8ms",
   "vcpus": 8,
   "memory_amount": 32768,

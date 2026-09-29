@@ -8,7 +8,7 @@
   },
   "display_name": "B4ms",
   "description": "PostgreSQL Burstable (4 vCPUs, 16 GB RAM)",
-  "family": "Burstable",
+  "family": "Bs",
   "server_id": "Standard_B4ms",
   "vcpus": 4,
   "memory_amount": 16384,

@@ -8,7 +8,7 @@
   },
   "display_name": "D96ads_v6",
   "description": "PostgreSQL GeneralPurpose (96 vCPUs, 384 GB RAM)",
-  "family": "GeneralPurpose",
+  "family": "Dadsv6",
   "server_id": "Standard_D96ads_v6",
   "vcpus": 96,
   "memory_amount": 393216,

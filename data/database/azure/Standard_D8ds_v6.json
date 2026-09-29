@@ -8,7 +8,7 @@
   },
   "display_name": "D8ds_v6",
   "description": "PostgreSQL GeneralPurpose (8 vCPUs, 32 GB RAM)",
-  "family": "GeneralPurpose",
+  "family": "Ddsv6",
   "server_id": "Standard_D8ds_v6",
   "vcpus": 8,
   "memory_amount": 32768,

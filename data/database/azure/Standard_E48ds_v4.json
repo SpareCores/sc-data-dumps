@@ -8,7 +8,7 @@
   },
   "display_name": "E48ds_v4",
   "description": "PostgreSQL MemoryOptimized (48 vCPUs, 384 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv4",
   "server_id": "Standard_E48ds_v4",
   "vcpus": 48,
   "memory_amount": 393216,

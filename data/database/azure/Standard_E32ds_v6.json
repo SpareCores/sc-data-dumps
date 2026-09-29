@@ -8,7 +8,7 @@
   },
   "display_name": "E32ds_v6",
   "description": "PostgreSQL MemoryOptimized (32 vCPUs, 256 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv6",
   "server_id": "Standard_E32ds_v6",
   "vcpus": 32,
   "memory_amount": 262144,

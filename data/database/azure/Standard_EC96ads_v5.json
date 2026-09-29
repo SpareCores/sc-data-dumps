@@ -8,7 +8,7 @@
   },
   "display_name": "EC96ads_v5",
   "description": "PostgreSQL MemoryOptimized (96 vCPUs, 768 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "ECadsv5",
   "server_id": "Standard_EC96ads_v5",
   "vcpus": 96,
   "memory_amount": 786432,

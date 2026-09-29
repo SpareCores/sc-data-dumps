@@ -8,7 +8,7 @@
   },
   "display_name": "B12ms",
   "description": "PostgreSQL Burstable (12 vCPUs, 48 GB RAM)",
-  "family": "Burstable",
+  "family": "Bs",
   "server_id": "Standard_B12ms",
   "vcpus": 12,
   "memory_amount": 49152,

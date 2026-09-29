@@ -8,7 +8,7 @@
   },
   "display_name": "E20ds_v5",
   "description": "PostgreSQL MemoryOptimized (20 vCPUs, 160 GB RAM)",
-  "family": "MemoryOptimized",
+  "family": "Edsv5",
   "server_id": "Standard_E20ds_v5",
   "vcpus": 20,
   "memory_amount": 163840,
