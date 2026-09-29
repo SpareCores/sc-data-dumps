@@ -1,3 +1,64 @@
+## v0.9.2+20260929174211 (Sep 29, 2026)
+
+This is an automated release with 52 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36592968741
+
+
+### server
+
+- Update: hcloud/100
+- Update: hcloud/101
+- Update: hcloud/111
+- Update: hcloud/113
+- Update: hcloud/117
+- Update: hcloud/45
+- Update: hcloud/93
+- Update: hcloud/94
+- Update: hcloud/99
+- Update: ovh/c3-256
+- Update: aws/c8i.32xlarge
+- Update: aws/c9g.2xlarge
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/CLOUDNATIVE-20xCPU-96GB
+- Update: upcloud/CLOUDNATIVE-2xCPU-8GB
+- Update: alicloud/ecs.c8a.32xlarge
+- Update: alicloud/ecs.ebmgn9t.48xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: aws/m6g.8xlarge
+- Update: aws/m6g.xlarge
+- Update: aws/m6i.large
+- Update: aws/m7g.metal
+- Update: aws/m7i.xlarge
+- Update: upcloud/PREMIUM-64xCPU-128GB
+- Update: upcloud/PREMIUM-64xCPU-384GB
+- Update: upcloud/PREMIUM-8xCPU-64GB
+- Update: ovh/r2-240
+- Update: ovh/r2-60
+- Update: ovh/r3-16
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: ovh/t2-le-180
+- Update: aws/t3.2xlarge
+- Update: vultr/vcg-a16-12c-128g-32vram
+- Update: vultr/vhp-1c-2gb-intel
+- Update: vultr/vhp-2c-4gb-amd
+- Update: vultr/vhp-2c-4gb-intel
+- Update: vultr/vhp-4c-8gb-intel
+- Update: vultr/voc-c-16c-32gb-500s-amd
+- Update: vultr/voc-c-4c-8gb-75s-amd
+- Update: vultr/vx1-m-2c-16g-120s
+
 ## v0.9.2+20260929142627 (Sep 29, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.

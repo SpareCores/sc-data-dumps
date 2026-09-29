@@ -39,8 +39,7 @@
     "asimdrdm",
     "lrcpc",
     "dcpop",
-    "asimddp",
-    "ssbs"
+    "asimddp"
   ],
   "cpus": [],
   "ecpus": 32.0,

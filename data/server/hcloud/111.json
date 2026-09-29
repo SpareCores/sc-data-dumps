@@ -136,8 +136,8 @@
     "fsrm"
   ],
   "cpus": [],
-  "ecpus": 8.0,
-  "scalability": 100.0,
+  "ecpus": 7.9,
+  "scalability": 98.75,
   "hw_virt": 0,
   "memory_amount": 16000,
   "memory_amount_actual": 16000,
@@ -161,6 +161,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
-  "average_time_to_start": 20.5,
+  "average_time_to_start": 22.67,
   "status": "ACTIVE"
 }

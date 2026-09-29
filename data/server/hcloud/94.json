@@ -43,8 +43,8 @@
     "ssbs"
   ],
   "cpus": [],
-  "ecpus": 8.3,
-  "scalability": 103.75,
+  "ecpus": 8.0,
+  "scalability": 100.0,
   "hw_virt": 0,
   "memory_amount": 16000,
   "memory_amount_actual": 16000,
@@ -68,6 +68,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
-  "average_time_to_start": 18.33,
+  "average_time_to_start": 27.25,
   "status": "ACTIVE"
 }

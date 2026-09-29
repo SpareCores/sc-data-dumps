@@ -64,7 +64,6 @@
     "ssse3",
     "fma",
     "cx16",
-    "pcid",
     "sse4_1",
     "sse4_2",
     "x2apic",
@@ -99,7 +98,6 @@
     "smep",
     "bmi2",
     "erms",
-    "invpcid",
     "avx512f",
     "avx512dq",
     "adx",
@@ -147,6 +145,8 @@
     "rdpid",
     "movdiri",
     "movdir64b",
+    "overflow_recov",
+    "succor",
     "fsrm",
     "avx512_vp2intersect",
     "srso_user_kernel_no"
@@ -177,6 +177,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 5120.0,
   "ipv4": 1,
-  "average_time_to_start": 98.67,
+  "average_time_to_start": 90.71,
   "status": "ACTIVE"
 }
