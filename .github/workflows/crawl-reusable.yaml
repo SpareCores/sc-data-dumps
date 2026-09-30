@@ -143,6 +143,7 @@ jobs:
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           CDN_BUCKET: ${{ vars.CDN_BUCKET }}
+          CLOUDFRONT_DISTRIBUTION_ID: ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}
         run: |
           VERSION=$(python -c "import sc_crawler; v=sc_crawler.__version_info__; print(f'{v[0]}.{v[1]}')")
           echo "Crawler version (major.minor) for CDN paths: $VERSION"
@@ -151,6 +152,7 @@ jobs:
           echo "Last known hash in S3: $RHASH"
           LHASH=$(sc-crawler hash --connection-string sqlite:///$FILE)
           echo "Currently pulled database's hash: $LHASH"
+          INVALIDATION_PATHS=()
           if [ "$LHASH" != "$RHASH" ]; then
             echo "VACUUMing $FILE..."
             sqlite3 $FILE "VACUUM;"
@@ -161,6 +163,10 @@ jobs:
             echo "Uploading dump to CDN bucket (versioned and latest)..."
             aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-all.sql.xz" --metadata="hash=$LHASH"
             aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-all.sql.xz" --metadata="hash=$LHASH"
+            INVALIDATION_PATHS+=(
+              "/sc-data/$VERSION/sc-data-all.sql.xz"
+              "/sc-data/latest/sc-data-all.sql.xz"
+            )
           fi
 
           FILE="sc-data-priceless.db"
@@ -205,6 +211,21 @@ jobs:
           echo "Uploading priceless SQL dump to CDN bucket (versioned and latest)..."
           aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
           aws s3 cp sc-data-priceless.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-priceless.sql.xz" --metadata="hash=$PRICELESS_HASH"
+          INVALIDATION_PATHS+=(
+            "/sc-data/$VERSION/sc-data-priceless.sql.xz"
+            "/sc-data/latest/sc-data-priceless.sql.xz"
+          )
+
+          if [ "${#INVALIDATION_PATHS[@]}" -gt 0 ]; then
+            if [ -z "$CLOUDFRONT_DISTRIBUTION_ID" ]; then
+              echo "CLOUDFRONT_DISTRIBUTION_ID is not set; skipping CDN invalidation"
+            else
+              echo "Invalidating CloudFront paths: ${INVALIDATION_PATHS[*]}"
+              aws cloudfront create-invalidation \
+                --distribution-id "$CLOUDFRONT_DISTRIBUTION_ID" \
+                --paths "${INVALIDATION_PATHS[@]}"
+            fi
+          fi
 
           echo "Checking for priceless database changes..."
           HAS_CHANGES=false
