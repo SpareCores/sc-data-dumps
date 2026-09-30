@@ -1,3 +1,50 @@
+## v0.9.2+20260930001228 (Sep 30, 2026)
+
+This is an automated release with 38 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36639747197
+
+
+### server
+
+- Update: hcloud/115
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: aws/m7g.metal
+- Update: azure/Standard_DC16eds_v5
+- Update: azure/Standard_DC16es_v5
+- Update: azure/Standard_DC2eds_v5
+- Update: azure/Standard_DC2es_v5
+- Update: azure/Standard_DC32eds_v5
+- Update: azure/Standard_DC32es_v5
+- Update: azure/Standard_DC48eds_v5
+- Update: azure/Standard_DC48es_v5
+- Update: azure/Standard_DC4eds_v5
+- Update: azure/Standard_DC4es_v5
+- Update: azure/Standard_DC64eds_v5
+- Update: azure/Standard_DC64es_v5
+- Update: azure/Standard_DC8eds_v5
+- Update: azure/Standard_DC8es_v5
+- Update: azure/Standard_DC96eds_v5
+- Update: azure/Standard_DC96es_v5
+- Update: azure/Standard_EC128eds_v5
+- Update: azure/Standard_EC128es_v5
+- Update: azure/Standard_EC128ieds_v5
+- Update: azure/Standard_EC128ies_v5
+- Update: azure/Standard_EC16eds_v5
+- Update: azure/Standard_EC16es_v5
+- Update: azure/Standard_EC2eds_v5
+- Update: azure/Standard_EC2es_v5
+- Update: azure/Standard_EC32eds_v5
+- Update: azure/Standard_EC32es_v5
+- Update: azure/Standard_EC48eds_v5
+- Update: azure/Standard_EC48es_v5
+- Update: azure/Standard_EC4eds_v5
+- Update: azure/Standard_EC4es_v5
+- Update: azure/Standard_EC64eds_v5
+- Update: azure/Standard_EC64es_v5
+- Update: azure/Standard_EC8eds_v5
+- Update: azure/Standard_EC8es_v5
+- Update: vultr/vcg-a16-12c-128g-32vram
+
 ## v0.9.2+20260929205500 (Sep 29, 2026)
 
 This is an automated release with 236 new/updated/deleted resources.

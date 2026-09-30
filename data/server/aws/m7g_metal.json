@@ -63,8 +63,8 @@
     "rng"
   ],
   "cpus": [],
-  "ecpus": 63.8,
-  "scalability": 99.69,
+  "ecpus": 63.9,
+  "scalability": 99.84,
   "hw_virt": 1,
   "memory_amount": 262144,
   "memory_amount_actual": 262144,
