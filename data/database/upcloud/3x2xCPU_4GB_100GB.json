@@ -4,8 +4,8 @@
   "name": "3x2xCPU-4GB-100GB",
   "api_reference": "3x2xCPU-4GB-100GB",
   "api_reference_object": {
-    "service_plan": "3x2xCPU-4GB-100GB",
-    "service_type": "pg"
+    "service_type": "pg",
+    "service_plan": "3x2xCPU-4GB-100GB"
   },
   "display_name": "2CPU-4GB",
   "description": "UpCloud PostgreSQL 3-node HA (2 vCPUs, 4 GiB RAM, 35 GB storage)",

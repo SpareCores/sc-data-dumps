@@ -1,3 +1,48 @@
+## v0.9.2+20260930033812 (Sep 30, 2026)
+
+This is an automated release with 33 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36656848431
+
+
+### server
+
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: aws/m6g.8xlarge
+- Update: aws/m7i.xlarge
+- Update: azure/Standard_NV12s_v3
+- Update: azure/Standard_NV16as_v4
+- Update: azure/Standard_NV24s_v3
+- Update: azure/Standard_NV32as_v4
+- Update: azure/Standard_NV48s_v3
+- Update: azure/Standard_NV4as_v4
+- Update: azure/Standard_NV8as_v4
+
+### database
+
+- New: aws/db.r8a.2xlarge
+- New: aws/db.m8a.24xlarge
+- New: aws/db.m8a.12xlarge
+- New: aws/db.r8a.24xlarge
+- New: aws/db.m8a.xlarge
+- New: aws/db.m8a.large
+- New: aws/db.m8a.8xlarge
+- New: aws/db.m8a.16xlarge
+- New: aws/db.r8a.xlarge
+- New: aws/db.m8a.48xlarge
+- New: aws/db.r8a.4xlarge
+- New: aws/db.r8a.16xlarge
+- New: aws/db.r8a.12xlarge
+- New: aws/db.r8a.8xlarge
+- New: aws/db.m8a.2xlarge
+- New: aws/db.r8a.large
+- New: aws/db.m8a.4xlarge
+- New: aws/db.r8a.48xlarge
+
 ## v0.9.2+20260930001228 (Sep 30, 2026)
 
 This is an automated release with 38 new/updated/deleted resources.
