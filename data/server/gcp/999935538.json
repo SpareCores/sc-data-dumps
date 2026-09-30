@@ -40,9 +40,15 @@
   "gpu_family": null,
   "gpu_model": null,
   "gpus": [],
-  "storage_size": 0,
+  "storage_size": 1611,
   "storage_type": "NVME_SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 1611,
+      "storage_type": "nvme ssd",
+      "description": null
+    }
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

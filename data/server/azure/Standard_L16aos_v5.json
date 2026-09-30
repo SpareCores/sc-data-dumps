@@ -41,13 +41,8 @@
   "gpu_model": null,
   "gpus": [],
   "storage_size": 11519,
-  "storage_type": null,
+  "storage_type": "NVME_SSD",
   "storages": [
-    {
-      "size": 0,
-      "storage_type": "ssd",
-      "description": "temp disk"
-    },
     {
       "size": 11519,
       "storage_type": "nvme ssd",

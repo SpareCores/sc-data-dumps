@@ -1,0 +1,12 @@
+{
+  "vendor_id": "gcp",
+  "storage_id": "30013",
+  "name": "hyperdisk-throughput",
+  "description": "Hyperdisk Throughput Persistent Disk",
+  "storage_type": "SSD",
+  "max_iops": 9600,
+  "max_throughput": 2400,
+  "min_size": 2048,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}

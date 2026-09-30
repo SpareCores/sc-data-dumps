@@ -41,7 +41,7 @@
   "gpu_model": "V620",
   "gpus": [],
   "storage_size": 1222,
-  "storage_type": null,
+  "storage_type": "NVME_SSD",
   "storages": [
     {
       "size": 262,

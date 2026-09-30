@@ -159,7 +159,7 @@
     }
   ],
   "storage_size": 2051,
-  "storage_type": null,
+  "storage_type": "NVME_SSD",
   "storages": [
     {
       "size": 131,

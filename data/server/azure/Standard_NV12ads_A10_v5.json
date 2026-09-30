@@ -41,7 +41,7 @@
   "gpu_model": "A10",
   "gpus": [],
   "storage_size": 369,
-  "storage_type": null,
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 369,

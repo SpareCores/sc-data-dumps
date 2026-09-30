@@ -4,8 +4,8 @@
   "name": "pd-balanced",
   "description": "Balanced Persistent Disk",
   "storage_type": "SSD",
-  "max_iops": null,
-  "max_throughput": null,
+  "max_iops": 80000,
+  "max_throughput": 1200,
   "min_size": 10,
   "max_size": 65536,
   "status": "ACTIVE"

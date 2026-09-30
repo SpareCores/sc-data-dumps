@@ -41,7 +41,7 @@
   "gpu_model": "V100",
   "gpus": [],
   "storage_size": 2970,
-  "storage_type": null,
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 2970,

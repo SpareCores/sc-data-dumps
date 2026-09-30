@@ -3,7 +3,7 @@
   "storage_id": "block",
   "name": "Block storage volume",
   "description": null,
-  "storage_type": "NETWORK",
+  "storage_type": "SSD",
   "max_iops": null,
   "max_throughput": null,
   "min_size": 10,

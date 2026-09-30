@@ -28,8 +28,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0",
     "babel==2.18.0",
     "backrefs==8.0",
-    "boto3==1.43.105",
-    "botocore==1.43.105",
+    "boto3==1.43.106",
+    "botocore==1.43.106",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.1",
@@ -46,7 +46,7 @@
     "ghp-import==2.1.0",
     "google-api-core==2.40.0",
     "google-api-python-client==2.200.0",
-    "google-auth==2.59.0",
+    "google-auth==2.59.1",
     "google-auth-httplib2==0.4.3",
     "google-cloud==0.34.0",
     "google-cloud-billing==1.20.0",
@@ -126,7 +126,7 @@
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
-    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@0ccd83062fcf4c56d44496c1b7acd004cdcf1e05",
+    "sparecores-crawler @ git+https://github.com/SpareCores/sc-crawler@55aec325af33114492129f365fe20dabe79028ba",
     "sqlalchemy==2.0.54",
     "sqlmodel==0.0.44",
     "tinycss2==1.5.1",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.2",
-    "NEWVERSION": "v0.9.2+20260930171416",
-    "NEWVERSIONDATE": "v0.9.2+20260930171416 (Sep 30, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 7 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36734420018",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/36734420018"
+    "NEWVERSION": "v0.9.2+20260930214039",
+    "NEWVERSIONDATE": "v0.9.2+20260930214039 (Sep 30, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1568 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36768193284",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/36768193284"
   },
-  "timestamp": "2026-09-30T17:14:16Z"
+  "timestamp": "2026-09-30T21:40:39Z"
 }
