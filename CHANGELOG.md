@@ -1,3 +1,20 @@
+## v0.9.2+20261001005913 (Oct 01, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36789476770
+
+
+### server
+
+- New: aws/trn2u.48xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: azure/Standard_L160iaos_v5
+- Update: vultr/vcg-a40-6c-30g-12vram
+
 ## v0.9.2+20260930214039 (Sep 30, 2026)
 
 This is an automated release with 1568 new/updated/deleted resources.
