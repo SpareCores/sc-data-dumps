@@ -1,3 +1,20 @@
+## v0.9.2+20261002185918 (Oct 02, 2026)
+
+This is an automated release with 8 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37038657100
+
+
+### server
+
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/CLOUDNATIVE-20xCPU-96GB
+- Update: upcloud/CLOUDNATIVE-2xCPU-8GB
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: upcloud/PREMIUM-8xCPU-64GB
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-16GB
+
 ## v0.9.2+20261002153612 (Oct 02, 2026)
 
 This is an automated release with 6 new/updated/deleted resources.
