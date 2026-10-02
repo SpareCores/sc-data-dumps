@@ -1,3 +1,17 @@
+## v0.9.2+20261002014817 (Oct 02, 2026)
+
+This is an automated release with 2 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/36940971795
+
+
+### database
+
+- Update: azure/Standard_E104ids_v5
+
+### database_storage
+
+- New: azure/UltraDisk
+
 ## v0.9.2+20261001213442 (Oct 01, 2026)
 
 This is an automated release with 5 new/updated/deleted resources.

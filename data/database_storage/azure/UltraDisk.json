@@ -1,0 +1,13 @@
+{
+  "vendor_id": "azure",
+  "database_storage_id": "UltraDisk",
+  "name": "UltraDisk",
+  "description": "Ultra disk managed storage, 34-70369 GB, up to 400000 IOPS, up to 10000 MB/s throughput",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 34,
+  "max_size": 70369,
+  "max_iops": 400000,
+  "max_throughput": 10000,
+  "status": "ACTIVE"
+}
