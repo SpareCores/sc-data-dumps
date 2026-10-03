@@ -1,3 +1,13 @@
+## v0.9.2+20261003182748 (Oct 03, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37138189204
+
+
+### server
+
+- Update: vultr/vbm-8c-128gb-amd
+
 ## v0.9.2+20261003151941 (Oct 03, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
