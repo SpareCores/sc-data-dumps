@@ -3,7 +3,7 @@
   "pip_freeze": [
     "aiofiles==24.1.0",
     "aiohappyeyeballs==2.7.1",
-    "aiohttp==3.14.3",
+    "aiohttp==3.14.4",
     "aiosignal==1.4.0",
     "alembic==1.20.0",
     "alibabacloud-bssopenapi20171214==5.1.1",
@@ -44,9 +44,9 @@
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
-    "google-api-core==2.40.0",
+    "google-api-core==2.41.0",
     "google-api-python-client==2.201.0",
-    "google-auth==2.59.1",
+    "google-auth==2.60.0",
     "google-auth-httplib2==0.4.4",
     "google-cloud==0.34.0",
     "google-cloud-billing==1.21.0",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.3",
-    "NEWVERSION": "v0.9.3+20261005165309",
-    "NEWVERSIONDATE": "v0.9.3+20261005165309 (Oct 05, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37327664686",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37327664686"
+    "NEWVERSION": "v0.9.3+20261005201549",
+    "NEWVERSIONDATE": "v0.9.3+20261005201549 (Oct 05, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 10 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37356177578",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37356177578"
   },
-  "timestamp": "2026-10-05T16:53:09Z"
+  "timestamp": "2026-10-05T20:15:49Z"
 }
