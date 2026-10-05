@@ -4,8 +4,8 @@
   "name": "2x6xCPU-16GB-250GB",
   "api_reference": "2x6xCPU-16GB-250GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "service_plan": "2x6xCPU-16GB-250GB"
+    "service_plan": "2x6xCPU-16GB-250GB",
+    "service_type": "pg"
   },
   "display_name": "6CPU-16GB",
   "description": "UpCloud PostgreSQL 2-node HA (6 vCPUs, 16 GiB RAM, 134 GB storage)",
