@@ -4,8 +4,8 @@
   "name": "2x4xCPU-8GB-50GB",
   "api_reference": "2x4xCPU-8GB-50GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "service_plan": "2x4xCPU-8GB-50GB"
+    "service_plan": "2x4xCPU-8GB-50GB",
+    "service_type": "pg"
   },
   "display_name": "4CPU-8GB",
   "description": "UpCloud PostgreSQL 2-node HA (4 vCPUs, 8 GiB RAM, 27 GB storage)",
