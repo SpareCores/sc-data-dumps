@@ -88,7 +88,7 @@
     "msrest==0.7.1",
     "multidict==6.9.1",
     "oauthlib==4.0.0",
-    "opentelemetry-api==1.45.0",
+    "opentelemetry-api==1.45.1",
     "ovh==1.2.0",
     "packaging==26.3",
     "paginate==0.5.7",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.3",
-    "NEWVERSION": "v0.9.3+20261006192308",
-    "NEWVERSIONDATE": "v0.9.3+20261006192308 (Oct 06, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37503779147",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37503779147"
+    "NEWVERSION": "v0.9.3+20261006221523",
+    "NEWVERSIONDATE": "v0.9.3+20261006221523 (Oct 06, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37529201007",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37529201007"
   },
-  "timestamp": "2026-10-06T19:23:08Z"
+  "timestamp": "2026-10-06T22:15:23Z"
 }
