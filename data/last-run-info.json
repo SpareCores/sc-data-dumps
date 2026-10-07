@@ -63,7 +63,7 @@
     "hcloud==2.27.0",
     "httplib2==0.32.0",
     "idna==3.20",
-    "iniconfig==2.3.0",
+    "iniconfig==2.3.1",
     "isodate==0.7.2",
     "jinja2==3.1.6",
     "jmespath==1.1.0",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.3",
-    "NEWVERSION": "v0.9.3+20261006221523",
-    "NEWVERSIONDATE": "v0.9.3+20261006221523 (Oct 06, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37529201007",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37529201007"
+    "NEWVERSION": "v0.9.3+20261007021108",
+    "NEWVERSIONDATE": "v0.9.3+20261007021108 (Oct 07, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 1 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37548541862",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37548541862"
   },
-  "timestamp": "2026-10-06T22:15:23Z"
+  "timestamp": "2026-10-07T02:11:08Z"
 }
