@@ -7,9 +7,9 @@
     "service_type": "pg",
     "service_plan": "2x6xCPU-16GB-250GB"
   },
-  "display_name": "6CPU-16GB",
-  "description": "UpCloud PostgreSQL 2-node HA (6 vCPUs, 16 GiB RAM, 134 GB storage)",
-  "family": "2-node HA",
+  "display_name": "Legacy: 6 vCPUs, 16 GiB RAM, 134 GB storage, 2 nodes",
+  "description": "UpCloud PostgreSQL Legacy (6 vCPUs, 16 GiB RAM, 134 GB storage, 2 nodes)",
+  "family": "Legacy",
   "server_id": "6xCPU-16GB",
   "vcpus": 6,
   "memory_amount": 16384,

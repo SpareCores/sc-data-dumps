@@ -7,9 +7,9 @@
     "service_type": "pg",
     "service_plan": "3x2xCPU-4GB-100GB"
   },
-  "display_name": "2CPU-4GB",
-  "description": "UpCloud PostgreSQL 3-node HA (2 vCPUs, 4 GiB RAM, 35 GB storage)",
-  "family": "3-node HA",
+  "display_name": "Legacy: 2 vCPUs, 4 GiB RAM, 35 GB storage, 3 nodes",
+  "description": "UpCloud PostgreSQL Legacy (2 vCPUs, 4 GiB RAM, 35 GB storage, 3 nodes)",
+  "family": "Legacy",
   "server_id": "2xCPU-4GB",
   "vcpus": 2,
   "memory_amount": 4096,

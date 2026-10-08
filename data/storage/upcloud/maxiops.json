@@ -5,7 +5,7 @@
   "description": "High-performance web servers and applications",
   "storage_type": "SSD",
   "max_iops": 100000,
-  "max_throughput": null,
+  "max_throughput": 400,
   "min_size": 1,
   "max_size": 4096,
   "status": "ACTIVE"

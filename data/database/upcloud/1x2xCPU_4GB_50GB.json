@@ -7,9 +7,9 @@
     "service_type": "pg",
     "service_plan": "1x2xCPU-4GB-50GB"
   },
-  "display_name": "2CPU-4GB",
-  "description": "UpCloud PostgreSQL Single node (2 vCPUs, 4 GiB RAM, 54 GB storage)",
-  "family": "Single node",
+  "display_name": "Legacy: 2 vCPUs, 4 GiB RAM, 54 GB storage, 1 node",
+  "description": "UpCloud PostgreSQL Legacy (2 vCPUs, 4 GiB RAM, 54 GB storage, 1 node)",
+  "family": "Legacy",
   "server_id": "2xCPU-4GB",
   "vcpus": 2,
   "memory_amount": 4096,

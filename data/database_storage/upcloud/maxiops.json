@@ -1,0 +1,13 @@
+{
+  "vendor_id": "upcloud",
+  "database_storage_id": "maxiops",
+  "name": "MaxIOPS",
+  "description": "Managed database MaxIOPS storage (Standard and High Memory plans)",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 11,
+  "max_size": 7697,
+  "max_iops": 100000,
+  "max_throughput": 400,
+  "status": "ACTIVE"
+}

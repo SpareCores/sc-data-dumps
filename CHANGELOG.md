@@ -1,3 +1,88 @@
+## v0.9.4+20261008093527 (Oct 08, 2026)
+
+This is an automated release with 61 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37746051196
+
+
+### region
+
+- Update: ovh/AP-SOUTHEAST-SYD
+- Update: ovh/CA-EAST-TOR
+- Update: ovh/RBX-ARCHIVE
+
+### zone
+
+- Update: ovh/AP-SOUTHEAST-SYD/ap-southeast-syd-a
+- Update: ovh/CA-EAST-TOR/ca-east-tor-a
+- Update: ovh/RBX-ARCHIVE/rbx-archive-a
+
+### storage
+
+- Update: upcloud/maxiops
+
+### server
+
+- Update: ovh/i1-90
+
+### database
+
+- New: upcloud/rdb.development.1CPU-1GB
+- New: upcloud/rdb.development.1CPU-2GB
+- New: upcloud/rdb.development.1CPU-4GB
+- New: upcloud/rdb.memory.2CPU-16GB
+- New: upcloud/rdb.memory.4CPU-32GB
+- New: upcloud/rdb.memory.8CPU-64GB
+- New: upcloud/rdb.memory.12CPU-96GB
+- New: upcloud/rdb.memory.16CPU-128GB
+- New: upcloud/rdb.memory.24CPU-192GB
+- New: upcloud/rdb.memory.32CPU-256GB
+- New: upcloud/rdb.memory.48CPU-384GB
+- New: upcloud/rdb.memory.64CPU-512GB
+- New: upcloud/rdb.standard.2CPU-8GB
+- New: upcloud/rdb.standard.4CPU-16GB
+- New: upcloud/rdb.standard.8CPU-32GB
+- New: upcloud/rdb.standard.12CPU-48GB
+- New: upcloud/rdb.standard.16CPU-64GB
+- New: upcloud/rdb.standard.24CPU-96GB
+- New: upcloud/rdb.standard.32CPU-128GB
+- New: upcloud/rdb.standard.48CPU-192GB
+- New: upcloud/rdb.standard.64CPU-256GB
+- New: upcloud/rdb.standard.80CPU-320GB
+- Update: upcloud/1x1xCPU-1GB-10GB
+- Update: upcloud/1x1xCPU-2GB-25GB
+- Update: upcloud/1x2xCPU-4GB-100GB
+- Update: upcloud/1x2xCPU-4GB-50GB
+- Update: upcloud/2x16xCPU-64GB-1000GB
+- Update: upcloud/2x16xCPU-64GB-1500GB
+- Update: upcloud/2x20xCPU-128GB-2000GB
+- Update: upcloud/2x2xCPU-4GB-100GB
+- Update: upcloud/2x2xCPU-4GB-50GB
+- Update: upcloud/2x4xCPU-8GB-100GB
+- Update: upcloud/2x4xCPU-8GB-50GB
+- Update: upcloud/2x6xCPU-16GB-100GB
+- Update: upcloud/2x6xCPU-16GB-250GB
+- Update: upcloud/2x8xCPU-32GB-100GB
+- Update: upcloud/2x8xCPU-32GB-250GB
+- Update: upcloud/2x8xCPU-32GB-500GB
+- Update: upcloud/3x16xCPU-64GB-1000GB
+- Update: upcloud/3x16xCPU-64GB-2000GB
+- Update: upcloud/3x20xCPU-128GB-2000GB
+- Update: upcloud/3x2xCPU-4GB-100GB
+- Update: upcloud/3x2xCPU-4GB-200GB
+- Update: upcloud/3x4xCPU-8GB-100GB
+- Update: upcloud/3x4xCPU-8GB-200GB
+- Update: upcloud/3x6xCPU-16GB-200GB
+- Update: upcloud/3x6xCPU-16GB-500GB
+- Update: upcloud/3x8xCPU-32GB-1000GB
+- Update: upcloud/3x8xCPU-32GB-200GB
+- Update: upcloud/3x8xCPU-32GB-500GB
+
+### database_storage
+
+- New: upcloud/standard
+- New: upcloud/maxiops
+- Update: upcloud/additional-disk
+
 ## v0.9.3+20261007190853 (Oct 07, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.

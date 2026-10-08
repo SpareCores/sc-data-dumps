@@ -1,0 +1,54 @@
+{
+  "vendor_id": "upcloud",
+  "database_id": "rdb.development.1CPU-1GB",
+  "name": "rdb.development.1CPU-1GB",
+  "api_reference": "rdb.development.1CPU-1GB",
+  "api_reference_object": {
+    "service_type": "pg",
+    "plan_compute": "rdb.development.1CPU-1GB"
+  },
+  "display_name": "Developer: 1 vCPU, 1 GiB RAM",
+  "description": "UpCloud PostgreSQL Developer (1 vCPUs, 1 GiB RAM)",
+  "family": "Developer",
+  "server_id": "DEV-1xCPU-1GB",
+  "vcpus": 1,
+  "memory_amount": 1024,
+  "engine": "POSTGRESQL",
+  "wire_protocol": "POSTGRESQL",
+  "engine_versions": [
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "auto_upgrade_versions": 1,
+  "ha": [
+    "none"
+  ],
+  "ha_strategy": [
+    "none"
+  ],
+  "max_read_replicas": 0,
+  "custom_config": 1,
+  "custom_extensions": 1,
+  "storage_size": null,
+  "storage_extra_min": 11,
+  "storage_extra_max": 54,
+  "storage_extra_autosize": 0,
+  "disk_encryption": 1,
+  "scheduled_backups": 1,
+  "continuous_backups": 3,
+  "connection_pool": 1,
+  "system_monitoring": 1,
+  "database_monitoring": 1,
+  "autotuning_advice": null,
+  "autotuning_apply": null,
+  "sla": 99.999,
+  "security_features": [
+    "ip-filtering",
+    "private-network",
+    "enforced-tls",
+    "audit-logging"
+  ],
+  "status": "ACTIVE"
+}

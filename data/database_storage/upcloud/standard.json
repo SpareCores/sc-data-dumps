@@ -1,0 +1,13 @@
+{
+  "vendor_id": "upcloud",
+  "database_storage_id": "standard",
+  "name": "Standard",
+  "description": "Managed database Standard SSD storage (Developer plans, also additional disk on legacy plans)",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 11,
+  "max_size": 7697,
+  "max_iops": 10000,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}
