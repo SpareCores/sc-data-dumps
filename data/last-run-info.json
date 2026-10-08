@@ -105,7 +105,7 @@
     "psycopg2==2.9.13",
     "pyasn1==0.6.4",
     "pyasn1-modules==0.4.2",
-    "pycparser==3.0",
+    "pycparser==3.1",
     "pydantic==2.13.5",
     "pydantic-core==2.46.5",
     "pydantic-extra-types==2.11.1",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.4",
-    "NEWVERSION": "v0.9.4+20261008123814",
-    "NEWVERSIONDATE": "v0.9.4+20261008123814 (Oct 08, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37768073630",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37768073630"
+    "NEWVERSION": "v0.9.4+20261008154005",
+    "NEWVERSIONDATE": "v0.9.4+20261008154005 (Oct 08, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 2 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/37789986632",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/37789986632"
   },
-  "timestamp": "2026-10-08T12:38:14Z"
+  "timestamp": "2026-10-08T15:40:05Z"
 }
