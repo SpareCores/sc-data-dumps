@@ -5,7 +5,7 @@
   "description": "Offers optimised and scalable performance, and is recommended for intensive workloads.",
   "storage_type": "NVME_SSD",
   "max_iops": 20000,
-  "max_throughput": 320,
+  "max_throughput": 512,
   "min_size": 10,
   "max_size": 12000,
   "status": "ACTIVE"
