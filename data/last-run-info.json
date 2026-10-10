@@ -27,7 +27,7 @@
     "azure-mgmt-resource==26.0.0",
     "azure-mgmt-resource-subscriptions==1.0.0",
     "babel==2.18.0",
-    "backrefs==8.0",
+    "backrefs==8.1",
     "boto3==1.43.111",
     "botocore==1.43.111",
     "cachier==4.2.0",
@@ -81,7 +81,7 @@
     "mkdocs-material==9.7.7",
     "mkdocs-material-extensions==1.3.1",
     "mkdocs-section-index==0.3.12",
-    "mkdocstrings==1.0.6",
+    "mkdocstrings==1.0.7",
     "mkdocstrings-python==2.0.9",
     "msal==1.39.0",
     "msal-extensions==1.3.1",
@@ -111,7 +111,7 @@
     "pydantic-extra-types==2.11.1",
     "pygments==2.21.0",
     "pyjwt==2.15.1",
-    "pymdown-extensions==12.1",
+    "pymdown-extensions==12.2",
     "pympler==1.1",
     "pyparsing==3.3.3",
     "pytest==9.1.1",
@@ -144,10 +144,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.5",
-    "NEWVERSION": "v0.9.5+20261010141541",
-    "NEWVERSIONDATE": "v0.9.5+20261010141541 (Oct 10, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 5 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38050863383",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/38050863383"
+    "NEWVERSION": "v0.9.5+20261010173201",
+    "NEWVERSIONDATE": "v0.9.5+20261010173201 (Oct 10, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 6 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38065078857",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/38065078857"
   },
-  "timestamp": "2026-10-10T14:15:41Z"
+  "timestamp": "2026-10-10T17:32:01Z"
 }
