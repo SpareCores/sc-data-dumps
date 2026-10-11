@@ -156,13 +156,15 @@ jobs:
           if [ "$LHASH" != "$RHASH" ]; then
             echo "VACUUMing $FILE..."
             sqlite3 $FILE "VACUUM;"
+            DB_SIZE=$(stat -c%s $FILE)
+            echo "Database size: $DB_SIZE bytes"
             echo "Dumping schema and data to single file..."
             sqlite3 $FILE .dump > sc-data-all.sql
             echo "Compressing dump..."
             xz -9ek -T0 sc-data-all.sql
             echo "Uploading dump to CDN bucket (versioned and latest)..."
-            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-all.sql.xz" --metadata="hash=$LHASH"
-            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-all.sql.xz" --metadata="hash=$LHASH"
+            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/$VERSION/sc-data-all.sql.xz" --metadata="hash=$LHASH,db-size=$DB_SIZE"
+            aws s3 cp sc-data-all.sql.xz "s3://$CDN_BUCKET/sc-data/latest/sc-data-all.sql.xz" --metadata="hash=$LHASH,db-size=$DB_SIZE"
             INVALIDATION_PATHS+=(
               "/sc-data/$VERSION/sc-data-all.sql.xz"
               "/sc-data/latest/sc-data-all.sql.xz"
