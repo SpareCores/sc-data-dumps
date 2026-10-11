@@ -108,8 +108,8 @@
     "pyasn1==0.6.4",
     "pyasn1-modules==0.4.2",
     "pycparser==3.11",
-    "pydantic==2.14.0",
-    "pydantic-core==2.50.0",
+    "pydantic==2.14.1",
+    "pydantic-core==2.50.1",
     "pydantic-extra-types==2.11.1",
     "pygments==2.21.0",
     "pyjwt==2.15.1",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.9.5",
-    "NEWVERSION": "v0.9.5+20261011170227",
-    "NEWVERSIONDATE": "v0.9.5+20261011170227 (Oct 11, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 3 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38149959315",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/38149959315"
+    "NEWVERSION": "v0.9.5+20261011205311",
+    "NEWVERSIONDATE": "v0.9.5+20261011205311 (Oct 11, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38166777960",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/38166777960"
   },
-  "timestamp": "2026-10-11T17:02:27Z"
+  "timestamp": "2026-10-11T20:53:11Z"
 }
