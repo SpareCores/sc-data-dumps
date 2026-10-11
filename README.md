@@ -79,8 +79,8 @@ original commit hash and URL on GitHub.
 - [Database schemas](https://dbdocs.io/spare-cores/sc-crawler)
 - Latest database dumps under [BSL 1.1 license](https://sparecores.com/legal/license-bsl):
 
-    - [Full database with SKU listings, current pricing information, and benchmark scores](https://cdn.sparecores.net/sc-data/sc-data-all.sql.xz)
-    - [Stripped database without pricing and benchmark data](https://cdn.sparecores.net/sc-data/sc-data-priceless.sql.xz)
+    - [Full database with SKU listings, current pricing information, and benchmark scores](https://cdn.sparecores.net/sc-data/latest/sc-data-all.sql.xz)
+    - [Stripped database without pricing and benchmark data](https://cdn.sparecores.net/sc-data/latest/sc-data-priceless.sql.xz)
 
 - [sparecores-data Python package](https://pypi.org/project/sparecores-data/)
 - [Navigator API](https://keeper.sparecores.net/docs)
