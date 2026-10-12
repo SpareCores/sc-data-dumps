@@ -3,9 +3,11 @@
   "server_id": "g4dn.4xlarge",
   "name": "g4dn.4xlarge",
   "api_reference": "g4dn.4xlarge",
+  "api_reference_object": null,
   "display_name": "g4dn.4xlarge",
   "description": "Graphics intensive [Instance store volumes] [Network and EBS optimized] Gen4 4xlarge",
   "family": "g4dn",
+  "series": null,
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -121,13 +123,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 16384,
-  "gpu_memory_total": 16384,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Turing",
-  "gpu_model": "T4",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 16384,
+  "accelerator_memory_total": 16384,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Turing",
+  "accelerator_model": "T4",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Turing",
@@ -150,6 +153,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 20.0,
   "network_speed_max": 25.0,
   "network_storage_speed_baseline": 4.75,

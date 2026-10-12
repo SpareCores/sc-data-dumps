@@ -1,6 +1,7 @@
 {
   "benchmark_id": "nvbandwidth:p2p:single",
   "category": "GPU bandwidth",
+  "subcategory": "Peer-to-peer",
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,15 @@
   "note": null,
   "framework": "nvbandwidth",
   "config_fields": {},
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
+    "driver_version": "NVIDIA driver version.",
+    "cuda_runtime_version": "CUDA runtime version.",
+    "nvbandwidth_version": "Version of the nvbandwidth tool.",
+    "gpu_count": "Number of GPUs seen by nvbandwidth.",
+    "p2p_supported": "Whether peer-to-peer (device-to-device) GPU transfers were supported."
+  },
   "measurement": "gpu_bandwidth",
   "unit": "GB/s",
   "higher_is_better": 1,

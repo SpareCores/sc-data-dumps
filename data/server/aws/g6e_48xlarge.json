@@ -3,9 +3,11 @@
   "server_id": "g6e.48xlarge",
   "name": "g6e.48xlarge",
   "api_reference": "g6e.48xlarge",
+  "api_reference_object": null,
   "display_name": "g6e.48xlarge",
   "description": "Graphics intensive [Extra storage or memory] Gen6 48xlarge",
   "family": "g6e",
+  "series": null,
   "vcpus": 192,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -129,13 +131,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 45776,
-  "gpu_memory_total": 366208,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ada Lovelace",
-  "gpu_model": "L40S",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 45776,
+  "accelerator_memory_total": 366208,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ada Lovelace",
+  "accelerator_model": "L40S",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
@@ -257,6 +260,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 400.0,
   "network_speed_max": 400.0,
   "network_storage_speed_baseline": 60.0,

@@ -1,6 +1,7 @@
 {
   "benchmark_id": "static_web:rps-extrapolated",
   "category": "Static web server",
+  "subcategory": null,
   "source": {
     "derived_from": [
       "static_web:rps"
@@ -15,6 +16,10 @@
   "config_fields": {
     "size": "Served file size (KiB).",
     "connections_per_vcpus": "Open HTTP connections per vCPU(s)."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
   },
   "measurement": "rps-extrapolated",
   "unit": "Requests per second (rps)",

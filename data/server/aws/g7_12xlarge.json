@@ -3,9 +3,11 @@
   "server_id": "g7.12xlarge",
   "name": "g7.12xlarge",
   "api_reference": "g7.12xlarge",
+  "api_reference_object": null,
   "display_name": "g7.12xlarge",
   "description": "Graphics intensive Gen7 12xlarge",
   "family": "g7",
+  "series": null,
   "vcpus": 48,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -33,13 +35,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 2.0,
-  "gpu_memory_min": 32768,
-  "gpu_memory_total": 65536,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": null,
-  "gpu_model": "RTX PRO 4500",
-  "gpus": [
+  "accelerator_count": 2.0,
+  "accelerator_memory_min": 32768,
+  "accelerator_memory_total": 65536,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": null,
+  "accelerator_model": "RTX PRO 4500",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": null,
@@ -74,6 +77,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 175.0,
   "network_speed_max": 175.0,
   "network_storage_speed_baseline": 20.0,

@@ -1,6 +1,7 @@
 {
   "benchmark_id": "workload_profile:ml",
   "category": "Workload profile",
+  "subcategory": null,
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,7 @@
   "note": null,
   "framework": "workload_profile",
   "config_fields": {},
+  "environment_fields": {},
   "measurement": "score",
   "unit": null,
   "higher_is_better": 1,

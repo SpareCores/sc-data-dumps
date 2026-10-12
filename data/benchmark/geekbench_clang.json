@@ -1,6 +1,7 @@
 {
   "benchmark_id": "geekbench:clang",
   "category": "Geekbench",
+  "subcategory": null,
   "source": {
     "kind": "measured"
   },
@@ -10,6 +11,10 @@
   "framework": "geekbench",
   "config_fields": {
     "cores": "Single-Core or Multi-Core performance tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
   },
   "measurement": "clang",
   "unit": null,

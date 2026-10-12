@@ -3,9 +3,11 @@
   "server_id": "1722000",
   "name": "a3-ultragpu-8g",
   "api_reference": "a3-ultragpu-8g",
+  "api_reference_object": null,
   "display_name": "a3-ultragpu-8g",
   "description": "Accelerator Optimized: 8 NVIDIA H200 GPU, 224 vCPUs, 2952GB RAM",
   "family": "a3",
+  "series": null,
   "vcpus": 224,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -156,13 +158,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 144384,
-  "gpu_memory_total": 1155072,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Hopper",
-  "gpu_model": "H200",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 144384,
+  "accelerator_memory_total": 1155072,
+  "accelerator_type": null,
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Hopper",
+  "accelerator_model": "H200",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Hopper",
@@ -424,6 +427,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

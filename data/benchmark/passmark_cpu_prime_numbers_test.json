@@ -1,6 +1,7 @@
 {
   "benchmark_id": "passmark:cpu_prime_numbers_test",
   "category": "Passmark",
+  "subcategory": "CPU",
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,10 @@
   "note": null,
   "framework": "passmark",
   "config_fields": {},
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
   "measurement": "cpu_prime_numbers_test",
   "unit": "Million prime numbers per second (Mnums/s)",
   "higher_is_better": 1,

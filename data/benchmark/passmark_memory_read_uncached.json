@@ -1,6 +1,7 @@
 {
   "benchmark_id": "passmark:memory_read_uncached",
   "category": "Passmark",
+  "subcategory": "Memory",
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,10 @@
   "note": "This benchmark score is largely independent of vCPU count within an instance family and mainly reflects hardware generation and memory characteristics, not instance size.",
   "framework": "passmark",
   "config_fields": {},
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
   "measurement": "memory_read_uncached",
   "unit": "Megabytes per second (MB/s)",
   "higher_is_better": 1,

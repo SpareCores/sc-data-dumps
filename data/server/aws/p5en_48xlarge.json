@@ -3,9 +3,11 @@
   "server_id": "p5en.48xlarge",
   "name": "p5en.48xlarge",
   "api_reference": "p5en.48xlarge",
+  "api_reference_object": null,
   "display_name": "p5en.48xlarge",
   "description": "GPU accelerated [Network and EBS optimized] [Extra storage or memory] Gen5 48xlarge",
   "family": "p5en",
+  "series": null,
   "vcpus": 192,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -33,13 +35,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 144384,
-  "gpu_memory_total": 1155072,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Hopper",
-  "gpu_model": "H200",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 144384,
+  "accelerator_memory_total": 1155072,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Hopper",
+  "accelerator_model": "H200",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": null,
@@ -181,6 +184,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 200.0,
   "network_speed_max": 200.0,
   "network_storage_speed_baseline": 100.0,

@@ -3,9 +3,11 @@
   "server_id": "g5.48xlarge",
   "name": "g5.48xlarge",
   "api_reference": "g5.48xlarge",
+  "api_reference_object": null,
   "display_name": "g5.48xlarge",
   "description": "Graphics intensive Gen5 48xlarge",
   "family": "g5",
+  "series": null,
   "vcpus": 192,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -124,13 +126,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 22888,
-  "gpu_memory_total": 183104,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ampere",
-  "gpu_model": "A10G",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 22888,
+  "accelerator_memory_total": 183104,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ampere",
+  "accelerator_model": "A10G",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ampere",
@@ -242,6 +245,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 19.0,

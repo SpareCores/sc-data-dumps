@@ -3,9 +3,11 @@
   "server_id": "Standard_NC40ads_H100_v5",
   "name": "NC40ads_H100_v5",
   "api_reference": "Standard_NC40ads_H100_v5",
+  "api_reference_object": null,
   "display_name": "NC40ads_H100_v5",
   "description": "NCadsH100v5 family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
   "family": "NCadsH100v5",
+  "series": null,
   "vcpus": 40,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -139,13 +141,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 95830,
-  "gpu_memory_total": 95830,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Hopper",
-  "gpu_model": "H100",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 95830,
+  "accelerator_memory_total": 95830,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Hopper",
+  "accelerator_model": "H100",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Hopper",
@@ -173,6 +176,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

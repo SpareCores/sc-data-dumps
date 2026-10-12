@@ -3,9 +3,11 @@
   "server_id": "1723001",
   "name": "a4-highgpu-8g",
   "api_reference": "a4-highgpu-8g",
+  "api_reference_object": null,
   "display_name": "a4-highgpu-8g",
   "description": "Accelerator Optimized: 8 NVIDIA B200 GPU, 224 vCPUs, 3968GB RAM",
   "family": "a4",
+  "series": null,
   "vcpus": 224,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -33,13 +35,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 184320,
-  "gpu_memory_total": 1474560,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Blackwell",
-  "gpu_model": "B200",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 184320,
+  "accelerator_memory_total": 1474560,
+  "accelerator_type": null,
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Blackwell",
+  "accelerator_model": "B200",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Blackwell",
@@ -146,6 +149,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

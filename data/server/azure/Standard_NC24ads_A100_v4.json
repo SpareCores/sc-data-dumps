@@ -3,9 +3,11 @@
   "server_id": "Standard_NC24ads_A100_v4",
   "name": "NC24ads_A100_v4",
   "api_reference": "Standard_NC24ads_A100_v4",
+  "api_reference_object": null,
   "display_name": "NC24ads_A100_v4",
   "description": "NCADSA100v4 family [AMD processor] [Local Disk] [Premium Storage capable] 24 vCPUs",
   "family": "NCADSA100v4",
+  "series": null,
   "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -126,13 +128,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 81920,
-  "gpu_memory_total": 81920,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ampere",
-  "gpu_model": "A100",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 81920,
+  "accelerator_memory_total": 81920,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ampere",
+  "accelerator_model": "A100",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ampere",
@@ -160,6 +163,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

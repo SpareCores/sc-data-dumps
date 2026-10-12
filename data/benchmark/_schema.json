@@ -16,6 +16,13 @@
       "comment": null
     },
     {
+      "name": "subcategory",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "source",
       "type": "JSON",
       "nullable": false,
@@ -52,6 +59,13 @@
     },
     {
       "name": "config_fields",
+      "type": "JSON",
+      "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "environment_fields",
       "type": "JSON",
       "nullable": false,
       "default": null,

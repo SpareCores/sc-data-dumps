@@ -1,6 +1,7 @@
 {
   "benchmark_id": "bw_mem",
   "category": "Memory bandwidth",
+  "subcategory": "bw_mem",
   "source": {
     "kind": "measured"
   },
@@ -11,6 +12,10 @@
   "config_fields": {
     "size": "Amount of memory to be used in MB",
     "operation": "The type of measurement: 'rd' measures the time to read data into the processor, 'wr' measures the time to write data to memory, and 'rdwr' measures the time to read data into memory and then write data to the same memory location."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
   },
   "measurement": null,
   "unit": "Megabytes per second (MB/sec)",

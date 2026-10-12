@@ -1,6 +1,7 @@
 {
   "benchmark_id": "pgbench:heavy_read_only:single",
   "category": "Database",
+  "subcategory": "PostgreSQL",
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,12 @@
   "note": "This benchmark is measured with a single client session, so throughput does not necessarily grow with vCPU count. On the other hand, it is not a purely single-threaded metric, as the server may still engage multiple cores (e.g. parallel request handlers and background processes). Use it as a per-session efficiency baseline rather than a measure of instance capacity.",
   "framework": "pgbench",
   "config_fields": {},
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
+    "database_engine_version": "PostgreSQL server version.",
+    "latency_avg_ms": "Average transaction latency (ms)."
+  },
   "measurement": "heavy_read_only:single",
   "unit": "Transactions per minute (TPM)",
   "higher_is_better": 1,

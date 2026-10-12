@@ -3,9 +3,11 @@
   "server_id": "1724003",
   "name": "a4x-maxgpu-4g-metal",
   "api_reference": "a4x-maxgpu-4g-metal",
+  "api_reference_object": null,
   "display_name": "a4x-maxgpu-4g-metal",
   "description": "Accelerator Optimized: 4 NVIDIA GB300 GPU, 144 vCPUs, 960GB RAM",
   "family": "a4x",
+  "series": null,
   "vcpus": 144,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -33,13 +35,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 4.0,
-  "gpu_memory_min": 285696,
-  "gpu_memory_total": 1142784,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Blackwell",
-  "gpu_model": "GB300",
-  "gpus": [
+  "accelerator_count": 4.0,
+  "accelerator_memory_min": 285696,
+  "accelerator_memory_total": 1142784,
+  "accelerator_type": null,
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Blackwell",
+  "accelerator_model": "GB300",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Blackwell",
@@ -98,6 +101,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

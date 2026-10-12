@@ -3,9 +3,11 @@
   "server_id": "g4ad.4xlarge",
   "name": "g4ad.4xlarge",
   "api_reference": "g4ad.4xlarge",
+  "api_reference_object": null,
   "display_name": "g4ad.4xlarge",
   "description": "Graphics intensive [AMD processors] [Instance store volumes] Gen4 4xlarge",
   "family": "g4ad",
+  "series": null,
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -122,13 +124,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 2933,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 8192,
-  "gpu_memory_total": 8192,
-  "gpu_manufacturer": "AMD",
-  "gpu_family": "Radeon Pro Navi",
-  "gpu_model": "V520",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 8192,
+  "accelerator_memory_total": 8192,
+  "accelerator_type": null,
+  "accelerator_manufacturer": "AMD",
+  "accelerator_family": "Radeon Pro Navi",
+  "accelerator_model": "V520",
+  "accelerators": [
     {
       "manufacturer": "AMD",
       "family": null,
@@ -151,6 +154,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 8.333,
   "network_speed_max": 10.0,
   "network_storage_speed_baseline": 1.58,

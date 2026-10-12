@@ -3,9 +3,11 @@
   "server_id": "1020096",
   "name": "a2-ultragpu-8g",
   "api_reference": "a2-ultragpu-8g",
+  "api_reference_object": null,
   "display_name": "a2-ultragpu-8g",
   "description": "Accelerator Optimized: 8 NVIDIA A100 80GB GPUs, 96 vCPUs, 1360GB RAM, 8 local SSD",
   "family": "a2",
+  "series": null,
   "vcpus": 96,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -124,13 +126,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 81920,
-  "gpu_memory_total": 655360,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ampere",
-  "gpu_model": "A100",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 81920,
+  "accelerator_memory_total": 655360,
+  "accelerator_type": null,
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ampere",
+  "accelerator_model": "A100",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ampere",
@@ -272,6 +275,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

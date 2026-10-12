@@ -1,6 +1,7 @@
 {
   "benchmark_id": "static_web:latency",
   "category": "Static web server",
+  "subcategory": null,
   "source": {
     "kind": "measured"
   },
@@ -11,6 +12,10 @@
   "config_fields": {
     "size": "Served file size (KiB).",
     "connections_per_vcpus": "Open HTTP connections per vCPU(s)."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
   },
   "measurement": "latency",
   "unit": "Seconds (sec)",

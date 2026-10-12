@@ -3,9 +3,11 @@
   "server_id": "p4d.24xlarge",
   "name": "p4d.24xlarge",
   "api_reference": "p4d.24xlarge",
+  "api_reference_object": null,
   "display_name": "p4d.24xlarge",
   "description": "GPU accelerated [Instance store volumes] Gen4 24xlarge",
   "family": "p4d",
+  "series": null,
   "vcpus": 96,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -122,13 +124,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 8.0,
-  "gpu_memory_min": 40960,
-  "gpu_memory_total": 327680,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ampere",
-  "gpu_model": "A100",
-  "gpus": [
+  "accelerator_count": 8.0,
+  "accelerator_memory_min": 40960,
+  "accelerator_memory_total": 327680,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ampere",
+  "accelerator_model": "A100",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ampere",
@@ -270,6 +273,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 19.0,

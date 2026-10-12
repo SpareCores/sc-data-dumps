@@ -30,6 +30,13 @@
       "comment": null
     },
     {
+      "name": "api_reference_object",
+      "type": "JSON",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "display_name",
       "type": "VARCHAR",
       "nullable": false,
@@ -45,6 +52,13 @@
     },
     {
       "name": "family",
+      "type": "VARCHAR",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "series",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,
@@ -240,49 +254,56 @@
       "comment": null
     },
     {
-      "name": "gpu_count",
+      "name": "accelerator_count",
       "type": "FLOAT",
       "nullable": false,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_memory_min",
+      "name": "accelerator_memory_min",
       "type": "INTEGER",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_memory_total",
+      "name": "accelerator_memory_total",
       "type": "INTEGER",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_manufacturer",
+      "name": "accelerator_type",
+      "type": "VARCHAR(3)",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "accelerator_manufacturer",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_family",
+      "name": "accelerator_family",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpu_model",
+      "name": "accelerator_model",
       "type": "VARCHAR",
       "nullable": true,
       "default": null,
       "comment": null
     },
     {
-      "name": "gpus",
+      "name": "accelerators",
       "type": "JSON",
       "nullable": false,
       "default": null,
@@ -306,6 +327,13 @@
       "name": "storages",
       "type": "JSON",
       "nullable": false,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "compatible_storage_ids",
+      "type": "JSON",
+      "nullable": true,
       "default": null,
       "comment": null
     },

@@ -3,9 +3,11 @@
   "server_id": "gr6.4xlarge",
   "name": "gr6.4xlarge",
   "api_reference": "gr6.4xlarge",
+  "api_reference_object": null,
   "display_name": "gr6.4xlarge",
   "description": "Graphics intensive with a one to eight ratio of vCPU to memory Gen6 4xlarge",
   "family": "gr6",
+  "series": null,
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -127,13 +129,14 @@
   "memory_generation": "DDR4",
   "memory_speed": 3200,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 22888,
-  "gpu_memory_total": 22888,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Ada Lovelace",
-  "gpu_model": "L4",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 22888,
+  "accelerator_memory_total": 22888,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Ada Lovelace",
+  "accelerator_model": "L4",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Ada Lovelace",
@@ -156,6 +159,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 10.0,
   "network_speed_max": 25.0,
   "network_storage_speed_baseline": 8.0,

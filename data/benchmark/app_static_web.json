@@ -1,6 +1,7 @@
 {
   "benchmark_id": "app:static_web",
   "category": null,
+  "subcategory": null,
   "source": {
     "kind": "measured"
   },
@@ -13,6 +14,7 @@
     "connections": "Total number of HTTP connections kept open by wrk.",
     "framework_version": "Version number of both binserve and wrk."
   },
+  "environment_fields": {},
   "measurement": "static_web",
   "unit": "rps",
   "higher_is_better": 1,

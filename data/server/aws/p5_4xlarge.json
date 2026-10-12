@@ -3,9 +3,11 @@
   "server_id": "p5.4xlarge",
   "name": "p5.4xlarge",
   "api_reference": "p5.4xlarge",
+  "api_reference_object": null,
   "display_name": "p5.4xlarge",
   "description": "GPU accelerated Gen5 4xlarge",
   "family": "p5",
+  "series": null,
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -33,13 +35,14 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "gpu_count": 1.0,
-  "gpu_memory_min": 81920,
-  "gpu_memory_total": 81920,
-  "gpu_manufacturer": "NVIDIA",
-  "gpu_family": "Hopper",
-  "gpu_model": "H100",
-  "gpus": [
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 81920,
+  "accelerator_memory_total": 81920,
+  "accelerator_type": "GPU",
+  "accelerator_manufacturer": "NVIDIA",
+  "accelerator_family": "Hopper",
+  "accelerator_model": "H100",
+  "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": null,
@@ -62,6 +65,7 @@
       "description": null
     }
   ],
+  "compatible_storage_ids": null,
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 10.0,

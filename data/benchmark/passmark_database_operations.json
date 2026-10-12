@@ -1,6 +1,7 @@
 {
   "benchmark_id": "passmark:database_operations",
   "category": "Passmark",
+  "subcategory": "Memory",
   "source": {
     "kind": "measured"
   },
@@ -9,6 +10,10 @@
   "note": "This benchmark does not scale well on instances with more than 32 vCPUs. Empirical data shows measured scores plateau and may even degrade as vCPU count increases, so it is not recommended for evaluating larger instance sizes.",
   "framework": "passmark",
   "config_fields": {},
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
   "measurement": "database_operations",
   "unit": "Thousands of operations per second (Kops/s)",
   "higher_is_better": 1,
