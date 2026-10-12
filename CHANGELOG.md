@@ -1,3 +1,13 @@
+## v0.9.5+20261012035518 (Oct 12, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38194601332
+
+
+### server
+
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
 ## v0.9.5+20261012003917 (Oct 12, 2026)
 
 This is an automated release with 3 new/updated/deleted resources.
