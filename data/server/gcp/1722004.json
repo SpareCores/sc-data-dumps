@@ -162,7 +162,7 @@
   "accelerator_count": 8.0,
   "accelerator_memory_min": 144384,
   "accelerator_memory_total": 1155072,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Hopper",
   "accelerator_model": "H200",

@@ -14,8 +14,8 @@
     "connections_per_vcpus": "Open HTTP connections per vCPU(s)."
   },
   "environment_fields": {
-    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
-    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases)."
   },
   "measurement": "rps",
   "unit": "Requests per second (rps)",

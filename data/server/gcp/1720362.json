@@ -158,7 +158,7 @@
   "accelerator_count": 2.0,
   "accelerator_memory_min": 81920,
   "accelerator_memory_total": 163840,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Hopper",
   "accelerator_model": "H100",

@@ -199,7 +199,7 @@
     }
   ],
   "compatible_storage_ids": null,
-  "network_speed_baseline": 37.5,
+  "network_speed_baseline": 75.0,
   "network_speed_max": 75.0,
   "network_storage_speed_baseline": 22.5,
   "network_storage_speed_max": 22.5,

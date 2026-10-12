@@ -38,7 +38,7 @@
   "accelerator_count": 1.0,
   "accelerator_memory_min": null,
   "accelerator_memory_total": 0,
-  "accelerator_type": null,
+  "accelerator_type": "TPU",
   "accelerator_manufacturer": null,
   "accelerator_family": null,
   "accelerator_model": "tpu7",

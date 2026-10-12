@@ -129,7 +129,7 @@
   "accelerator_count": 4.0,
   "accelerator_memory_min": 24576,
   "accelerator_memory_total": 98304,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Ada Lovelace",
   "accelerator_model": "L4",

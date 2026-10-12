@@ -1,3 +1,72 @@
+## v0.10.0+20261012150817 (Oct 12, 2026)
+
+This is an automated release with 60 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38253572668
+
+
+### server
+
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/i7ie.12xlarge
+- Update: aws/i7ie.18xlarge
+- Update: aws/i7ie.6xlarge
+- Update: aws/i7ie.metal-24xl
+- Update: gcp/1000012
+- Update: gcp/1000024
+- Update: gcp/1000048
+- Update: gcp/1000096
+- Update: gcp/1001096
+- Update: gcp/1020012
+- Update: gcp/1020024
+- Update: gcp/1020048
+- Update: gcp/1020096
+- Update: gcp/1600004
+- Update: gcp/1600008
+- Update: gcp/1600012
+- Update: gcp/1600016
+- Update: gcp/1600024
+- Update: gcp/1600032
+- Update: gcp/1600048
+- Update: gcp/1600096
+- Update: gcp/1720361
+- Update: gcp/1720362
+- Update: gcp/1720363
+- Update: gcp/1720364
+- Update: gcp/1720366
+- Update: gcp/1720367
+- Update: gcp/1720368
+- Update: gcp/1722000
+- Update: gcp/1722004
+- Update: gcp/1723001
+- Update: gcp/1724001
+- Update: gcp/1724003
+- Update: gcp/1740001
+- Update: gcp/1740002
+- Update: gcp/1740003
+- Update: gcp/1740004
+- Update: gcp/1740005
+- Update: gcp/1740006
+- Update: gcp/1741003
+- Update: gcp/1741004
+- Update: gcp/1741005
+- Update: gcp/1741014
+- Update: gcp/1741015
+- Update: gcp/1741017
+- Update: gcp/1741022
+- Update: gcp/1741023
+- Update: gcp/1741028
+- Update: gcp/1741029
+- Update: gcp/700094
+- Update: gcp/700095
+- Update: gcp/999920000
+- Update: gcp/999920001
+- Update: gcp/999920002
+- Update: gcp/999920003
+- Update: gcp/999935024
+- Update: gcp/999935025
+- Update: gcp/999935026
+
 ## v0.10.0+20261012114346 (Oct 12, 2026)
 
 This is an automated release with 568 new/updated/deleted resources.

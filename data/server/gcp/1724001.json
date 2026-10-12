@@ -38,7 +38,7 @@
   "accelerator_count": 4.0,
   "accelerator_memory_min": 190464,
   "accelerator_memory_total": 761856,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
   "accelerator_model": "GB200",

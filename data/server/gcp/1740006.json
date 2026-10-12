@@ -38,7 +38,7 @@
   "accelerator_count": 8.0,
   "accelerator_memory_min": 16384,
   "accelerator_memory_total": 131072,
-  "accelerator_type": null,
+  "accelerator_type": "TPU",
   "accelerator_manufacturer": "Google",
   "accelerator_family": "TPU",
   "accelerator_model": "v5e",

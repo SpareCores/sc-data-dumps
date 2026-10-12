@@ -38,7 +38,7 @@
   "accelerator_count": 0.5,
   "accelerator_memory_min": 49152,
   "accelerator_memory_total": 49152,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Ada Lovelace",
   "accelerator_model": "RTX Pro 6000",

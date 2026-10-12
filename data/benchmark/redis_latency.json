@@ -14,8 +14,8 @@
     "operation": "Type of operation, e.g. SET or GET a key."
   },
   "environment_fields": {
-    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
-    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases)."
   },
   "measurement": "latency",
   "unit": "Milliseconds (ms)",

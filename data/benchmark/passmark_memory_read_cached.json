@@ -11,8 +11,8 @@
   "framework": "passmark",
   "config_fields": {},
   "environment_fields": {
-    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
-    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases)."
   },
   "measurement": "memory_read_cached",
   "unit": "Megabytes per second (MB/s)",

@@ -129,7 +129,7 @@
   "accelerator_count": 1.0,
   "accelerator_memory_min": 40960,
   "accelerator_memory_total": 40960,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Ampere",
   "accelerator_model": "A100",

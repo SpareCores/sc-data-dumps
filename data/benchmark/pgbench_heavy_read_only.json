@@ -13,10 +13,10 @@
     "concurrency": "Parallel client query count (integer). Typical profile: 1, vCPUs/2, vCPUs, and 2*vCPUs (may include additional points)."
   },
   "environment_fields": {
-    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
     "measured_at": "Timestamp (UTC) of finishing the benchmark run.",
-    "database_engine_version": "PostgreSQL server version.",
-    "latency_avg_ms": "Average transaction latency (ms)."
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "latency_avg_ms": "Average transaction latency (ms).",
+    "database_engine_version": "PostgreSQL server version."
   },
   "measurement": "heavy_read_only",
   "unit": "Transactions per minute (TPM)",
