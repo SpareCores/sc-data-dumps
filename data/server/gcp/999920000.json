@@ -40,12 +40,12 @@
   "accelerator_memory_total": 98304,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
-  "accelerator_family": "Ada Lovelace",
+  "accelerator_family": "Blackwell",
   "accelerator_model": "RTX Pro 6000",
   "accelerators": [
     {
       "manufacturer": "NVIDIA",
-      "family": "Ada Lovelace",
+      "family": "Blackwell",
       "model": "RTX Pro 6000",
       "memory": 98304,
       "firmware_version": null,

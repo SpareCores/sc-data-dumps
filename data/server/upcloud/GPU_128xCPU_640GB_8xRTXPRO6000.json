@@ -36,12 +36,12 @@
   "memory_speed": null,
   "memory_ecc": null,
   "accelerator_count": 8.0,
-  "accelerator_memory_min": null,
-  "accelerator_memory_total": 0,
+  "accelerator_memory_min": 98304,
+  "accelerator_memory_total": 786432,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
-  "accelerator_family": null,
-  "accelerator_model": "RTX PRO 6000 Blackwell Server Edition",
+  "accelerator_family": "Blackwell",
+  "accelerator_model": "RTX Pro 6000",
   "accelerators": [],
   "storage_size": 0,
   "storage_type": null,
@@ -55,5 +55,5 @@
   "outbound_traffic": 61440.0,
   "ipv4": 1,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

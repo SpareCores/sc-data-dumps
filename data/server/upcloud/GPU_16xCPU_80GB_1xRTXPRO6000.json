@@ -152,12 +152,12 @@
   "memory_speed": null,
   "memory_ecc": null,
   "accelerator_count": 1.0,
-  "accelerator_memory_min": 97887,
-  "accelerator_memory_total": 97887,
+  "accelerator_memory_min": 98304,
+  "accelerator_memory_total": 98304,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX PRO 6000 Blackwell Server Edition",
+  "accelerator_model": "RTX Pro 6000",
   "accelerators": [
     {
       "manufacturer": "NVIDIA",

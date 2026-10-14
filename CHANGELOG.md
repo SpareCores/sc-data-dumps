@@ -1,3 +1,62 @@
+## v0.10.0+20261014155222 (Oct 14, 2026)
+
+This is an automated release with 50 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/38577823896
+
+
+### server
+
+- New: gcp/9920003
+- New: gcp/9920004
+- New: gcp/9920001
+- New: gcp/9920002
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.ebmg8i.48xlarge
+- Update: alicloud/ecs.ebmgn9i.64xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.gn6e-c12g1.24xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn9i-2x.16xlarge
+- Update: alicloud/ecs.gn9i-4x.32xlarge
+- Update: alicloud/ecs.gn9i.4xlarge
+- Update: alicloud/ecs.gn9i-8x.64xlarge
+- Update: alicloud/ecs.gn9i.8xlarge
+- Update: alicloud/ecs.hfgn6g.10xlarge
+- Update: alicloud/ecs.hfgn6g.20xlarge
+- Update: alicloud/ecs.hfgn6g.5xlarge
+- Update: aws/dl1.24xlarge
+- Update: aws/g4ad.16xlarge
+- Update: aws/g4ad.2xlarge
+- Update: aws/g4ad.4xlarge
+- Update: aws/g4ad.8xlarge
+- Update: aws/g4ad.xlarge
+- Update: aws/g7.12xlarge
+- Update: aws/g7.24xlarge
+- Update: aws/g7.2xlarge
+- Update: aws/g7.48xlarge
+- Update: aws/g7.4xlarge
+- Update: aws/g7.8xlarge
+- Update: aws/g7e.12xlarge
+- Update: aws/g7e.24xlarge
+- Update: aws/g7e.2xlarge
+- Update: aws/g7e.48xlarge
+- Update: aws/g7e.4xlarge
+- Update: aws/g7e.8xlarge
+- Update: gcp/999920000
+- Update: gcp/999920001
+- Update: gcp/999920002
+- Update: gcp/999920003
+- Update: gcp/999935024
+- Update: gcp/999935025
+- Update: gcp/999935026
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vbm-64c-1536gb-amd
+- Update: vultr/vcg-a16-12c-120g-32vram
+- Update: vultr/vcg-a16-6c-60g-16vram
+
 ## v0.10.0+20261014131849 (Oct 14, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.

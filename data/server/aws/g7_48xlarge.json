@@ -40,7 +40,7 @@
   "accelerator_memory_total": 262144,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
-  "accelerator_family": null,
+  "accelerator_family": "Blackwell",
   "accelerator_model": "RTX PRO 4500",
   "accelerators": [
     {

@@ -40,7 +40,7 @@
   "accelerator_memory_total": 98304,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": null,
-  "accelerator_family": null,
+  "accelerator_family": "Turing",
   "accelerator_model": "RTX 6000",
   "accelerators": [],
   "storage_size": 0,
