@@ -127,7 +127,7 @@
   "accelerator_count": 2.0,
   "accelerator_memory_min": 8192,
   "accelerator_memory_total": 16384,
-  "accelerator_type": null,
+  "accelerator_type": "GPU",
   "accelerator_manufacturer": "AMD",
   "accelerator_family": "Radeon Pro Navi",
   "accelerator_model": "V520",
