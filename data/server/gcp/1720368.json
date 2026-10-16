@@ -3,7 +3,9 @@
   "server_id": "1720368",
   "name": "a3-edgegpu-8g-nolssd",
   "api_reference": "a3-edgegpu-8g-nolssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a3-edgegpu-8g-nolssd"
+  },
   "display_name": "a3-edgegpu-8g-nolssd",
   "description": "Accelerator Optimized: 8 NVIDIA H100 GPU, 208 vCPUs, 1872GB RAM, No LocalSSD",
   "family": "a3",

@@ -3,7 +3,9 @@
   "server_id": "1722004",
   "name": "a3-ultragpu-8g-nolssd",
   "api_reference": "a3-ultragpu-8g-nolssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a3-ultragpu-8g-nolssd"
+  },
   "display_name": "a3-ultragpu-8g-nolssd",
   "description": "Accelerator Optimized: 8 NVIDIA H200 GPU, 224 vCPUs, 2952GB RAM, No LocalSSD",
   "family": "a3",

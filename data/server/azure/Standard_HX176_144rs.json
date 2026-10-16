@@ -3,7 +3,11 @@
   "server_id": "Standard_HX176-144rs",
   "name": "HX176-144rs",
   "api_reference": "Standard_HX176-144rs",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_HX176-144rs"
+    }
+  },
   "display_name": "HX176-144rs",
   "description": "HX family [RDMA capable] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "HX",

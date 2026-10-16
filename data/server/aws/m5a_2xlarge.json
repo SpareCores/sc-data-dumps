@@ -3,7 +3,9 @@
   "server_id": "m5a.2xlarge",
   "name": "m5a.2xlarge",
   "api_reference": "m5a.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m5a.2xlarge"
+  },
   "display_name": "m5a.2xlarge",
   "description": "General purpose [AMD processors] Gen5 2xlarge",
   "family": "m5a",

@@ -3,7 +3,9 @@
   "server_id": "m8g.8xlarge",
   "name": "m8g.8xlarge",
   "api_reference": "m8g.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8g.8xlarge"
+  },
   "display_name": "m8g.8xlarge",
   "description": "General purpose [AWS Graviton processors] Gen8 8xlarge",
   "family": "m8g",

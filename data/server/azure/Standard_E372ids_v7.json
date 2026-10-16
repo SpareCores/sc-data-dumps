@@ -3,7 +3,11 @@
   "server_id": "Standard_E372ids_v7",
   "name": "E372ids_v7",
   "api_reference": "Standard_E372ids_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E372ids_v7"
+    }
+  },
   "display_name": "E372ids_v7",
   "description": "Edsv7 family [Isolated] [Local Disk] [Premium Storage capable] [Intel processor] 372 vCPUs",
   "family": "Edsv7",

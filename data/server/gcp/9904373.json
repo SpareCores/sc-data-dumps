@@ -3,7 +3,9 @@
   "server_id": "9904373",
   "name": "x4-480-6t-metal",
   "api_reference": "x4-480-6t-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "x4-480-6t-metal"
+  },
   "display_name": "x4-480-6t-metal",
   "description": "480 vCPUs, 6144 GB RAM",
   "family": "x4",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E96ias_v4",
   "name": "E96ias_v4",
   "api_reference": "Standard_E96ias_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E96ias_v4"
+    }
+  },
   "display_name": "E96ias_v4",
   "description": "EIASv4 family [Isolated] [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "EIASv4",

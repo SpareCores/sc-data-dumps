@@ -3,7 +3,9 @@
   "server_id": "z1d.xlarge",
   "name": "z1d.xlarge",
   "api_reference": "z1d.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "z1d.xlarge"
+  },
   "display_name": "z1d.xlarge",
   "description": "High frequency [Instance store volumes] Gen1 xlarge",
   "family": "z1d",

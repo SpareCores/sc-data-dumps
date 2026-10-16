@@ -3,7 +3,9 @@
   "server_id": "HICPU-8xCPU-12GB",
   "name": "HICPU-8xCPU-12GB",
   "api_reference": "HICPU-8xCPU-12GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "HICPU-8xCPU-12GB"
+  },
   "display_name": "HICPU-8xCPU-12GB",
   "description": "High CPU (8 vCPUs, 12 GiB RAM)",
   "family": "High CPU",

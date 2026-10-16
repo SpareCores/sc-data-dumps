@@ -3,7 +3,11 @@
   "server_id": "Standard_L32aos_v5",
   "name": "L32aos_v5",
   "api_reference": "Standard_L32aos_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L32aos_v5"
+    }
+  },
   "display_name": "L32aos_v5",
   "description": "Laosv5 family [AMD processor] [o] [Premium Storage capable] 32 vCPUs",
   "family": "Laosv5",

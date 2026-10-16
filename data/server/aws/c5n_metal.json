@@ -3,7 +3,9 @@
   "server_id": "c5n.metal",
   "name": "c5n.metal",
   "api_reference": "c5n.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5n.metal"
+  },
   "display_name": "c5n.metal",
   "description": "Compute optimized [Network and EBS optimized] Gen5 metal",
   "family": "c5n",

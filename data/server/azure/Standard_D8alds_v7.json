@@ -3,7 +3,11 @@
   "server_id": "Standard_D8alds_v7",
   "name": "D8alds_v7",
   "api_reference": "Standard_D8alds_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D8alds_v7"
+    }
+  },
   "display_name": "D8alds_v7",
   "description": "Daldsv7 family [AMD processor] [Low Memory] [Local Disk] [Premium Storage capable] 8 vCPUs",
   "family": "Daldsv7",

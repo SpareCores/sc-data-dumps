@@ -3,7 +3,9 @@
   "server_id": "8xCPU-32GB",
   "name": "8xCPU-32GB",
   "api_reference": "8xCPU-32GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "8xCPU-32GB"
+  },
   "display_name": "8xCPU-32GB",
   "description": "General Purpose (8 vCPUs, 32 GiB RAM)",
   "family": "General Purpose",

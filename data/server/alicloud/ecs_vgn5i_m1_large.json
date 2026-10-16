@@ -3,7 +3,9 @@
   "server_id": "ecs.vgn5i-m1.large",
   "name": "ecs.vgn5i-m1.large",
   "api_reference": "ecs.vgn5i-m1.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.vgn5i-m1.large"
+  },
   "display_name": "ecs.vgn5i-m1.large",
   "description": "ecs.vgn5i family (2 vCPUs, 6 GiB RAM, 0 GB  storage, 0.125xP4 1024 GiB VRAM)",
   "family": "ecs.vgn5i",

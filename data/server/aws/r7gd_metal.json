@@ -3,7 +3,9 @@
   "server_id": "r7gd.metal",
   "name": "r7gd.metal",
   "api_reference": "r7gd.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7gd.metal"
+  },
   "display_name": "r7gd.metal",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen7 metal",
   "family": "r7gd",

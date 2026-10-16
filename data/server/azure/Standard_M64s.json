@@ -3,7 +3,11 @@
   "server_id": "Standard_M64s",
   "name": "M64s",
   "api_reference": "Standard_M64s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M64s"
+    }
+  },
   "display_name": "M64s",
   "description": "MS family [Premium Storage capable] [Intel processor] 64 vCPUs",
   "family": "MS",

@@ -3,7 +3,9 @@
   "server_id": "ecs.hfr7.24xlarge",
   "name": "ecs.hfr7.24xlarge",
   "api_reference": "ecs.hfr7.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfr7.24xlarge"
+  },
   "display_name": "ecs.hfr7.24xlarge",
   "description": "ecs.hfr7 family (96 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfr7",

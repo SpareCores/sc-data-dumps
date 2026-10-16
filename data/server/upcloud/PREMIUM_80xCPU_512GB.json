@@ -3,7 +3,9 @@
   "server_id": "PREMIUM-80xCPU-512GB",
   "name": "PREMIUM-80xCPU-512GB",
   "api_reference": "PREMIUM-80xCPU-512GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "PREMIUM-80xCPU-512GB"
+  },
   "display_name": "PREMIUM-80xCPU-512GB",
   "description": "Premium (80 vCPUs, 512 GiB RAM)",
   "family": "Premium",

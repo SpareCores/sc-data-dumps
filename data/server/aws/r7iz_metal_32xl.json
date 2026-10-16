@@ -3,7 +3,9 @@
   "server_id": "r7iz.metal-32xl",
   "name": "r7iz.metal-32xl",
   "api_reference": "r7iz.metal-32xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7iz.metal-32xl"
+  },
   "display_name": "r7iz.metal-32xl",
   "description": "Memory optimized [Intel processors] [High performance] Gen7 metal-32xl",
   "family": "r7iz",

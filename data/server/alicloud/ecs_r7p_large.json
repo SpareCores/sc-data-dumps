@@ -3,7 +3,9 @@
   "server_id": "ecs.r7p.large",
   "name": "ecs.r7p.large",
   "api_reference": "ecs.r7p.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r7p.large"
+  },
   "display_name": "ecs.r7p.large",
   "description": "ecs.r7p family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7p",

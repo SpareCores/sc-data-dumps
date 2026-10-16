@@ -3,7 +3,9 @@
   "server_id": "x8i.metal-48xl",
   "name": "x8i.metal-48xl",
   "api_reference": "x8i.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x8i.metal-48xl"
+  },
   "display_name": "x8i.metal-48xl",
   "description": "Memory intensive [Intel processors] Gen8 metal-48xl",
   "family": "x8i",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D64als_v7",
   "name": "D64als_v7",
   "api_reference": "Standard_D64als_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64als_v7"
+    }
+  },
   "display_name": "D64als_v7",
   "description": "Dalsv7 family [AMD processor] [Low Memory] [Premium Storage capable] 64 vCPUs",
   "family": "Dalsv7",

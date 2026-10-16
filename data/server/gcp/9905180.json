@@ -3,7 +3,9 @@
   "server_id": "9905180",
   "name": "c3d-highmem-180-lssd",
   "api_reference": "c3d-highmem-180-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3d-highmem-180-lssd"
+  },
   "display_name": "c3d-highmem-180-lssd",
   "description": "180 vCPUs, 1440 GB RAM, 16 local SSDs",
   "family": "c3d",

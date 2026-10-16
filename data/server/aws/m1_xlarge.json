@@ -3,7 +3,9 @@
   "server_id": "m1.xlarge",
   "name": "m1.xlarge",
   "api_reference": "m1.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m1.xlarge"
+  },
   "display_name": "m1.xlarge",
   "description": "General purpose Gen1 xlarge",
   "family": "m1",

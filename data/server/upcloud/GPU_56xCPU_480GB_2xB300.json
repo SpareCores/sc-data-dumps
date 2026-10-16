@@ -3,7 +3,9 @@
   "server_id": "GPU-56xCPU-480GB-2xB300",
   "name": "GPU-56xCPU-480GB-2xB300",
   "api_reference": "GPU-56xCPU-480GB-2xB300",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-56xCPU-480GB-2xB300"
+  },
   "display_name": "GPU-56xCPU-480GB-2xB300",
   "description": "GPU (56 vCPUs, 480 GiB RAM, 2x B300)",
   "family": "GPU",

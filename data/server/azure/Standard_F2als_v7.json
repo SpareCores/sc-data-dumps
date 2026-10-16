@@ -3,7 +3,11 @@
   "server_id": "Standard_F2als_v7",
   "name": "F2als_v7",
   "api_reference": "Standard_F2als_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F2als_v7"
+    }
+  },
   "display_name": "F2als_v7",
   "description": "Falsv7 family [AMD processor] [Low Memory] [Premium Storage capable] 2 vCPUs",
   "family": "Falsv7",

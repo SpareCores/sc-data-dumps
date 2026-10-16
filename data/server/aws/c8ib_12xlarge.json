@@ -3,7 +3,9 @@
   "server_id": "c8ib.12xlarge",
   "name": "c8ib.12xlarge",
   "api_reference": "c8ib.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8ib.12xlarge"
+  },
   "display_name": "c8ib.12xlarge",
   "description": "Compute optimized [Intel processors] Gen8 12xlarge",
   "family": "c8ib",

@@ -3,7 +3,11 @@
   "server_id": "Standard_M128bs_v3",
   "name": "M128bs_v3",
   "api_reference": "Standard_M128bs_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M128bs_v3"
+    }
+  },
   "display_name": "M128bs_v3",
   "description": "MBSMediumMemoryv3 family [Block Storage performance] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "MBSMediumMemoryv3",

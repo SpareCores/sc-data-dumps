@@ -3,7 +3,9 @@
   "server_id": "ecs.n1.tiny",
   "name": "ecs.n1.tiny",
   "api_reference": "ecs.n1.tiny",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.n1.tiny"
+  },
   "display_name": "ecs.n1.tiny",
   "description": "ecs.n1 family (1 vCPUs, 1 GiB RAM, 0 GB  storage)",
   "family": "ecs.n1",

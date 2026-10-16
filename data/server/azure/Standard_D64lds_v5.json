@@ -3,7 +3,11 @@
   "server_id": "Standard_D64lds_v5",
   "name": "D64lds_v5",
   "api_reference": "Standard_D64lds_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64lds_v5"
+    }
+  },
   "display_name": "D64lds_v5",
   "description": "DLDSv5 family [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
   "family": "DLDSv5",

@@ -3,7 +3,9 @@
   "server_id": "ecs.mn4.large",
   "name": "ecs.mn4.large",
   "api_reference": "ecs.mn4.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.mn4.large"
+  },
   "display_name": "ecs.mn4.large",
   "description": "ecs.mn4 family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.mn4",

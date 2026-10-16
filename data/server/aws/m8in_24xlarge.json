@@ -3,7 +3,9 @@
   "server_id": "m8in.24xlarge",
   "name": "m8in.24xlarge",
   "api_reference": "m8in.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8in.24xlarge"
+  },
   "display_name": "m8in.24xlarge",
   "description": "General purpose [Intel processors] [Network and EBS optimized] Gen8 24xlarge",
   "family": "m8in",

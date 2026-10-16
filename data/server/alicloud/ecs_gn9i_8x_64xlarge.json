@@ -3,9 +3,11 @@
   "server_id": "ecs.gn9i-8x.64xlarge",
   "name": "ecs.gn9i-8x.64xlarge",
   "api_reference": "ecs.gn9i-8x.64xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn9i-8x.64xlarge"
+  },
   "display_name": "ecs.gn9i-8x.64xlarge",
-  "description": "ecs.gn9i family (256 vCPUs, 1536 GiB RAM, 0 GB  storage, 8xRTX Pro 6000 98304 GiB VRAM)",
+  "description": "ecs.gn9i family (256 vCPUs, 1536 GiB RAM, 0 GB  storage, 8xRTX PRO 6000 98304 GiB VRAM)",
   "family": "ecs.gn9i",
   "series": null,
   "vcpus": 256,
@@ -41,7 +43,7 @@
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX Pro 6000",
+  "accelerator_model": "RTX PRO 6000",
   "accelerators": [],
   "storage_size": 0,
   "storage_type": null,

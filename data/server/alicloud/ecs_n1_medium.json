@@ -3,7 +3,9 @@
   "server_id": "ecs.n1.medium",
   "name": "ecs.n1.medium",
   "api_reference": "ecs.n1.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.n1.medium"
+  },
   "display_name": "ecs.n1.medium",
   "description": "ecs.n1 family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.n1",

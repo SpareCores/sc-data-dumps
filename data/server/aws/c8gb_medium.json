@@ -3,7 +3,9 @@
   "server_id": "c8gb.medium",
   "name": "c8gb.medium",
   "api_reference": "c8gb.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8gb.medium"
+  },
   "display_name": "c8gb.medium",
   "description": "Compute optimized [AWS Graviton processors] Gen8 medium",
   "family": "c8gb",

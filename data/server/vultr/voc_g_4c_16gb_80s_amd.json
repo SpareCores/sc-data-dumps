@@ -3,7 +3,9 @@
   "server_id": "voc-g-4c-16gb-80s-amd",
   "name": "voc-g-4c-16gb-80s-amd",
   "api_reference": "voc-g-4c-16gb-80s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-g-4c-16gb-80s-amd"
+  },
   "display_name": "voc-g-4c-16gb-80s-amd",
   "description": "Optimized Cloud Compute (4 vCPUs, 16.0 GiB RAM, 80 GB NVMe)",
   "family": "Optimized Cloud Compute",

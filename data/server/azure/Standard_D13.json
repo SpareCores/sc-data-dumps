@@ -3,7 +3,11 @@
   "server_id": "Standard_D13",
   "name": "D13",
   "api_reference": "Standard_D13",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D13"
+    }
+  },
   "display_name": "D13",
   "description": "D family [Intel processor] 8 vCPUs",
   "family": "D",

@@ -3,7 +3,9 @@
   "server_id": "m8ine.xlarge",
   "name": "m8ine.xlarge",
   "api_reference": "m8ine.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8ine.xlarge"
+  },
   "display_name": "m8ine.xlarge",
   "description": "General purpose [Intel processors] [Network and EBS optimized] [Extra storage or memory] Gen8 xlarge",
   "family": "m8ine",

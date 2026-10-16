@@ -3,7 +3,9 @@
   "server_id": "1741022",
   "name": "tpu7x-standard-1t",
   "api_reference": "tpu7x-standard-1t",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "tpu7x-standard-1t"
+  },
   "display_name": "tpu7x-standard-1t",
   "description": "56 vCPUs, 248 GB RAM, 1 Google TPU",
   "family": "tpu7x",

@@ -3,7 +3,9 @@
   "server_id": "c1.xlarge",
   "name": "c1.xlarge",
   "api_reference": "c1.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c1.xlarge"
+  },
   "display_name": "c1.xlarge",
   "description": "Compute optimized Gen1 xlarge",
   "family": "c1",

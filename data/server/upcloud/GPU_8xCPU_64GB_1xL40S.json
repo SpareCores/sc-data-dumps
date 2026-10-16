@@ -3,7 +3,9 @@
   "server_id": "GPU-8xCPU-64GB-1xL40S",
   "name": "GPU-8xCPU-64GB-1xL40S",
   "api_reference": "GPU-8xCPU-64GB-1xL40S",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-8xCPU-64GB-1xL40S"
+  },
   "display_name": "GPU-8xCPU-64GB-1xL40S",
   "description": "GPU (8 vCPUs, 64 GiB RAM, 1x L40S)",
   "family": "GPU",

@@ -3,7 +3,11 @@
   "server_id": "Standard_EC32as_cc_v5",
   "name": "EC32as_cc_v5",
   "api_reference": "Standard_EC32as_cc_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC32as_cc_v5"
+    }
+  },
   "display_name": "EC32as_cc_v5",
   "description": "ECACCV5 family [AMD processor] [Premium Storage capable] 32 vCPUs",
   "family": "ECACCV5",

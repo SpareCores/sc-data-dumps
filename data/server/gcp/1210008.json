@@ -3,7 +3,9 @@
   "server_id": "1210008",
   "name": "t2d-standard-8",
   "api_reference": "t2d-standard-8",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "t2d-standard-8"
+  },
   "display_name": "t2d-standard-8",
   "description": "8 vCPUs, 32 GB RAM",
   "family": "t2d",

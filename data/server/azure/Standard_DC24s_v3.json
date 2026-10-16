@@ -3,7 +3,11 @@
   "server_id": "Standard_DC24s_v3",
   "name": "DC24s_v3",
   "api_reference": "Standard_DC24s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC24s_v3"
+    }
+  },
   "display_name": "DC24s_v3",
   "description": "DCSv3 family [Premium Storage capable] [Intel processor] 24 vCPUs",
   "family": "DCSv3",

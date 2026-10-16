@@ -3,7 +3,11 @@
   "server_id": "Standard_B1ms",
   "name": "B1ms",
   "api_reference": "Standard_B1ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B1ms"
+    }
+  },
   "display_name": "B1ms",
   "description": "BS family [Memory Intensive] [Premium Storage capable] [Intel processor] 1 vCPU",
   "family": "BS",

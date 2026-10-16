@@ -3,7 +3,9 @@
   "server_id": "vcg-a40-96c-480g-192vram",
   "name": "vcg-a40-96c-480g-192vram",
   "api_reference": "vcg-a40-96c-480g-192vram",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vcg-a40-96c-480g-192vram"
+  },
   "display_name": "vcg-a40-96c-480g-192vram",
   "description": "Dedicated Metal GPU (96 vCPUs, 480.0 GiB RAM, 1400 GB NVMe)",
   "family": "Dedicated Metal GPU",

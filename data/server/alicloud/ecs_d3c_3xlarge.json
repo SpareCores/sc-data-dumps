@@ -3,7 +3,9 @@
   "server_id": "ecs.d3c.3xlarge",
   "name": "ecs.d3c.3xlarge",
   "api_reference": "ecs.d3c.3xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d3c.3xlarge"
+  },
   "display_name": "ecs.d3c.3xlarge",
   "description": "ecs.d3c family (14 vCPUs, 56 GiB RAM, 13743 GB hdd storage)",
   "family": "ecs.d3c",

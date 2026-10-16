@@ -3,7 +3,9 @@
   "server_id": "voc-s-16c-128gb-2560s-amd",
   "name": "voc-s-16c-128gb-2560s-amd",
   "api_reference": "voc-s-16c-128gb-2560s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-s-16c-128gb-2560s-amd"
+  },
   "display_name": "voc-s-16c-128gb-2560s-amd",
   "description": "Optimized Cloud Compute (16 vCPUs, 128.0 GiB RAM, 2560 GB NVMe)",
   "family": "Optimized Cloud Compute",

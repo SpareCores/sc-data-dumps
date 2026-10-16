@@ -3,7 +3,9 @@
   "server_id": "c6a.48xlarge",
   "name": "c6a.48xlarge",
   "api_reference": "c6a.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c6a.48xlarge"
+  },
   "display_name": "c6a.48xlarge",
   "description": "Compute optimized [AMD processors] Gen6 48xlarge",
   "family": "c6a",

@@ -3,7 +3,9 @@
   "server_id": "1743001",
   "name": "c3-highmem-192-metal",
   "api_reference": "c3-highmem-192-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3-highmem-192-metal"
+  },
   "display_name": "c3-highmem-192-metal",
   "description": "Compute Optimized Bare Metal: 192 vCPUs, 1.5 TB RAM",
   "family": "c3",

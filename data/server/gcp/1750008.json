@@ -3,7 +3,9 @@
   "server_id": "1750008",
   "name": "n4-standard-80",
   "api_reference": "n4-standard-80",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n4-standard-80"
+  },
   "display_name": "n4-standard-80",
   "description": "80 vCPUs, 320 GB RAM",
   "family": "n4",

@@ -3,7 +3,9 @@
   "server_id": "911096",
   "name": "n2d-standard-96",
   "api_reference": "n2d-standard-96",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2d-standard-96"
+  },
   "display_name": "n2d-standard-96",
   "description": "96 vCPUs 384 GB RAM",
   "family": "n2d",

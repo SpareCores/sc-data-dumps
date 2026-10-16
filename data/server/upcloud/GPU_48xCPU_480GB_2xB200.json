@@ -3,7 +3,9 @@
   "server_id": "GPU-48xCPU-480GB-2xB200",
   "name": "GPU-48xCPU-480GB-2xB200",
   "api_reference": "GPU-48xCPU-480GB-2xB200",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-48xCPU-480GB-2xB200"
+  },
   "display_name": "GPU-48xCPU-480GB-2xB200",
   "description": "GPU (48 vCPUs, 480 GiB RAM, 2x B200)",
   "family": "GPU",

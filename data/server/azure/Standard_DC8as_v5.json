@@ -3,7 +3,11 @@
   "server_id": "Standard_DC8as_v5",
   "name": "DC8as_v5",
   "api_reference": "Standard_DC8as_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC8as_v5"
+    }
+  },
   "display_name": "DC8as_v5",
   "description": "DCASv5 family [AMD processor] [Premium Storage capable] 8 vCPUs",
   "family": "DCASv5",

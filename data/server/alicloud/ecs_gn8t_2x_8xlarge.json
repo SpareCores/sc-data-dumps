@@ -3,7 +3,9 @@
   "server_id": "ecs.gn8t-2x.8xlarge",
   "name": "ecs.gn8t-2x.8xlarge",
   "api_reference": "ecs.gn8t-2x.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn8t-2x.8xlarge"
+  },
   "display_name": "ecs.gn8t-2x.8xlarge",
   "description": "ecs.gn8t family (32 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.gn8t",
@@ -55,5 +57,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

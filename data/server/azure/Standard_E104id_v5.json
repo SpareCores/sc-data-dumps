@@ -3,7 +3,11 @@
   "server_id": "Standard_E104id_v5",
   "name": "E104id_v5",
   "api_reference": "Standard_E104id_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E104id_v5"
+    }
+  },
   "display_name": "E104id_v5",
   "description": "EIDv5 family [Isolated] [Local Disk] [Intel processor] 104 vCPUs",
   "family": "EIDv5",

@@ -3,7 +3,9 @@
   "server_id": "x8i.32xlarge",
   "name": "x8i.32xlarge",
   "api_reference": "x8i.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x8i.32xlarge"
+  },
   "display_name": "x8i.32xlarge",
   "description": "Memory intensive [Intel processors] Gen8 32xlarge",
   "family": "x8i",

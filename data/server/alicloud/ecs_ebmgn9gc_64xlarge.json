@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmgn9gc.64xlarge",
   "name": "ecs.ebmgn9gc.64xlarge",
   "api_reference": "ecs.ebmgn9gc.64xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmgn9gc.64xlarge"
+  },
   "display_name": "ecs.ebmgn9gc.64xlarge",
   "description": "ecs.ebmgn9gc family (256 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmgn9gc",

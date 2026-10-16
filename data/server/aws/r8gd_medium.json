@@ -3,7 +3,9 @@
   "server_id": "r8gd.medium",
   "name": "r8gd.medium",
   "api_reference": "r8gd.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8gd.medium"
+  },
   "display_name": "r8gd.medium",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen8 medium",
   "family": "r8gd",

@@ -3,7 +3,9 @@
   "server_id": "1000",
   "name": "f1-micro",
   "api_reference": "f1-micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "f1-micro"
+  },
   "display_name": "f1-micro",
   "description": "1 vCPU (shared physical core) and 0.6 GB RAM",
   "family": "f1",

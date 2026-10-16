@@ -3,7 +3,9 @@
   "server_id": "r4.16xlarge",
   "name": "r4.16xlarge",
   "api_reference": "r4.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r4.16xlarge"
+  },
   "display_name": "r4.16xlarge",
   "description": "Memory optimized Gen4 16xlarge",
   "family": "r4",

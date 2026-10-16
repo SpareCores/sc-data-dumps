@@ -3,7 +3,9 @@
   "server_id": "p4de.24xlarge",
   "name": "p4de.24xlarge",
   "api_reference": "p4de.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p4de.24xlarge"
+  },
   "display_name": "p4de.24xlarge",
   "description": "GPU accelerated [Instance store volumes] [Extra storage or memory] Gen4 24xlarge",
   "family": "p4de",

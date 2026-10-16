@@ -3,7 +3,11 @@
   "server_id": "Standard_EC48es_v6",
   "name": "EC48es_v6",
   "api_reference": "Standard_EC48es_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC48es_v6"
+    }
+  },
   "display_name": "EC48es_v6",
   "description": "ECEV6 family [Memory Optimized] [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "ECEV6",

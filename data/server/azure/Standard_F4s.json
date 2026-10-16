@@ -3,7 +3,11 @@
   "server_id": "Standard_F4s",
   "name": "F4s",
   "api_reference": "Standard_F4s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F4s"
+    }
+  },
   "display_name": "F4s",
   "description": "FS family [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "FS",

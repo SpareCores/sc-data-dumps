@@ -3,7 +3,9 @@
   "server_id": "PREMIUM-2xCPU-4GB",
   "name": "PREMIUM-2xCPU-4GB",
   "api_reference": "PREMIUM-2xCPU-4GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "PREMIUM-2xCPU-4GB"
+  },
   "display_name": "PREMIUM-2xCPU-4GB",
   "description": "Premium (2 vCPUs, 4 GiB RAM)",
   "family": "Premium",

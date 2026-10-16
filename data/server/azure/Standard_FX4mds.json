@@ -3,7 +3,11 @@
   "server_id": "Standard_FX4mds",
   "name": "FX4mds",
   "api_reference": "Standard_FX4mds",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_FX4mds"
+    }
+  },
   "display_name": "FX4mds",
   "description": "FXMDVS family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "FXMDVS",

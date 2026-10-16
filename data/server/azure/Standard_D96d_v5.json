@@ -3,7 +3,11 @@
   "server_id": "Standard_D96d_v5",
   "name": "D96d_v5",
   "api_reference": "Standard_D96d_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D96d_v5"
+    }
+  },
   "display_name": "D96d_v5",
   "description": "DDv5 family [Local Disk] [Intel processor] 96 vCPUs",
   "family": "DDv5",

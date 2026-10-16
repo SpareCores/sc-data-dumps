@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmg9h.96xlarge",
   "name": "ecs.ebmg9h.96xlarge",
   "api_reference": "ecs.ebmg9h.96xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmg9h.96xlarge"
+  },
   "display_name": "ecs.ebmg9h.96xlarge",
   "description": "ecs.ebmg9h family (384 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg9h",

@@ -3,7 +3,9 @@
   "server_id": "910032",
   "name": "n2d-highcpu-32",
   "api_reference": "n2d-highcpu-32",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2d-highcpu-32"
+  },
   "display_name": "n2d-highcpu-32",
   "description": "32 vCPUs 32 GB RAM",
   "family": "n2d",

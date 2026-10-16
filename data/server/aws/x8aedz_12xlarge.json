@@ -3,7 +3,9 @@
   "server_id": "x8aedz.12xlarge",
   "name": "x8aedz.12xlarge",
   "api_reference": "x8aedz.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x8aedz.12xlarge"
+  },
   "display_name": "x8aedz.12xlarge",
   "description": "Memory intensive [AMD processors] [Instance store volumes] [Extra storage or memory] [High performance] Gen8 12xlarge",
   "family": "x8aedz",

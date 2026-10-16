@@ -3,7 +3,9 @@
   "server_id": "999935536",
   "name": "c4n-highmem-8-lssd",
   "api_reference": "c4n-highmem-8-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4n-highmem-8-lssd"
+  },
   "display_name": "c4n-highmem-8-lssd",
   "description": "8 vCPUs, 62 GB RAM, 1 local SSD",
   "family": "c4n",

@@ -3,7 +3,9 @@
   "server_id": "c8gd.xlarge",
   "name": "c8gd.xlarge",
   "api_reference": "c8gd.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8gd.xlarge"
+  },
   "display_name": "c8gd.xlarge",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen8 xlarge",
   "family": "c8gd",

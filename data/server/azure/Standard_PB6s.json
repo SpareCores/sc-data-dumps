@@ -3,7 +3,11 @@
   "server_id": "Standard_PB6s",
   "name": "PB6s",
   "api_reference": "Standard_PB6s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_PB6s"
+    }
+  },
   "display_name": "PB6s",
   "description": "PBS family [Premium Storage capable] [Intel processor] 6 vCPUs",
   "family": "PBS",

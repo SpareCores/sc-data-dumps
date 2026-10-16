@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc6.26xlarge",
   "name": "ecs.ebmc6.26xlarge",
   "api_reference": "ecs.ebmc6.26xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc6.26xlarge"
+  },
   "display_name": "ecs.ebmc6.26xlarge",
   "description": "ecs.ebmc6 family (104 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc6",

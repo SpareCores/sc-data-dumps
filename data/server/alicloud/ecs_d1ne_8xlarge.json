@@ -3,7 +3,9 @@
   "server_id": "ecs.d1ne.8xlarge",
   "name": "ecs.d1ne.8xlarge",
   "api_reference": "ecs.d1ne.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d1ne.8xlarge"
+  },
   "display_name": "ecs.d1ne.8xlarge",
   "description": "ecs.d1ne family (32 vCPUs, 128 GiB RAM, 94489 GB hdd storage)",
   "family": "ecs.d1ne",

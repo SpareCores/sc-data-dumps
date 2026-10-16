@@ -3,7 +3,9 @@
   "server_id": "m8i-flex.xlarge",
   "name": "m8i-flex.xlarge",
   "api_reference": "m8i-flex.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8i-flex.xlarge"
+  },
   "display_name": "m8i-flex.xlarge",
   "description": "General purpose [Intel processors] Gen8 xlarge",
   "family": "m8i-flex",

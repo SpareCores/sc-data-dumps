@@ -3,7 +3,11 @@
   "server_id": "Standard_B2ts_v2",
   "name": "B2ts_v2",
   "api_reference": "Standard_B2ts_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B2ts_v2"
+    }
+  },
   "display_name": "B2ts_v2",
   "description": "Bsv2 family [Tiny Memory] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "Bsv2",

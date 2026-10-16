@@ -3,7 +3,9 @@
   "server_id": "c8a.2xlarge",
   "name": "c8a.2xlarge",
   "api_reference": "c8a.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8a.2xlarge"
+  },
   "display_name": "c8a.2xlarge",
   "description": "Compute optimized [AMD processors] Gen8 2xlarge",
   "family": "c8a",

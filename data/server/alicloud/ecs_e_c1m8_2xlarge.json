@@ -3,7 +3,9 @@
   "server_id": "ecs.e-c1m8.2xlarge",
   "name": "ecs.e-c1m8.2xlarge",
   "api_reference": "ecs.e-c1m8.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.e-c1m8.2xlarge"
+  },
   "display_name": "ecs.e-c1m8.2xlarge",
   "description": "ecs.e family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.e",

@@ -3,7 +3,9 @@
   "server_id": "vx1-m-96c-768gb",
   "name": "vx1-m-96c-768gb",
   "api_reference": "vx1-m-96c-768gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vx1-m-96c-768gb"
+  },
   "display_name": "vx1-m-96c-768gb",
   "description": "VX1 Cloud Compute (96 vCPUs, 768.0 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",

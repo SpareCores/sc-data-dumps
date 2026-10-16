@@ -3,7 +3,9 @@
   "server_id": "ecs.g8y.small",
   "name": "ecs.g8y.small",
   "api_reference": "ecs.g8y.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g8y.small"
+  },
   "display_name": "ecs.g8y.small",
   "description": "ecs.g8y family (1 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.g8y",

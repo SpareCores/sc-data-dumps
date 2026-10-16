@@ -3,7 +3,9 @@
   "server_id": "m8ib.large",
   "name": "m8ib.large",
   "api_reference": "m8ib.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8ib.large"
+  },
   "display_name": "m8ib.large",
   "description": "General purpose [Intel processors] Gen8 large",
   "family": "m8ib",

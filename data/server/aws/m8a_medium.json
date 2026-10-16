@@ -3,7 +3,9 @@
   "server_id": "m8a.medium",
   "name": "m8a.medium",
   "api_reference": "m8a.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8a.medium"
+  },
   "display_name": "m8a.medium",
   "description": "General purpose [AMD processors] Gen8 medium",
   "family": "m8a",

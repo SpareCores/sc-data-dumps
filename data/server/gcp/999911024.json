@@ -3,7 +3,9 @@
   "server_id": "999911024",
   "name": "c4-standard-24",
   "api_reference": "c4-standard-24",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4-standard-24"
+  },
   "display_name": "c4-standard-24",
   "description": "24 vCPUs, 90 GB RAM",
   "family": "c4",

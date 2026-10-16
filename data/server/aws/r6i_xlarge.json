@@ -3,7 +3,9 @@
   "server_id": "r6i.xlarge",
   "name": "r6i.xlarge",
   "api_reference": "r6i.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r6i.xlarge"
+  },
   "display_name": "r6i.xlarge",
   "description": "Memory optimized [Intel processors] Gen6 xlarge",
   "family": "r6i",

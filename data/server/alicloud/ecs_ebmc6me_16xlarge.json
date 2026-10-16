@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc6me.16xlarge",
   "name": "ecs.ebmc6me.16xlarge",
   "api_reference": "ecs.ebmc6me.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc6me.16xlarge"
+  },
   "display_name": "ecs.ebmc6me.16xlarge",
   "description": "ecs.ebmc6me family (64 vCPUs, 192 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc6me",

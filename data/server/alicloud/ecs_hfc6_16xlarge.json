@@ -3,7 +3,9 @@
   "server_id": "ecs.hfc6.16xlarge",
   "name": "ecs.hfc6.16xlarge",
   "api_reference": "ecs.hfc6.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfc6.16xlarge"
+  },
   "display_name": "ecs.hfc6.16xlarge",
   "description": "ecs.hfc6 family (64 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfc6",

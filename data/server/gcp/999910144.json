@@ -3,7 +3,9 @@
   "server_id": "999910144",
   "name": "c4-highcpu-144",
   "api_reference": "c4-highcpu-144",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4-highcpu-144"
+  },
   "display_name": "c4-highcpu-144",
   "description": "144 vCPUs, 288 GB RAM",
   "family": "c4",

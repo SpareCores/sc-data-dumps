@@ -3,7 +3,9 @@
   "server_id": "r8i.metal-48xl",
   "name": "r8i.metal-48xl",
   "api_reference": "r8i.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8i.metal-48xl"
+  },
   "display_name": "r8i.metal-48xl",
   "description": "Memory optimized [Intel processors] Gen8 metal-48xl",
   "family": "r8i",

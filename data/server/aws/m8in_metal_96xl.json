@@ -3,7 +3,9 @@
   "server_id": "m8in.metal-96xl",
   "name": "m8in.metal-96xl",
   "api_reference": "m8in.metal-96xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8in.metal-96xl"
+  },
   "display_name": "m8in.metal-96xl",
   "description": "General purpose [Intel processors] [Network and EBS optimized] Gen8 metal-96xl",
   "family": "m8in",

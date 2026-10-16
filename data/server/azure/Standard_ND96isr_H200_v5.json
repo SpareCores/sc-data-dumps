@@ -3,7 +3,11 @@
   "server_id": "Standard_ND96isr_H200_v5",
   "name": "ND96isr_H200_v5",
   "api_reference": "Standard_ND96isr_H200_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_ND96isr_H200_v5"
+    }
+  },
   "display_name": "ND96isr_H200_v5",
   "description": "NDISRH200V5 family [Isolated] [Premium Storage capable] [RDMA capable] [Intel processor] 96 vCPUs",
   "family": "NDISRH200V5",

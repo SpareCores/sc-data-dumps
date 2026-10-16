@@ -3,7 +3,9 @@
   "server_id": "ecs.d1.6xlarge",
   "name": "ecs.d1.6xlarge",
   "api_reference": "ecs.d1.6xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d1.6xlarge"
+  },
   "display_name": "ecs.d1.6xlarge",
   "description": "ecs.d1 family (24 vCPUs, 96 GiB RAM, 70866 GB hdd storage)",
   "family": "ecs.d1",
@@ -55,5 +57,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

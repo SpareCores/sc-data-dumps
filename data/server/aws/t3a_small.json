@@ -3,7 +3,9 @@
   "server_id": "t3a.small",
   "name": "t3a.small",
   "api_reference": "t3a.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3a.small"
+  },
   "display_name": "t3a.small",
   "description": "Burstable performance [AMD processors] Gen3 small",
   "family": "t3a",

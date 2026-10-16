@@ -3,7 +3,11 @@
   "server_id": "Standard_L16s",
   "name": "L16s",
   "api_reference": "Standard_L16s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L16s"
+    }
+  },
   "display_name": "L16s",
   "description": "LS family [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "LS",

@@ -3,7 +3,11 @@
   "server_id": "Standard_DS12-2_v2",
   "name": "DS12-2_v2",
   "api_reference": "Standard_DS12-2_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DS12-2_v2"
+    }
+  },
   "display_name": "DS12-2_v2",
   "description": "DSv2 family [Intel processor] 4 vCPUs",
   "family": "DSv2",

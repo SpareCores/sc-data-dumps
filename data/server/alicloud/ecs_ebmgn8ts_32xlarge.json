@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmgn8ts.32xlarge",
   "name": "ecs.ebmgn8ts.32xlarge",
   "api_reference": "ecs.ebmgn8ts.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmgn8ts.32xlarge"
+  },
   "display_name": "ecs.ebmgn8ts.32xlarge",
   "description": "ecs.ebmgn8ts family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmgn8ts",

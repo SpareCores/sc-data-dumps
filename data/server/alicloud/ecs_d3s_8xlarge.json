@@ -3,7 +3,9 @@
   "server_id": "ecs.d3s.8xlarge",
   "name": "ecs.d3s.8xlarge",
   "api_reference": "ecs.d3s.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d3s.8xlarge"
+  },
   "display_name": "ecs.d3s.8xlarge",
   "description": "ecs.d3s family (32 vCPUs, 128 GiB RAM, 190696 GB hdd storage)",
   "family": "ecs.d3s",

@@ -3,7 +3,9 @@
   "server_id": "ecs.gn8ga-2x.16xlarge",
   "name": "ecs.gn8ga-2x.16xlarge",
   "api_reference": "ecs.gn8ga-2x.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn8ga-2x.16xlarge"
+  },
   "display_name": "ecs.gn8ga-2x.16xlarge",
   "description": "ecs.gn8ga family (64 vCPUs, 256 GiB RAM, 0 GB  storage, 2xRTX 5880 49152 GiB VRAM)",
   "family": "ecs.gn8ga",

@@ -3,7 +3,9 @@
   "server_id": "m8azn.large",
   "name": "m8azn.large",
   "api_reference": "m8azn.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8azn.large"
+  },
   "display_name": "m8azn.large",
   "description": "General purpose [AMD processors] [Network and EBS optimized] [High performance] Gen8 large",
   "family": "m8azn",

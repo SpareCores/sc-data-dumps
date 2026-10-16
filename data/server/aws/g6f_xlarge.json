@@ -3,7 +3,9 @@
   "server_id": "g6f.xlarge",
   "name": "g6f.xlarge",
   "api_reference": "g6f.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g6f.xlarge"
+  },
   "display_name": "g6f.xlarge",
   "description": "Graphics intensive Gen6 xlarge",
   "family": "g6f",

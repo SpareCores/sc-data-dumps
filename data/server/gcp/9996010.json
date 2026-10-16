@@ -3,7 +3,9 @@
   "server_id": "9996010",
   "name": "z4d-highmem-8-highlssd",
   "api_reference": "z4d-highmem-8-highlssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z4d-highmem-8-highlssd"
+  },
   "display_name": "z4d-highmem-8-highlssd",
   "description": "Storage Optimized VM: 8 vCPUs, 63 GB RAM, 1 Local SSDs",
   "family": "z4d",

@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmhfg5.2xlarge",
   "name": "ecs.ebmhfg5.2xlarge",
   "api_reference": "ecs.ebmhfg5.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmhfg5.2xlarge"
+  },
   "display_name": "ecs.ebmhfg5.2xlarge",
   "description": "ecs.ebmhfg5 family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmhfg5",

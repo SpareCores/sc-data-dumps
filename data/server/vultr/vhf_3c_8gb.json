@@ -3,7 +3,9 @@
   "server_id": "vhf-3c-8gb",
   "name": "vhf-3c-8gb",
   "api_reference": "vhf-3c-8gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhf-3c-8gb"
+  },
   "display_name": "vhf-3c-8gb",
   "description": "High Frequency Compute (3 vCPUs, 8.0 GiB RAM, 256 GB NVMe)",
   "family": "High Frequency Compute",

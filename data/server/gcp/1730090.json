@@ -3,7 +3,9 @@
   "server_id": "1730090",
   "name": "c3d-standard-90-lssd",
   "api_reference": "c3d-standard-90-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3d-standard-90-lssd"
+  },
   "display_name": "c3d-standard-90-lssd",
   "description": "90 vCPUs, 360 GB RAM, 8 local SSDs",
   "family": "c3d",

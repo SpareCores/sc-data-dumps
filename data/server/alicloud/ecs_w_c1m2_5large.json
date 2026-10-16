@@ -3,7 +3,9 @@
   "server_id": "ecs.w-c1m2.5large",
   "name": "ecs.w-c1m2.5large",
   "api_reference": "ecs.w-c1m2.5large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.w-c1m2.5large"
+  },
   "display_name": "ecs.w-c1m2.5large",
   "description": "ecs.w family (10 vCPUs, 20 GiB RAM, 0 GB  storage)",
   "family": "ecs.w",

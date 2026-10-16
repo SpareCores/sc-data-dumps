@@ -3,7 +3,9 @@
   "server_id": "t3.nano",
   "name": "t3.nano",
   "api_reference": "t3.nano",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3.nano"
+  },
   "display_name": "t3.nano",
   "description": "Burstable performance Gen3 nano",
   "family": "t3",

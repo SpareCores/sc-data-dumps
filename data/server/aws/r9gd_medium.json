@@ -3,7 +3,9 @@
   "server_id": "r9gd.medium",
   "name": "r9gd.medium",
   "api_reference": "r9gd.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r9gd.medium"
+  },
   "display_name": "r9gd.medium",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen9 medium",
   "family": "r9gd",

@@ -3,7 +3,11 @@
   "server_id": "Standard_DS2",
   "name": "DS2",
   "api_reference": "Standard_DS2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DS2"
+    }
+  },
   "display_name": "DS2",
   "description": "DS family [Intel processor] 2 vCPUs",
   "family": "DS",

@@ -3,7 +3,11 @@
   "server_id": "Standard_ND128isr_GB300_v6",
   "name": "ND128isr_GB300_v6",
   "api_reference": "Standard_ND128isr_GB300_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_ND128isr_GB300_v6"
+    }
+  },
   "display_name": "ND128isr_GB300_v6",
   "description": "NDISRGB300V6 family [Isolated] [Premium Storage capable] [RDMA capable] [Intel processor] 128 vCPUs",
   "family": "NDISRGB300V6",

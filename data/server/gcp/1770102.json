@@ -3,7 +3,9 @@
   "server_id": "1770102",
   "name": "m4-megamem-56",
   "api_reference": "m4-megamem-56",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m4-megamem-56"
+  },
   "display_name": "m4-megamem-56",
   "description": "56 vCPUs, 744 GB RAM",
   "family": "m4",

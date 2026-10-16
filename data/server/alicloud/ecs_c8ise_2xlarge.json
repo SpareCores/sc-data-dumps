@@ -3,7 +3,9 @@
   "server_id": "ecs.c8ise.2xlarge",
   "name": "ecs.c8ise.2xlarge",
   "api_reference": "ecs.c8ise.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c8ise.2xlarge"
+  },
   "display_name": "ecs.c8ise.2xlarge",
   "description": "ecs.c8ise family (8 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8ise",

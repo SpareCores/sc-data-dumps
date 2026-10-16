@@ -3,7 +3,9 @@
   "server_id": "i4i.24xlarge",
   "name": "i4i.24xlarge",
   "api_reference": "i4i.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i4i.24xlarge"
+  },
   "display_name": "i4i.24xlarge",
   "description": "Storage optimized [Intel processors] Gen4 24xlarge",
   "family": "i4i",

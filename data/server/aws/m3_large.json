@@ -3,7 +3,9 @@
   "server_id": "m3.large",
   "name": "m3.large",
   "api_reference": "m3.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m3.large"
+  },
   "display_name": "m3.large",
   "description": "General purpose Gen3 large",
   "family": "m3",

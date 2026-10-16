@@ -3,7 +3,9 @@
   "server_id": "r8id.4xlarge",
   "name": "r8id.4xlarge",
   "api_reference": "r8id.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8id.4xlarge"
+  },
   "display_name": "r8id.4xlarge",
   "description": "Memory optimized [Intel processors] [Instance store volumes] Gen8 4xlarge",
   "family": "r8id",

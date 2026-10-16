@@ -3,7 +3,11 @@
   "server_id": "Standard_B8ms",
   "name": "B8ms",
   "api_reference": "Standard_B8ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B8ms"
+    }
+  },
   "display_name": "B8ms",
   "description": "BS family [Memory Intensive] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "BS",

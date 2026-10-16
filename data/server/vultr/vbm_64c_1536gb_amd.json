@@ -3,7 +3,9 @@
   "server_id": "vbm-64c-1536gb-amd",
   "name": "vbm-64c-1536gb-amd",
   "api_reference": "vbm-64c-1536gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-64c-1536gb-amd"
+  },
   "display_name": "vbm-64c-1536gb-amd",
   "description": "Bare Metal NVMe (128 vCPUs, 1536.0 GiB RAM, 480 GB NVMe)",
   "family": "Bare Metal NVMe",

@@ -3,7 +3,9 @@
   "server_id": "g7.12xlarge",
   "name": "g7.12xlarge",
   "api_reference": "g7.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g7.12xlarge"
+  },
   "display_name": "g7.12xlarge",
   "description": "Graphics intensive Gen7 12xlarge",
   "family": "g7",

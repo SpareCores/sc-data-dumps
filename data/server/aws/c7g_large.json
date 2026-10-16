@@ -3,7 +3,9 @@
   "server_id": "c7g.large",
   "name": "c7g.large",
   "api_reference": "c7g.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7g.large"
+  },
   "display_name": "c7g.large",
   "description": "Compute optimized [AWS Graviton processors] Gen7 large",
   "family": "c7g",

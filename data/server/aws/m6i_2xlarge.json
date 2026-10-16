@@ -3,7 +3,9 @@
   "server_id": "m6i.2xlarge",
   "name": "m6i.2xlarge",
   "api_reference": "m6i.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6i.2xlarge"
+  },
   "display_name": "m6i.2xlarge",
   "description": "General purpose [Intel processors] Gen6 2xlarge",
   "family": "m6i",

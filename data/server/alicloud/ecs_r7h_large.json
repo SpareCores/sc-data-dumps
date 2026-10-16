@@ -3,7 +3,9 @@
   "server_id": "ecs.r7h.large",
   "name": "ecs.r7h.large",
   "api_reference": "ecs.r7h.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r7h.large"
+  },
   "display_name": "ecs.r7h.large",
   "description": "ecs.r7h family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7h",

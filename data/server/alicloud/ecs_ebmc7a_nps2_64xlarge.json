@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc7a-nps2.64xlarge",
   "name": "ecs.ebmc7a-nps2.64xlarge",
   "api_reference": "ecs.ebmc7a-nps2.64xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc7a-nps2.64xlarge"
+  },
   "display_name": "ecs.ebmc7a-nps2.64xlarge",
   "description": "ecs.ebmc7a-nps2 family (256 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc7a-nps2",

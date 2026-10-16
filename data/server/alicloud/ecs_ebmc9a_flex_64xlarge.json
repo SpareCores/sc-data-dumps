@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc9a-flex.64xlarge",
   "name": "ecs.ebmc9a-flex.64xlarge",
   "api_reference": "ecs.ebmc9a-flex.64xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc9a-flex.64xlarge"
+  },
   "display_name": "ecs.ebmc9a-flex.64xlarge",
   "description": "ecs.ebmc9a-flex family (384 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc9a-flex",

@@ -3,7 +3,9 @@
   "server_id": "38xCPU-192GB",
   "name": "38xCPU-192GB",
   "api_reference": "38xCPU-192GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "38xCPU-192GB"
+  },
   "display_name": "38xCPU-192GB",
   "description": "General Purpose (38 vCPUs, 192 GiB RAM)",
   "family": "General Purpose",

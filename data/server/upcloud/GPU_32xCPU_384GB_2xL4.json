@@ -3,7 +3,9 @@
   "server_id": "GPU-32xCPU-384GB-2xL4",
   "name": "GPU-32xCPU-384GB-2xL4",
   "api_reference": "GPU-32xCPU-384GB-2xL4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-32xCPU-384GB-2xL4"
+  },
   "display_name": "GPU-32xCPU-384GB-2xL4",
   "description": "GPU (32 vCPUs, 384 GiB RAM, 2x L4)",
   "family": "GPU",

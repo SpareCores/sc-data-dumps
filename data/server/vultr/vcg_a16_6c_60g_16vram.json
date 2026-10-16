@@ -3,7 +3,9 @@
   "server_id": "vcg-a16-6c-60g-16vram",
   "name": "vcg-a16-6c-60g-16vram",
   "api_reference": "vcg-a16-6c-60g-16vram",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vcg-a16-6c-60g-16vram"
+  },
   "display_name": "vcg-a16-6c-60g-16vram",
   "description": "Dedicated Metal GPU (6 vCPUs, 60.0 GiB RAM, 350 GB NVMe)",
   "family": "Dedicated Metal GPU",

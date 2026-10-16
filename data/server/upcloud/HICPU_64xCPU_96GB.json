@@ -3,7 +3,9 @@
   "server_id": "HICPU-64xCPU-96GB",
   "name": "HICPU-64xCPU-96GB",
   "api_reference": "HICPU-64xCPU-96GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "HICPU-64xCPU-96GB"
+  },
   "display_name": "HICPU-64xCPU-96GB",
   "description": "High CPU (64 vCPUs, 96 GiB RAM)",
   "family": "High CPU",

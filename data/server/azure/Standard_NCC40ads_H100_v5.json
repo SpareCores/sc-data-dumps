@@ -3,7 +3,11 @@
   "server_id": "Standard_NCC40ads_H100_v5",
   "name": "NCC40ads_H100_v5",
   "api_reference": "Standard_NCC40ads_H100_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NCC40ads_H100_v5"
+    }
+  },
   "display_name": "NCC40ads_H100_v5",
   "description": "NCCads2023 family [AMD processor] [Local Disk] [Premium Storage capable] 40 vCPUs",
   "family": "NCCads2023",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E8-4as_v5",
   "name": "E8-4as_v5",
   "api_reference": "Standard_E8-4as_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E8-4as_v5"
+    }
+  },
   "display_name": "E8-4as_v5",
   "description": "EASv5 family [AMD processor] [Premium Storage capable] 8 vCPUs",
   "family": "EASv5",

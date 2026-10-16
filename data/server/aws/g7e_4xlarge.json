@@ -3,7 +3,9 @@
   "server_id": "g7e.4xlarge",
   "name": "g7e.4xlarge",
   "api_reference": "g7e.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g7e.4xlarge"
+  },
   "display_name": "g7e.4xlarge",
   "description": "Graphics intensive [Extra storage or memory] Gen7 4xlarge",
   "family": "g7e",
@@ -163,7 +165,7 @@
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX Pro 6000",
+  "accelerator_model": "RTX PRO 6000",
   "accelerators": [
     {
       "manufacturer": "NVIDIA",

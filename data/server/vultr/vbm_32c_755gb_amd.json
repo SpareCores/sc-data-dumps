@@ -3,7 +3,9 @@
   "server_id": "vbm-32c-755gb-amd",
   "name": "vbm-32c-755gb-amd",
   "api_reference": "vbm-32c-755gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-32c-755gb-amd"
+  },
   "display_name": "vbm-32c-755gb-amd",
   "description": "Bare Metal SSD (64 vCPUs, 768.0 GiB RAM, 960 GB SSD)",
   "family": "Bare Metal SSD",

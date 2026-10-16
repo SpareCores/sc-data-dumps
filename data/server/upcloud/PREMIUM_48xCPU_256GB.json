@@ -3,7 +3,9 @@
   "server_id": "PREMIUM-48xCPU-256GB",
   "name": "PREMIUM-48xCPU-256GB",
   "api_reference": "PREMIUM-48xCPU-256GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "PREMIUM-48xCPU-256GB"
+  },
   "display_name": "PREMIUM-48xCPU-256GB",
   "description": "Premium (48 vCPUs, 256 GiB RAM)",
   "family": "Premium",

@@ -3,7 +3,9 @@
   "server_id": "t1.micro",
   "name": "t1.micro",
   "api_reference": "t1.micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t1.micro"
+  },
   "display_name": "t1.micro",
   "description": "Burstable performance Gen1 micro",
   "family": "t1",

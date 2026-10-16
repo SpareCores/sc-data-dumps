@@ -3,7 +3,11 @@
   "server_id": "Standard_M176ds_4_v3",
   "name": "M176ds_4_v3",
   "api_reference": "Standard_M176ds_4_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M176ds_4_v3"
+    }
+  },
   "display_name": "M176ds_4_v3",
   "description": "MDSMediumMemoryv3 family [Local Disk] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "MDSMediumMemoryv3",

@@ -3,7 +3,9 @@
   "server_id": "m8azn.metal-12xl",
   "name": "m8azn.metal-12xl",
   "api_reference": "m8azn.metal-12xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8azn.metal-12xl"
+  },
   "display_name": "m8azn.metal-12xl",
   "description": "General purpose [AMD processors] [Network and EBS optimized] [High performance] Gen8 metal-12xl",
   "family": "m8azn",

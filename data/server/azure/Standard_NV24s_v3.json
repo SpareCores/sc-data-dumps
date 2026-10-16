@@ -3,7 +3,11 @@
   "server_id": "Standard_NV24s_v3",
   "name": "NV24s_v3",
   "api_reference": "Standard_NV24s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NV24s_v3"
+    }
+  },
   "display_name": "NV24s_v3",
   "description": "NVSv3 family [Premium Storage capable] [Intel processor] 24 vCPUs",
   "family": "NVSv3",

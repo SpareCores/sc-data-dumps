@@ -3,7 +3,9 @@
   "server_id": "i7i.12xlarge",
   "name": "i7i.12xlarge",
   "api_reference": "i7i.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i7i.12xlarge"
+  },
   "display_name": "i7i.12xlarge",
   "description": "Storage optimized [Intel processors] Gen7 12xlarge",
   "family": "i7i",

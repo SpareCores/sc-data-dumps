@@ -3,7 +3,9 @@
   "server_id": "r5a.4xlarge",
   "name": "r5a.4xlarge",
   "api_reference": "r5a.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r5a.4xlarge"
+  },
   "display_name": "r5a.4xlarge",
   "description": "Memory optimized [AMD processors] Gen5 4xlarge",
   "family": "r5a",

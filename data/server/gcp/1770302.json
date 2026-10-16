@@ -3,7 +3,9 @@
   "server_id": "1770302",
   "name": "m4n-ultramem-224",
   "api_reference": "m4n-ultramem-224",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m4n-ultramem-224"
+  },
   "display_name": "m4n-ultramem-224",
   "description": "224 vCPUs, 5952 GB RAM",
   "family": "m4n",

@@ -3,7 +3,9 @@
   "server_id": "vhp-8c-16gb-amd",
   "name": "vhp-8c-16gb-amd",
   "api_reference": "vhp-8c-16gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhp-8c-16gb-amd"
+  },
   "display_name": "vhp-8c-16gb-amd",
   "description": "High Performance (8 vCPUs, 16.0 GiB RAM, 350 GB NVMe)",
   "family": "High Performance",

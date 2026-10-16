@@ -3,7 +3,9 @@
   "server_id": "voc-g-96c-256gb-1280s-amd",
   "name": "voc-g-96c-256gb-1280s-amd",
   "api_reference": "voc-g-96c-256gb-1280s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-g-96c-256gb-1280s-amd"
+  },
   "display_name": "voc-g-96c-256gb-1280s-amd",
   "description": "Optimized Cloud Compute (96 vCPUs, 256.0 GiB RAM, 1280 GB NVMe)",
   "family": "Optimized Cloud Compute",

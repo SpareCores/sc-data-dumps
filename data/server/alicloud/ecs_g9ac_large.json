@@ -3,7 +3,9 @@
   "server_id": "ecs.g9ac.large",
   "name": "ecs.g9ac.large",
   "api_reference": "ecs.g9ac.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g9ac.large"
+  },
   "display_name": "ecs.g9ac.large",
   "description": "ecs.g9ac family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9ac",

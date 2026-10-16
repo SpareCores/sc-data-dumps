@@ -3,7 +3,9 @@
   "server_id": "m4.16xlarge",
   "name": "m4.16xlarge",
   "api_reference": "m4.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m4.16xlarge"
+  },
   "display_name": "m4.16xlarge",
   "description": "General purpose Gen4 16xlarge",
   "family": "m4",

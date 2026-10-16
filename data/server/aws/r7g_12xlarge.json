@@ -3,7 +3,9 @@
   "server_id": "r7g.12xlarge",
   "name": "r7g.12xlarge",
   "api_reference": "r7g.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7g.12xlarge"
+  },
   "display_name": "r7g.12xlarge",
   "description": "Memory optimized [AWS Graviton processors] Gen7 12xlarge",
   "family": "r7g",

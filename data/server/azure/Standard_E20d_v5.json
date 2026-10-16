@@ -3,7 +3,11 @@
   "server_id": "Standard_E20d_v5",
   "name": "E20d_v5",
   "api_reference": "Standard_E20d_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E20d_v5"
+    }
+  },
   "display_name": "E20d_v5",
   "description": "EDv5 family [Local Disk] [Intel processor] 20 vCPUs",
   "family": "EDv5",

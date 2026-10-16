@@ -3,7 +3,9 @@
   "server_id": "1761096",
   "name": "c4-highmem-96",
   "api_reference": "c4-highmem-96",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4-highmem-96"
+  },
   "display_name": "c4-highmem-96",
   "description": "96 vCPUs, 744 GB RAM",
   "family": "c4",

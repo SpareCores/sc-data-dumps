@@ -3,7 +3,9 @@
   "server_id": "ecs.sgn8ga-wy-1024g-x4-ne.32xlarge",
   "name": "ecs.sgn8ga-wy-1024g-x4-ne.32xlarge",
   "api_reference": "ecs.sgn8ga-wy-1024g-x4-ne.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sgn8ga-wy-1024g-x4-ne.32xlarge"
+  },
   "display_name": "ecs.sgn8ga-wy-1024g-x4-ne.32xlarge",
   "description": "ecs.sgn8ga-wy family (128 vCPUs, 1024 GiB RAM, 0 GB  storage, 4xRTX 5880 49152 GiB VRAM)",
   "family": "ecs.sgn8ga-wy",

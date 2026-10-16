@@ -3,7 +3,11 @@
   "server_id": "Standard_D64d_v4",
   "name": "D64d_v4",
   "api_reference": "Standard_D64d_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64d_v4"
+    }
+  },
   "display_name": "D64d_v4",
   "description": "DDv4 family [Local Disk] [Intel processor] 64 vCPUs",
   "family": "DDv4",

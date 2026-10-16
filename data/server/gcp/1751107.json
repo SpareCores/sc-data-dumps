@@ -3,7 +3,9 @@
   "server_id": "1751107",
   "name": "n4d-highmem-80",
   "api_reference": "n4d-highmem-80",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n4d-highmem-80"
+  },
   "display_name": "n4d-highmem-80",
   "description": "80 vCPUs, 640 GB RAM",
   "family": "n4d",

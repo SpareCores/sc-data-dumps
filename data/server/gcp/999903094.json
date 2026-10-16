@@ -3,7 +3,9 @@
   "server_id": "999903094",
   "name": "c4d-highmem-192-lssd",
   "api_reference": "c4d-highmem-192-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4d-highmem-192-lssd"
+  },
   "display_name": "c4d-highmem-192-lssd",
   "description": "192 vCPUs, 1512 GB RAM, 16 local SSDs",
   "family": "c4d",

@@ -3,7 +3,11 @@
   "server_id": "Standard_EC64ads_cc_v5",
   "name": "EC64ads_cc_v5",
   "api_reference": "Standard_EC64ads_cc_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC64ads_cc_v5"
+    }
+  },
   "display_name": "EC64ads_cc_v5",
   "description": "ECADCCV5 family [AMD processor] [Local Disk] [Premium Storage capable] 64 vCPUs",
   "family": "ECADCCV5",

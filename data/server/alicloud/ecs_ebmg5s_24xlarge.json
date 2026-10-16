@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmg5s.24xlarge",
   "name": "ecs.ebmg5s.24xlarge",
   "api_reference": "ecs.ebmg5s.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmg5s.24xlarge"
+  },
   "display_name": "ecs.ebmg5s.24xlarge",
   "description": "ecs.ebmg5s family (96 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg5s",

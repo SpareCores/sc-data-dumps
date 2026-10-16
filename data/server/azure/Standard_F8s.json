@@ -3,7 +3,11 @@
   "server_id": "Standard_F8s",
   "name": "F8s",
   "api_reference": "Standard_F8s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F8s"
+    }
+  },
   "display_name": "F8s",
   "description": "FS family [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "FS",

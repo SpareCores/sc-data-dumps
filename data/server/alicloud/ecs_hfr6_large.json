@@ -3,7 +3,9 @@
   "server_id": "ecs.hfr6.large",
   "name": "ecs.hfr6.large",
   "api_reference": "ecs.hfr6.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfr6.large"
+  },
   "display_name": "ecs.hfr6.large",
   "description": "ecs.hfr6 family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfr6",

@@ -3,7 +3,9 @@
   "server_id": "trn1.32xlarge",
   "name": "trn1.32xlarge",
   "api_reference": "trn1.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "trn1.32xlarge"
+  },
   "display_name": "trn1.32xlarge",
   "description": "AWS Trainium Gen1 32xlarge",
   "family": "trn1",

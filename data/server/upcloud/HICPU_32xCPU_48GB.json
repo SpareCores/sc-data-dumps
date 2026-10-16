@@ -3,7 +3,9 @@
   "server_id": "HICPU-32xCPU-48GB",
   "name": "HICPU-32xCPU-48GB",
   "api_reference": "HICPU-32xCPU-48GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "HICPU-32xCPU-48GB"
+  },
   "display_name": "HICPU-32xCPU-48GB",
   "description": "High CPU (32 vCPUs, 48 GiB RAM)",
   "family": "High CPU",

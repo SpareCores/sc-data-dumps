@@ -3,7 +3,9 @@
   "server_id": "voc-s-8c-64gb-1920s-amd",
   "name": "voc-s-8c-64gb-1920s-amd",
   "api_reference": "voc-s-8c-64gb-1920s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-s-8c-64gb-1920s-amd"
+  },
   "display_name": "voc-s-8c-64gb-1920s-amd",
   "description": "Optimized Cloud Compute (8 vCPUs, 64.0 GiB RAM, 1920 GB NVMe)",
   "family": "Optimized Cloud Compute",

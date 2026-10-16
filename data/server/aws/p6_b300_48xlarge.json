@@ -3,7 +3,9 @@
   "server_id": "p6-b300.48xlarge",
   "name": "p6-b300.48xlarge",
   "api_reference": "p6-b300.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p6-b300.48xlarge"
+  },
   "display_name": "p6-b300.48xlarge",
   "description": "GPU accelerated Gen6 48xlarge",
   "family": "p6-b300",

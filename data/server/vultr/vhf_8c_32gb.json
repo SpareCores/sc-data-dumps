@@ -3,7 +3,9 @@
   "server_id": "vhf-8c-32gb",
   "name": "vhf-8c-32gb",
   "api_reference": "vhf-8c-32gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhf-8c-32gb"
+  },
   "display_name": "vhf-8c-32gb",
   "description": "High Frequency Compute (8 vCPUs, 32.0 GiB RAM, 512 GB NVMe)",
   "family": "High Frequency Compute",

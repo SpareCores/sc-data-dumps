@@ -3,7 +3,9 @@
   "server_id": "2xCPU-2GB",
   "name": "2xCPU-2GB",
   "api_reference": "2xCPU-2GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "2xCPU-2GB"
+  },
   "display_name": "2xCPU-2GB",
   "description": "General Purpose (2 vCPUs, 2 GiB RAM)",
   "family": "General Purpose",

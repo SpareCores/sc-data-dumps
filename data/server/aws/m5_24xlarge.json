@@ -3,7 +3,9 @@
   "server_id": "m5.24xlarge",
   "name": "m5.24xlarge",
   "api_reference": "m5.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m5.24xlarge"
+  },
   "display_name": "m5.24xlarge",
   "description": "General purpose Gen5 24xlarge",
   "family": "m5",

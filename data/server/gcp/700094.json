@@ -3,7 +3,9 @@
   "server_id": "700094",
   "name": "ct3-hightpu-4t",
   "api_reference": "ct3-hightpu-4t",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "ct3-hightpu-4t"
+  },
   "display_name": "ct3-hightpu-4t",
   "description": "96 vCPUs, 340 GB RAM, 2 vNUMA nodes",
   "family": "ct3",

@@ -3,7 +3,9 @@
   "server_id": "9904375",
   "name": "x4-960-12t-metal",
   "api_reference": "x4-960-12t-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "x4-960-12t-metal"
+  },
   "display_name": "x4-960-12t-metal",
   "description": "960 vCPUs, 12288 GB RAM",
   "family": "x4",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E96bs_v5",
   "name": "E96bs_v5",
   "api_reference": "Standard_E96bs_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E96bs_v5"
+    }
+  },
   "display_name": "E96bs_v5",
   "description": "EBSv5 family [Block Storage performance] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "EBSv5",

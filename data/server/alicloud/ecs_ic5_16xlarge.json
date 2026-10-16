@@ -3,7 +3,9 @@
   "server_id": "ecs.ic5.16xlarge",
   "name": "ecs.ic5.16xlarge",
   "api_reference": "ecs.ic5.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ic5.16xlarge"
+  },
   "display_name": "ecs.ic5.16xlarge",
   "description": "ecs.ic5 family (64 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.ic5",

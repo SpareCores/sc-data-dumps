@@ -3,7 +3,11 @@
   "server_id": "Standard_E64_v5",
   "name": "E64_v5",
   "api_reference": "Standard_E64_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E64_v5"
+    }
+  },
   "display_name": "E64_v5",
   "description": "Ev5 family [Intel processor] 64 vCPUs",
   "family": "Ev5",

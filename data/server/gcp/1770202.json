@@ -3,7 +3,9 @@
   "server_id": "1770202",
   "name": "m4-hypermem-16",
   "api_reference": "m4-hypermem-16",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m4-hypermem-16"
+  },
   "display_name": "m4-hypermem-16",
   "description": "16 vCPUs, 248 GB RAM",
   "family": "m4",

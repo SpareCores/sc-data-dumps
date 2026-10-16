@@ -3,7 +3,11 @@
   "server_id": "Standard_B4as_v2",
   "name": "B4as_v2",
   "api_reference": "Standard_B4as_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B4as_v2"
+    }
+  },
   "display_name": "B4as_v2",
   "description": "Basv2 family [AMD processor] [Premium Storage capable] 4 vCPUs",
   "family": "Basv2",

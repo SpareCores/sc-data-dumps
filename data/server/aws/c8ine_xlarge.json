@@ -3,7 +3,9 @@
   "server_id": "c8ine.xlarge",
   "name": "c8ine.xlarge",
   "api_reference": "c8ine.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8ine.xlarge"
+  },
   "display_name": "c8ine.xlarge",
   "description": "Compute optimized [Intel processors] [Network and EBS optimized] [Extra storage or memory] Gen8 xlarge",
   "family": "c8ine",

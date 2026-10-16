@@ -3,7 +3,9 @@
   "server_id": "ecs.c9h.xlarge",
   "name": "ecs.c9h.xlarge",
   "api_reference": "ecs.c9h.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c9h.xlarge"
+  },
   "display_name": "ecs.c9h.xlarge",
   "description": "ecs.c9h family (4 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.c9h",

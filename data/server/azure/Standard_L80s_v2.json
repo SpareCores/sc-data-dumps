@@ -3,7 +3,11 @@
   "server_id": "Standard_L80s_v2",
   "name": "L80s_v2",
   "api_reference": "Standard_L80s_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L80s_v2"
+    }
+  },
   "display_name": "L80s_v2",
   "description": "LSv2 family [Premium Storage capable] [Intel processor] 80 vCPUs",
   "family": "LSv2",

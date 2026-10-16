@@ -3,7 +3,11 @@
   "server_id": "Standard_EC16as_v5",
   "name": "EC16as_v5",
   "api_reference": "Standard_EC16as_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC16as_v5"
+    }
+  },
   "display_name": "EC16as_v5",
   "description": "ECASv5 family [AMD processor] [Premium Storage capable] 16 vCPUs",
   "family": "ECASv5",

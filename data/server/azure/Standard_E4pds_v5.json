@@ -3,7 +3,11 @@
   "server_id": "Standard_E4pds_v5",
   "name": "E4pds_v5",
   "api_reference": "Standard_E4pds_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E4pds_v5"
+    }
+  },
   "display_name": "E4pds_v5",
   "description": "EPDSv5 family [ARM processor] [Local Disk] [Premium Storage capable] 4 vCPUs",
   "family": "EPDSv5",

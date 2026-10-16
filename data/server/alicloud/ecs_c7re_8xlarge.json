@@ -3,7 +3,9 @@
   "server_id": "ecs.c7re.8xlarge",
   "name": "ecs.c7re.8xlarge",
   "api_reference": "ecs.c7re.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c7re.8xlarge"
+  },
   "display_name": "ecs.c7re.8xlarge",
   "description": "ecs.c7re family (32 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7re",

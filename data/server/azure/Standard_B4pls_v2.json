@@ -3,7 +3,11 @@
   "server_id": "Standard_B4pls_v2",
   "name": "B4pls_v2",
   "api_reference": "Standard_B4pls_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B4pls_v2"
+    }
+  },
   "display_name": "B4pls_v2",
   "description": "Bpsv2 family [ARM processor] [Low Memory] [Premium Storage capable] 4 vCPUs",
   "family": "Bpsv2",

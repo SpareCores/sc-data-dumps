@@ -3,7 +3,9 @@
   "server_id": "1742015",
   "name": "z3-highmem-22-standardlssd",
   "api_reference": "z3-highmem-22-standardlssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z3-highmem-22-standardlssd"
+  },
   "display_name": "z3-highmem-22-standardlssd",
   "description": "22 vCPUs, 176 GB RAM, 2 Local SSDs",
   "family": "z3",

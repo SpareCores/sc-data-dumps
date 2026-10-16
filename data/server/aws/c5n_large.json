@@ -3,7 +3,9 @@
   "server_id": "c5n.large",
   "name": "c5n.large",
   "api_reference": "c5n.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5n.large"
+  },
   "display_name": "c5n.large",
   "description": "Compute optimized [Network and EBS optimized] Gen5 large",
   "family": "c5n",

@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc7-htoff.32xlarge",
   "name": "ecs.ebmc7-htoff.32xlarge",
   "api_reference": "ecs.ebmc7-htoff.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc7-htoff.32xlarge"
+  },
   "display_name": "ecs.ebmc7-htoff.32xlarge",
   "description": "ecs.ebmc7-htoff family (128 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc7-htoff",

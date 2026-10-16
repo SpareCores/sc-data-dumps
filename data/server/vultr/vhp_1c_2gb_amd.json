@@ -3,7 +3,9 @@
   "server_id": "vhp-1c-2gb-amd",
   "name": "vhp-1c-2gb-amd",
   "api_reference": "vhp-1c-2gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhp-1c-2gb-amd"
+  },
   "display_name": "vhp-1c-2gb-amd",
   "description": "High Performance (1 vCPUs, 2.0 GiB RAM, 50 GB NVMe)",
   "family": "High Performance",

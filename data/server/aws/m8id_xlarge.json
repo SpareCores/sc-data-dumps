@@ -3,7 +3,9 @@
   "server_id": "m8id.xlarge",
   "name": "m8id.xlarge",
   "api_reference": "m8id.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8id.xlarge"
+  },
   "display_name": "m8id.xlarge",
   "description": "General purpose [Intel processors] [Instance store volumes] Gen8 xlarge",
   "family": "m8id",

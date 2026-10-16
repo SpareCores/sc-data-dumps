@@ -3,7 +3,11 @@
   "server_id": "Standard_D48nlds_v6",
   "name": "D48nlds_v6",
   "api_reference": "Standard_D48nlds_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D48nlds_v6"
+    }
+  },
   "display_name": "D48nlds_v6",
   "description": "Dnldv6 family [Network Optimized] [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "Dnldv6",

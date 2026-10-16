@@ -3,7 +3,9 @@
   "server_id": "ecs.hpc7i.8xlarge",
   "name": "ecs.hpc7i.8xlarge",
   "api_reference": "ecs.hpc7i.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hpc7i.8xlarge"
+  },
   "display_name": "ecs.hpc7i.8xlarge",
   "description": "ecs.hpc7i family (16 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc7i",

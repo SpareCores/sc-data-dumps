@@ -3,7 +3,9 @@
   "server_id": "ecs.hfg9i.2xlarge",
   "name": "ecs.hfg9i.2xlarge",
   "api_reference": "ecs.hfg9i.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfg9i.2xlarge"
+  },
   "display_name": "ecs.hfg9i.2xlarge",
   "description": "ecs.hfg9i family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfg9i",

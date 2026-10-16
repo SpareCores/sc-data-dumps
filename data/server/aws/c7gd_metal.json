@@ -3,7 +3,9 @@
   "server_id": "c7gd.metal",
   "name": "c7gd.metal",
   "api_reference": "c7gd.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7gd.metal"
+  },
   "display_name": "c7gd.metal",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen7 metal",
   "family": "c7gd",

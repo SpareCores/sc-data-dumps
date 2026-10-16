@@ -3,7 +3,9 @@
   "server_id": "ecs.e4.large",
   "name": "ecs.e4.large",
   "api_reference": "ecs.e4.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.e4.large"
+  },
   "display_name": "ecs.e4.large",
   "description": "ecs.e4 family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.e4",

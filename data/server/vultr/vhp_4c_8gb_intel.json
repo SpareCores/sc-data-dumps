@@ -3,7 +3,9 @@
   "server_id": "vhp-4c-8gb-intel",
   "name": "vhp-4c-8gb-intel",
   "api_reference": "vhp-4c-8gb-intel",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhp-4c-8gb-intel"
+  },
   "display_name": "vhp-4c-8gb-intel",
   "description": "High Performance (4 vCPUs, 8.0 GiB RAM, 180 GB NVMe)",
   "family": "High Performance",

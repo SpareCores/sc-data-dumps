@@ -3,7 +3,11 @@
   "server_id": "Standard_L4s",
   "name": "L4s",
   "api_reference": "Standard_L4s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L4s"
+    }
+  },
   "display_name": "L4s",
   "description": "LS family [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "LS",

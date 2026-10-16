@@ -3,7 +3,9 @@
   "server_id": "c7i.metal-24xl",
   "name": "c7i.metal-24xl",
   "api_reference": "c7i.metal-24xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7i.metal-24xl"
+  },
   "display_name": "c7i.metal-24xl",
   "description": "Compute optimized [Intel processors] Gen7 metal-24xl",
   "family": "c7i",

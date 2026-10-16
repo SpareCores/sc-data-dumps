@@ -3,7 +3,9 @@
   "server_id": "vx1-m-192c-1536gb",
   "name": "vx1-m-192c-1536gb",
   "api_reference": "vx1-m-192c-1536gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vx1-m-192c-1536gb"
+  },
   "display_name": "vx1-m-192c-1536gb",
   "description": "VX1 Cloud Compute (192 vCPUs, 1435.0 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",

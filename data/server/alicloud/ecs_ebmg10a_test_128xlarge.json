@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmg10a-test.128xlarge",
   "name": "ecs.ebmg10a-test.128xlarge",
   "api_reference": "ecs.ebmg10a-test.128xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmg10a-test.128xlarge"
+  },
   "display_name": "ecs.ebmg10a-test.128xlarge",
   "description": "ecs.ebmg9a-flex-nps4 family (512 vCPUs, 2048 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg9a-flex-nps4",

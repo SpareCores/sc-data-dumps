@@ -3,7 +3,9 @@
   "server_id": "1765193",
   "name": "c4a-standard-1",
   "api_reference": "c4a-standard-1",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-standard-1"
+  },
   "display_name": "c4a-standard-1",
   "description": "1 vCPUs, 4 GB RAM",
   "family": "c4a",

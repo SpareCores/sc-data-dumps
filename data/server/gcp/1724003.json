@@ -3,7 +3,9 @@
   "server_id": "1724003",
   "name": "a4x-maxgpu-4g-metal",
   "api_reference": "a4x-maxgpu-4g-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a4x-maxgpu-4g-metal"
+  },
   "display_name": "a4x-maxgpu-4g-metal",
   "description": "Accelerator Optimized: 4 NVIDIA GB300 GPU, 144 vCPUs, 960GB RAM",
   "family": "a4x",

@@ -3,7 +3,9 @@
   "server_id": "h1.16xlarge",
   "name": "h1.16xlarge",
   "api_reference": "h1.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "h1.16xlarge"
+  },
   "display_name": "h1.16xlarge",
   "description": "Cost-effective storage optimized with HDD Gen1 16xlarge",
   "family": "h1",

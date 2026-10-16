@@ -3,7 +3,9 @@
   "server_id": "1741015",
   "name": "ct6e-standard-4t",
   "api_reference": "ct6e-standard-4t",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "ct6e-standard-4t"
+  },
   "display_name": "ct6e-standard-4t",
   "description": "180 vCPUs, 720 GB RAM, 4 Google V6 lite TPUs",
   "family": "ct6e",

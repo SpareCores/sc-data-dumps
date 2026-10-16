@@ -3,7 +3,11 @@
   "server_id": "Standard_E160ads_v7",
   "name": "E160ads_v7",
   "api_reference": "Standard_E160ads_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E160ads_v7"
+    }
+  },
   "display_name": "E160ads_v7",
   "description": "Eadsv7 family [AMD processor] [Local Disk] [Premium Storage capable] 160 vCPUs",
   "family": "Eadsv7",

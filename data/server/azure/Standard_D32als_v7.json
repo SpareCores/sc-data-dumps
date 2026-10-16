@@ -3,7 +3,11 @@
   "server_id": "Standard_D32als_v7",
   "name": "D32als_v7",
   "api_reference": "Standard_D32als_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D32als_v7"
+    }
+  },
   "display_name": "D32als_v7",
   "description": "Dalsv7 family [AMD processor] [Low Memory] [Premium Storage capable] 32 vCPUs",
   "family": "Dalsv7",

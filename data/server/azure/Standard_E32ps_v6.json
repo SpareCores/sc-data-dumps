@@ -3,7 +3,11 @@
   "server_id": "Standard_E32ps_v6",
   "name": "E32ps_v6",
   "api_reference": "Standard_E32ps_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E32ps_v6"
+    }
+  },
   "display_name": "E32ps_v6",
   "description": "Epsv6 family [ARM processor] [Premium Storage capable] 32 vCPUs",
   "family": "Epsv6",

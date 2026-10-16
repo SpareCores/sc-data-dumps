@@ -3,7 +3,9 @@
   "server_id": "d3.4xlarge",
   "name": "d3.4xlarge",
   "api_reference": "d3.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "d3.4xlarge"
+  },
   "display_name": "d3.4xlarge",
   "description": "Dense storage Gen3 4xlarge",
   "family": "d3",

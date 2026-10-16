@@ -3,7 +3,9 @@
   "server_id": "hpc7a.24xlarge",
   "name": "hpc7a.24xlarge",
   "api_reference": "hpc7a.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "hpc7a.24xlarge"
+  },
   "display_name": "hpc7a.24xlarge",
   "description": "High performance computing [AMD processors] Gen7 24xlarge",
   "family": "hpc7a",

@@ -3,7 +3,9 @@
   "server_id": "c6i.large",
   "name": "c6i.large",
   "api_reference": "c6i.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c6i.large"
+  },
   "display_name": "c6i.large",
   "description": "Compute optimized [Intel processors] Gen6 large",
   "family": "c6i",

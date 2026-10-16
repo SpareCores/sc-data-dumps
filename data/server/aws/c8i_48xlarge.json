@@ -3,7 +3,9 @@
   "server_id": "c8i.48xlarge",
   "name": "c8i.48xlarge",
   "api_reference": "c8i.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8i.48xlarge"
+  },
   "display_name": "c8i.48xlarge",
   "description": "Compute optimized [Intel processors] Gen8 48xlarge",
   "family": "c8i",

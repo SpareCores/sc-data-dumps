@@ -3,7 +3,9 @@
   "server_id": "1765232",
   "name": "c4a-highmem-64-lssd",
   "api_reference": "c4a-highmem-64-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-highmem-64-lssd"
+  },
   "display_name": "c4a-highmem-64-lssd",
   "description": "64 vCPUs, 512 GB RAM, 14 local SSD",
   "family": "c4a",

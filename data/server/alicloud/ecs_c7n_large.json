@@ -3,7 +3,9 @@
   "server_id": "ecs.c7n.large",
   "name": "ecs.c7n.large",
   "api_reference": "ecs.c7n.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c7n.large"
+  },
   "display_name": "ecs.c7n.large",
   "description": "ecs.c7 family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7",

@@ -3,7 +3,9 @@
   "server_id": "vc2-1c-1gb",
   "name": "vc2-1c-1gb",
   "api_reference": "vc2-1c-1gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vc2-1c-1gb"
+  },
   "display_name": "vc2-1c-1gb",
   "description": "Cloud Compute (1 vCPUs, 1.0 GiB RAM, 25 GB NVMe)",
   "family": "Cloud Compute",

@@ -3,7 +3,9 @@
   "server_id": "r7a.24xlarge",
   "name": "r7a.24xlarge",
   "api_reference": "r7a.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7a.24xlarge"
+  },
   "display_name": "r7a.24xlarge",
   "description": "Memory optimized [AMD processors] Gen7 24xlarge",
   "family": "r7a",

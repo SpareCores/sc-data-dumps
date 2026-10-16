@@ -3,7 +3,9 @@
   "server_id": "ecs.i2ne.xlarge",
   "name": "ecs.i2ne.xlarge",
   "api_reference": "ecs.i2ne.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i2ne.xlarge"
+  },
   "display_name": "ecs.i2ne.xlarge",
   "description": "ecs.i2ne family (4 vCPUs, 32 GiB RAM, 959 GB ssd storage)",
   "family": "ecs.i2ne",

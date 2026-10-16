@@ -3,7 +3,9 @@
   "server_id": "ecs.re8.180xlarge",
   "name": "ecs.re8.180xlarge",
   "api_reference": "ecs.re8.180xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.re8.180xlarge"
+  },
   "display_name": "ecs.re8.180xlarge",
   "description": "ecs.re8 family (720 vCPUs, 12288 GiB RAM, 0 GB  storage)",
   "family": "ecs.re8",

@@ -3,7 +3,9 @@
   "server_id": "c4.8xlarge",
   "name": "c4.8xlarge",
   "api_reference": "c4.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c4.8xlarge"
+  },
   "display_name": "c4.8xlarge",
   "description": "Compute optimized Gen4 8xlarge",
   "family": "c4",

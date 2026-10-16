@@ -3,7 +3,9 @@
   "server_id": "r8a.large",
   "name": "r8a.large",
   "api_reference": "r8a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8a.large"
+  },
   "display_name": "r8a.large",
   "description": "Memory optimized [AMD processors] Gen8 large",
   "family": "r8a",

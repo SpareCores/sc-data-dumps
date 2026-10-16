@@ -3,7 +3,11 @@
   "server_id": "Standard_F2ams_v6",
   "name": "F2ams_v6",
   "api_reference": "Standard_F2ams_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F2ams_v6"
+    }
+  },
   "display_name": "F2ams_v6",
   "description": "Famsv6 family [AMD processor] [Memory Intensive] [Premium Storage capable] 2 vCPUs",
   "family": "Famsv6",

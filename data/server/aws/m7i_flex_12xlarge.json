@@ -3,7 +3,9 @@
   "server_id": "m7i-flex.12xlarge",
   "name": "m7i-flex.12xlarge",
   "api_reference": "m7i-flex.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m7i-flex.12xlarge"
+  },
   "display_name": "m7i-flex.12xlarge",
   "description": "General purpose [Intel processors] Gen7 12xlarge",
   "family": "m7i-flex",

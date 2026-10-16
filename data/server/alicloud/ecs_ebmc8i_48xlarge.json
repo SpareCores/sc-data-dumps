@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmc8i.48xlarge",
   "name": "ecs.ebmc8i.48xlarge",
   "api_reference": "ecs.ebmc8i.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmc8i.48xlarge"
+  },
   "display_name": "ecs.ebmc8i.48xlarge",
   "description": "ecs.ebmc8i family (192 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmc8i",

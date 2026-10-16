@@ -3,7 +3,9 @@
   "server_id": "m7a.large",
   "name": "m7a.large",
   "api_reference": "m7a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m7a.large"
+  },
   "display_name": "m7a.large",
   "description": "General purpose [AMD processors] Gen7 large",
   "family": "m7a",

@@ -3,7 +3,11 @@
   "server_id": "Standard_L48s_v3",
   "name": "L48s_v3",
   "api_reference": "Standard_L48s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L48s_v3"
+    }
+  },
   "display_name": "L48s_v3",
   "description": "LSv3 family [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "LSv3",

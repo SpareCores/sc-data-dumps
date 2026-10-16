@@ -3,7 +3,11 @@
   "server_id": "Standard_D96as_v6",
   "name": "D96as_v6",
   "api_reference": "Standard_D96as_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D96as_v6"
+    }
+  },
   "display_name": "D96as_v6",
   "description": "Dav6 family [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "Dav6",

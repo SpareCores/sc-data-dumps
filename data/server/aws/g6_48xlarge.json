@@ -3,7 +3,9 @@
   "server_id": "g6.48xlarge",
   "name": "g6.48xlarge",
   "api_reference": "g6.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g6.48xlarge"
+  },
   "display_name": "g6.48xlarge",
   "description": "Graphics intensive Gen6 48xlarge",
   "family": "g6",

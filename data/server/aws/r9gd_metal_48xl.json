@@ -3,7 +3,9 @@
   "server_id": "r9gd.metal-48xl",
   "name": "r9gd.metal-48xl",
   "api_reference": "r9gd.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r9gd.metal-48xl"
+  },
   "display_name": "r9gd.metal-48xl",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen9 metal-48xl",
   "family": "r9gd",

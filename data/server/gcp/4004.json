@@ -3,7 +3,9 @@
   "server_id": "4004",
   "name": "n1-highcpu-4",
   "api_reference": "n1-highcpu-4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n1-highcpu-4"
+  },
   "display_name": "n1-highcpu-4",
   "description": "4 vCPUs, 3.6 GB RAM",
   "family": "n1",

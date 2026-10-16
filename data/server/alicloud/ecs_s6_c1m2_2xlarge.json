@@ -3,7 +3,9 @@
   "server_id": "ecs.s6-c1m2.2xlarge",
   "name": "ecs.s6-c1m2.2xlarge",
   "api_reference": "ecs.s6-c1m2.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.s6-c1m2.2xlarge"
+  },
   "display_name": "ecs.s6-c1m2.2xlarge",
   "description": "ecs.s6 family (8 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.s6",

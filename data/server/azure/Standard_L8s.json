@@ -3,7 +3,11 @@
   "server_id": "Standard_L8s",
   "name": "L8s",
   "api_reference": "Standard_L8s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L8s"
+    }
+  },
   "display_name": "L8s",
   "description": "LS family [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "LS",

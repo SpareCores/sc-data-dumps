@@ -3,7 +3,9 @@
   "server_id": "ecs.gp7-1x.4xlarge",
   "name": "ecs.gp7-1x.4xlarge",
   "api_reference": "ecs.gp7-1x.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gp7-1x.4xlarge"
+  },
   "display_name": "ecs.gp7-1x.4xlarge",
   "description": "ecs.gp7 family (16 vCPUs, 128 GiB RAM, 0 GB  storage, 1xPPU 810 98304 GiB VRAM)",
   "family": "ecs.gp7",

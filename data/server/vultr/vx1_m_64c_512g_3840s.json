@@ -3,7 +3,9 @@
   "server_id": "vx1-m-64c-512g-3840s",
   "name": "vx1-m-64c-512g-3840s",
   "api_reference": "vx1-m-64c-512g-3840s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vx1-m-64c-512g-3840s"
+  },
   "display_name": "vx1-m-64c-512g-3840s",
   "description": "VX1 Cloud Compute (64 vCPUs, 512.0 GiB RAM, 3840 GB NVMe)",
   "family": "VX1 Cloud Compute",

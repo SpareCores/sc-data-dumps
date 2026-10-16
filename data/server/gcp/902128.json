@@ -3,7 +3,9 @@
   "server_id": "902128",
   "name": "n2-highmem-128",
   "api_reference": "n2-highmem-128",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2-highmem-128"
+  },
   "display_name": "n2-highmem-128",
   "description": "128 vCPUs 864 GB RAM",
   "family": "n2",

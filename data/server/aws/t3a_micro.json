@@ -3,7 +3,9 @@
   "server_id": "t3a.micro",
   "name": "t3a.micro",
   "api_reference": "t3a.micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3a.micro"
+  },
   "display_name": "t3a.micro",
   "description": "Burstable performance [AMD processors] Gen3 micro",
   "family": "t3a",

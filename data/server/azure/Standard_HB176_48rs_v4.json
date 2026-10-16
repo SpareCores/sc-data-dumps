@@ -3,7 +3,11 @@
   "server_id": "Standard_HB176-48rs_v4",
   "name": "HB176-48rs_v4",
   "api_reference": "Standard_HB176-48rs_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_HB176-48rs_v4"
+    }
+  },
   "display_name": "HB176-48rs_v4",
   "description": "HBv4 family [RDMA capable] [Premium Storage capable] [Intel processor] 176 vCPUs",
   "family": "HBv4",

@@ -3,7 +3,9 @@
   "server_id": "m8idb.96xlarge",
   "name": "m8idb.96xlarge",
   "api_reference": "m8idb.96xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8idb.96xlarge"
+  },
   "display_name": "m8idb.96xlarge",
   "description": "General purpose [Intel processors] [Instance store volumes] Gen8 96xlarge",
   "family": "m8idb",

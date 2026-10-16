@@ -3,7 +3,9 @@
   "server_id": "m8idb.metal-96xl",
   "name": "m8idb.metal-96xl",
   "api_reference": "m8idb.metal-96xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8idb.metal-96xl"
+  },
   "display_name": "m8idb.metal-96xl",
   "description": "General purpose [Intel processors] [Instance store volumes] Gen8 metal-96xl",
   "family": "m8idb",

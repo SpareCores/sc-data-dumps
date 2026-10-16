@@ -3,7 +3,11 @@
   "server_id": "Standard_M32ts",
   "name": "M32ts",
   "api_reference": "Standard_M32ts",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M32ts"
+    }
+  },
   "display_name": "M32ts",
   "description": "MS family [Tiny Memory] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "MS",

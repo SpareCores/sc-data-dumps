@@ -3,7 +3,9 @@
   "server_id": "t3a.medium",
   "name": "t3a.medium",
   "api_reference": "t3a.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3a.medium"
+  },
   "display_name": "t3a.medium",
   "description": "Burstable performance [AMD processors] Gen3 medium",
   "family": "t3a",

@@ -3,7 +3,9 @@
   "server_id": "ecs.c2.xlarge",
   "name": "ecs.c2.xlarge",
   "api_reference": "ecs.c2.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c2.xlarge"
+  },
   "display_name": "ecs.c2.xlarge",
   "description": "ecs.c2 family (16 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.c2",

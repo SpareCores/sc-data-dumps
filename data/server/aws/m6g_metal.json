@@ -3,7 +3,9 @@
   "server_id": "m6g.metal",
   "name": "m6g.metal",
   "api_reference": "m6g.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6g.metal"
+  },
   "display_name": "m6g.metal",
   "description": "General purpose [AWS Graviton processors] Gen6 metal",
   "family": "m6g",

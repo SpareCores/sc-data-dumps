@@ -3,7 +3,9 @@
   "server_id": "ecs.d2c.24xlarge",
   "name": "ecs.d2c.24xlarge",
   "api_reference": "ecs.d2c.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d2c.24xlarge"
+  },
   "display_name": "ecs.d2c.24xlarge",
   "description": "ecs.d2c family (96 vCPUs, 352 GiB RAM, 47674 GB hdd storage)",
   "family": "ecs.d2c",

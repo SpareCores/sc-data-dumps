@@ -3,7 +3,9 @@
   "server_id": "c7g.medium",
   "name": "c7g.medium",
   "api_reference": "c7g.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7g.medium"
+  },
   "display_name": "c7g.medium",
   "description": "Compute optimized [AWS Graviton processors] Gen7 medium",
   "family": "c7g",

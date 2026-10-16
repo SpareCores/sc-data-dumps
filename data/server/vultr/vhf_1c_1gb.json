@@ -3,7 +3,9 @@
   "server_id": "vhf-1c-1gb",
   "name": "vhf-1c-1gb",
   "api_reference": "vhf-1c-1gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhf-1c-1gb"
+  },
   "display_name": "vhf-1c-1gb",
   "description": "High Frequency Compute (1 vCPUs, 1.0 GiB RAM, 32 GB NVMe)",
   "family": "High Frequency Compute",

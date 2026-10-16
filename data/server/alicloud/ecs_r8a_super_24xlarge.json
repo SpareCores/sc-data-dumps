@@ -3,7 +3,9 @@
   "server_id": "ecs.r8a-super.24xlarge",
   "name": "ecs.r8a-super.24xlarge",
   "api_reference": "ecs.r8a-super.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r8a-super.24xlarge"
+  },
   "display_name": "ecs.r8a-super.24xlarge",
   "description": "ecs.g8a family (192 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.g8a",

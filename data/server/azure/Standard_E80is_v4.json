@@ -3,7 +3,11 @@
   "server_id": "Standard_E80is_v4",
   "name": "E80is_v4",
   "api_reference": "Standard_E80is_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E80is_v4"
+    }
+  },
   "display_name": "E80is_v4",
   "description": "XEISv4 family [Isolated] [Premium Storage capable] [Intel processor] 80 vCPUs",
   "family": "XEISv4",

@@ -3,7 +3,11 @@
   "server_id": "Standard_A4m_v2",
   "name": "A4m_v2",
   "api_reference": "Standard_A4m_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_A4m_v2"
+    }
+  },
   "display_name": "A4m_v2",
   "description": "Av2 family [Memory Intensive] [Intel processor] 4 vCPUs",
   "family": "Av2",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D16as_v6",
   "name": "D16as_v6",
   "api_reference": "Standard_D16as_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D16as_v6"
+    }
+  },
   "display_name": "D16as_v6",
   "description": "Dav6 family [AMD processor] [Premium Storage capable] 16 vCPUs",
   "family": "Dav6",

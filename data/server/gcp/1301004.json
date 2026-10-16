@@ -3,7 +3,9 @@
   "server_id": "1301004",
   "name": "c3-standard-4-lssd",
   "api_reference": "c3-standard-4-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3-standard-4-lssd"
+  },
   "display_name": "c3-standard-4-lssd",
   "description": "4 vCPUs, 16 GB RAM, 1 local SSD",
   "family": "c3",

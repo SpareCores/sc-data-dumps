@@ -3,7 +3,11 @@
   "server_id": "Standard_M624s_12_v3",
   "name": "M624s_12_v3",
   "api_reference": "Standard_M624s_12_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M624s_12_v3"
+    }
+  },
   "display_name": "M624s_12_v3",
   "description": "MSHighMemoryv3 family [Premium Storage capable] [Intel processor] 624 vCPUs",
   "family": "MSHighMemoryv3",

@@ -3,7 +3,9 @@
   "server_id": "r7iz.8xlarge",
   "name": "r7iz.8xlarge",
   "api_reference": "r7iz.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7iz.8xlarge"
+  },
   "display_name": "r7iz.8xlarge",
   "description": "Memory optimized [Intel processors] [High performance] Gen7 8xlarge",
   "family": "r7iz",

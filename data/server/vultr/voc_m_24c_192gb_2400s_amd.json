@@ -3,7 +3,9 @@
   "server_id": "voc-m-24c-192gb-2400s-amd",
   "name": "voc-m-24c-192gb-2400s-amd",
   "api_reference": "voc-m-24c-192gb-2400s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-m-24c-192gb-2400s-amd"
+  },
   "display_name": "voc-m-24c-192gb-2400s-amd",
   "description": "Optimized Cloud Compute (24 vCPUs, 192.0 GiB RAM, 2400 GB NVMe)",
   "family": "Optimized Cloud Compute",

@@ -3,7 +3,9 @@
   "server_id": "m9g.xlarge",
   "name": "m9g.xlarge",
   "api_reference": "m9g.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m9g.xlarge"
+  },
   "display_name": "m9g.xlarge",
   "description": "General purpose [AWS Graviton processors] Gen9 xlarge",
   "family": "m9g",

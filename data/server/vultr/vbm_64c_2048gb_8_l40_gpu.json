@@ -3,7 +3,9 @@
   "server_id": "vbm-64c-2048gb-8-l40-gpu",
   "name": "vbm-64c-2048gb-8-l40-gpu",
   "api_reference": "vbm-64c-2048gb-8-l40-gpu",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-64c-2048gb-8-l40-gpu"
+  },
   "display_name": "vbm-64c-2048gb-8-l40-gpu",
   "description": "Bare Metal SSD (128 vCPUs, 2048.0 GiB RAM, 960 GB SSD, 8xL40S 48 GiB VRAM)",
   "family": "Bare Metal SSD",

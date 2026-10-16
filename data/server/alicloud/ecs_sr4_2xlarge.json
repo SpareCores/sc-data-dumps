@@ -3,7 +3,9 @@
   "server_id": "ecs.sr4.2xlarge",
   "name": "ecs.sr4.2xlarge",
   "api_reference": "ecs.sr4.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sr4.2xlarge"
+  },
   "display_name": "ecs.sr4.2xlarge",
   "description": "ecs.sr4 family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.sr4",

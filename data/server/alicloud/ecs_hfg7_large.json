@@ -3,7 +3,9 @@
   "server_id": "ecs.hfg7.large",
   "name": "ecs.hfg7.large",
   "api_reference": "ecs.hfg7.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfg7.large"
+  },
   "display_name": "ecs.hfg7.large",
   "description": "ecs.hfg7 family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfg7",

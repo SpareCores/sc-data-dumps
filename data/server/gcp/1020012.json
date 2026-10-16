@@ -3,7 +3,9 @@
   "server_id": "1020012",
   "name": "a2-ultragpu-1g",
   "api_reference": "a2-ultragpu-1g",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a2-ultragpu-1g"
+  },
   "display_name": "a2-ultragpu-1g",
   "description": "Accelerator Optimized: 1 NVIDIA A100 80GB GPU, 12 vCPUs, 170GB RAM, 1 local SSD",
   "family": "a2",

@@ -3,7 +3,11 @@
   "server_id": "Standard_B16ms",
   "name": "B16ms",
   "api_reference": "Standard_B16ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B16ms"
+    }
+  },
   "display_name": "B16ms",
   "description": "BS family [Memory Intensive] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "BS",

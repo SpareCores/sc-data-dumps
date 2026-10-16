@@ -3,7 +3,9 @@
   "server_id": "vbm-6c-32gb-amd",
   "name": "vbm-6c-32gb-amd",
   "api_reference": "vbm-6c-32gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-6c-32gb-amd"
+  },
   "display_name": "vbm-6c-32gb-amd",
   "description": "Bare Metal NVMe (12 vCPUs, 32.0 GiB RAM, 1920 GB NVMe)",
   "family": "Bare Metal NVMe",

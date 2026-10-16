@@ -3,7 +3,9 @@
   "server_id": "m2.4xlarge",
   "name": "m2.4xlarge",
   "api_reference": "m2.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m2.4xlarge"
+  },
   "display_name": "m2.4xlarge",
   "description": "General purpose Gen2 4xlarge",
   "family": "m2",

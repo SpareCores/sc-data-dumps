@@ -3,7 +3,9 @@
   "server_id": "ecs.gn5-c8g1.4xlarge",
   "name": "ecs.gn5-c8g1.4xlarge",
   "api_reference": "ecs.gn5-c8g1.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn5-c8g1.4xlarge"
+  },
   "display_name": "ecs.gn5-c8g1.4xlarge",
   "description": "ecs.gn5 family (16 vCPUs, 120 GiB RAM, 944 GB ssd storage, 2xP100 16384 GiB VRAM)",
   "family": "ecs.gn5",

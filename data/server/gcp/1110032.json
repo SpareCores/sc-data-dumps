@@ -3,7 +3,9 @@
   "server_id": "1110032",
   "name": "c2d-highcpu-32",
   "api_reference": "c2d-highcpu-32",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c2d-highcpu-32"
+  },
   "display_name": "c2d-highcpu-32",
   "description": "32 vCPUs, 64 GB RAM",
   "family": "c2d",

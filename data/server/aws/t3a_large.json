@@ -3,7 +3,9 @@
   "server_id": "t3a.large",
   "name": "t3a.large",
   "api_reference": "t3a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3a.large"
+  },
   "display_name": "t3a.large",
   "description": "Burstable performance [AMD processors] Gen3 large",
   "family": "t3a",

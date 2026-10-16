@@ -3,7 +3,9 @@
   "server_id": "999935529",
   "name": "c4n-standard-16-lssd",
   "api_reference": "c4n-standard-16-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4n-standard-16-lssd"
+  },
   "display_name": "c4n-standard-16-lssd",
   "description": "16 vCPUs, 60 GB RAM, 2 local SSDs",
   "family": "c4n",

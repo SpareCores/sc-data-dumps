@@ -3,7 +3,9 @@
   "server_id": "ecs.re6p-redis.large",
   "name": "ecs.re6p-redis.large",
   "api_reference": "ecs.re6p-redis.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.re6p-redis.large"
+  },
   "display_name": "ecs.re6p-redis.large",
   "description": "ecs.re6p family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.re6p",

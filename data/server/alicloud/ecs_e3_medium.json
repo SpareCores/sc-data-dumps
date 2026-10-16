@@ -3,7 +3,9 @@
   "server_id": "ecs.e3.medium",
   "name": "ecs.e3.medium",
   "api_reference": "ecs.e3.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.e3.medium"
+  },
   "display_name": "ecs.e3.medium",
   "description": "ecs.e3 family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.e3",

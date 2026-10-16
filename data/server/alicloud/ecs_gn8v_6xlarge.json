@@ -3,7 +3,9 @@
   "server_id": "ecs.gn8v.6xlarge",
   "name": "ecs.gn8v.6xlarge",
   "api_reference": "ecs.gn8v.6xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn8v.6xlarge"
+  },
   "display_name": "ecs.gn8v.6xlarge",
   "description": "ecs.gn8v family (24 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.gn8v",

@@ -3,7 +3,9 @@
   "server_id": "t8i.nano",
   "name": "t8i.nano",
   "api_reference": "t8i.nano",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t8i.nano"
+  },
   "display_name": "t8i.nano",
   "description": "Burstable performance [Intel processors] Gen8 nano",
   "family": "t8i",

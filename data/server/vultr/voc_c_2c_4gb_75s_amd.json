@@ -3,7 +3,9 @@
   "server_id": "voc-c-2c-4gb-75s-amd",
   "name": "voc-c-2c-4gb-75s-amd",
   "api_reference": "voc-c-2c-4gb-75s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-c-2c-4gb-75s-amd"
+  },
   "display_name": "voc-c-2c-4gb-75s-amd",
   "description": "Optimized Cloud Compute (2 vCPUs, 4.0 GiB RAM, 75 GB NVMe)",
   "family": "Optimized Cloud Compute",

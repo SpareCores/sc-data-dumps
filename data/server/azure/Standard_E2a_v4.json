@@ -3,7 +3,11 @@
   "server_id": "Standard_E2a_v4",
   "name": "E2a_v4",
   "api_reference": "Standard_E2a_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E2a_v4"
+    }
+  },
   "display_name": "E2a_v4",
   "description": "EAv4 family [AMD processor] 2 vCPUs",
   "family": "EAv4",

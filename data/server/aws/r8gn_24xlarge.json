@@ -3,7 +3,9 @@
   "server_id": "r8gn.24xlarge",
   "name": "r8gn.24xlarge",
   "api_reference": "r8gn.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8gn.24xlarge"
+  },
   "display_name": "r8gn.24xlarge",
   "description": "Memory optimized [AWS Graviton processors] [Network and EBS optimized] Gen8 24xlarge",
   "family": "r8gn",

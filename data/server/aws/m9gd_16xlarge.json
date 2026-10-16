@@ -3,7 +3,9 @@
   "server_id": "m9gd.16xlarge",
   "name": "m9gd.16xlarge",
   "api_reference": "m9gd.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m9gd.16xlarge"
+  },
   "display_name": "m9gd.16xlarge",
   "description": "General purpose [AWS Graviton processors] [Instance store volumes] Gen9 16xlarge",
   "family": "m9gd",

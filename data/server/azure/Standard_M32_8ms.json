@@ -3,7 +3,11 @@
   "server_id": "Standard_M32-8ms",
   "name": "M32-8ms",
   "api_reference": "Standard_M32-8ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M32-8ms"
+    }
+  },
   "display_name": "M32-8ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "MS",

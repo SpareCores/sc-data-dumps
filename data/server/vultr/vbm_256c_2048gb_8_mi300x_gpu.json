@@ -3,7 +3,9 @@
   "server_id": "vbm-256c-2048gb-8-mi300x-gpu",
   "name": "vbm-256c-2048gb-8-mi300x-gpu",
   "api_reference": "vbm-256c-2048gb-8-mi300x-gpu",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-256c-2048gb-8-mi300x-gpu"
+  },
   "display_name": "vbm-256c-2048gb-8-mi300x-gpu",
   "description": "Bare Metal NVMe (256 vCPUs, 2048.0 GiB RAM, 28608 GB NVMe, 8xMI300X 192 GiB VRAM)",
   "family": "Bare Metal NVMe",

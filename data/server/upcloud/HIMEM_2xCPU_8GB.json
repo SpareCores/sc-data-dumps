@@ -3,7 +3,9 @@
   "server_id": "HIMEM-2xCPU-8GB",
   "name": "HIMEM-2xCPU-8GB",
   "api_reference": "HIMEM-2xCPU-8GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "HIMEM-2xCPU-8GB"
+  },
   "display_name": "HIMEM-2xCPU-8GB",
   "description": "High Memory (2 vCPUs, 8 GiB RAM)",
   "family": "High Memory",

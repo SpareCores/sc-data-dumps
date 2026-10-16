@@ -3,7 +3,9 @@
   "server_id": "ecs.r8y.xlarge",
   "name": "ecs.r8y.xlarge",
   "api_reference": "ecs.r8y.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r8y.xlarge"
+  },
   "display_name": "ecs.r8y.xlarge",
   "description": "ecs.r8y family (4 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.r8y",

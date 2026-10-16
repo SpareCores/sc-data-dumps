@@ -3,7 +3,9 @@
   "server_id": "m7g.2xlarge",
   "name": "m7g.2xlarge",
   "api_reference": "m7g.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m7g.2xlarge"
+  },
   "display_name": "m7g.2xlarge",
   "description": "General purpose [AWS Graviton processors] Gen7 2xlarge",
   "family": "m7g",

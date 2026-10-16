@@ -3,7 +3,11 @@
   "server_id": "Standard_DC64as_v6",
   "name": "DC64as_v6",
   "api_reference": "Standard_DC64as_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC64as_v6"
+    }
+  },
   "display_name": "DC64as_v6",
   "description": "DCasv6 family [AMD processor] [Premium Storage capable] 64 vCPUs",
   "family": "DCasv6",

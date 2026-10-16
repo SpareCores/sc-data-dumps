@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmre7p.32xlarge",
   "name": "ecs.ebmre7p.32xlarge",
   "api_reference": "ecs.ebmre7p.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmre7p.32xlarge"
+  },
   "display_name": "ecs.ebmre7p.32xlarge",
   "description": "ecs.ebmre7p family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmre7p",

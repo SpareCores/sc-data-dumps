@@ -3,7 +3,9 @@
   "server_id": "r9gd.xlarge",
   "name": "r9gd.xlarge",
   "api_reference": "r9gd.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r9gd.xlarge"
+  },
   "display_name": "r9gd.xlarge",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen9 xlarge",
   "family": "r9gd",

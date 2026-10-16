@@ -3,7 +3,11 @@
   "server_id": "Standard_D96as_v5",
   "name": "D96as_v5",
   "api_reference": "Standard_D96as_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D96as_v5"
+    }
+  },
   "display_name": "D96as_v5",
   "description": "DASv5 family [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "DASv5",

@@ -3,7 +3,9 @@
   "server_id": "999935517",
   "name": "c4n-standard-192",
   "api_reference": "c4n-standard-192",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4n-standard-192"
+  },
   "display_name": "c4n-standard-192",
   "description": "192 vCPUs, 720 GB RAM",
   "family": "c4n",

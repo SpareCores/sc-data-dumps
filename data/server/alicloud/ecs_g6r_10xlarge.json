@@ -3,7 +3,9 @@
   "server_id": "ecs.g6r.10xlarge",
   "name": "ecs.g6r.10xlarge",
   "api_reference": "ecs.g6r.10xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g6r.10xlarge"
+  },
   "display_name": "ecs.g6r.10xlarge",
   "description": "ecs.g6r family (40 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.g6r",

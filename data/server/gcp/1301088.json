@@ -3,7 +3,9 @@
   "server_id": "1301088",
   "name": "c3-standard-88-lssd",
   "api_reference": "c3-standard-88-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3-standard-88-lssd"
+  },
   "display_name": "c3-standard-88-lssd",
   "description": "88 vCPUs, 352 GB RAM, 16 local SSDs",
   "family": "c3",

@@ -3,7 +3,9 @@
   "server_id": "mac-m3ultra.metal",
   "name": "mac-m3ultra.metal",
   "api_reference": "mac-m3ultra.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "mac-m3ultra.metal"
+  },
   "display_name": "mac-m3ultra.metal",
   "description": "macOS metal",
   "family": "mac-m3ultra",

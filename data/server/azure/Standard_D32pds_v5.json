@@ -3,7 +3,11 @@
   "server_id": "Standard_D32pds_v5",
   "name": "D32pds_v5",
   "api_reference": "Standard_D32pds_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D32pds_v5"
+    }
+  },
   "display_name": "D32pds_v5",
   "description": "DPDSv5 family [ARM processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
   "family": "DPDSv5",

@@ -3,7 +3,9 @@
   "server_id": "999935508",
   "name": "c4n-highcpu-192",
   "api_reference": "c4n-highcpu-192",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4n-highcpu-192"
+  },
   "display_name": "c4n-highcpu-192",
   "description": "192 vCPUs, 384 GB RAM",
   "family": "c4n",

@@ -3,7 +3,9 @@
   "server_id": "ecs.i2d.21xlarge",
   "name": "ecs.i2d.21xlarge",
   "api_reference": "ecs.i2d.21xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i2d.21xlarge"
+  },
   "display_name": "ecs.i2d.21xlarge",
   "description": "ecs.i2 family (84 vCPUs, 712 GiB RAM, 15333 GB ssd storage)",
   "family": "ecs.i2",

@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmsg3.32xlarge",
   "name": "ecs.ebmsg3.32xlarge",
   "api_reference": "ecs.ebmsg3.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmsg3.32xlarge"
+  },
   "display_name": "ecs.ebmsg3.32xlarge",
   "description": "ecs.ebmsg3 family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmsg3",

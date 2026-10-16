@@ -3,7 +3,9 @@
   "server_id": "c8gb.4xlarge",
   "name": "c8gb.4xlarge",
   "api_reference": "c8gb.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8gb.4xlarge"
+  },
   "display_name": "c8gb.4xlarge",
   "description": "Compute optimized [AWS Graviton processors] Gen8 4xlarge",
   "family": "c8gb",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D64ads_v5",
   "name": "D64ads_v5",
   "api_reference": "Standard_D64ads_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64ads_v5"
+    }
+  },
   "display_name": "D64ads_v5",
   "description": "DADSv5 family [AMD processor] [Local Disk] [Premium Storage capable] 64 vCPUs",
   "family": "DADSv5",

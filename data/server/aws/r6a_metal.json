@@ -3,7 +3,9 @@
   "server_id": "r6a.metal",
   "name": "r6a.metal",
   "api_reference": "r6a.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r6a.metal"
+  },
   "display_name": "r6a.metal",
   "description": "Memory optimized [AMD processors] Gen6 metal",
   "family": "r6a",

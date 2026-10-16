@@ -3,7 +3,9 @@
   "server_id": "vcg-a100-12c-120g-80vram",
   "name": "vcg-a100-12c-120g-80vram",
   "api_reference": "vcg-a100-12c-120g-80vram",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vcg-a100-12c-120g-80vram"
+  },
   "display_name": "vcg-a100-12c-120g-80vram",
   "description": "Dedicated Metal GPU (12 vCPUs, 120.0 GiB RAM, 1400 GB NVMe)",
   "family": "Dedicated Metal GPU",

@@ -3,7 +3,11 @@
   "server_id": "Standard_B32ls_v2",
   "name": "B32ls_v2",
   "api_reference": "Standard_B32ls_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_B32ls_v2"
+    }
+  },
   "display_name": "B32ls_v2",
   "description": "Bsv2 family [Low Memory] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "Bsv2",

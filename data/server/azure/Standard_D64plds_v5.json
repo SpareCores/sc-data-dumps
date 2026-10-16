@@ -3,7 +3,11 @@
   "server_id": "Standard_D64plds_v5",
   "name": "D64plds_v5",
   "api_reference": "Standard_D64plds_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64plds_v5"
+    }
+  },
   "display_name": "D64plds_v5",
   "description": "DPLDSv5 family [ARM processor] [Low Memory] [Local Disk] [Premium Storage capable] 64 vCPUs",
   "family": "DPLDSv5",

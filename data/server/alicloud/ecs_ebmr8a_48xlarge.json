@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmr8a.48xlarge",
   "name": "ecs.ebmr8a.48xlarge",
   "api_reference": "ecs.ebmr8a.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmr8a.48xlarge"
+  },
   "display_name": "ecs.ebmr8a.48xlarge",
   "description": "ecs.ebmr8a family (192 vCPUs, 1536 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr8a",

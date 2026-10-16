@@ -3,7 +3,9 @@
   "server_id": "vx1-g-8c-32g",
   "name": "vx1-g-8c-32g",
   "api_reference": "vx1-g-8c-32g",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vx1-g-8c-32g"
+  },
   "display_name": "vx1-g-8c-32g",
   "description": "VX1 Cloud Compute (8 vCPUs, 32.0 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",

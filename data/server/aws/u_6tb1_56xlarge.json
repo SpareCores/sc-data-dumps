@@ -3,7 +3,9 @@
   "server_id": "u-6tb1.56xlarge",
   "name": "u-6tb1.56xlarge",
   "api_reference": "u-6tb1.56xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "u-6tb1.56xlarge"
+  },
   "display_name": "u-6tb1.56xlarge",
   "description": "High memory Gen1 56xlarge",
   "family": "u-6tb1",

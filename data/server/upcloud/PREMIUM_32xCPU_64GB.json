@@ -3,7 +3,9 @@
   "server_id": "PREMIUM-32xCPU-64GB",
   "name": "PREMIUM-32xCPU-64GB",
   "api_reference": "PREMIUM-32xCPU-64GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "PREMIUM-32xCPU-64GB"
+  },
   "display_name": "PREMIUM-32xCPU-64GB",
   "description": "Premium (32 vCPUs, 64 GiB RAM)",
   "family": "Premium",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E32_v5",
   "name": "E32_v5",
   "api_reference": "Standard_E32_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E32_v5"
+    }
+  },
   "display_name": "E32_v5",
   "description": "Ev5 family [Intel processor] 32 vCPUs",
   "family": "Ev5",

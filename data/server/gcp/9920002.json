@@ -3,7 +3,9 @@
   "server_id": "9920002",
   "name": "x5-688-16t-metal",
   "api_reference": "x5-688-16t-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "x5-688-16t-metal"
+  },
   "display_name": "x5-688-16t-metal",
   "description": "688 vCPUs, 16384 GB RAM",
   "family": "x5",

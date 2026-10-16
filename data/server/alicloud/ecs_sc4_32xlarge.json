@@ -3,7 +3,9 @@
   "server_id": "ecs.sc4.32xlarge",
   "name": "ecs.sc4.32xlarge",
   "api_reference": "ecs.sc4.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sc4.32xlarge"
+  },
   "display_name": "ecs.sc4.32xlarge",
   "description": "ecs.sc4 family (128 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.sc4",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E20s_v6",
   "name": "E20s_v6",
   "api_reference": "Standard_E20s_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E20s_v6"
+    }
+  },
   "display_name": "E20s_v6",
   "description": "Esv6 family [Premium Storage capable] [Intel processor] 20 vCPUs",
   "family": "Esv6",

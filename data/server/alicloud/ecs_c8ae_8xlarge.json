@@ -3,7 +3,9 @@
   "server_id": "ecs.c8ae.8xlarge",
   "name": "ecs.c8ae.8xlarge",
   "api_reference": "ecs.c8ae.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c8ae.8xlarge"
+  },
   "display_name": "ecs.c8ae.8xlarge",
   "description": "ecs.c8ae family (32 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8ae",

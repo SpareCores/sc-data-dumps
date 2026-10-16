@@ -3,7 +3,9 @@
   "server_id": "c8a.metal-24xl",
   "name": "c8a.metal-24xl",
   "api_reference": "c8a.metal-24xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8a.metal-24xl"
+  },
   "display_name": "c8a.metal-24xl",
   "description": "Compute optimized [AMD processors] Gen8 metal-24xl",
   "family": "c8a",

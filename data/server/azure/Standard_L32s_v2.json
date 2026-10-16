@@ -3,7 +3,11 @@
   "server_id": "Standard_L32s_v2",
   "name": "L32s_v2",
   "api_reference": "Standard_L32s_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L32s_v2"
+    }
+  },
   "display_name": "L32s_v2",
   "description": "LSv2 family [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "LSv2",

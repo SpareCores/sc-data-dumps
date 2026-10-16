@@ -3,7 +3,9 @@
   "server_id": "ecs.i4g.large",
   "name": "ecs.i4g.large",
   "api_reference": "ecs.i4g.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i4g.large"
+  },
   "display_name": "ecs.i4g.large",
   "description": "ecs.i4g family (2 vCPUs, 8 GiB RAM, 119 GB ssd storage)",
   "family": "ecs.i4g",

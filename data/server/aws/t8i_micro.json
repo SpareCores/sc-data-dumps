@@ -3,7 +3,9 @@
   "server_id": "t8i.micro",
   "name": "t8i.micro",
   "api_reference": "t8i.micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t8i.micro"
+  },
   "display_name": "t8i.micro",
   "description": "Burstable performance [Intel processors] Gen8 micro",
   "family": "t8i",

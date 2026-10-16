@@ -3,7 +3,11 @@
   "server_id": "Standard_NC32ads_A10_v4",
   "name": "NC32ads_A10_v4",
   "api_reference": "Standard_NC32ads_A10_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NC32ads_A10_v4"
+    }
+  },
   "display_name": "NC32ads_A10_v4",
   "description": "NCADSA10v4 family [AMD processor] [Local Disk] [Premium Storage capable] 32 vCPUs",
   "family": "NCADSA10v4",

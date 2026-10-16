@@ -3,7 +3,9 @@
   "server_id": "c6gd.large",
   "name": "c6gd.large",
   "api_reference": "c6gd.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c6gd.large"
+  },
   "display_name": "c6gd.large",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen6 large",
   "family": "c6gd",

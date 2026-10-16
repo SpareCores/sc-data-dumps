@@ -3,7 +3,9 @@
   "server_id": "m5ad.4xlarge",
   "name": "m5ad.4xlarge",
   "api_reference": "m5ad.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m5ad.4xlarge"
+  },
   "display_name": "m5ad.4xlarge",
   "description": "General purpose [AMD processors] [Instance store volumes] Gen5 4xlarge",
   "family": "m5ad",

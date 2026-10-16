@@ -3,7 +3,9 @@
   "server_id": "999995578",
   "name": "z4m-highmem-16",
   "api_reference": "z4m-highmem-16",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z4m-highmem-16"
+  },
   "display_name": "z4m-highmem-16",
   "description": "Storage Optimized VM: 16 vCPUs, 122 GB RAM, 1 Local SSDs",
   "family": "z4m",

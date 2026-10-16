@@ -3,7 +3,9 @@
   "server_id": "ecs.r9as.8xlarge",
   "name": "ecs.r9as.8xlarge",
   "api_reference": "ecs.r9as.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r9as.8xlarge"
+  },
   "display_name": "ecs.r9as.8xlarge",
   "description": "ecs.r9as family (32 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9as",

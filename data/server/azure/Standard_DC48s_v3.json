@@ -3,7 +3,11 @@
   "server_id": "Standard_DC48s_v3",
   "name": "DC48s_v3",
   "api_reference": "Standard_DC48s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC48s_v3"
+    }
+  },
   "display_name": "DC48s_v3",
   "description": "DCSv3 family [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "DCSv3",

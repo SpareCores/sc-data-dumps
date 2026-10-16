@@ -3,7 +3,9 @@
   "server_id": "d2.2xlarge",
   "name": "d2.2xlarge",
   "api_reference": "d2.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "d2.2xlarge"
+  },
   "display_name": "d2.2xlarge",
   "description": "Dense storage Gen2 2xlarge",
   "family": "d2",

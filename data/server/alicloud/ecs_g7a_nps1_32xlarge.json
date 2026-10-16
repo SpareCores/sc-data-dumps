@@ -3,7 +3,9 @@
   "server_id": "ecs.g7a-nps1.32xlarge",
   "name": "ecs.g7a-nps1.32xlarge",
   "api_reference": "ecs.g7a-nps1.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g7a-nps1.32xlarge"
+  },
   "display_name": "ecs.g7a-nps1.32xlarge",
   "description": "ecs.g7a family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7a",

@@ -3,7 +3,9 @@
   "server_id": "c5.metal",
   "name": "c5.metal",
   "api_reference": "c5.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5.metal"
+  },
   "display_name": "c5.metal",
   "description": "Compute optimized Gen5 metal",
   "family": "c5",

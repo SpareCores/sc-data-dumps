@@ -3,7 +3,9 @@
   "server_id": "CLOUDNATIVE-64xCPU-512GB",
   "name": "CLOUDNATIVE-64xCPU-512GB",
   "api_reference": "CLOUDNATIVE-64xCPU-512GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "CLOUDNATIVE-64xCPU-512GB"
+  },
   "display_name": "CLOUDNATIVE-64xCPU-512GB",
   "description": "Cloud Native (64 vCPUs, 512 GiB RAM)",
   "family": "Cloud Native",

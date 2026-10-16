@@ -3,7 +3,9 @@
   "server_id": "m8gn.medium",
   "name": "m8gn.medium",
   "api_reference": "m8gn.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8gn.medium"
+  },
   "display_name": "m8gn.medium",
   "description": "General purpose [AWS Graviton processors] [Network and EBS optimized] Gen8 medium",
   "family": "m8gn",

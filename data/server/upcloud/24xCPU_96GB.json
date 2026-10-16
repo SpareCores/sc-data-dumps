@@ -3,7 +3,9 @@
   "server_id": "24xCPU-96GB",
   "name": "24xCPU-96GB",
   "api_reference": "24xCPU-96GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "24xCPU-96GB"
+  },
   "display_name": "24xCPU-96GB",
   "description": "General Purpose (24 vCPUs, 96 GiB RAM)",
   "family": "General Purpose",

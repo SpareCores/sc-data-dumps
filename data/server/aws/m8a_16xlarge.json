@@ -3,7 +3,9 @@
   "server_id": "m8a.16xlarge",
   "name": "m8a.16xlarge",
   "api_reference": "m8a.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8a.16xlarge"
+  },
   "display_name": "m8a.16xlarge",
   "description": "General purpose [AMD processors] Gen8 16xlarge",
   "family": "m8a",

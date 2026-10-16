@@ -3,7 +3,9 @@
   "server_id": "HIMEM-12xCPU-256GB",
   "name": "HIMEM-12xCPU-256GB",
   "api_reference": "HIMEM-12xCPU-256GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "HIMEM-12xCPU-256GB"
+  },
   "display_name": "HIMEM-12xCPU-256GB",
   "description": "High Memory (12 vCPUs, 256 GiB RAM)",
   "family": "High Memory",

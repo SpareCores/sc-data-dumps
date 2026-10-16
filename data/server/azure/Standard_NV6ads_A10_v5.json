@@ -3,7 +3,11 @@
   "server_id": "Standard_NV6ads_A10_v5",
   "name": "NV6ads_A10_v5",
   "api_reference": "Standard_NV6ads_A10_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NV6ads_A10_v5"
+    }
+  },
   "display_name": "NV6ads_A10_v5",
   "description": "NVADSA10v5 family [AMD processor] [Local Disk] [Premium Storage capable] 6 vCPUs",
   "family": "NVADSA10v5",

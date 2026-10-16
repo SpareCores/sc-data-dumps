@@ -3,7 +3,9 @@
   "server_id": "1742000",
   "name": "z3-highmem-88",
   "api_reference": "z3-highmem-88",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z3-highmem-88"
+  },
   "display_name": "z3-highmem-88",
   "description": "88 vCPUs, 704 GB RAM, 12 Local SSDs",
   "family": "z3",

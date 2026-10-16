@@ -3,7 +3,11 @@
   "server_id": "Standard_M192ims_v2",
   "name": "M192ims_v2",
   "api_reference": "Standard_M192ims_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M192ims_v2"
+    }
+  },
   "display_name": "M192ims_v2",
   "description": "MISMediumMemoryv2 family [Isolated] [Memory Intensive] [Premium Storage capable] [Intel processor] 192 vCPUs",
   "family": "MISMediumMemoryv2",

@@ -3,7 +3,11 @@
   "server_id": "Standard_F4-2amds_v7",
   "name": "F4-2amds_v7",
   "api_reference": "Standard_F4-2amds_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F4-2amds_v7"
+    }
+  },
   "display_name": "F4-2amds_v7",
   "description": "Famdsv7 family [AMD processor] [Memory Intensive] [Local Disk] [Premium Storage capable] 4 vCPUs",
   "family": "Famdsv7",

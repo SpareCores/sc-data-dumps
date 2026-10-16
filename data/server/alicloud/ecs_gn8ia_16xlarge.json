@@ -3,7 +3,9 @@
   "server_id": "ecs.gn8ia.16xlarge",
   "name": "ecs.gn8ia.16xlarge",
   "api_reference": "ecs.gn8ia.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn8ia.16xlarge"
+  },
   "display_name": "ecs.gn8ia.16xlarge",
   "description": "ecs.gn8ia family (64 vCPUs, 384 GiB RAM, 0 GB  storage, 1xL20 49152 GiB VRAM)",
   "family": "ecs.gn8ia",

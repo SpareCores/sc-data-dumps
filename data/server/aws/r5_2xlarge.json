@@ -3,7 +3,9 @@
   "server_id": "r5.2xlarge",
   "name": "r5.2xlarge",
   "api_reference": "r5.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r5.2xlarge"
+  },
   "display_name": "r5.2xlarge",
   "description": "Memory optimized Gen5 2xlarge",
   "family": "r5",

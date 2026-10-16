@@ -3,7 +3,9 @@
   "server_id": "m5zn.metal",
   "name": "m5zn.metal",
   "api_reference": "m5zn.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m5zn.metal"
+  },
   "display_name": "m5zn.metal",
   "description": "General purpose [Network and EBS optimized] [High performance] Gen5 metal",
   "family": "m5zn",

@@ -3,7 +3,11 @@
   "server_id": "Standard_FX4-2ms_v2",
   "name": "FX4-2ms_v2",
   "api_reference": "Standard_FX4-2ms_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_FX4-2ms_v2"
+    }
+  },
   "display_name": "FX4-2ms_v2",
   "description": "FXmsv2 family [Memory Intensive] [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "FXmsv2",

@@ -3,7 +3,9 @@
   "server_id": "r5d.4xlarge",
   "name": "r5d.4xlarge",
   "api_reference": "r5d.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r5d.4xlarge"
+  },
   "display_name": "r5d.4xlarge",
   "description": "Memory optimized [Instance store volumes] Gen5 4xlarge",
   "family": "r5d",

@@ -3,7 +3,9 @@
   "server_id": "a1.2xlarge",
   "name": "a1.2xlarge",
   "api_reference": "a1.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "a1.2xlarge"
+  },
   "display_name": "a1.2xlarge",
   "description": "AWS Graviton Gen1 2xlarge",
   "family": "a1",

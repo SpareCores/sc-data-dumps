@@ -3,7 +3,9 @@
   "server_id": "ecs.s2.small",
   "name": "ecs.s2.small",
   "api_reference": "ecs.s2.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.s2.small"
+  },
   "display_name": "ecs.s2.small",
   "description": "ecs.s2 family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.s2",

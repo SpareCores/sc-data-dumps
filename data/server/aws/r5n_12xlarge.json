@@ -3,7 +3,9 @@
   "server_id": "r5n.12xlarge",
   "name": "r5n.12xlarge",
   "api_reference": "r5n.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r5n.12xlarge"
+  },
   "display_name": "r5n.12xlarge",
   "description": "Memory optimized [Network and EBS optimized] Gen5 12xlarge",
   "family": "r5n",

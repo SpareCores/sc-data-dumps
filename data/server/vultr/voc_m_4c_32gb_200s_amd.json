@@ -3,7 +3,9 @@
   "server_id": "voc-m-4c-32gb-200s-amd",
   "name": "voc-m-4c-32gb-200s-amd",
   "api_reference": "voc-m-4c-32gb-200s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-m-4c-32gb-200s-amd"
+  },
   "display_name": "voc-m-4c-32gb-200s-amd",
   "description": "Optimized Cloud Compute (4 vCPUs, 32.0 GiB RAM, 200 GB NVMe)",
   "family": "Optimized Cloud Compute",

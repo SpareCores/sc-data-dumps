@@ -3,7 +3,9 @@
   "server_id": "im4gn.xlarge",
   "name": "im4gn.xlarge",
   "api_reference": "im4gn.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "im4gn.xlarge"
+  },
   "display_name": "im4gn.xlarge",
   "description": "Storage optimized with a one to four ratio of vCPU to memory [AWS Graviton processors] [Network and EBS optimized] Gen4 xlarge",
   "family": "im4gn",

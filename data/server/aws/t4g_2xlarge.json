@@ -3,7 +3,9 @@
   "server_id": "t4g.2xlarge",
   "name": "t4g.2xlarge",
   "api_reference": "t4g.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t4g.2xlarge"
+  },
   "display_name": "t4g.2xlarge",
   "description": "Burstable performance [AWS Graviton processors] Gen4 2xlarge",
   "family": "t4g",

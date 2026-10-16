@@ -3,7 +3,9 @@
   "server_id": "vbm-256c-3072gb-8-mi325x-gpu",
   "name": "vbm-256c-3072gb-8-mi325x-gpu",
   "api_reference": "vbm-256c-3072gb-8-mi325x-gpu",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-256c-3072gb-8-mi325x-gpu"
+  },
   "display_name": "vbm-256c-3072gb-8-mi325x-gpu",
   "description": "Bare Metal NVMe (256 vCPUs, 3072.0 GiB RAM, 28608 GB NVMe, 8xMI325X 256 GiB VRAM)",
   "family": "Bare Metal NVMe",

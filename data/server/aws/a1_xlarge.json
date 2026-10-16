@@ -3,7 +3,9 @@
   "server_id": "a1.xlarge",
   "name": "a1.xlarge",
   "api_reference": "a1.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "a1.xlarge"
+  },
   "display_name": "a1.xlarge",
   "description": "AWS Graviton Gen1 xlarge",
   "family": "a1",

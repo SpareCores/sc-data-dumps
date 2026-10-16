@@ -3,7 +3,11 @@
   "server_id": "Standard_L160ias_v5",
   "name": "L160ias_v5",
   "api_reference": "Standard_L160ias_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L160ias_v5"
+    }
+  },
   "display_name": "L160ias_v5",
   "description": "Lasv5 family [Isolated] [AMD processor] [Premium Storage capable] 160 vCPUs",
   "family": "Lasv5",

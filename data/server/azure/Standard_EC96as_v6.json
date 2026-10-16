@@ -3,7 +3,11 @@
   "server_id": "Standard_EC96as_v6",
   "name": "EC96as_v6",
   "api_reference": "Standard_EC96as_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC96as_v6"
+    }
+  },
   "display_name": "EC96as_v6",
   "description": "ECasv6 family [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "ECasv6",

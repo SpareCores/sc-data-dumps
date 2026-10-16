@@ -3,7 +3,11 @@
   "server_id": "Standard_E112ibs_v5",
   "name": "E112ibs_v5",
   "api_reference": "Standard_E112ibs_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E112ibs_v5"
+    }
+  },
   "display_name": "E112ibs_v5",
   "description": "EIBSv5 family [Isolated] [Block Storage performance] [Premium Storage capable] [Intel processor] 112 vCPUs",
   "family": "EIBSv5",

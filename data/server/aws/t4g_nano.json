@@ -3,7 +3,9 @@
   "server_id": "t4g.nano",
   "name": "t4g.nano",
   "api_reference": "t4g.nano",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t4g.nano"
+  },
   "display_name": "t4g.nano",
   "description": "Burstable performance [AWS Graviton processors] Gen4 nano",
   "family": "t4g",

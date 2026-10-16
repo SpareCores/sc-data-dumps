@@ -3,7 +3,11 @@
   "server_id": "Standard_EC32eds_v6",
   "name": "EC32eds_v6",
   "api_reference": "Standard_EC32eds_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC32eds_v6"
+    }
+  },
   "display_name": "EC32eds_v6",
   "description": "ECEDV6 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "ECEDV6",

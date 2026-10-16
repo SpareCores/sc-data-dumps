@@ -3,7 +3,9 @@
   "server_id": "ecs.ic6.large",
   "name": "ecs.ic6.large",
   "api_reference": "ecs.ic6.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ic6.large"
+  },
   "display_name": "ecs.ic6.large",
   "description": "ecs.ic6 family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.ic6",

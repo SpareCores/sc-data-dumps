@@ -3,7 +3,9 @@
   "server_id": "h1.4xlarge",
   "name": "h1.4xlarge",
   "api_reference": "h1.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "h1.4xlarge"
+  },
   "display_name": "h1.4xlarge",
   "description": "Cost-effective storage optimized with HDD Gen1 4xlarge",
   "family": "h1",

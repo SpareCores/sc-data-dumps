@@ -3,7 +3,9 @@
   "server_id": "inf2.24xlarge",
   "name": "inf2.24xlarge",
   "api_reference": "inf2.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "inf2.24xlarge"
+  },
   "display_name": "inf2.24xlarge",
   "description": "AWS Inferentia Gen2 24xlarge",
   "family": "inf2",

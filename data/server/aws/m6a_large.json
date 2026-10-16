@@ -3,7 +3,9 @@
   "server_id": "m6a.large",
   "name": "m6a.large",
   "api_reference": "m6a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6a.large"
+  },
   "display_name": "m6a.large",
   "description": "General purpose [AMD processors] Gen6 large",
   "family": "m6a",

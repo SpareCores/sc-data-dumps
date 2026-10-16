@@ -3,7 +3,11 @@
   "server_id": "Standard_NC288ds_xl_RTXPRO6000BSE_v6",
   "name": "NC288ds_xl_RTXPRO6000BSE_v6",
   "api_reference": "Standard_NC288ds_xl_RTXPRO6000BSE_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NC288ds_xl_RTXPRO6000BSE_v6"
+    }
+  },
   "display_name": "NC288ds_xl_RTXPRO6000BSE_v6",
   "description": "NCdsRTXPRO6000BSEv6XL family [Local Disk] [Premium Storage capable] [Intel processor] 288 vCPUs",
   "family": "NCdsRTXPRO6000BSEv6XL",

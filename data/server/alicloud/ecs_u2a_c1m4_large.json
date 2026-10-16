@@ -3,7 +3,9 @@
   "server_id": "ecs.u2a-c1m4.large",
   "name": "ecs.u2a-c1m4.large",
   "api_reference": "ecs.u2a-c1m4.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.u2a-c1m4.large"
+  },
   "display_name": "ecs.u2a-c1m4.large",
   "description": "ecs.u2a family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.u2a",

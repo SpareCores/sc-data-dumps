@@ -3,7 +3,11 @@
   "server_id": "Standard_EC96ias_v5",
   "name": "EC96ias_v5",
   "api_reference": "Standard_EC96ias_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_EC96ias_v5"
+    }
+  },
   "display_name": "EC96ias_v5",
   "description": "ECIASv5 family [Isolated] [AMD processor] [Premium Storage capable] 96 vCPUs",
   "family": "ECIASv5",

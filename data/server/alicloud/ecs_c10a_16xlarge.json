@@ -3,7 +3,9 @@
   "server_id": "ecs.c10a.16xlarge",
   "name": "ecs.c10a.16xlarge",
   "api_reference": "ecs.c10a.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c10a.16xlarge"
+  },
   "display_name": "ecs.c10a.16xlarge",
   "description": "ecs.c10a family (64 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.c10a",

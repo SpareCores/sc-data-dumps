@@ -3,7 +3,11 @@
   "server_id": "Standard_FX12mds",
   "name": "FX12mds",
   "api_reference": "Standard_FX12mds",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_FX12mds"
+    }
+  },
   "display_name": "FX12mds",
   "description": "FXMDVS family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 12 vCPUs",
   "family": "FXMDVS",

@@ -3,7 +3,9 @@
   "server_id": "ecs.c8m.large",
   "name": "ecs.c8m.large",
   "api_reference": "ecs.c8m.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c8m.large"
+  },
   "display_name": "ecs.c8m.large",
   "description": "ecs.c8m family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c8m",

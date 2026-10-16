@@ -3,7 +3,11 @@
   "server_id": "Standard_E112iads_v5",
   "name": "E112iads_v5",
   "api_reference": "Standard_E112iads_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E112iads_v5"
+    }
+  },
   "display_name": "E112iads_v5",
   "description": "EIADSv5 family [Isolated] [AMD processor] [Local Disk] [Premium Storage capable] 112 vCPUs",
   "family": "EIADSv5",

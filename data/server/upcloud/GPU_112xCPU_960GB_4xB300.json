@@ -3,7 +3,9 @@
   "server_id": "GPU-112xCPU-960GB-4xB300",
   "name": "GPU-112xCPU-960GB-4xB300",
   "api_reference": "GPU-112xCPU-960GB-4xB300",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-112xCPU-960GB-4xB300"
+  },
   "display_name": "GPU-112xCPU-960GB-4xB300",
   "description": "GPU (112 vCPUs, 960 GiB RAM, 4x B300)",
   "family": "GPU",

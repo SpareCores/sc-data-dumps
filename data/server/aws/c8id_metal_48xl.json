@@ -3,7 +3,9 @@
   "server_id": "c8id.metal-48xl",
   "name": "c8id.metal-48xl",
   "api_reference": "c8id.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8id.metal-48xl"
+  },
   "display_name": "c8id.metal-48xl",
   "description": "Compute optimized [Intel processors] [Instance store volumes] Gen8 metal-48xl",
   "family": "c8id",

@@ -3,7 +3,9 @@
   "server_id": "ecs.gn6v-c8g1.16xlarge",
   "name": "ecs.gn6v-c8g1.16xlarge",
   "api_reference": "ecs.gn6v-c8g1.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn6v-c8g1.16xlarge"
+  },
   "display_name": "ecs.gn6v-c8g1.16xlarge",
   "description": "ecs.gn6v family (64 vCPUs, 256 GiB RAM, 0 GB  storage, 8xV100 16384 GiB VRAM)",
   "family": "ecs.gn6v",
@@ -224,5 +226,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 55.0,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

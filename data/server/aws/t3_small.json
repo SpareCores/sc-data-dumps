@@ -3,7 +3,9 @@
   "server_id": "t3.small",
   "name": "t3.small",
   "api_reference": "t3.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3.small"
+  },
   "display_name": "t3.small",
   "description": "Burstable performance Gen3 small",
   "family": "t3",

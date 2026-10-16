@@ -3,7 +3,9 @@
   "server_id": "999904054",
   "name": "h4d-megamem-192-lssd",
   "api_reference": "h4d-megamem-192-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "h4d-megamem-192-lssd"
+  },
   "display_name": "h4d-megamem-192-lssd",
   "description": "192 vCPUs, 3024 GB RAM, 32 local SSDs",
   "family": "h4d",

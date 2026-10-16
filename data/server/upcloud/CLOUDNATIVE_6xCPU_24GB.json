@@ -3,7 +3,9 @@
   "server_id": "CLOUDNATIVE-6xCPU-24GB",
   "name": "CLOUDNATIVE-6xCPU-24GB",
   "api_reference": "CLOUDNATIVE-6xCPU-24GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "CLOUDNATIVE-6xCPU-24GB"
+  },
   "display_name": "CLOUDNATIVE-6xCPU-24GB",
   "description": "Cloud Native (6 vCPUs, 24 GiB RAM)",
   "family": "Cloud Native",

@@ -3,7 +3,9 @@
   "server_id": "m6a.metal",
   "name": "m6a.metal",
   "api_reference": "m6a.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6a.metal"
+  },
   "display_name": "m6a.metal",
   "description": "General purpose [AMD processors] Gen6 metal",
   "family": "m6a",

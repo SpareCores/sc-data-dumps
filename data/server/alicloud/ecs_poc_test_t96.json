@@ -3,7 +3,9 @@
   "server_id": "ecs.poc-test.t96",
   "name": "ecs.poc-test.t96",
   "api_reference": "ecs.poc-test.t96",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.poc-test.t96"
+  },
   "display_name": "ecs.poc-test.t96",
   "description": "ecs.poc-test family (128 vCPUs, 1024 GiB RAM, 0 GB  storage, 8xL20 49152 GiB VRAM)",
   "family": "ecs.poc-test",

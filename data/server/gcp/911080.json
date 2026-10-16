@@ -3,7 +3,9 @@
   "server_id": "911080",
   "name": "n2d-standard-80",
   "api_reference": "n2d-standard-80",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2d-standard-80"
+  },
   "display_name": "n2d-standard-80",
   "description": "80 vCPUs 320 GB RAM",
   "family": "n2d",

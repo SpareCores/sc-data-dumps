@@ -3,7 +3,9 @@
   "server_id": "ecs.t5-lc2m1.nano",
   "name": "ecs.t5-lc2m1.nano",
   "api_reference": "ecs.t5-lc2m1.nano",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.t5-lc2m1.nano"
+  },
   "display_name": "ecs.t5-lc2m1.nano",
   "description": "ecs.t5 family (1 vCPUs, 0.5 GiB RAM, 0 GB  storage)",
   "family": "ecs.t5",

@@ -3,7 +3,9 @@
   "server_id": "ecs.g9hne.2xlarge",
   "name": "ecs.g9hne.2xlarge",
   "api_reference": "ecs.g9hne.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g9hne.2xlarge"
+  },
   "display_name": "ecs.g9hne.2xlarge",
   "description": "ecs.g9hne family (8 vCPUs, 32 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9hne",

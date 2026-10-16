@@ -3,7 +3,9 @@
   "server_id": "GPU-128xCPU-640GB-8xRTXPRO6000",
   "name": "GPU-128xCPU-640GB-8xRTXPRO6000",
   "api_reference": "GPU-128xCPU-640GB-8xRTXPRO6000",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-128xCPU-640GB-8xRTXPRO6000"
+  },
   "display_name": "GPU-128xCPU-640GB-8xRTXPRO6000",
   "description": "GPU (128 vCPUs, 640 GiB RAM, 8x RTXPRO6000)",
   "family": "GPU",
@@ -41,7 +43,7 @@
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX Pro 6000",
+  "accelerator_model": "RTX PRO 6000",
   "accelerators": [],
   "storage_size": 0,
   "storage_type": null,

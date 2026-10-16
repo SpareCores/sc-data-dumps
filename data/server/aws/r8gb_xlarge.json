@@ -3,7 +3,9 @@
   "server_id": "r8gb.xlarge",
   "name": "r8gb.xlarge",
   "api_reference": "r8gb.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8gb.xlarge"
+  },
   "display_name": "r8gb.xlarge",
   "description": "Memory optimized [AWS Graviton processors] Gen8 xlarge",
   "family": "r8gb",

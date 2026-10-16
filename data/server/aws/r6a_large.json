@@ -3,7 +3,9 @@
   "server_id": "r6a.large",
   "name": "r6a.large",
   "api_reference": "r6a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r6a.large"
+  },
   "display_name": "r6a.large",
   "description": "Memory optimized [AMD processors] Gen6 large",
   "family": "r6a",

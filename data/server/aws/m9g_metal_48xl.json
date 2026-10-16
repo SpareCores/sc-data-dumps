@@ -3,7 +3,9 @@
   "server_id": "m9g.metal-48xl",
   "name": "m9g.metal-48xl",
   "api_reference": "m9g.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m9g.metal-48xl"
+  },
   "display_name": "m9g.metal-48xl",
   "description": "General purpose [AWS Graviton processors] Gen9 metal-48xl",
   "family": "m9g",

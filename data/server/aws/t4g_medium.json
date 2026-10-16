@@ -3,7 +3,9 @@
   "server_id": "t4g.medium",
   "name": "t4g.medium",
   "api_reference": "t4g.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t4g.medium"
+  },
   "display_name": "t4g.medium",
   "description": "Burstable performance [AWS Graviton processors] Gen4 medium",
   "family": "t4g",

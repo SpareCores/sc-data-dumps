@@ -3,7 +3,11 @@
   "server_id": "Standard_D96a_v4",
   "name": "D96a_v4",
   "api_reference": "Standard_D96a_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D96a_v4"
+    }
+  },
   "display_name": "D96a_v4",
   "description": "DAv4 family [AMD processor] 96 vCPUs",
   "family": "DAv4",

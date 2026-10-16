@@ -3,7 +3,11 @@
   "server_id": "Standard_D8nds_v6",
   "name": "D8nds_v6",
   "api_reference": "Standard_D8nds_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D8nds_v6"
+    }
+  },
   "display_name": "D8nds_v6",
   "description": "Dndv6 family [Network Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "Dndv6",

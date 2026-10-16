@@ -3,7 +3,9 @@
   "server_id": "c7i.xlarge",
   "name": "c7i.xlarge",
   "api_reference": "c7i.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7i.xlarge"
+  },
   "display_name": "c7i.xlarge",
   "description": "Compute optimized [Intel processors] Gen7 xlarge",
   "family": "c7i",

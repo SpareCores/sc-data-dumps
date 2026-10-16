@@ -3,7 +3,9 @@
   "server_id": "t4g.micro",
   "name": "t4g.micro",
   "api_reference": "t4g.micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t4g.micro"
+  },
   "display_name": "t4g.micro",
   "description": "Burstable performance [AWS Graviton processors] Gen4 micro",
   "family": "t4g",

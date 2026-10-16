@@ -3,7 +3,11 @@
   "server_id": "Standard_HC44-32rs",
   "name": "HC44-32rs",
   "api_reference": "Standard_HC44-32rs",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_HC44-32rs"
+    }
+  },
   "display_name": "HC44-32rs",
   "description": "HCS family [RDMA capable] [Premium Storage capable] [Intel processor] 44 vCPUs",
   "family": "HCS",

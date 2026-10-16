@@ -3,7 +3,11 @@
   "server_id": "Standard_ND96amsr_A100_v4",
   "name": "ND96amsr_A100_v4",
   "api_reference": "Standard_ND96amsr_A100_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_ND96amsr_A100_v4"
+    }
+  },
   "display_name": "ND96amsr_A100_v4",
   "description": " NDAMSv4_A100 family [AMD processor] [Memory Intensive] [Premium Storage capable] [RDMA capable] 96 vCPUs",
   "family": " NDAMSv4_A100",

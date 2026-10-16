@@ -3,7 +3,9 @@
   "server_id": "ecs.ic9a-flex.large",
   "name": "ecs.ic9a-flex.large",
   "api_reference": "ecs.ic9a-flex.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ic9a-flex.large"
+  },
   "display_name": "ecs.ic9a-flex.large",
   "description": "ecs.ic9a-flex family (2 vCPUs, 2 GiB RAM, 0 GB  storage)",
   "family": "ecs.ic9a-flex",

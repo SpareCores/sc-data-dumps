@@ -3,7 +3,9 @@
   "server_id": "ecs.e4.4xlarge",
   "name": "ecs.e4.4xlarge",
   "api_reference": "ecs.e4.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.e4.4xlarge"
+  },
   "display_name": "ecs.e4.4xlarge",
   "description": "ecs.e4 family (16 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.e4",
@@ -132,5 +134,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

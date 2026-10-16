@@ -3,7 +3,9 @@
   "server_id": "3001",
   "name": "n1-standard-1",
   "api_reference": "n1-standard-1",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n1-standard-1"
+  },
   "display_name": "n1-standard-1",
   "description": "1 vCPU, 3.75 GB RAM",
   "family": "n1",

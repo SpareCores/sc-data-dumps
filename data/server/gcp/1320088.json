@@ -3,7 +3,9 @@
   "server_id": "1320088",
   "name": "c3-highcpu-88",
   "api_reference": "c3-highcpu-88",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3-highcpu-88"
+  },
   "display_name": "c3-highcpu-88",
   "description": "88 vCPUs, 176 GB RAM",
   "family": "c3",

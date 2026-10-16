@@ -3,7 +3,9 @@
   "server_id": "c7a.large",
   "name": "c7a.large",
   "api_reference": "c7a.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7a.large"
+  },
   "display_name": "c7a.large",
   "description": "Compute optimized [AMD processors] Gen7 large",
   "family": "c7a",

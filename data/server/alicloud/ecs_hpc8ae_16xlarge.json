@@ -3,7 +3,9 @@
   "server_id": "ecs.hpc8ae.16xlarge",
   "name": "ecs.hpc8ae.16xlarge",
   "api_reference": "ecs.hpc8ae.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hpc8ae.16xlarge"
+  },
   "display_name": "ecs.hpc8ae.16xlarge",
   "description": "ecs.hpc8ae family (32 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.hpc8ae",

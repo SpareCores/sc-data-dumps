@@ -3,7 +3,11 @@
   "server_id": "Standard_FX24mds",
   "name": "FX24mds",
   "api_reference": "Standard_FX24mds",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_FX24mds"
+    }
+  },
   "display_name": "FX24mds",
   "description": "FXMDVS family [Memory Intensive] [Local Disk] [Premium Storage capable] [Intel processor] 24 vCPUs",
   "family": "FXMDVS",

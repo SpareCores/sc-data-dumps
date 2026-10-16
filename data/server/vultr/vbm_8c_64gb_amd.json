@@ -3,7 +3,9 @@
   "server_id": "vbm-8c-64gb-amd",
   "name": "vbm-8c-64gb-amd",
   "api_reference": "vbm-8c-64gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-8c-64gb-amd"
+  },
   "display_name": "vbm-8c-64gb-amd",
   "description": "Bare Metal NVMe (16 vCPUs, 64.0 GiB RAM, 3890 GB NVMe)",
   "family": "Bare Metal NVMe",

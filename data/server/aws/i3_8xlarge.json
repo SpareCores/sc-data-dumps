@@ -3,7 +3,9 @@
   "server_id": "i3.8xlarge",
   "name": "i3.8xlarge",
   "api_reference": "i3.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i3.8xlarge"
+  },
   "display_name": "i3.8xlarge",
   "description": "Storage optimized Gen3 8xlarge",
   "family": "i3",

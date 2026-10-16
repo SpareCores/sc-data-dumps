@@ -3,7 +3,9 @@
   "server_id": "ecs.t6-c1m4.large",
   "name": "ecs.t6-c1m4.large",
   "api_reference": "ecs.t6-c1m4.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.t6-c1m4.large"
+  },
   "display_name": "ecs.t6-c1m4.large",
   "description": "ecs.t6 family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.t6",

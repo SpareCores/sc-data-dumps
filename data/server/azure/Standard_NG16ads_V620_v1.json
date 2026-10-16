@@ -3,7 +3,11 @@
   "server_id": "Standard_NG16ads_V620_v1",
   "name": "NG16ads_V620_v1",
   "api_reference": "Standard_NG16ads_V620_v1",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NG16ads_V620_v1"
+    }
+  },
   "display_name": "NG16ads_V620_v1",
   "description": "NGADSV620v1 family [AMD processor] [Local Disk] [Premium Storage capable] 16 vCPUs",
   "family": "NGADSV620v1",

@@ -3,7 +3,9 @@
   "server_id": "inf1.6xlarge",
   "name": "inf1.6xlarge",
   "api_reference": "inf1.6xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "inf1.6xlarge"
+  },
   "display_name": "inf1.6xlarge",
   "description": "AWS Inferentia Gen1 6xlarge",
   "family": "inf1",

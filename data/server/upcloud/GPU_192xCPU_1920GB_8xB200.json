@@ -3,7 +3,9 @@
   "server_id": "GPU-192xCPU-1920GB-8xB200",
   "name": "GPU-192xCPU-1920GB-8xB200",
   "api_reference": "GPU-192xCPU-1920GB-8xB200",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-192xCPU-1920GB-8xB200"
+  },
   "display_name": "GPU-192xCPU-1920GB-8xB200",
   "description": "GPU (192 vCPUs, 1920 GiB RAM, 8x B200)",
   "family": "GPU",

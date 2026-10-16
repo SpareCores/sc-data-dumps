@@ -3,7 +3,11 @@
   "server_id": "Standard_F16s",
   "name": "F16s",
   "api_reference": "Standard_F16s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F16s"
+    }
+  },
   "display_name": "F16s",
   "description": "FS family [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "FS",

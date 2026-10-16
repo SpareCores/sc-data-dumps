@@ -3,7 +3,9 @@
   "server_id": "c8a.medium",
   "name": "c8a.medium",
   "api_reference": "c8a.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8a.medium"
+  },
   "display_name": "c8a.medium",
   "description": "Compute optimized [AMD processors] Gen8 medium",
   "family": "c8a",

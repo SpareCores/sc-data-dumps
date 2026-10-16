@@ -3,7 +3,9 @@
   "server_id": "m6in.metal",
   "name": "m6in.metal",
   "api_reference": "m6in.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6in.metal"
+  },
   "display_name": "m6in.metal",
   "description": "General purpose [Intel processors] [Network and EBS optimized] Gen6 metal",
   "family": "m6in",

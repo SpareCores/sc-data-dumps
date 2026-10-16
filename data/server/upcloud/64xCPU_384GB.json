@@ -3,7 +3,9 @@
   "server_id": "64xCPU-384GB",
   "name": "64xCPU-384GB",
   "api_reference": "64xCPU-384GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "64xCPU-384GB"
+  },
   "display_name": "64xCPU-384GB",
   "description": "General Purpose (64 vCPUs, 384 GiB RAM)",
   "family": "General Purpose",

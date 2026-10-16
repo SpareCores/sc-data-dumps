@@ -3,7 +3,11 @@
   "server_id": "Standard_NC80adis_H100_v5",
   "name": "NC80adis_H100_v5",
   "api_reference": "Standard_NC80adis_H100_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NC80adis_H100_v5"
+    }
+  },
   "display_name": "NC80adis_H100_v5",
   "description": "NCadsH100v5 family [AMD processor] [Local Disk] [Isolated] [Premium Storage capable] 80 vCPUs",
   "family": "NCadsH100v5",

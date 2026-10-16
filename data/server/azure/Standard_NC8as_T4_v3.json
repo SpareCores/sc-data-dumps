@@ -3,7 +3,11 @@
   "server_id": "Standard_NC8as_T4_v3",
   "name": "NC8as_T4_v3",
   "api_reference": "Standard_NC8as_T4_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NC8as_T4_v3"
+    }
+  },
   "display_name": "NC8as_T4_v3",
   "description": " NCASv3_T4  family [AMD processor] [Premium Storage capable] 8 vCPUs",
   "family": " NCASv3_T4 ",

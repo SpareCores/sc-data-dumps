@@ -3,7 +3,9 @@
   "server_id": "ecs.c6a.2xlarge",
   "name": "ecs.c6a.2xlarge",
   "api_reference": "ecs.c6a.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c6a.2xlarge"
+  },
   "display_name": "ecs.c6a.2xlarge",
   "description": "ecs.c6a family (8 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.c6a",

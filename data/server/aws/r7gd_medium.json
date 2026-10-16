@@ -3,7 +3,9 @@
   "server_id": "r7gd.medium",
   "name": "r7gd.medium",
   "api_reference": "r7gd.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7gd.medium"
+  },
   "display_name": "r7gd.medium",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen7 medium",
   "family": "r7gd",

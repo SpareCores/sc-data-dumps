@@ -3,7 +3,9 @@
   "server_id": "ecs.c6t.large",
   "name": "ecs.c6t.large",
   "api_reference": "ecs.c6t.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c6t.large"
+  },
   "display_name": "ecs.c6t.large",
   "description": "ecs.c6t family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c6t",

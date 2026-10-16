@@ -3,7 +3,9 @@
   "server_id": "vbm-128c-2048gb-amd",
   "name": "vbm-128c-2048gb-amd",
   "api_reference": "vbm-128c-2048gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-128c-2048gb-amd"
+  },
   "display_name": "vbm-128c-2048gb-amd",
   "description": "Bare Metal SSD (256 vCPUs, 2048.0 GiB RAM, 960 GB SSD)",
   "family": "Bare Metal SSD",

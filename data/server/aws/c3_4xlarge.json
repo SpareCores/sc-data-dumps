@@ -3,7 +3,9 @@
   "server_id": "c3.4xlarge",
   "name": "c3.4xlarge",
   "api_reference": "c3.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c3.4xlarge"
+  },
   "display_name": "c3.4xlarge",
   "description": "Compute optimized Gen3 4xlarge",
   "family": "c3",

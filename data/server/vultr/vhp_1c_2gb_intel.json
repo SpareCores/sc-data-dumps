@@ -3,7 +3,9 @@
   "server_id": "vhp-1c-2gb-intel",
   "name": "vhp-1c-2gb-intel",
   "api_reference": "vhp-1c-2gb-intel",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhp-1c-2gb-intel"
+  },
   "display_name": "vhp-1c-2gb-intel",
   "description": "High Performance (1 vCPUs, 2.0 GiB RAM, 50 GB NVMe)",
   "family": "High Performance",

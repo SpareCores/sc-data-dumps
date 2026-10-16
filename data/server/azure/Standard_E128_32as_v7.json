@@ -3,7 +3,11 @@
   "server_id": "Standard_E128-32as_v7",
   "name": "E128-32as_v7",
   "api_reference": "Standard_E128-32as_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E128-32as_v7"
+    }
+  },
   "display_name": "E128-32as_v7",
   "description": "Easv7 family [AMD processor] [Premium Storage capable] 128 vCPUs",
   "family": "Easv7",

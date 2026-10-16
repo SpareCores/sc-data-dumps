@@ -3,7 +3,9 @@
   "server_id": "999921025",
   "name": "c4a-highmem-96-metal",
   "api_reference": "c4a-highmem-96-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-highmem-96-metal"
+  },
   "display_name": "c4a-highmem-96-metal",
   "description": "96 vCPUs, 768 GB RAM",
   "family": "c4a",

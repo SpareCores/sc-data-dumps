@@ -3,7 +3,9 @@
   "server_id": "c8i-flex.4xlarge",
   "name": "c8i-flex.4xlarge",
   "api_reference": "c8i-flex.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8i-flex.4xlarge"
+  },
   "display_name": "c8i-flex.4xlarge",
   "description": "Compute optimized [Intel processors] Gen8 4xlarge",
   "family": "c8i-flex",

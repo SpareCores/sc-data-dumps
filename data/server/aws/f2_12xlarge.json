@@ -3,7 +3,9 @@
   "server_id": "f2.12xlarge",
   "name": "f2.12xlarge",
   "api_reference": "f2.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "f2.12xlarge"
+  },
   "display_name": "f2.12xlarge",
   "description": "FPGA Gen2 12xlarge",
   "family": "f2",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D64_v3",
   "name": "D64_v3",
   "api_reference": "Standard_D64_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D64_v3"
+    }
+  },
   "display_name": "D64_v3",
   "description": "Dv3 family [Intel processor] 64 vCPUs",
   "family": "Dv3",

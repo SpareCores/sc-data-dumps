@@ -3,7 +3,11 @@
   "server_id": "Standard_M832is_16_v3",
   "name": "M832is_16_v3",
   "api_reference": "Standard_M832is_16_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M832is_16_v3"
+    }
+  },
   "display_name": "M832is_16_v3",
   "description": "MISHighMemoryv3 family [Isolated] [Premium Storage capable] [Intel processor] 832 vCPUs",
   "family": "MISHighMemoryv3",

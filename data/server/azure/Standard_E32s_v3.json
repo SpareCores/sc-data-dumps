@@ -3,7 +3,11 @@
   "server_id": "Standard_E32s_v3",
   "name": "E32s_v3",
   "api_reference": "Standard_E32s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E32s_v3"
+    }
+  },
   "display_name": "E32s_v3",
   "description": "ESv3 family [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "ESv3",

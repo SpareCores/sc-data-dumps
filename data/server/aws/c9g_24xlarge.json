@@ -3,7 +3,9 @@
   "server_id": "c9g.24xlarge",
   "name": "c9g.24xlarge",
   "api_reference": "c9g.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c9g.24xlarge"
+  },
   "display_name": "c9g.24xlarge",
   "description": "Compute optimized [AWS Graviton processors] Gen9 24xlarge",
   "family": "c9g",

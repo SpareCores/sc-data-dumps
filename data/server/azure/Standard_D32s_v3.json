@@ -3,7 +3,11 @@
   "server_id": "Standard_D32s_v3",
   "name": "D32s_v3",
   "api_reference": "Standard_D32s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D32s_v3"
+    }
+  },
   "display_name": "D32s_v3",
   "description": "DSv3 family [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "DSv3",

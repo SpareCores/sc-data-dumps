@@ -3,7 +3,11 @@
   "server_id": "Standard_F80amds_v7",
   "name": "F80amds_v7",
   "api_reference": "Standard_F80amds_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F80amds_v7"
+    }
+  },
   "display_name": "F80amds_v7",
   "description": "Famdsv7 family [AMD processor] [Memory Intensive] [Local Disk] [Premium Storage capable] 80 vCPUs",
   "family": "Famdsv7",

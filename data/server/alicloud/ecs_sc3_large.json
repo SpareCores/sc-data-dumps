@@ -3,7 +3,9 @@
   "server_id": "ecs.sc3.large",
   "name": "ecs.sc3.large",
   "api_reference": "ecs.sc3.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sc3.large"
+  },
   "display_name": "ecs.sc3.large",
   "description": "ecs.c7 family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.c7",

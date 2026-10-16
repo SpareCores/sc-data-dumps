@@ -3,7 +3,9 @@
   "server_id": "c8in.large",
   "name": "c8in.large",
   "api_reference": "c8in.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8in.large"
+  },
   "display_name": "c8in.large",
   "description": "Compute optimized [Intel processors] [Network and EBS optimized] Gen8 large",
   "family": "c8in",

@@ -3,7 +3,9 @@
   "server_id": "ecs.f5-c8f1.8xlarge",
   "name": "ecs.f5-c8f1.8xlarge",
   "api_reference": "ecs.f5-c8f1.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.f5-c8f1.8xlarge"
+  },
   "display_name": "ecs.f5-c8f1.8xlarge",
   "description": "ecs.f5 family (32 vCPUs, 128 GiB RAM, 0 GB  storage, 1xAGF 027 16384 GiB VRAM)",
   "family": "ecs.f5",

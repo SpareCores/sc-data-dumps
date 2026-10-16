@@ -3,7 +3,11 @@
   "server_id": "Standard_NP10s",
   "name": "NP10s",
   "api_reference": "Standard_NP10s",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_NP10s"
+    }
+  },
   "display_name": "NP10s",
   "description": "NPS family [Premium Storage capable] [Intel processor] 10 vCPUs",
   "family": "NPS",

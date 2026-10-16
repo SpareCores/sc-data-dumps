@@ -3,7 +3,9 @@
   "server_id": "ecs.ga1.4xlarge",
   "name": "ecs.ga1.4xlarge",
   "api_reference": "ecs.ga1.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ga1.4xlarge"
+  },
   "display_name": "ecs.ga1.4xlarge",
   "description": "ecs.ga1 family (16 vCPUs, 40 GiB RAM, 375 GB ssd storage, 1xS7150 0 GiB VRAM)",
   "family": "ecs.ga1",

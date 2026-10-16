@@ -3,7 +3,9 @@
   "server_id": "999916288",
   "name": "c4-standard-288-metal",
   "api_reference": "c4-standard-288-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4-standard-288-metal"
+  },
   "display_name": "c4-standard-288-metal",
   "description": "288 vCPUs, 1080 GB RAM",
   "family": "c4",

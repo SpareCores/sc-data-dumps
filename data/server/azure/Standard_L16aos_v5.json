@@ -3,7 +3,11 @@
   "server_id": "Standard_L16aos_v5",
   "name": "L16aos_v5",
   "api_reference": "Standard_L16aos_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L16aos_v5"
+    }
+  },
   "display_name": "L16aos_v5",
   "description": "Laosv5 family [AMD processor] [o] [Premium Storage capable] 16 vCPUs",
   "family": "Laosv5",

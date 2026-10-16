@@ -3,7 +3,9 @@
   "server_id": "999903077",
   "name": "c4d-standard-384-lssd",
   "api_reference": "c4d-standard-384-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4d-standard-384-lssd"
+  },
   "display_name": "c4d-standard-384-lssd",
   "description": "384 vCPUs, 1488 GB RAM, 32 local SSDs",
   "family": "c4d",

@@ -3,7 +3,9 @@
   "server_id": "trn2.48xlarge",
   "name": "trn2.48xlarge",
   "api_reference": "trn2.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "trn2.48xlarge"
+  },
   "display_name": "trn2.48xlarge",
   "description": "AWS Trainium Gen2 48xlarge",
   "family": "trn2",

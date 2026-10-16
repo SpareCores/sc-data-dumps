@@ -3,7 +3,11 @@
   "server_id": "Standard_D16lds_v7",
   "name": "D16lds_v7",
   "api_reference": "Standard_D16lds_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D16lds_v7"
+    }
+  },
   "display_name": "D16lds_v7",
   "description": "Dldsv7 family [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "Dldsv7",

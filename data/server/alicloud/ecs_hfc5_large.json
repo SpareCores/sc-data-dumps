@@ -3,7 +3,9 @@
   "server_id": "ecs.hfc5.large",
   "name": "ecs.hfc5.large",
   "api_reference": "ecs.hfc5.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.hfc5.large"
+  },
   "display_name": "ecs.hfc5.large",
   "description": "ecs.hfc5 family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.hfc5",

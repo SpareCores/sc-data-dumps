@@ -3,7 +3,9 @@
   "server_id": "p5en.48xlarge",
   "name": "p5en.48xlarge",
   "api_reference": "p5en.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p5en.48xlarge"
+  },
   "display_name": "p5en.48xlarge",
   "description": "GPU accelerated [Network and EBS optimized] [Extra storage or memory] Gen5 48xlarge",
   "family": "p5en",

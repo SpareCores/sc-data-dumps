@@ -3,7 +3,9 @@
   "server_id": "c8id.xlarge",
   "name": "c8id.xlarge",
   "api_reference": "c8id.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8id.xlarge"
+  },
   "display_name": "c8id.xlarge",
   "description": "Compute optimized [Intel processors] [Instance store volumes] Gen8 xlarge",
   "family": "c8id",

@@ -3,7 +3,11 @@
   "server_id": "Standard_E4s_v5",
   "name": "E4s_v5",
   "api_reference": "Standard_E4s_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E4s_v5"
+    }
+  },
   "display_name": "E4s_v5",
   "description": "ESv5 family [Premium Storage capable] [Intel processor] 4 vCPUs",
   "family": "ESv5",

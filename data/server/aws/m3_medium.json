@@ -3,7 +3,9 @@
   "server_id": "m3.medium",
   "name": "m3.medium",
   "api_reference": "m3.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m3.medium"
+  },
   "display_name": "m3.medium",
   "description": "General purpose Gen3 medium",
   "family": "m3",

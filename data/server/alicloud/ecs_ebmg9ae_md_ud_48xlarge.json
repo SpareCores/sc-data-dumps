@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmg9ae-md-ud.48xlarge",
   "name": "ecs.ebmg9ae-md-ud.48xlarge",
   "api_reference": "ecs.ebmg9ae-md-ud.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmg9ae-md-ud.48xlarge"
+  },
   "display_name": "ecs.ebmg9ae-md-ud.48xlarge",
   "description": "ecs.ebmg9ae-md-ud family (192 vCPUs, 768 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg9ae-md-ud",

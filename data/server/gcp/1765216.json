@@ -3,7 +3,9 @@
   "server_id": "1765216",
   "name": "c4a-highmem-32",
   "api_reference": "c4a-highmem-32",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-highmem-32"
+  },
   "display_name": "c4a-highmem-32",
   "description": "32 vCPUs, 256 GB RAM",
   "family": "c4a",

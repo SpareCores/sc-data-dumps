@@ -3,7 +3,9 @@
   "server_id": "GPU-24xCPU-240GB-1xB200",
   "name": "GPU-24xCPU-240GB-1xB200",
   "api_reference": "GPU-24xCPU-240GB-1xB200",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-24xCPU-240GB-1xB200"
+  },
   "display_name": "GPU-24xCPU-240GB-1xB200",
   "description": "GPU (24 vCPUs, 240 GiB RAM, 1x B200)",
   "family": "GPU",

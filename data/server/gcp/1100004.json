@@ -3,7 +3,9 @@
   "server_id": "1100004",
   "name": "c2d-standard-4",
   "api_reference": "c2d-standard-4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c2d-standard-4"
+  },
   "display_name": "c2d-standard-4",
   "description": "4 vCPUs, 16 GB RAM",
   "family": "c2d",

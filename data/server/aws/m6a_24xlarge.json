@@ -3,7 +3,9 @@
   "server_id": "m6a.24xlarge",
   "name": "m6a.24xlarge",
   "api_reference": "m6a.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m6a.24xlarge"
+  },
   "display_name": "m6a.24xlarge",
   "description": "General purpose [AMD processors] Gen6 24xlarge",
   "family": "m6a",

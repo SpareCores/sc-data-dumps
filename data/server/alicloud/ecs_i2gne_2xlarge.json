@@ -3,7 +3,9 @@
   "server_id": "ecs.i2gne.2xlarge",
   "name": "ecs.i2gne.2xlarge",
   "api_reference": "ecs.i2gne.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i2gne.2xlarge"
+  },
   "display_name": "ecs.i2gne.2xlarge",
   "description": "ecs.i2gne family (8 vCPUs, 32 GiB RAM, 959 GB ssd storage)",
   "family": "ecs.i2gne",

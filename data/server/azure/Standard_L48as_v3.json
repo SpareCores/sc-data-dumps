@@ -3,7 +3,11 @@
   "server_id": "Standard_L48as_v3",
   "name": "L48as_v3",
   "api_reference": "Standard_L48as_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L48as_v3"
+    }
+  },
   "display_name": "L48as_v3",
   "description": "LASv3 family [AMD processor] [Premium Storage capable] 48 vCPUs",
   "family": "LASv3",

@@ -3,7 +3,11 @@
   "server_id": "Standard_M8-2ms",
   "name": "M8-2ms",
   "api_reference": "Standard_M8-2ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M8-2ms"
+    }
+  },
   "display_name": "M8-2ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "MS",

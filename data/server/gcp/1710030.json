@@ -3,7 +3,9 @@
   "server_id": "1710030",
   "name": "c3d-highmem-30",
   "api_reference": "c3d-highmem-30",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3d-highmem-30"
+  },
   "display_name": "c3d-highmem-30",
   "description": "30 vCPUs, 240 GB RAM",
   "family": "c3d",

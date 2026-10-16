@@ -3,7 +3,9 @@
   "server_id": "STARTER-2xCPU-4GB",
   "name": "STARTER-2xCPU-4GB",
   "api_reference": "STARTER-2xCPU-4GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "STARTER-2xCPU-4GB"
+  },
   "display_name": "STARTER-2xCPU-4GB",
   "description": "Starter (2 vCPUs, 4 GiB RAM)",
   "family": "Starter",

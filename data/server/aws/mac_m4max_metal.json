@@ -3,7 +3,9 @@
   "server_id": "mac-m4max.metal",
   "name": "mac-m4max.metal",
   "api_reference": "mac-m4max.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "mac-m4max.metal"
+  },
   "display_name": "mac-m4max.metal",
   "description": "macOS metal",
   "family": "mac-m4max",

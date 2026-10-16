@@ -3,7 +3,9 @@
   "server_id": "voc-c-32c-64gb-1000s-amd",
   "name": "voc-c-32c-64gb-1000s-amd",
   "api_reference": "voc-c-32c-64gb-1000s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-c-32c-64gb-1000s-amd"
+  },
   "display_name": "voc-c-32c-64gb-1000s-amd",
   "description": "Optimized Cloud Compute (32 vCPUs, 64.0 GiB RAM, 1000 GB NVMe)",
   "family": "Optimized Cloud Compute",

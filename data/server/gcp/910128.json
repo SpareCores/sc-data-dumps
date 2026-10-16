@@ -3,7 +3,9 @@
   "server_id": "910128",
   "name": "n2d-highcpu-128",
   "api_reference": "n2d-highcpu-128",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2d-highcpu-128"
+  },
   "display_name": "n2d-highcpu-128",
   "description": "128 vCPUs 128 GB RAM",
   "family": "n2d",

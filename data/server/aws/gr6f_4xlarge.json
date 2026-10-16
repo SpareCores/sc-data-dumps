@@ -3,7 +3,9 @@
   "server_id": "gr6f.4xlarge",
   "name": "gr6f.4xlarge",
   "api_reference": "gr6f.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "gr6f.4xlarge"
+  },
   "display_name": "gr6f.4xlarge",
   "description": "Graphics intensive with a one to eight ratio of vCPU to memory Gen6 4xlarge",
   "family": "gr6f",

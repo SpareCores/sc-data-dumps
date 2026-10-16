@@ -3,7 +3,9 @@
   "server_id": "c5a.2xlarge",
   "name": "c5a.2xlarge",
   "api_reference": "c5a.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5a.2xlarge"
+  },
   "display_name": "c5a.2xlarge",
   "description": "Compute optimized [AMD processors] Gen5 2xlarge",
   "family": "c5a",

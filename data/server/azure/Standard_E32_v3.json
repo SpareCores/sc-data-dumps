@@ -3,7 +3,11 @@
   "server_id": "Standard_E32_v3",
   "name": "E32_v3",
   "api_reference": "Standard_E32_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E32_v3"
+    }
+  },
   "display_name": "E32_v3",
   "description": "Ev3 family [Intel processor] 32 vCPUs",
   "family": "Ev3",

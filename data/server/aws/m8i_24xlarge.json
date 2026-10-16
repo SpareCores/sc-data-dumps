@@ -3,7 +3,9 @@
   "server_id": "m8i.24xlarge",
   "name": "m8i.24xlarge",
   "api_reference": "m8i.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8i.24xlarge"
+  },
   "display_name": "m8i.24xlarge",
   "description": "General purpose [Intel processors] Gen8 24xlarge",
   "family": "m8i",

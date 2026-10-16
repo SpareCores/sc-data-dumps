@@ -3,7 +3,9 @@
   "server_id": "vhf-2c-4gb",
   "name": "vhf-2c-4gb",
   "api_reference": "vhf-2c-4gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhf-2c-4gb"
+  },
   "display_name": "vhf-2c-4gb",
   "description": "High Frequency Compute (2 vCPUs, 4.0 GiB RAM, 128 GB NVMe)",
   "family": "High Frequency Compute",

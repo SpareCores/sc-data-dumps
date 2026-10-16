@@ -3,7 +3,9 @@
   "server_id": "vx1-g-4c-16g",
   "name": "vx1-g-4c-16g",
   "api_reference": "vx1-g-4c-16g",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vx1-g-4c-16g"
+  },
   "display_name": "vx1-g-4c-16g",
   "description": "VX1 Cloud Compute (4 vCPUs, 16.0 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",

@@ -3,7 +3,11 @@
   "server_id": "Standard_L32as_v4",
   "name": "L32as_v4",
   "api_reference": "Standard_L32as_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L32as_v4"
+    }
+  },
   "display_name": "L32as_v4",
   "description": "Lasv4 family [AMD processor] [Premium Storage capable] 32 vCPUs",
   "family": "Lasv4",

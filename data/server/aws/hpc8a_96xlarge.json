@@ -3,7 +3,9 @@
   "server_id": "hpc8a.96xlarge",
   "name": "hpc8a.96xlarge",
   "api_reference": "hpc8a.96xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "hpc8a.96xlarge"
+  },
   "display_name": "hpc8a.96xlarge",
   "description": "High performance computing [AMD processors] Gen8 96xlarge",
   "family": "hpc8a",

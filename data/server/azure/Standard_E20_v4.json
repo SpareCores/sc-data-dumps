@@ -3,7 +3,11 @@
   "server_id": "Standard_E20_v4",
   "name": "E20_v4",
   "api_reference": "Standard_E20_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E20_v4"
+    }
+  },
   "display_name": "E20_v4",
   "description": "Ev4 family [Intel processor] 20 vCPUs",
   "family": "Ev4",

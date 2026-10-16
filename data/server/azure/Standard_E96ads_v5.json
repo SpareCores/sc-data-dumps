@@ -3,7 +3,11 @@
   "server_id": "Standard_E96ads_v5",
   "name": "E96ads_v5",
   "api_reference": "Standard_E96ads_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E96ads_v5"
+    }
+  },
   "display_name": "E96ads_v5",
   "description": "EADSv5 family [AMD processor] [Local Disk] [Premium Storage capable] 96 vCPUs",
   "family": "EADSv5",

@@ -3,7 +3,9 @@
   "server_id": "c7gd.large",
   "name": "c7gd.large",
   "api_reference": "c7gd.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c7gd.large"
+  },
   "display_name": "c7gd.large",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen7 large",
   "family": "c7gd",

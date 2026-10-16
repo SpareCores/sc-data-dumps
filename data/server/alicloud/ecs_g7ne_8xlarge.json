@@ -3,7 +3,9 @@
   "server_id": "ecs.g7ne.8xlarge",
   "name": "ecs.g7ne.8xlarge",
   "api_reference": "ecs.g7ne.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g7ne.8xlarge"
+  },
   "display_name": "ecs.g7ne.8xlarge",
   "description": "ecs.g7ne family (32 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7ne",

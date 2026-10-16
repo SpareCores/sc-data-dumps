@@ -3,7 +3,11 @@
   "server_id": "Standard_F64as_v6",
   "name": "F64as_v6",
   "api_reference": "Standard_F64as_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F64as_v6"
+    }
+  },
   "display_name": "F64as_v6",
   "description": "Fasv6 family [AMD processor] [Premium Storage capable] 64 vCPUs",
   "family": "Fasv6",

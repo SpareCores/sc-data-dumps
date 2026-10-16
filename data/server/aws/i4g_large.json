@@ -3,7 +3,9 @@
   "server_id": "i4g.large",
   "name": "i4g.large",
   "api_reference": "i4g.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i4g.large"
+  },
   "display_name": "i4g.large",
   "description": "Storage optimized [AWS Graviton processors] Gen4 large",
   "family": "i4g",

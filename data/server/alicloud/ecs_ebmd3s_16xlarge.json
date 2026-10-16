@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmd3s.16xlarge",
   "name": "ecs.ebmd3s.16xlarge",
   "api_reference": "ecs.ebmd3s.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmd3s.16xlarge"
+  },
   "display_name": "ecs.ebmd3s.16xlarge",
   "description": "ecs.ebmd3s family (64 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmd3s",

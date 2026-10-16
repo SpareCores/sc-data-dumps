@@ -3,7 +3,11 @@
   "server_id": "Standard_DC16s_v3",
   "name": "DC16s_v3",
   "api_reference": "Standard_DC16s_v3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC16s_v3"
+    }
+  },
   "display_name": "DC16s_v3",
   "description": "DCSv3 family [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "DCSv3",

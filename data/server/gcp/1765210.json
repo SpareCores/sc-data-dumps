@@ -3,7 +3,9 @@
   "server_id": "1765210",
   "name": "c4a-highcpu-72",
   "api_reference": "c4a-highcpu-72",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-highcpu-72"
+  },
   "display_name": "c4a-highcpu-72",
   "description": "72 vCPUs, 144 GB RAM",
   "family": "c4a",

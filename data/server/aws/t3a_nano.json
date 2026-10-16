@@ -3,7 +3,9 @@
   "server_id": "t3a.nano",
   "name": "t3a.nano",
   "api_reference": "t3a.nano",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t3a.nano"
+  },
   "display_name": "t3a.nano",
   "description": "Burstable performance [AMD processors] Gen3 nano",
   "family": "t3a",

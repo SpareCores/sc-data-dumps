@@ -3,7 +3,9 @@
   "server_id": "9920004",
   "name": "x5-1376-32t-metal",
   "api_reference": "x5-1376-32t-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "x5-1376-32t-metal"
+  },
   "display_name": "x5-1376-32t-metal",
   "description": "1376 vCPUs, 32768 GB RAM",
   "family": "x5",

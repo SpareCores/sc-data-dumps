@@ -3,7 +3,11 @@
   "server_id": "Standard_M64",
   "name": "M64",
   "api_reference": "Standard_M64",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M64"
+    }
+  },
   "display_name": "M64",
   "description": "MS family [Intel processor] 64 vCPUs",
   "family": "MS",

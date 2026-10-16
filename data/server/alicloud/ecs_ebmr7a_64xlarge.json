@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmr7a.64xlarge",
   "name": "ecs.ebmr7a.64xlarge",
   "api_reference": "ecs.ebmr7a.64xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmr7a.64xlarge"
+  },
   "display_name": "ecs.ebmr7a.64xlarge",
   "description": "ecs.ebmr7a family (256 vCPUs, 2048 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr7a",

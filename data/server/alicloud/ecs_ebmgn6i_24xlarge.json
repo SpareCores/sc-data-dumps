@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmgn6i.24xlarge",
   "name": "ecs.ebmgn6i.24xlarge",
   "api_reference": "ecs.ebmgn6i.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmgn6i.24xlarge"
+  },
   "display_name": "ecs.ebmgn6i.24xlarge",
   "description": "ecs.ebmgn6i family (96 vCPUs, 384 GiB RAM, 0 GB  storage, 4xT4 16384 GiB VRAM)",
   "family": "ecs.ebmgn6i",

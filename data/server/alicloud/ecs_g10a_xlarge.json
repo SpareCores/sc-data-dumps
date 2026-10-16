@@ -3,7 +3,9 @@
   "server_id": "ecs.g10a.xlarge",
   "name": "ecs.g10a.xlarge",
   "api_reference": "ecs.g10a.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g10a.xlarge"
+  },
   "display_name": "ecs.g10a.xlarge",
   "description": "ecs.g10a family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g10a",

@@ -3,7 +3,11 @@
   "server_id": "Standard_DC48as_cc_v5",
   "name": "DC48as_cc_v5",
   "api_reference": "Standard_DC48as_cc_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC48as_cc_v5"
+    }
+  },
   "display_name": "DC48as_cc_v5",
   "description": "DCACCV5 family [AMD processor] [Premium Storage capable] 48 vCPUs",
   "family": "DCACCV5",

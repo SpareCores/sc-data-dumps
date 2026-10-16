@@ -3,7 +3,9 @@
   "server_id": "g6e.2xlarge",
   "name": "g6e.2xlarge",
   "api_reference": "g6e.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g6e.2xlarge"
+  },
   "display_name": "g6e.2xlarge",
   "description": "Graphics intensive [Extra storage or memory] Gen6 2xlarge",
   "family": "g6e",

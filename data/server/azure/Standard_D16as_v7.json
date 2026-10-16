@@ -3,7 +3,11 @@
   "server_id": "Standard_D16as_v7",
   "name": "D16as_v7",
   "api_reference": "Standard_D16as_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D16as_v7"
+    }
+  },
   "display_name": "D16as_v7",
   "description": "Dasv7 family [AMD processor] [Premium Storage capable] 16 vCPUs",
   "family": "Dasv7",

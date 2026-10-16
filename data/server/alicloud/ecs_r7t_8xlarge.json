@@ -3,7 +3,9 @@
   "server_id": "ecs.r7t.8xlarge",
   "name": "ecs.r7t.8xlarge",
   "api_reference": "ecs.r7t.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r7t.8xlarge"
+  },
   "display_name": "ecs.r7t.8xlarge",
   "description": "ecs.r7t family (32 vCPUs, 256 GiB RAM, 0 GB  storage)",
   "family": "ecs.r7t",

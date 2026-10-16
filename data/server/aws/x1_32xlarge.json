@@ -3,7 +3,9 @@
   "server_id": "x1.32xlarge",
   "name": "x1.32xlarge",
   "api_reference": "x1.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x1.32xlarge"
+  },
   "display_name": "x1.32xlarge",
   "description": "Memory intensive Gen1 32xlarge",
   "family": "x1",

@@ -3,7 +3,9 @@
   "server_id": "1765224",
   "name": "c4a-standard-48-lssd",
   "api_reference": "c4a-standard-48-lssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-standard-48-lssd"
+  },
   "display_name": "c4a-standard-48-lssd",
   "description": "48 vCPUs, 192 GB RAM, 10 local SSD",
   "family": "c4a",

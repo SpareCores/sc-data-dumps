@@ -3,7 +3,11 @@
   "server_id": "Standard_D48pls_v6",
   "name": "D48pls_v6",
   "api_reference": "Standard_D48pls_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D48pls_v6"
+    }
+  },
   "display_name": "D48pls_v6",
   "description": "Dplsv6 family [ARM processor] [Low Memory] [Premium Storage capable] 48 vCPUs",
   "family": "Dplsv6",

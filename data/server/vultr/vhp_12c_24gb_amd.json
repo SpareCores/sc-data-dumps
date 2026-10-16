@@ -3,7 +3,9 @@
   "server_id": "vhp-12c-24gb-amd",
   "name": "vhp-12c-24gb-amd",
   "api_reference": "vhp-12c-24gb-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhp-12c-24gb-amd"
+  },
   "display_name": "vhp-12c-24gb-amd",
   "description": "High Performance (12 vCPUs, 24.0 GiB RAM, 500 GB NVMe)",
   "family": "High Performance",

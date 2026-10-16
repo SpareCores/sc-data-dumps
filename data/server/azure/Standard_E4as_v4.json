@@ -3,7 +3,11 @@
   "server_id": "Standard_E4as_v4",
   "name": "E4as_v4",
   "api_reference": "Standard_E4as_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E4as_v4"
+    }
+  },
   "display_name": "E4as_v4",
   "description": "EASv4 family [AMD processor] [Premium Storage capable] 4 vCPUs",
   "family": "EASv4",

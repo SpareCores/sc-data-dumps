@@ -3,7 +3,9 @@
   "server_id": "g5.16xlarge",
   "name": "g5.16xlarge",
   "api_reference": "g5.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g5.16xlarge"
+  },
   "display_name": "g5.16xlarge",
   "description": "Graphics intensive Gen5 16xlarge",
   "family": "g5",

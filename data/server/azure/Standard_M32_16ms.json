@@ -3,7 +3,11 @@
   "server_id": "Standard_M32-16ms",
   "name": "M32-16ms",
   "api_reference": "Standard_M32-16ms",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M32-16ms"
+    }
+  },
   "display_name": "M32-16ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "MS",

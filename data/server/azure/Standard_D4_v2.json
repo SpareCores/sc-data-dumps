@@ -3,7 +3,11 @@
   "server_id": "Standard_D4_v2",
   "name": "D4_v2",
   "api_reference": "Standard_D4_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D4_v2"
+    }
+  },
   "display_name": "D4_v2",
   "description": "Dv2 family [Intel processor] 8 vCPUs",
   "family": "Dv2",

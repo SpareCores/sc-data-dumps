@@ -3,7 +3,11 @@
   "server_id": "Standard_HB368-48rs_v5",
   "name": "HB368-48rs_v5",
   "api_reference": "Standard_HB368-48rs_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_HB368-48rs_v5"
+    }
+  },
   "display_name": "HB368-48rs_v5",
   "description": "HBv5 family [RDMA capable] [Premium Storage capable] [Intel processor] 368 vCPUs",
   "family": "HBv5",

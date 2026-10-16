@@ -3,7 +3,9 @@
   "server_id": "999904050",
   "name": "h4d-standard-192",
   "api_reference": "h4d-standard-192",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "h4d-standard-192"
+  },
   "display_name": "h4d-standard-192",
   "description": "192 vCPUs, 744 GB RAM",
   "family": "h4d",

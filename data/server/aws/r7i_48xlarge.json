@@ -3,7 +3,9 @@
   "server_id": "r7i.48xlarge",
   "name": "r7i.48xlarge",
   "api_reference": "r7i.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r7i.48xlarge"
+  },
   "display_name": "r7i.48xlarge",
   "description": "Memory optimized [Intel processors] Gen7 48xlarge",
   "family": "r7i",

@@ -3,7 +3,9 @@
   "server_id": "c8gd.metal-24xl",
   "name": "c8gd.metal-24xl",
   "api_reference": "c8gd.metal-24xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c8gd.metal-24xl"
+  },
   "display_name": "c8gd.metal-24xl",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen8 metal-24xl",
   "family": "c8gd",

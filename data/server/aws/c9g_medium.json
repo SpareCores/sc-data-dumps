@@ -3,7 +3,9 @@
   "server_id": "c9g.medium",
   "name": "c9g.medium",
   "api_reference": "c9g.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c9g.medium"
+  },
   "display_name": "c9g.medium",
   "description": "Compute optimized [AWS Graviton processors] Gen9 medium",
   "family": "c9g",

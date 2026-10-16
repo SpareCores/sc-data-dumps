@@ -3,7 +3,9 @@
   "server_id": "a1.medium",
   "name": "a1.medium",
   "api_reference": "a1.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "a1.medium"
+  },
   "display_name": "a1.medium",
   "description": "AWS Graviton Gen1 medium",
   "family": "a1",

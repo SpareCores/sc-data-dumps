@@ -3,7 +3,9 @@
   "server_id": "ecs.s3.large",
   "name": "ecs.s3.large",
   "api_reference": "ecs.s3.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.s3.large"
+  },
   "display_name": "ecs.s3.large",
   "description": "ecs.s3 family (4 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.s3",

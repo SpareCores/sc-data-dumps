@@ -3,7 +3,9 @@
   "server_id": "ecs.i5ge.12xlarge",
   "name": "ecs.i5ge.12xlarge",
   "api_reference": "ecs.i5ge.12xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i5ge.12xlarge"
+  },
   "display_name": "ecs.i5ge.12xlarge",
   "description": "ecs.i5ge family (48 vCPUs, 288 GiB RAM, 7679 GB ssd storage)",
   "family": "ecs.i5ge",

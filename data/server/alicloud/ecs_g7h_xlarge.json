@@ -3,7 +3,9 @@
   "server_id": "ecs.g7h.xlarge",
   "name": "ecs.g7h.xlarge",
   "api_reference": "ecs.g7h.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g7h.xlarge"
+  },
   "display_name": "ecs.g7h.xlarge",
   "description": "ecs.g7h family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7h",

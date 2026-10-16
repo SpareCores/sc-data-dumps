@@ -3,7 +3,9 @@
   "server_id": "vhf-12c-48gb",
   "name": "vhf-12c-48gb",
   "api_reference": "vhf-12c-48gb",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vhf-12c-48gb"
+  },
   "display_name": "vhf-12c-48gb",
   "description": "High Frequency Compute (12 vCPUs, 48.0 GiB RAM, 768 GB NVMe)",
   "family": "High Frequency Compute",

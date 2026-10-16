@@ -3,7 +3,9 @@
   "server_id": "ecs.sn2.large",
   "name": "ecs.sn2.large",
   "api_reference": "ecs.sn2.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sn2.large"
+  },
   "display_name": "ecs.sn2.large",
   "description": "ecs.sn2 family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.sn2",

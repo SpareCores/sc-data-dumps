@@ -3,7 +3,9 @@
   "server_id": "ecs.poc-test.t48",
   "name": "ecs.poc-test.t48",
   "api_reference": "ecs.poc-test.t48",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.poc-test.t48"
+  },
   "display_name": "ecs.poc-test.t48",
   "description": "ecs.poc-test family (2 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.poc-test",

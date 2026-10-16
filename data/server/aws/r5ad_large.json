@@ -3,7 +3,9 @@
   "server_id": "r5ad.large",
   "name": "r5ad.large",
   "api_reference": "r5ad.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r5ad.large"
+  },
   "display_name": "r5ad.large",
   "description": "Memory optimized [AMD processors] [Instance store volumes] Gen5 large",
   "family": "r5ad",

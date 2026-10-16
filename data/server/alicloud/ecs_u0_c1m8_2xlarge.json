@@ -3,7 +3,9 @@
   "server_id": "ecs.u0.c1m8.2xlarge",
   "name": "ecs.u0.c1m8.2xlarge",
   "api_reference": "ecs.u0.c1m8.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.u0.c1m8.2xlarge"
+  },
   "display_name": "ecs.u0.c1m8.2xlarge",
   "description": "ecs.u0 family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.u0",
@@ -140,5 +142,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

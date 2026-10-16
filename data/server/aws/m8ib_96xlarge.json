@@ -3,7 +3,9 @@
   "server_id": "m8ib.96xlarge",
   "name": "m8ib.96xlarge",
   "api_reference": "m8ib.96xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8ib.96xlarge"
+  },
   "display_name": "m8ib.96xlarge",
   "description": "General purpose [Intel processors] Gen8 96xlarge",
   "family": "m8ib",

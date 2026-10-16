@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmr8y-md-ud.32xlarge",
   "name": "ecs.ebmr8y-md-ud.32xlarge",
   "api_reference": "ecs.ebmr8y-md-ud.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmr8y-md-ud.32xlarge"
+  },
   "display_name": "ecs.ebmr8y-md-ud.32xlarge",
   "description": "ecs.ebmr8y-md-ud family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr8y-md-ud",

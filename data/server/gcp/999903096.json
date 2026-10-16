@@ -3,7 +3,9 @@
   "server_id": "999903096",
   "name": "c4d-highcpu-384-metal",
   "api_reference": "c4d-highcpu-384-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4d-highcpu-384-metal"
+  },
   "display_name": "c4d-highcpu-384-metal",
   "description": "384 vCPUs, 768 GB RAM",
   "family": "c4d",

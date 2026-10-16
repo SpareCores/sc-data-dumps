@@ -3,7 +3,9 @@
   "server_id": "p4d.24xlarge",
   "name": "p4d.24xlarge",
   "api_reference": "p4d.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p4d.24xlarge"
+  },
   "display_name": "p4d.24xlarge",
   "description": "GPU accelerated [Instance store volumes] Gen4 24xlarge",
   "family": "p4d",

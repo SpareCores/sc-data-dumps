@@ -3,7 +3,9 @@
   "server_id": "1765203",
   "name": "c4a-highcpu-2",
   "api_reference": "c4a-highcpu-2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4a-highcpu-2"
+  },
   "display_name": "c4a-highcpu-2",
   "description": "2 vCPUs, 4 GB RAM",
   "family": "c4a",

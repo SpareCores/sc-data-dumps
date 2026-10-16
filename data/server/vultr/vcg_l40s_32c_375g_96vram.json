@@ -3,7 +3,9 @@
   "server_id": "vcg-l40s-32c-375g-96vram",
   "name": "vcg-l40s-32c-375g-96vram",
   "api_reference": "vcg-l40s-32c-375g-96vram",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vcg-l40s-32c-375g-96vram"
+  },
   "display_name": "vcg-l40s-32c-375g-96vram",
   "description": "Cloud GPU (32 vCPUs, 375.0 GiB RAM, 2200 GB NVMe, 2xL40S 48 GiB VRAM)",
   "family": "Cloud GPU",

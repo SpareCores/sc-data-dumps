@@ -3,7 +3,11 @@
   "server_id": "Standard_E32-8ds_v5",
   "name": "E32-8ds_v5",
   "api_reference": "Standard_E32-8ds_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E32-8ds_v5"
+    }
+  },
   "display_name": "E32-8ds_v5",
   "description": "EDSv5 family [Local Disk] [Premium Storage capable] [Intel processor] 32 vCPUs",
   "family": "EDSv5",

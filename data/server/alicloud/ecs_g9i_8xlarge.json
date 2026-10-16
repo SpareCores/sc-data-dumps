@@ -3,7 +3,9 @@
   "server_id": "ecs.g9i.8xlarge",
   "name": "ecs.g9i.8xlarge",
   "api_reference": "ecs.g9i.8xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g9i.8xlarge"
+  },
   "display_name": "ecs.g9i.8xlarge",
   "description": "ecs.g9i family (32 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9i",

@@ -3,7 +3,9 @@
   "server_id": "vt1.3xlarge",
   "name": "vt1.3xlarge",
   "api_reference": "vt1.3xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "vt1.3xlarge"
+  },
   "display_name": "vt1.3xlarge",
   "description": "Video transcoding Gen1 3xlarge",
   "family": "vt1",

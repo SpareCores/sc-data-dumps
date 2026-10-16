@@ -3,7 +3,9 @@
   "server_id": "f2.6xlarge",
   "name": "f2.6xlarge",
   "api_reference": "f2.6xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "f2.6xlarge"
+  },
   "display_name": "f2.6xlarge",
   "description": "FPGA Gen2 6xlarge",
   "family": "f2",

@@ -3,7 +3,9 @@
   "server_id": "r6in.2xlarge",
   "name": "r6in.2xlarge",
   "api_reference": "r6in.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r6in.2xlarge"
+  },
   "display_name": "r6in.2xlarge",
   "description": "Memory optimized [Intel processors] [Network and EBS optimized] Gen6 2xlarge",
   "family": "r6in",

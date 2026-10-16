@@ -3,7 +3,9 @@
   "server_id": "1741004",
   "name": "ct5p-hightpu-2t",
   "api_reference": "ct5p-hightpu-2t",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "ct5p-hightpu-2t"
+  },
   "display_name": "ct5p-hightpu-2t",
   "description": "104 vCPUs, 224 GB RAM, 2 Google TPU",
   "family": "ct5p",

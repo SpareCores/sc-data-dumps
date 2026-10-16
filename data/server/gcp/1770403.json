@@ -3,7 +3,9 @@
   "server_id": "1770403",
   "name": "m4n-megamem-112",
   "api_reference": "m4n-megamem-112",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m4n-megamem-112"
+  },
   "display_name": "m4n-megamem-112",
   "description": "112 vCPUs, 1488 GB RAM",
   "family": "m4n",

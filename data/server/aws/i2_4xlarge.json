@@ -3,7 +3,9 @@
   "server_id": "i2.4xlarge",
   "name": "i2.4xlarge",
   "api_reference": "i2.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i2.4xlarge"
+  },
   "display_name": "i2.4xlarge",
   "description": "Storage optimized Gen2 4xlarge",
   "family": "i2",

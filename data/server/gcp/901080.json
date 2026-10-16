@@ -3,7 +3,9 @@
   "server_id": "901080",
   "name": "n2-standard-80",
   "api_reference": "n2-standard-80",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n2-standard-80"
+  },
   "display_name": "n2-standard-80",
   "description": "80 vCPUs 320 GB RAM",
   "family": "n2",

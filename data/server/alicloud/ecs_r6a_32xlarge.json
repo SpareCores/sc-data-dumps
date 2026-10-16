@@ -3,7 +3,9 @@
   "server_id": "ecs.r6a.32xlarge",
   "name": "ecs.r6a.32xlarge",
   "api_reference": "ecs.r6a.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r6a.32xlarge"
+  },
   "display_name": "ecs.r6a.32xlarge",
   "description": "ecs.r6a family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.r6a",

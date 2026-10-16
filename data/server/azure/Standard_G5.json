@@ -3,7 +3,11 @@
   "server_id": "Standard_G5",
   "name": "G5",
   "api_reference": "Standard_G5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_G5"
+    }
+  },
   "display_name": "G5",
   "description": "G family [Intel processor] 32 vCPUs",
   "family": "G",

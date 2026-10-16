@@ -3,7 +3,9 @@
   "server_id": "mac1.metal",
   "name": "mac1.metal",
   "api_reference": "mac1.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "mac1.metal"
+  },
   "display_name": "mac1.metal",
   "description": "macOS Gen1 metal",
   "family": "mac1",

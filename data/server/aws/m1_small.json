@@ -3,7 +3,9 @@
   "server_id": "m1.small",
   "name": "m1.small",
   "api_reference": "m1.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m1.small"
+  },
   "display_name": "m1.small",
   "description": "General purpose Gen1 small",
   "family": "m1",

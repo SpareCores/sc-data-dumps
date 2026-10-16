@@ -3,7 +3,9 @@
   "server_id": "t2.medium",
   "name": "t2.medium",
   "api_reference": "t2.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t2.medium"
+  },
   "display_name": "t2.medium",
   "description": "Burstable performance Gen2 medium",
   "family": "t2",

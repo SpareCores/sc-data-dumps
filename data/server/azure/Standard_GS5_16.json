@@ -3,7 +3,11 @@
   "server_id": "Standard_GS5-16",
   "name": "GS5-16",
   "api_reference": "Standard_GS5-16",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_GS5-16"
+    }
+  },
   "display_name": "GS5-16",
   "description": "GS family [Intel processor] 32 vCPUs",
   "family": "GS",

@@ -3,7 +3,9 @@
   "server_id": "x8g.4xlarge",
   "name": "x8g.4xlarge",
   "api_reference": "x8g.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x8g.4xlarge"
+  },
   "display_name": "x8g.4xlarge",
   "description": "Memory intensive [AWS Graviton processors] Gen8 4xlarge",
   "family": "x8g",

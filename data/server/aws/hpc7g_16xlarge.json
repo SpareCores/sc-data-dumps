@@ -3,7 +3,9 @@
   "server_id": "hpc7g.16xlarge",
   "name": "hpc7g.16xlarge",
   "api_reference": "hpc7g.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "hpc7g.16xlarge"
+  },
   "display_name": "hpc7g.16xlarge",
   "description": "High performance computing [AWS Graviton processors] Gen7 16xlarge",
   "family": "hpc7g",

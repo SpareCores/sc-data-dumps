@@ -3,7 +3,9 @@
   "server_id": "ecs.sgn6i-vws-m4.2xlarge",
   "name": "ecs.sgn6i-vws-m4.2xlarge",
   "api_reference": "ecs.sgn6i-vws-m4.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sgn6i-vws-m4.2xlarge"
+  },
   "display_name": "ecs.sgn6i-vws-m4.2xlarge",
   "description": "ecs.sgn6i-vws family (8 vCPUs, 16 GiB RAM, 0 GB  storage, 0.25xT4 4096 GiB VRAM)",
   "family": "ecs.sgn6i-vws",

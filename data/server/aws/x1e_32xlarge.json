@@ -3,7 +3,9 @@
   "server_id": "x1e.32xlarge",
   "name": "x1e.32xlarge",
   "api_reference": "x1e.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x1e.32xlarge"
+  },
   "display_name": "x1e.32xlarge",
   "description": "Memory intensive [Extra storage or memory] Gen1 32xlarge",
   "family": "x1e",

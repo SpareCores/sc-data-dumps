@@ -3,7 +3,9 @@
   "server_id": "ecs.s3.medium",
   "name": "ecs.s3.medium",
   "api_reference": "ecs.s3.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.s3.medium"
+  },
   "display_name": "ecs.s3.medium",
   "description": "ecs.s3 family (4 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.s3",

@@ -3,7 +3,11 @@
   "server_id": "Standard_GS1",
   "name": "GS1",
   "api_reference": "Standard_GS1",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_GS1"
+    }
+  },
   "display_name": "GS1",
   "description": "GS family [Intel processor] 2 vCPUs",
   "family": "GS",

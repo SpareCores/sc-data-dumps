@@ -3,7 +3,9 @@
   "server_id": "mac2-m1ultra.metal",
   "name": "mac2-m1ultra.metal",
   "api_reference": "mac2-m1ultra.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "mac2-m1ultra.metal"
+  },
   "display_name": "mac2-m1ultra.metal",
   "description": "macOS Gen2 metal",
   "family": "mac2-m1ultra",

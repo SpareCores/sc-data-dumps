@@ -3,7 +3,9 @@
   "server_id": "ecs.r8i.16xlarge",
   "name": "ecs.r8i.16xlarge",
   "api_reference": "ecs.r8i.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r8i.16xlarge"
+  },
   "display_name": "ecs.r8i.16xlarge",
   "description": "ecs.r8i family (64 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.r8i",

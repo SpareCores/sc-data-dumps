@@ -3,7 +3,9 @@
   "server_id": "x2iedn.24xlarge",
   "name": "x2iedn.24xlarge",
   "api_reference": "x2iedn.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x2iedn.24xlarge"
+  },
   "display_name": "x2iedn.24xlarge",
   "description": "Memory intensive [Intel processors] [Instance store volumes] [Network and EBS optimized] [Extra storage or memory] Gen2 24xlarge",
   "family": "x2iedn",

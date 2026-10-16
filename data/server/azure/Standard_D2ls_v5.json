@@ -3,7 +3,11 @@
   "server_id": "Standard_D2ls_v5",
   "name": "D2ls_v5",
   "api_reference": "Standard_D2ls_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D2ls_v5"
+    }
+  },
   "display_name": "D2ls_v5",
   "description": "DLSv5 family [Low Memory] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "DLSv5",

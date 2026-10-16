@@ -3,7 +3,9 @@
   "server_id": "voc-s-2c-16gb-480s-amd",
   "name": "voc-s-2c-16gb-480s-amd",
   "api_reference": "voc-s-2c-16gb-480s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-s-2c-16gb-480s-amd"
+  },
   "display_name": "voc-s-2c-16gb-480s-amd",
   "description": "Optimized Cloud Compute (2 vCPUs, 16.0 GiB RAM, 480 GB NVMe)",
   "family": "Optimized Cloud Compute",

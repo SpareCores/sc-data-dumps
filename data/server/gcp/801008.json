@@ -3,7 +3,9 @@
   "server_id": "801008",
   "name": "c2-standard-8",
   "api_reference": "c2-standard-8",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c2-standard-8"
+  },
   "display_name": "c2-standard-8",
   "description": "Compute Optimized: 8 vCPUs, 32 GB RAM",
   "family": "c2",

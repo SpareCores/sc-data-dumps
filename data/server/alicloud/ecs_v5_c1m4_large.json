@@ -3,7 +3,9 @@
   "server_id": "ecs.v5-c1m4.large",
   "name": "ecs.v5-c1m4.large",
   "api_reference": "ecs.v5-c1m4.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.v5-c1m4.large"
+  },
   "display_name": "ecs.v5-c1m4.large",
   "description": "ecs.v5 family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.v5",

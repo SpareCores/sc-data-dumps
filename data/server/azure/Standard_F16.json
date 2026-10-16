@@ -3,7 +3,11 @@
   "server_id": "Standard_F16",
   "name": "F16",
   "api_reference": "Standard_F16",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F16"
+    }
+  },
   "display_name": "F16",
   "description": "F family [Intel processor] 16 vCPUs",
   "family": "F",

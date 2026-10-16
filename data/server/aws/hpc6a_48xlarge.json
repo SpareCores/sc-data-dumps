@@ -3,7 +3,9 @@
   "server_id": "hpc6a.48xlarge",
   "name": "hpc6a.48xlarge",
   "api_reference": "hpc6a.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "hpc6a.48xlarge"
+  },
   "display_name": "hpc6a.48xlarge",
   "description": "High performance computing [AMD processors] Gen6 48xlarge",
   "family": "hpc6a",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D192s_v6",
   "name": "D192s_v6",
   "api_reference": "Standard_D192s_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D192s_v6"
+    }
+  },
   "display_name": "D192s_v6",
   "description": "Dsv6 family [Premium Storage capable] [Intel processor] 192 vCPUs",
   "family": "Dsv6",

@@ -3,7 +3,11 @@
   "server_id": "Standard_ND96is_MI300X_v5",
   "name": "ND96is_MI300X_v5",
   "api_reference": "Standard_ND96is_MI300X_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_ND96is_MI300X_v5"
+    }
+  },
   "display_name": "ND96is_MI300X_v5",
   "description": "NDISv5MI300X family [Isolated] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "NDISv5MI300X",

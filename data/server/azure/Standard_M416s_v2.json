@@ -3,7 +3,11 @@
   "server_id": "Standard_M416s_v2",
   "name": "M416s_v2",
   "api_reference": "Standard_M416s_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M416s_v2"
+    }
+  },
   "display_name": "M416s_v2",
   "description": "MSv2 family [Premium Storage capable] [Intel processor] 416 vCPUs",
   "family": "MSv2",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D128ns_v6",
   "name": "D128ns_v6",
   "api_reference": "Standard_D128ns_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D128ns_v6"
+    }
+  },
   "display_name": "D128ns_v6",
   "description": "Dnv6 family [Network Optimized] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "Dnv6",

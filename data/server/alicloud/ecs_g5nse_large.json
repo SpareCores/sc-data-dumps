@@ -3,7 +3,9 @@
   "server_id": "ecs.g5nse.large",
   "name": "ecs.g5nse.large",
   "api_reference": "ecs.g5nse.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g5nse.large"
+  },
   "display_name": "ecs.g5nse.large",
   "description": "ecs.g5nse family (2 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.g5nse",

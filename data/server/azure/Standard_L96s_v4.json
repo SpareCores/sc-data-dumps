@@ -3,7 +3,11 @@
   "server_id": "Standard_L96s_v4",
   "name": "L96s_v4",
   "api_reference": "Standard_L96s_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_L96s_v4"
+    }
+  },
   "display_name": "L96s_v4",
   "description": "Lsv4 family [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "Lsv4",

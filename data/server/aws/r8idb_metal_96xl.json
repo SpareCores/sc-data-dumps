@@ -3,7 +3,9 @@
   "server_id": "r8idb.metal-96xl",
   "name": "r8idb.metal-96xl",
   "api_reference": "r8idb.metal-96xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8idb.metal-96xl"
+  },
   "display_name": "r8idb.metal-96xl",
   "description": "Memory optimized [Intel processors] [Instance store volumes] Gen8 metal-96xl",
   "family": "r8idb",

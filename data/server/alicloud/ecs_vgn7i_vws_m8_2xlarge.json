@@ -3,7 +3,9 @@
   "server_id": "ecs.vgn7i-vws-m8.2xlarge",
   "name": "ecs.vgn7i-vws-m8.2xlarge",
   "api_reference": "ecs.vgn7i-vws-m8.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.vgn7i-vws-m8.2xlarge"
+  },
   "display_name": "ecs.vgn7i-vws-m8.2xlarge",
   "description": "ecs.vgn7i-vws family (10 vCPUs, 62 GiB RAM, 0 GB  storage, 0.3333xA10 8192 GiB VRAM)",
   "family": "ecs.vgn7i-vws",

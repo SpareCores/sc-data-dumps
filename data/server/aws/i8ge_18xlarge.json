@@ -3,7 +3,9 @@
   "server_id": "i8ge.18xlarge",
   "name": "i8ge.18xlarge",
   "api_reference": "i8ge.18xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i8ge.18xlarge"
+  },
   "display_name": "i8ge.18xlarge",
   "description": "Storage optimized [AWS Graviton processors] [Extra storage or memory] Gen8 18xlarge",
   "family": "i8ge",

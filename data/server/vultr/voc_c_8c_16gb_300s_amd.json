@@ -3,7 +3,9 @@
   "server_id": "voc-c-8c-16gb-300s-amd",
   "name": "voc-c-8c-16gb-300s-amd",
   "api_reference": "voc-c-8c-16gb-300s-amd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "voc-c-8c-16gb-300s-amd"
+  },
   "display_name": "voc-c-8c-16gb-300s-amd",
   "description": "Optimized Cloud Compute (8 vCPUs, 16.0 GiB RAM, 300 GB NVMe)",
   "family": "Optimized Cloud Compute",

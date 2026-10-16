@@ -3,7 +3,9 @@
   "server_id": "1330176",
   "name": "c3-highmem-176",
   "api_reference": "c3-highmem-176",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c3-highmem-176"
+  },
   "display_name": "c3-highmem-176",
   "description": "176 vCPUs, 1408 GB RAM",
   "family": "c3",

@@ -3,7 +3,11 @@
   "server_id": "Standard_DC8ads_v6",
   "name": "DC8ads_v6",
   "api_reference": "Standard_DC8ads_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC8ads_v6"
+    }
+  },
   "display_name": "DC8ads_v6",
   "description": "DCadsv6 family [AMD processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
   "family": "DCadsv6",

@@ -3,7 +3,11 @@
   "server_id": "Standard_D192ds_v7",
   "name": "D192ds_v7",
   "api_reference": "Standard_D192ds_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D192ds_v7"
+    }
+  },
   "display_name": "D192ds_v7",
   "description": "Ddsv7 family [Local Disk] [Premium Storage capable] [Intel processor] 192 vCPUs",
   "family": "Ddsv7",

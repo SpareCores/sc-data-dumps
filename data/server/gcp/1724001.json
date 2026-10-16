@@ -3,7 +3,9 @@
   "server_id": "1724001",
   "name": "a4x-highgpu-4g",
   "api_reference": "a4x-highgpu-4g",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a4x-highgpu-4g"
+  },
   "display_name": "a4x-highgpu-4g",
   "description": "Accelerator Optimized: 4 NVIDIA GB200 GPU, 140 vCPUs, 884GB RAM",
   "family": "a4x",

@@ -3,7 +3,9 @@
   "server_id": "i7ie.metal-24xl",
   "name": "i7ie.metal-24xl",
   "api_reference": "i7ie.metal-24xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i7ie.metal-24xl"
+  },
   "display_name": "i7ie.metal-24xl",
   "description": "Storage optimized [Intel processors] [Extra storage or memory] Gen7 metal-24xl",
   "family": "i7ie",

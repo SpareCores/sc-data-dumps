@@ -3,7 +3,9 @@
   "server_id": "c1.medium",
   "name": "c1.medium",
   "api_reference": "c1.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c1.medium"
+  },
   "display_name": "c1.medium",
   "description": "Compute optimized Gen1 medium",
   "family": "c1",

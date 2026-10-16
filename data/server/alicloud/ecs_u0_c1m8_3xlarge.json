@@ -3,7 +3,9 @@
   "server_id": "ecs.u0.c1m8.3xlarge",
   "name": "ecs.u0.c1m8.3xlarge",
   "api_reference": "ecs.u0.c1m8.3xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.u0.c1m8.3xlarge"
+  },
   "display_name": "ecs.u0.c1m8.3xlarge",
   "description": "ecs.u0 family (12 vCPUs, 96 GiB RAM, 0 GB  storage)",
   "family": "ecs.u0",

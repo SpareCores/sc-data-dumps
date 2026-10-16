@@ -3,7 +3,9 @@
   "server_id": "ecs.i1.14xlarge",
   "name": "ecs.i1.14xlarge",
   "api_reference": "ecs.i1.14xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i1.14xlarge"
+  },
   "display_name": "ecs.i1.14xlarge",
   "description": "ecs.i1 family (56 vCPUs, 224 GiB RAM, 3126 GB ssd storage)",
   "family": "ecs.i1",

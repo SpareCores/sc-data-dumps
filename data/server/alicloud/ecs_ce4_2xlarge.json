@@ -3,7 +3,9 @@
   "server_id": "ecs.ce4.2xlarge",
   "name": "ecs.ce4.2xlarge",
   "api_reference": "ecs.ce4.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ce4.2xlarge"
+  },
   "display_name": "ecs.ce4.2xlarge",
   "description": "ecs.ce4 family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.ce4",

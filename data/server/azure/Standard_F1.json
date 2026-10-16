@@ -3,7 +3,11 @@
   "server_id": "Standard_F1",
   "name": "F1",
   "api_reference": "Standard_F1",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_F1"
+    }
+  },
   "display_name": "F1",
   "description": "F family [Intel processor] 1 vCPU",
   "family": "F",

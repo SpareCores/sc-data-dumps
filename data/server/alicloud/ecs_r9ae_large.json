@@ -3,7 +3,9 @@
   "server_id": "ecs.r9ae.large",
   "name": "ecs.r9ae.large",
   "api_reference": "ecs.r9ae.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r9ae.large"
+  },
   "display_name": "ecs.r9ae.large",
   "description": "ecs.r9ae family (2 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9ae",

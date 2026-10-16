@@ -3,7 +3,9 @@
   "server_id": "m8gd.metal-48xl",
   "name": "m8gd.metal-48xl",
   "api_reference": "m8gd.metal-48xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "m8gd.metal-48xl"
+  },
   "display_name": "m8gd.metal-48xl",
   "description": "General purpose [AWS Graviton processors] [Instance store volumes] Gen8 metal-48xl",
   "family": "m8gd",

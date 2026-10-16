@@ -3,7 +3,11 @@
   "server_id": "Standard_ND40rs_v2",
   "name": "ND40rs_v2",
   "api_reference": "Standard_ND40rs_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_ND40rs_v2"
+    }
+  },
   "display_name": "ND40rs_v2",
   "description": "NDSv2 family [RDMA capable] [Premium Storage capable] [Intel processor] 40 vCPUs",
   "family": "NDSv2",

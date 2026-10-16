@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmr7.32xlarge",
   "name": "ecs.ebmr7.32xlarge",
   "api_reference": "ecs.ebmr7.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmr7.32xlarge"
+  },
   "display_name": "ecs.ebmr7.32xlarge",
   "description": "ecs.ebmr7 family (128 vCPUs, 1024 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmr7",

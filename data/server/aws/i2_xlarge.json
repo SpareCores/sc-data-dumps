@@ -3,7 +3,9 @@
   "server_id": "i2.xlarge",
   "name": "i2.xlarge",
   "api_reference": "i2.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i2.xlarge"
+  },
   "display_name": "i2.xlarge",
   "description": "Storage optimized Gen2 xlarge",
   "family": "i2",

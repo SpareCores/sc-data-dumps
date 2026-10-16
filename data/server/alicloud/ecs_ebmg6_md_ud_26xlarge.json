@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmg6-md-ud.26xlarge",
   "name": "ecs.ebmg6-md-ud.26xlarge",
   "api_reference": "ecs.ebmg6-md-ud.26xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmg6-md-ud.26xlarge"
+  },
   "display_name": "ecs.ebmg6-md-ud.26xlarge",
   "description": "ecs.ebmg6-md-ud family (104 vCPUs, 384 GiB RAM, 0 GB  storage)",
   "family": "ecs.ebmg6-md-ud",

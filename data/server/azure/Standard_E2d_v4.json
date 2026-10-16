@@ -3,7 +3,11 @@
   "server_id": "Standard_E2d_v4",
   "name": "E2d_v4",
   "api_reference": "Standard_E2d_v4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E2d_v4"
+    }
+  },
   "display_name": "E2d_v4",
   "description": "EDv4 family [Local Disk] [Intel processor] 2 vCPUs",
   "family": "EDv4",

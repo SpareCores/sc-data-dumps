@@ -3,7 +3,9 @@
   "server_id": "t2.2xlarge",
   "name": "t2.2xlarge",
   "api_reference": "t2.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t2.2xlarge"
+  },
   "display_name": "t2.2xlarge",
   "description": "Burstable performance Gen2 2xlarge",
   "family": "t2",

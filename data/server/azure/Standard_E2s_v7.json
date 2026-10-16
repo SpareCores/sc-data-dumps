@@ -3,7 +3,11 @@
   "server_id": "Standard_E2s_v7",
   "name": "E2s_v7",
   "api_reference": "Standard_E2s_v7",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_E2s_v7"
+    }
+  },
   "display_name": "E2s_v7",
   "description": "Esv7 family [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "Esv7",

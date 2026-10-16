@@ -3,7 +3,11 @@
   "server_id": "Standard_M128m",
   "name": "M128m",
   "api_reference": "Standard_M128m",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M128m"
+    }
+  },
   "display_name": "M128m",
   "description": "MS family [Memory Intensive] [Intel processor] 128 vCPUs",
   "family": "MS",

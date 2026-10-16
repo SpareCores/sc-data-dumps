@@ -3,7 +3,9 @@
   "server_id": "1770504",
   "name": "m4n-hypermem-64",
   "api_reference": "m4n-hypermem-64",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m4n-hypermem-64"
+  },
   "display_name": "m4n-hypermem-64",
   "description": "64 vCPUs, 992 GB RAM",
   "family": "m4n",

@@ -3,7 +3,9 @@
   "server_id": "ecs.ebmgp7i.48xlarge",
   "name": "ecs.ebmgp7i.48xlarge",
   "api_reference": "ecs.ebmgp7i.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.ebmgp7i.48xlarge"
+  },
   "display_name": "ecs.ebmgp7i.48xlarge",
   "description": "ecs.ebmgp7i family (192 vCPUs, 1024 GiB RAM, 0 GB  storage, 4xA910X 49152 GiB VRAM)",
   "family": "ecs.ebmgp7i",

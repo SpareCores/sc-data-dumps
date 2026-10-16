@@ -3,7 +3,9 @@
   "server_id": "i7i.metal-24xl",
   "name": "i7i.metal-24xl",
   "api_reference": "i7i.metal-24xl",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "i7i.metal-24xl"
+  },
   "display_name": "i7i.metal-24xl",
   "description": "Storage optimized [Intel processors] Gen7 metal-24xl",
   "family": "i7i",

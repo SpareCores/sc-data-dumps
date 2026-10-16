@@ -3,7 +3,9 @@
   "server_id": "ecs.sg3.32xlarge",
   "name": "ecs.sg3.32xlarge",
   "api_reference": "ecs.sg3.32xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.sg3.32xlarge"
+  },
   "display_name": "ecs.sg3.32xlarge",
   "description": "ecs.g7 family (128 vCPUs, 512 GiB RAM, 0 GB  storage)",
   "family": "ecs.g7",

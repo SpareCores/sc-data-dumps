@@ -3,7 +3,9 @@
   "server_id": "ecs.gn7s-c56g1.14xlarge",
   "name": "ecs.gn7s-c56g1.14xlarge",
   "api_reference": "ecs.gn7s-c56g1.14xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.gn7s-c56g1.14xlarge"
+  },
   "display_name": "ecs.gn7s-c56g1.14xlarge",
   "description": "ecs.gn7s family (56 vCPUs, 440 GiB RAM, 0 GB  storage, 1xA30 0 GiB VRAM)",
   "family": "ecs.gn7s",

@@ -3,7 +3,9 @@
   "server_id": "GPU-20xCPU-256GB-1xL4",
   "name": "GPU-20xCPU-256GB-1xL4",
   "api_reference": "GPU-20xCPU-256GB-1xL4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-20xCPU-256GB-1xL4"
+  },
   "display_name": "GPU-20xCPU-256GB-1xL4",
   "description": "GPU (20 vCPUs, 256 GiB RAM, 1x L4)",
   "family": "GPU",

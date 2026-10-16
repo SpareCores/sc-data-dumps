@@ -3,7 +3,9 @@
   "server_id": "ecs.vfx-c1m8.20xlarge",
   "name": "ecs.vfx-c1m8.20xlarge",
   "api_reference": "ecs.vfx-c1m8.20xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.vfx-c1m8.20xlarge"
+  },
   "display_name": "ecs.vfx-c1m8.20xlarge",
   "description": "ecs.vfx family (80 vCPUs, 640 GiB RAM, 0 GB  storage)",
   "family": "ecs.vfx",

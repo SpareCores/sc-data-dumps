@@ -3,7 +3,9 @@
   "server_id": "vbm-8c-132gb-v2",
   "name": "vbm-8c-132gb-v2",
   "api_reference": "vbm-8c-132gb-v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-8c-132gb-v2"
+  },
   "display_name": "vbm-8c-132gb-v2",
   "description": "Bare Metal NVMe (16 vCPUs, 128.0 GiB RAM, 3840 GB NVMe)",
   "family": "Bare Metal NVMe",

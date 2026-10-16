@@ -3,7 +3,9 @@
   "server_id": "GPU-16xCPU-80GB-1xRTXPRO6000",
   "name": "GPU-16xCPU-80GB-1xRTXPRO6000",
   "api_reference": "GPU-16xCPU-80GB-1xRTXPRO6000",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "GPU-16xCPU-80GB-1xRTXPRO6000"
+  },
   "display_name": "GPU-16xCPU-80GB-1xRTXPRO6000",
   "description": "GPU (16 vCPUs, 80 GiB RAM, 1x RTXPRO6000)",
   "family": "GPU",
@@ -157,7 +159,7 @@
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX Pro 6000",
+  "accelerator_model": "RTX PRO 6000",
   "accelerators": [
     {
       "manufacturer": "NVIDIA",

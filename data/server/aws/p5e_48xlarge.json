@@ -3,7 +3,9 @@
   "server_id": "p5e.48xlarge",
   "name": "p5e.48xlarge",
   "api_reference": "p5e.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p5e.48xlarge"
+  },
   "display_name": "p5e.48xlarge",
   "description": "GPU accelerated [Extra storage or memory] Gen5 48xlarge",
   "family": "p5e",

@@ -3,7 +3,9 @@
   "server_id": "g5g.2xlarge",
   "name": "g5g.2xlarge",
   "api_reference": "g5g.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "g5g.2xlarge"
+  },
   "display_name": "g5g.2xlarge",
   "description": "Graphics intensive [AWS Graviton processors] Gen5 2xlarge",
   "family": "g5g",

@@ -3,7 +3,9 @@
   "server_id": "11080",
   "name": "m1-ultramem-80",
   "api_reference": "m1-ultramem-80",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "m1-ultramem-80"
+  },
   "display_name": "m1-ultramem-80",
   "description": "80 vCPUs, 1922 GB RAM",
   "family": "m1",

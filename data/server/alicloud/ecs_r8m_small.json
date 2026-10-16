@@ -3,7 +3,9 @@
   "server_id": "ecs.r8m.small",
   "name": "ecs.r8m.small",
   "api_reference": "ecs.r8m.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r8m.small"
+  },
   "display_name": "ecs.r8m.small",
   "description": "ecs.r8m family (1 vCPUs, 8 GiB RAM, 0 GB  storage)",
   "family": "ecs.r8m",

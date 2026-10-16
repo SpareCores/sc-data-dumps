@@ -3,7 +3,9 @@
   "server_id": "ecs.r9hse.2xlarge",
   "name": "ecs.r9hse.2xlarge",
   "api_reference": "ecs.r9hse.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.r9hse.2xlarge"
+  },
   "display_name": "ecs.r9hse.2xlarge",
   "description": "ecs.r9hse family (8 vCPUs, 64 GiB RAM, 0 GB  storage)",
   "family": "ecs.r9hse",

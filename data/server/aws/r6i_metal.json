@@ -3,7 +3,9 @@
   "server_id": "r6i.metal",
   "name": "r6i.metal",
   "api_reference": "r6i.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r6i.metal"
+  },
   "display_name": "r6i.metal",
   "description": "Memory optimized [Intel processors] Gen6 metal",
   "family": "r6i",

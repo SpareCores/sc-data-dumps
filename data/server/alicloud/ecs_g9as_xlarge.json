@@ -3,7 +3,9 @@
   "server_id": "ecs.g9as.xlarge",
   "name": "ecs.g9as.xlarge",
   "api_reference": "ecs.g9as.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.g9as.xlarge"
+  },
   "display_name": "ecs.g9as.xlarge",
   "description": "ecs.g9as family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.g9as",

@@ -3,7 +3,9 @@
   "server_id": "vc2-1c-0.5gb-free",
   "name": "vc2-1c-0.5gb-free",
   "api_reference": "vc2-1c-0.5gb-free",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vc2-1c-0.5gb-free"
+  },
   "display_name": "vc2-1c-0.5gb-free",
   "description": "Cloud Compute (1 vCPUs, 0.5 GiB RAM, 10 GB NVMe)",
   "family": "Cloud Compute",

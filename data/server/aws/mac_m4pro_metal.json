@@ -3,7 +3,9 @@
   "server_id": "mac-m4pro.metal",
   "name": "mac-m4pro.metal",
   "api_reference": "mac-m4pro.metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "mac-m4pro.metal"
+  },
   "display_name": "mac-m4pro.metal",
   "description": "macOS metal",
   "family": "mac-m4pro",

@@ -3,7 +3,9 @@
   "server_id": "999903063",
   "name": "c4d-standard-16",
   "api_reference": "c4d-standard-16",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "c4d-standard-16"
+  },
   "display_name": "c4d-standard-16",
   "description": "16 vCPUs, 62 GB RAM",
   "family": "c4d",

@@ -3,7 +3,9 @@
   "server_id": "DEV-2xCPU-16GB",
   "name": "DEV-2xCPU-16GB",
   "api_reference": "DEV-2xCPU-16GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "DEV-2xCPU-16GB"
+  },
   "display_name": "DEV-2xCPU-16GB",
   "description": "Developer (2 vCPUs, 16 GiB RAM)",
   "family": "Developer",

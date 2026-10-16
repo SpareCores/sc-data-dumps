@@ -3,7 +3,9 @@
   "server_id": "ecs.i4.xlarge",
   "name": "ecs.i4.xlarge",
   "api_reference": "ecs.i4.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.i4.xlarge"
+  },
   "display_name": "ecs.i4.xlarge",
   "description": "ecs.i4 family (4 vCPUs, 32 GiB RAM, 959 GB ssd storage)",
   "family": "ecs.i4",

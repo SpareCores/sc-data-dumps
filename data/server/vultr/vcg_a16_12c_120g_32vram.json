@@ -3,7 +3,9 @@
   "server_id": "vcg-a16-12c-120g-32vram",
   "name": "vcg-a16-12c-120g-32vram",
   "api_reference": "vcg-a16-12c-120g-32vram",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vcg-a16-12c-120g-32vram"
+  },
   "display_name": "vcg-a16-12c-120g-32vram",
   "description": "Dedicated Metal GPU (12 vCPUs, 120.0 GiB RAM, 700 GB NVMe)",
   "family": "Dedicated Metal GPU",

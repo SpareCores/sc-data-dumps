@@ -3,7 +3,9 @@
   "server_id": "1xCPU-1GB",
   "name": "1xCPU-1GB",
   "api_reference": "1xCPU-1GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "1xCPU-1GB"
+  },
   "display_name": "1xCPU-1GB",
   "description": "General Purpose (1 vCPUs, 1 GiB RAM)",
   "family": "General Purpose",

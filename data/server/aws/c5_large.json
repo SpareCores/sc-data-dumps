@@ -3,7 +3,9 @@
   "server_id": "c5.large",
   "name": "c5.large",
   "api_reference": "c5.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5.large"
+  },
   "display_name": "c5.large",
   "description": "Compute optimized Gen5 large",
   "family": "c5",

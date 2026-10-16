@@ -3,7 +3,9 @@
   "server_id": "x2gd.2xlarge",
   "name": "x2gd.2xlarge",
   "api_reference": "x2gd.2xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x2gd.2xlarge"
+  },
   "display_name": "x2gd.2xlarge",
   "description": "Memory intensive [AWS Graviton processors] [Instance store volumes] Gen2 2xlarge",
   "family": "x2gd",

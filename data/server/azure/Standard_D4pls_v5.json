@@ -3,7 +3,11 @@
   "server_id": "Standard_D4pls_v5",
   "name": "D4pls_v5",
   "api_reference": "Standard_D4pls_v5",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D4pls_v5"
+    }
+  },
   "display_name": "D4pls_v5",
   "description": "DPLSv5 family [ARM processor] [Low Memory] [Premium Storage capable] 4 vCPUs",
   "family": "DPLSv5",

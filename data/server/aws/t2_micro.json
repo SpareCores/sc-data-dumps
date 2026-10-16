@@ -3,7 +3,9 @@
   "server_id": "t2.micro",
   "name": "t2.micro",
   "api_reference": "t2.micro",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "t2.micro"
+  },
   "display_name": "t2.micro",
   "description": "Burstable performance Gen2 micro",
   "family": "t2",

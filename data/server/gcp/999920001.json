@@ -3,7 +3,9 @@
   "server_id": "999920001",
   "name": "g4-standard-96",
   "api_reference": "g4-standard-96",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "g4-standard-96"
+  },
   "display_name": "g4-standard-96",
   "description": "Graphics Optimized: 2 NVIDIA RTX PRO 6000 GPU, 96 vCPUs, 360GB RAM",
   "family": "g4",
@@ -41,12 +43,12 @@
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Blackwell",
-  "accelerator_model": "RTX Pro 6000",
+  "accelerator_model": "RTX PRO 6000",
   "accelerators": [
     {
       "manufacturer": "NVIDIA",
       "family": "Blackwell",
-      "model": "RTX Pro 6000",
+      "model": "RTX PRO 6000",
       "memory": 98304,
       "firmware_version": null,
       "bios_version": null,
@@ -58,7 +60,7 @@
     {
       "manufacturer": "NVIDIA",
       "family": "Blackwell",
-      "model": "RTX Pro 6000",
+      "model": "RTX PRO 6000",
       "memory": 98304,
       "firmware_version": null,
       "bios_version": null,

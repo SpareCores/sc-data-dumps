@@ -3,7 +3,9 @@
   "server_id": "vbm-112c-2048gb-8-a100-gpu",
   "name": "vbm-112c-2048gb-8-a100-gpu",
   "api_reference": "vbm-112c-2048gb-8-a100-gpu",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "vbm-112c-2048gb-8-a100-gpu"
+  },
   "display_name": "vbm-112c-2048gb-8-a100-gpu",
   "description": "Bare Metal NVMe (224 vCPUs, 2048.0 GiB RAM, 3840 GB NVMe, 8xA100 80 GiB VRAM)",
   "family": "Bare Metal NVMe",

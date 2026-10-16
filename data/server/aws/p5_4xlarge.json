@@ -3,7 +3,9 @@
   "server_id": "p5.4xlarge",
   "name": "p5.4xlarge",
   "api_reference": "p5.4xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "p5.4xlarge"
+  },
   "display_name": "p5.4xlarge",
   "description": "GPU accelerated Gen5 4xlarge",
   "family": "p5",

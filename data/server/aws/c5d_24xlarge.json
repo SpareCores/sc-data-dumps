@@ -3,7 +3,9 @@
   "server_id": "c5d.24xlarge",
   "name": "c5d.24xlarge",
   "api_reference": "c5d.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5d.24xlarge"
+  },
   "display_name": "c5d.24xlarge",
   "description": "Compute optimized [Instance store volumes] Gen5 24xlarge",
   "family": "c5d",

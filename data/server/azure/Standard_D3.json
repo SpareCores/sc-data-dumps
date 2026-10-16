@@ -3,7 +3,11 @@
   "server_id": "Standard_D3",
   "name": "D3",
   "api_reference": "Standard_D3",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_D3"
+    }
+  },
   "display_name": "D3",
   "description": "D family [Intel processor] 4 vCPUs",
   "family": "D",

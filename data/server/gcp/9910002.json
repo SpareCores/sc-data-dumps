@@ -3,7 +3,9 @@
   "server_id": "9910002",
   "name": "z3-highmem-192-highlssd-metal",
   "api_reference": "z3-highmem-192-highlssd-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z3-highmem-192-highlssd-metal"
+  },
   "display_name": "z3-highmem-192-highlssd-metal",
   "description": "Storage Optimized Bare Metal: 192 vCPUs, 1.5 TB RAM",
   "family": "z3",

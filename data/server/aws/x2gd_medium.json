@@ -3,7 +3,9 @@
   "server_id": "x2gd.medium",
   "name": "x2gd.medium",
   "api_reference": "x2gd.medium",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "x2gd.medium"
+  },
   "display_name": "x2gd.medium",
   "description": "Memory intensive [AWS Graviton processors] [Instance store volumes] Gen2 medium",
   "family": "x2gd",

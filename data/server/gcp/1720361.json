@@ -3,7 +3,9 @@
   "server_id": "1720361",
   "name": "a3-highgpu-1g",
   "api_reference": "a3-highgpu-1g",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "a3-highgpu-1g"
+  },
   "display_name": "a3-highgpu-1g",
   "description": "Accelerator Optimized: 1 NVIDIA H100 GPU, 26 vCPUs, 234GB RAM",
   "family": "a3",

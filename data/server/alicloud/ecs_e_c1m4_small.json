@@ -3,7 +3,9 @@
   "server_id": "ecs.e-c1m4.small",
   "name": "ecs.e-c1m4.small",
   "api_reference": "ecs.e-c1m4.small",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.e-c1m4.small"
+  },
   "display_name": "ecs.e-c1m4.small",
   "description": "ecs.e family (1 vCPUs, 4 GiB RAM, 0 GB  storage)",
   "family": "ecs.e",

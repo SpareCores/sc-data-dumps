@@ -3,7 +3,9 @@
   "server_id": "1220003",
   "name": "t2a-standard-4",
   "api_reference": "t2a-standard-4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "t2a-standard-4"
+  },
   "display_name": "t2a-standard-4",
   "description": "4 vCPUs, 16 GB RAM",
   "family": "t2a",

@@ -3,7 +3,9 @@
   "server_id": "999921002",
   "name": "n4a-standard-4",
   "api_reference": "n4a-standard-4",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n4a-standard-4"
+  },
   "display_name": "n4a-standard-4",
   "description": "4 vCPUs, 16 GB RAM",
   "family": "n4a",

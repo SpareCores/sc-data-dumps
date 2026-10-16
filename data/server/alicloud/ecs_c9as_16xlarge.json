@@ -3,7 +3,9 @@
   "server_id": "ecs.c9as.16xlarge",
   "name": "ecs.c9as.16xlarge",
   "api_reference": "ecs.c9as.16xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.c9as.16xlarge"
+  },
   "display_name": "ecs.c9as.16xlarge",
   "description": "ecs.c9as family (64 vCPUs, 128 GiB RAM, 0 GB  storage)",
   "family": "ecs.c9as",

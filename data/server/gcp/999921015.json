@@ -3,7 +3,9 @@
   "server_id": "999921015",
   "name": "n4a-highcpu-64",
   "api_reference": "n4a-highcpu-64",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "n4a-highcpu-64"
+  },
   "display_name": "n4a-highcpu-64",
   "description": "64 vCPUs, 128 GB RAM",
   "family": "n4a",

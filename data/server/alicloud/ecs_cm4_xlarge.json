@@ -3,7 +3,9 @@
   "server_id": "ecs.cm4.xlarge",
   "name": "ecs.cm4.xlarge",
   "api_reference": "ecs.cm4.xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.cm4.xlarge"
+  },
   "display_name": "ecs.cm4.xlarge",
   "description": "ecs.cm4 family (4 vCPUs, 16 GiB RAM, 0 GB  storage)",
   "family": "ecs.cm4",

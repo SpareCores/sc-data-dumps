@@ -3,7 +3,11 @@
   "server_id": "Standard_M64ds_v2",
   "name": "M64ds_v2",
   "api_reference": "Standard_M64ds_v2",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_M64ds_v2"
+    }
+  },
   "display_name": "M64ds_v2",
   "description": "MDSMediumMemoryv2 family [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
   "family": "MDSMediumMemoryv2",

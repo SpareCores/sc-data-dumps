@@ -3,7 +3,9 @@
   "server_id": "PREMIUM-1xCPU-1GB",
   "name": "PREMIUM-1xCPU-1GB",
   "api_reference": "PREMIUM-1xCPU-1GB",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "plan": "PREMIUM-1xCPU-1GB"
+  },
   "display_name": "PREMIUM-1xCPU-1GB",
   "description": "Premium (1 vCPUs, 1 GiB RAM)",
   "family": "Premium",

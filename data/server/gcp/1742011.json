@@ -3,7 +3,9 @@
   "server_id": "1742011",
   "name": "z3-highmem-32-highlssd",
   "api_reference": "z3-highmem-32-highlssd",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "z3-highmem-32-highlssd"
+  },
   "display_name": "z3-highmem-32-highlssd",
   "description": "32 vCPUs, 256 GB RAM, 4 Local SSDs",
   "family": "z3",

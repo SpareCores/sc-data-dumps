@@ -3,7 +3,11 @@
   "server_id": "Standard_DC16eds_v6",
   "name": "DC16eds_v6",
   "api_reference": "Standard_DC16eds_v6",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "hardware_profile": {
+      "vm_size": "Standard_DC16eds_v6"
+    }
+  },
   "display_name": "DC16eds_v6",
   "description": "DCEDV6 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "DCEDV6",

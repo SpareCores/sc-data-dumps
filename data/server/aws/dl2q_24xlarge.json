@@ -3,7 +3,9 @@
   "server_id": "dl2q.24xlarge",
   "name": "dl2q.24xlarge",
   "api_reference": "dl2q.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "dl2q.24xlarge"
+  },
   "display_name": "dl2q.24xlarge",
   "description": "Deep Learning [Qualcomm inference accelerators] Gen2 24xlarge",
   "family": "dl2q",

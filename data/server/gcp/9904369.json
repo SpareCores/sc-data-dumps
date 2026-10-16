@@ -3,7 +3,9 @@
   "server_id": "9904369",
   "name": "x4-1920-32t-metal",
   "api_reference": "x4-1920-32t-metal",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "machine_type": "x4-1920-32t-metal"
+  },
   "display_name": "x4-1920-32t-metal",
   "description": "1920 vCPUs, 32768 GB RAM",
   "family": "x4",

@@ -3,7 +3,9 @@
   "server_id": "c5ad.large",
   "name": "c5ad.large",
   "api_reference": "c5ad.large",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "c5ad.large"
+  },
   "display_name": "c5ad.large",
   "description": "Compute optimized [AMD processors] [Instance store volumes] Gen5 large",
   "family": "c5ad",

@@ -3,7 +3,9 @@
   "server_id": "ecs.d2s.5xlarge",
   "name": "ecs.d2s.5xlarge",
   "api_reference": "ecs.d2s.5xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "ecs.d2s.5xlarge"
+  },
   "display_name": "ecs.d2s.5xlarge",
   "description": "ecs.d2s family (20 vCPUs, 88 GiB RAM, 62706 GB hdd storage)",
   "family": "ecs.d2s",

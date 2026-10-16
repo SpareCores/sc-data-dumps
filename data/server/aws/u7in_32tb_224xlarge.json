@@ -3,7 +3,9 @@
   "server_id": "u7in-32tb.224xlarge",
   "name": "u7in-32tb.224xlarge",
   "api_reference": "u7in-32tb.224xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "u7in-32tb.224xlarge"
+  },
   "display_name": "u7in-32tb.224xlarge",
   "description": "High memory [Intel processors] [Network and EBS optimized] Gen7 224xlarge",
   "family": "u7in-32tb",

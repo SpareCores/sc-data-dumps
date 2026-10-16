@@ -3,7 +3,9 @@
   "server_id": "r8in.48xlarge",
   "name": "r8in.48xlarge",
   "api_reference": "r8in.48xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8in.48xlarge"
+  },
   "display_name": "r8in.48xlarge",
   "description": "Memory optimized [Intel processors] [Network and EBS optimized] Gen8 48xlarge",
   "family": "r8in",

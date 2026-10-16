@@ -3,7 +3,9 @@
   "server_id": "r8ib.24xlarge",
   "name": "r8ib.24xlarge",
   "api_reference": "r8ib.24xlarge",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "instance_type": "r8ib.24xlarge"
+  },
   "display_name": "r8ib.24xlarge",
   "description": "Memory optimized [Intel processors] Gen8 24xlarge",
   "family": "r8ib",
