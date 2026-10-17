@@ -1,3 +1,15 @@
+## v0.10.0+20261017052744 (Oct 17, 2026)
+
+This is an automated release with 3 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39000172532
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
 ## v0.10.0+20261017021235 (Oct 17, 2026)
 
 This is an automated release with 1 new/updated/deleted resources.
