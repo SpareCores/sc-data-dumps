@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:x86syscall",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng x86syscall",
+  "description": "Start N workers that repeatedly exercise the x86-64 syscall instruction to call the getcpu, geteuid, getgid, getpid, gettimeofday and time system calls using the Linux vsyscall handler. Only for Linux. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "x86syscall",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

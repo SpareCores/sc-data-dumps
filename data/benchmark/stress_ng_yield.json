@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:yield",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng yield",
+  "description": "Start N workers that call sched_yield. This stressor ensures that at least 2 child processes per CPU exercise sched_yield no matter how many workers are specified, thus always ensuring rapid context switching. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "yield",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

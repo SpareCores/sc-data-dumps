@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:spinmem",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng spinmem",
+  "description": "Start N workers that use a shared memory page to keep two processes synchronized using busy spin loops. One process is a writer that increments a value in memory slot 0 and spin waits for the data to appear in memory slot 1. The other process spin waits for the data to change in slot 0 and copies the changed value into memory slot 1. The stressor benchmarks the time for the transactions to occur between both processes. Note that the optimal number of stressors is half the number of online CPUs in a system. By default 32 bit write/reads are used. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "spinmem",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

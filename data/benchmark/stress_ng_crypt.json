@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:crypt",
+  "category": "stress-ng",
+  "subcategory": "Cryptography",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng crypt",
+  "description": "Start N workers that encrypt a 16 character random password using crypt. The password is encrypted using bcrypt bsdicrypt descrypt gost-yescrypt MD5 NT scrypt SHA-1 SHA-256 SHA-512 SunMD5 and yescrypt encryption methods. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "crypt",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

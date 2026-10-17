@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:cacheline",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng cacheline",
+  "description": "Start N workers that exercise reading and writing individual bytes in a shared buffer that is the size of a cache line. Each stressor will run 1 or more processes to exercise bytes that are next to each other. The number of per stressor processes run will be scaled so that at least all N bytes of a N byte cache line are exercised. The intent is to try and trigger cacheline corruption, stalls and misses with shared memory accesses. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "cacheline",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

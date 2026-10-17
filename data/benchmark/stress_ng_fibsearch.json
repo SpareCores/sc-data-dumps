@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:fibsearch",
+  "category": "stress-ng",
+  "subcategory": "Algorithms",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng fibsearch",
+  "description": "Start N workers that use a search a sorted array of 32 bit integers using a Fibonacci search. A Fibonacci search is similar to a bsearch except that it uses the Fibonacci series to divide the search into unequal sized spaces. It avoids the costly division operator found in bsearches and examines closer elements on each search step so there is a slight compute and cache advantage over bsearch. By default, there are 65536 elements in the array. This is a useful method to exercise random access of memory and processor cache. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "fibsearch",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

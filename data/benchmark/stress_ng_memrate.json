@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:memrate",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng memrate",
+  "description": "Start N workers that exercise a buffer with 1024, 512, 256, 128, 64, 32, 16 and 8 bit reads and writes. 1024, 512 and 256 reads and writes are available with compilers that support integer vectors. x86-64 cpus that support uncached (non-temporal \"nt\") writes also exercise 128, 64 and 32 writes providing higher write rates than the normal cached writes. x86-64 also exercises repeated string stores using 64, 32, 16 and 8 bit writes. CPUs that support prefetching reads also exercise 64 prefetched \"pf\" reads. This memory stressor allows one to also specify the maximum read and write rates. The stressors will run at maximum speed if no read or write rates are specified. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "memrate",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

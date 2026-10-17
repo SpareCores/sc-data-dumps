@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:memcpy",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng memcpy",
+  "description": "Start N workers that copies data to and from a buffer using memcpy and then move the data in the buffer with memmove with 3 different alignments. This will exercise the data cache and memory copying. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "memcpy",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

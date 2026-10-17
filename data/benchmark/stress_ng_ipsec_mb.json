@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:ipsec_mb",
+  "category": "stress-ng",
+  "subcategory": "Cryptography",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng ipsec-mb",
+  "description": "Start N workers that perform cryptographic processing using the highly optimized Intel Multi-Buffer Crypto for IPsec library. Depending on the features available, SSE, AVX, AVX and AVX512 CPU features will be used on data encrypted by SHA, DES, CMAC, CTR, HMAC MD5, HMAC SHA1 and HMAC SHA512 cryptographic routines. This is only available for x86-64 modern Intel CPUs. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "ipsec_mb",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:timermix",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng timermix",
+  "description": "Start N workers creating timer and itimer signals at a high rate, this can create a many thousands of timer clock interrupts per second. Each signal that gets handled is counted as a bogo-operation. For timers, the following clocks types (where available) are used: CLOCK_REALTIME, CLOCK_MONOTONIC, CLOCK_PROCESS_CPUTIME_ID, CLOCK_THREAD_CPUTIME_ID, CLOCK_BOOTTIME and CLOCK_TAI. For itimers, the following interval timer types are used: ITIMER_REAL, ITIMER_VIRTUAL and ITIMER_PROF. Some systems may support none or a subset of these timer or itimer types. The frequency of the itimers is auto-adjusted to try and maximize the timer interrupt rate. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "timermix",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

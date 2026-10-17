@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:munmap",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng munmap",
+  "description": "Start N stressors that exercise unmapping of shared non-executable mapped regions of child processes (Linux only). The unmappings map shared memory regions page by page with a prime sized stride that creates many temporary mapping holes. One the unmappings are complete the child will exit and a new one is started. Note that this may trigger segmentation faults in the child process, these are handled where possible by forcing the child process to call _exit. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "munmap",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:context",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng context",
+  "description": "Start N workers that run three threads that use swapcontext to implement the thread-to-thread context switching. This exercises rapid process context saving and restoring and is bandwidth limited by register and memory save and restore rates. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "context",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

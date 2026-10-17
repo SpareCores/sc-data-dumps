@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:vecshuf",
+  "category": "stress-ng",
+  "subcategory": "CPU float/SIMD",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng vecshuf",
+  "description": "Start N workers that shuffle data on various 64 byte vectors comprised of 8, 16, 32, 64 and 128 bit unsigned integers. The integers are shuffled around the vector with 4 shuffle operations per loop, 65536 loops make up one bogo-op of shuffling. The data shuffling rates and shuffle operation rates are logged when using the -v option. This stressor exercises vector load, shuffle/permute, packing/unpacking and store operations. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "vecshuf",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

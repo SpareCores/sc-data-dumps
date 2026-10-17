@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:memthrash",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng memthrash",
+  "description": "Start N workers that thrash and exercise a 16 MB buffer in various ways to try and trip thermal overrun. Each stressor will start 1 or more threads. The number of threads is chosen so that there will be at least 1 thread per CPU. Note that the optimal choice for N is a value that divides into the number of CPUs. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "memthrash",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

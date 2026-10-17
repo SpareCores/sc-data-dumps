@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:fractal",
+  "category": "stress-ng",
+  "subcategory": "CPU float/SIMD",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng fractal",
+  "description": "Start N workers that generate 2D fractals. By default a 1024 x 1024 point Mandelbrot set is computed with a maximum of 256 iterations per point in the iterative compute loop. The fractal is computed row by row with multiple rows shared amongst the N fractal stressor instances. Double precision floating point values are used for the points in the complex set of values. Naive computation is used with no special algorithmic shortcuts or interpolation. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "fractal",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

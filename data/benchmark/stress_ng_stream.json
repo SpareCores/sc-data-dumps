@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:stream",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng stream",
+  "description": "Start N workers exercising a memory bandwidth stressor very loosely based on the STREAM \"Sustainable Memory Bandwidth in High Performance Computers\" benchmarking tool by John D. McCalpin, Ph.D. This stressor allocates 3 buffers that are at the size of the CPU L3 cache and continually performs rounds of computations on large arrays of double precision floating point numbers. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "stream",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

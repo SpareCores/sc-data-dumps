@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:fma",
+  "category": "stress-ng",
+  "subcategory": "CPU float/SIMD",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng fma",
+  "description": "Start N workers that exercise single and double precision floating point multiplication and add operations on arrays of 512 floating point values. More modern processors (Intel Haswell, AMD Bulldozer and Piledriver) and modern C compilers these will be performed by fused-multiply-add (fma3) opcodes. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "fma",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:prime",
+  "category": "stress-ng",
+  "subcategory": "CPU integer",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng prime",
+  "description": "Start N workers that find prime numbers using the GNU Multiple Precision Arithmetic Library for large integers. The GMP mpz_nextprime function is used to find primes and it uses a probabilistic algorithm to identify primes, but there is a extremely small chance that the values found are non-prime. The search becomes computationally more expensive over time to find larger and larger primes, hence the bogo-op rate will reduce over time. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "prime",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

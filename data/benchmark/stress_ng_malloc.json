@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:malloc",
+  "category": "stress-ng",
+  "subcategory": "Algorithms",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng malloc",
+  "description": "Start N workers continuously calling malloc, calloc, realloc, posix_memalign, aligned_alloc, memalign and free. By default, up to 65536 allocations can be active at any point, but this can be altered with the --malloc-max option. Allocation, reallocation and freeing are chosen at random; 50% of the time memory is allocation (via one of malloc, calloc or realloc, posix_memalign, aligned_alloc, memalign) and 50% of the time allocations are free'd. Allocation sizes are also random, with the maximum allocation size controlled by the --malloc-bytes option. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "malloc",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

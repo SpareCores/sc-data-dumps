@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:ptr_chase",
+  "category": "stress-ng",
+  "subcategory": "Memory",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng ptr-chase",
+  "description": "Start N workers that chase memory pointers around page sized nodes of pointers. By default each stressor instance allocates 4096 pages of nodes, each node is an array of pointers that are randomly set to point to other node pages. The stressors follow randomly chosen pointers from each node, chasing around the entire node space. This exercises pointer fetching, pointer dereferencing and is a cache-read exercising stressor. The nodes are allocated with 50% of pages from the heap and 50% from mmap'd memory. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "ptr_chase",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

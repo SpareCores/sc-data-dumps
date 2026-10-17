@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:usersyscall",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng usersyscall",
+  "description": "Start N workers that exercise the Linux prctl userspace system call mechanism. A userspace system call is handled by a SIGSYS signal handler and exercised with the system call disabled (ENOSYS) and enabled (via SIGSYS) using prctl PR_SET_SYSCALL_USER_DISPATCH. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "usersyscall",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

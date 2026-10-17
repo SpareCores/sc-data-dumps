@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:clock",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng clock",
+  "description": "Start N workers exercising clocks and POSIX timers. For all known clock types this will exercise clock_getres, clock_gettime and clock_nanosleep. For all known timers it will create a random duration timer and busy poll this until it expires. This stressor will cause frequent context switching. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "clock",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

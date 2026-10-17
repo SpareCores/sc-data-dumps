@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:clone",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng clone",
+  "description": "Start N workers that create clones (via the clone and clone3 system calls). This will rapidly try to create a default of 8192 clones that immediately die and wait in a zombie state until they are reaped. Once the maximum number of clones is reached (or clone fails because one has reached the maximum allowed) the oldest clone thread is reaped and a new clone is then created in a first-in first-out manner, and then repeated. A random clone flag is selected for each clone to try to exercise different clone operations. The clone stressor is a Linux only option. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "clone",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}

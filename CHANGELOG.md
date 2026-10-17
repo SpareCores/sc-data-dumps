@@ -1,3 +1,110 @@
+## v0.10.0+20261017205128 (Oct 17, 2026)
+
+This is an automated release with 95 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39061483135
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+
+### benchmark
+
+- New: stress_ng:branch
+- New: stress_ng:atomic
+- New: stress_ng:funccall
+- New: stress_ng:funcret
+- New: stress_ng:hash
+- New: stress_ng:rotate
+- New: stress_ng:str
+- New: stress_ng:wcs
+- New: stress_ng:nop
+- New: stress_ng:bitops
+- New: stress_ng:intmath
+- New: stress_ng:prime
+- New: stress_ng:fma
+- New: stress_ng:fp
+- New: stress_ng:trig
+- New: stress_ng:matrix
+- New: stress_ng:matrix_3d
+- New: stress_ng:eigen
+- New: stress_ng:vecmath
+- New: stress_ng:vecfp
+- New: stress_ng:vecshuf
+- New: stress_ng:vecwide
+- New: stress_ng:monte_carlo
+- New: stress_ng:mpfr
+- New: stress_ng:expmath
+- New: stress_ng:logmath
+- New: stress_ng:powmath
+- New: stress_ng:hyperbolic
+- New: stress_ng:fractal
+- New: stress_ng:veccmp
+- New: stress_ng:crypt
+- New: stress_ng:ipsec_mb
+- New: stress_ng:zlib
+- New: stress_ng:jpeg
+- New: stress_ng:cache
+- New: stress_ng:cacheline
+- New: stress_ng:l1cache
+- New: stress_ng:memcpy
+- New: stress_ng:memrate
+- New: stress_ng:memthrash
+- New: stress_ng:stream
+- New: stress_ng:vm
+- New: stress_ng:cachehammer
+- New: stress_ng:ptr_chase
+- New: stress_ng:spinmem
+- New: stress_ng:bsearch
+- New: stress_ng:hsearch
+- New: stress_ng:qsort
+- New: stress_ng:heapsort
+- New: stress_ng:mergesort
+- New: stress_ng:bitonicsort
+- New: stress_ng:skiplist
+- New: stress_ng:tree
+- New: stress_ng:malloc
+- New: stress_ng:mcontend
+- New: stress_ng:insertionsort
+- New: stress_ng:bubblesort
+- New: stress_ng:fibsearch
+- New: stress_ng:context
+- New: stress_ng:switch
+- New: stress_ng:clone
+- New: stress_ng:fork
+- New: stress_ng:vfork
+- New: stress_ng:fault
+- New: stress_ng:tlb_shootdown
+- New: stress_ng:mprotect
+- New: stress_ng:munmap
+- New: stress_ng:null
+- New: stress_ng:zero
+- New: stress_ng:getrandom
+- New: stress_ng:pipe
+- New: stress_ng:eventfd
+- New: stress_ng:hrtimers
+- New: stress_ng:clock
+- New: stress_ng:yield
+- New: stress_ng:resched
+- New: stress_ng:vdso
+- New: stress_ng:usersyscall
+- New: stress_ng:priv_instr
+- New: stress_ng:tsc
+- New: stress_ng:x86syscall
+- New: stress_ng:cpu_sched
+- New: stress_ng:timermix
+- New: stress_ng:mtx
+
 ## v0.10.0+20261017174932 (Oct 17, 2026)
 
 This is an automated release with 17 new/updated/deleted resources.

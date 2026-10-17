@@ -1,0 +1,23 @@
+{
+  "benchmark_id": "stress_ng:resched",
+  "category": "stress-ng",
+  "subcategory": "Hypervisor",
+  "source": {
+    "kind": "measured"
+  },
+  "name": "stress-ng resched",
+  "description": "Start N workers that exercise process rescheduling. Each stressor spawns a child process for each of the positive nice levels and iterates over the nice levels from 0 to the lowest priority level (highest nice value). For each of the nice levels 1024 iterations over 3 non-real time scheduling polices SCHED_OTHER, SCHED_BATCH and SCHED_IDLE are set and a sched_yield occurs to force heavy rescheduling activity. When the -v verbose option is used the distribution of the number of yields across the nice levels is printed for the first stressor out of the N stressors. The score is the total bogo operations per second (in real time) based on wall clock run time.",
+  "note": null,
+  "framework": "stress_ng",
+  "config_fields": {
+    "cores": "Single-Core or Multi-Core stress tests."
+  },
+  "environment_fields": {
+    "kernel_version": "Linux kernel version of the server running the benchmark (not recorded for managed databases).",
+    "measured_at": "Timestamp (UTC) of finishing the benchmark run."
+  },
+  "measurement": "resched",
+  "unit": "Bogo operations per second (ops/s)",
+  "higher_is_better": 1,
+  "status": "ACTIVE"
+}
