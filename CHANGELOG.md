@@ -1,3 +1,13 @@
+## v0.10.0+20261018024450 (Oct 18, 2026)
+
+This is an automated release with 1 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39084111093
+
+
+### server
+
+- Update: vultr/vx1-m-96c-768gb
+
 ## v0.10.0+20261017234134 (Oct 17, 2026)
 
 This is an automated release with 10 new/updated/deleted resources.
