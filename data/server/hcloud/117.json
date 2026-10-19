@@ -3,10 +3,12 @@
   "server_id": "117",
   "name": "cx53",
   "api_reference": "cx53",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cx53"
+  },
   "display_name": "cx53",
   "description": "CX 53",
-  "family": "cx",
+  "family": "Cost Optimized",
   "series": null,
   "vcpus": 16,
   "hypervisor": "QEMU",

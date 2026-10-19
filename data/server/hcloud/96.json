@@ -3,10 +3,12 @@
   "server_id": "96",
   "name": "ccx13",
   "api_reference": "ccx13",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "ccx13"
+  },
   "display_name": "ccx13",
   "description": "CCX13 Dedicated CPU",
-  "family": "ccx",
+  "family": "General Purpose",
   "series": null,
   "vcpus": 2,
   "hypervisor": "QEMU",

@@ -3,10 +3,12 @@
   "server_id": "25",
   "name": "cpx41",
   "api_reference": "cpx41",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cpx41"
+  },
   "display_name": "cpx41",
   "description": "CPX 41",
-  "family": "cpx",
+  "family": "Regular Purpose",
   "series": null,
   "vcpus": 8,
   "hypervisor": "QEMU",

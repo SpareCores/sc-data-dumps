@@ -3,10 +3,12 @@
   "server_id": "116",
   "name": "cx43",
   "api_reference": "cx43",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cx43"
+  },
   "display_name": "cx43",
   "description": "CX 43",
-  "family": "cx",
+  "family": "Cost Optimized",
   "series": null,
   "vcpus": 8,
   "hypervisor": "QEMU",

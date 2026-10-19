@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "fsn1",
+  "name": "fsn1",
+  "api_reference": "fsn1",
+  "display_name": "Falkenstein (DE)",
+  "aliases": [
+    "4"
+  ],
+  "country_id": "DE",
+  "state": null,
+  "city": "Falkenstein",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 12.370071,
+  "lat": 50.47612,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

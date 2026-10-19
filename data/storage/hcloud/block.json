@@ -4,8 +4,8 @@
   "name": "Block storage volume",
   "description": null,
   "storage_type": "SSD",
-  "max_iops": null,
-  "max_throughput": null,
+  "max_iops": 7500,
+  "max_throughput": 300,
   "min_size": 10,
   "max_size": 10000,
   "status": "ACTIVE"

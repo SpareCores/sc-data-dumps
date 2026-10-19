@@ -1,3 +1,74 @@
+## v0.10.0+20261019105059 (Oct 19, 2026)
+
+This is an automated release with 53 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39227411219
+
+
+### region
+
+- New: hcloud/fsn1
+- New: hcloud/nbg1
+- New: hcloud/hel1
+- New: hcloud/ash
+- New: hcloud/hil
+- New: hcloud/sin
+- Update: hcloud/2
+- Update: hcloud/3
+- Update: hcloud/4
+- Update: hcloud/5
+- Update: hcloud/6
+- Update: hcloud/7
+
+### zone
+
+- New: hcloud/ash/ash
+- New: hcloud/fsn1/fsn1
+- New: hcloud/hel1/hel1
+- New: hcloud/hil/hil
+- New: hcloud/nbg1/nbg1
+- New: hcloud/sin/sin
+- Update: hcloud/2/2
+- Update: hcloud/3/3
+- Update: hcloud/4/4
+- Update: hcloud/5/5
+- Update: hcloud/6/6
+- Update: hcloud/7/7
+
+### storage
+
+- Update: hcloud/block
+
+### server
+
+- New: hcloud/118
+- Update: alicloud/ecs.e4.4xlarge
+- Update: hcloud/100
+- Update: hcloud/101
+- Update: hcloud/108
+- Update: hcloud/109
+- Update: hcloud/110
+- Update: hcloud/111
+- Update: hcloud/112
+- Update: hcloud/113
+- Update: hcloud/114
+- Update: hcloud/115
+- Update: hcloud/116
+- Update: hcloud/117
+- Update: hcloud/22
+- Update: hcloud/23
+- Update: hcloud/24
+- Update: hcloud/25
+- Update: hcloud/26
+- Update: hcloud/45
+- Update: hcloud/93
+- Update: hcloud/94
+- Update: hcloud/95
+- Update: hcloud/96
+- Update: hcloud/97
+- Update: hcloud/98
+- Update: hcloud/99
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+
 ## v0.10.0+20261019084753 (Oct 19, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.

@@ -1,0 +1,9 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "ash",
+  "zone_id": "ash",
+  "name": "ash",
+  "api_reference": "ash",
+  "display_name": "ash",
+  "status": "ACTIVE"
+}

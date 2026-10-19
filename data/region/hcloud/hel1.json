@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "hel1",
+  "name": "hel1",
+  "api_reference": "hel1",
+  "display_name": "Helsinki (FI)",
+  "aliases": [
+    "3"
+  ],
+  "country_id": "FI",
+  "state": null,
+  "city": "Helsinki",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 24.938379,
+  "lat": 60.169855,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

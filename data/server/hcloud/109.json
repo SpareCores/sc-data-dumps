@@ -3,10 +3,12 @@
   "server_id": "109",
   "name": "cpx22",
   "api_reference": "cpx22",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cpx22"
+  },
   "display_name": "cpx22",
   "description": "CPX 22",
-  "family": "cpx",
+  "family": "Regular Purpose",
   "series": null,
   "vcpus": 2,
   "hypervisor": "QEMU",

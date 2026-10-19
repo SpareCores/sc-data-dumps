@@ -3,10 +3,12 @@
   "server_id": "94",
   "name": "cax31",
   "api_reference": "cax31",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cax31"
+  },
   "display_name": "cax31",
   "description": "CAX31",
-  "family": "cax",
+  "family": "Cost Optimized",
   "series": null,
   "vcpus": 8,
   "hypervisor": "QEMU",

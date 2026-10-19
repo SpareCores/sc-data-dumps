@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "nbg1",
+  "name": "nbg1",
+  "api_reference": "nbg1",
+  "display_name": "Nuremberg (DE)",
+  "aliases": [
+    "2"
+  ],
+  "country_id": "DE",
+  "state": null,
+  "city": "Nuremberg",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 11.076665,
+  "lat": 49.452102,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

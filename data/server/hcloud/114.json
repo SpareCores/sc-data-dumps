@@ -3,10 +3,12 @@
   "server_id": "114",
   "name": "cx23",
   "api_reference": "cx23",
-  "api_reference_object": null,
+  "api_reference_object": {
+    "server_type": "cx23"
+  },
   "display_name": "cx23",
   "description": "CX 23",
-  "family": "cx",
+  "family": "Cost Optimized",
   "series": null,
   "vcpus": 2,
   "hypervisor": "QEMU",
@@ -139,6 +141,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
-  "average_time_to_start": 16.0,
-  "status": "ACTIVE"
+  "average_time_to_start": 16.67,
+  "status": "INACTIVE"
 }

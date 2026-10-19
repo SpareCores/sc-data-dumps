@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "hil",
+  "name": "hil",
+  "api_reference": "hil",
+  "display_name": "Hillsboro (US)",
+  "aliases": [
+    "6"
+  ],
+  "country_id": "US",
+  "state": "OR",
+  "city": "Hillsboro",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -122.951924,
+  "lat": 45.54222,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}

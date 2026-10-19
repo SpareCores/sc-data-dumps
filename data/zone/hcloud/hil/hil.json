@@ -1,0 +1,9 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "hil",
+  "zone_id": "hil",
+  "name": "hil",
+  "api_reference": "hil",
+  "display_name": "hil",
+  "status": "ACTIVE"
+}

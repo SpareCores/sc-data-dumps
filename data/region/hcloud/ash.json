@@ -1,0 +1,20 @@
+{
+  "vendor_id": "hcloud",
+  "region_id": "ash",
+  "name": "ash",
+  "api_reference": "ash",
+  "display_name": "Ashburn (US)",
+  "aliases": [
+    "5"
+  ],
+  "country_id": "US",
+  "state": "VA",
+  "city": "Ashburn",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -77.487073,
+  "lat": 39.045821,
+  "founding_year": null,
+  "green_energy": 1,
+  "status": "ACTIVE"
+}
