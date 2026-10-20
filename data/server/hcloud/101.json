@@ -150,6 +150,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 61440.0,
   "ipv4": 0,
-  "average_time_to_start": 29.0,
+  "average_time_to_start": 27.5,
   "status": "ACTIVE"
 }
