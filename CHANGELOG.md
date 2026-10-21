@@ -1,3 +1,41 @@
+## v0.10.1+20261021080809 (Oct 21, 2026)
+
+This is an automated release with 29 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39555586505
+
+
+### server
+
+- New: alicloud/ecs.sgn9gc-wy-m6.2xlarge
+- New: alicloud/ecs.u2a-c1m4-ne.4xlarge
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c8a.48xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmc8a.48xlarge
+- Update: alicloud/ecs.ebmhfr6.20xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.t1.small
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: upcloud/PREMIUM-16xCPU-64GB
+- Update: upcloud/PREMIUM-2xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-4GB
+- Update: upcloud/PREMIUM-2xCPU-8GB
+- Update: upcloud/STARTER-4xCPU-8GB
+- Update: vultr/vbm-4c-32gb
+- Update: vultr/voc-m-8c-64gb-400s-amd
+- Update: vultr/vx1-m-4c-32g-240s
+
 ## v0.10.1+20261021045630 (Oct 21, 2026)
 
 This is an automated release with 34 new/updated/deleted resources.
