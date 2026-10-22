@@ -59,8 +59,8 @@
     "griffecli==2.4.1",
     "griffelib==2.4.1",
     "grpc-google-iam-v1==0.14.5",
-    "grpcio==1.84.0",
-    "grpcio-status==1.84.0",
+    "grpcio==1.84.1",
+    "grpcio-status==1.84.1",
     "hcloud==2.27.0",
     "httplib2==0.32.0",
     "idna==3.20",
@@ -76,7 +76,7 @@
     "mdurl==0.1.2",
     "mergedeep==1.3.4",
     "mkdocs==1.6.1",
-    "mkdocs-autorefs==1.4.4",
+    "mkdocs-autorefs==1.4.5",
     "mkdocs-gen-files==0.6.1",
     "mkdocs-get-deps==0.2.2",
     "mkdocs-literate-nav==0.6.3",
@@ -107,7 +107,7 @@
     "psycopg2==2.9.13",
     "pyasn1==0.6.4",
     "pyasn1-modules==0.4.2",
-    "pycparser==3.11",
+    "pycparser==3.12",
     "pydantic==2.14.1",
     "pydantic-core==2.50.1",
     "pydantic-extra-types==2.11.1",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.2",
-    "NEWVERSION": "v0.10.2+20261022153125",
-    "NEWVERSIONDATE": "v0.10.2+20261022153125 (Oct 22, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 13 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39784213226",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/39784213226"
+    "NEWVERSION": "v0.10.2+20261022192645",
+    "NEWVERSIONDATE": "v0.10.2+20261022192645 (Oct 22, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 24 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39820005884",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/39820005884"
   },
-  "timestamp": "2026-10-22T15:31:25Z"
+  "timestamp": "2026-10-22T19:26:45Z"
 }
