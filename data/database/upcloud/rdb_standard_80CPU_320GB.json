@@ -5,7 +5,29 @@
   "api_reference": "rdb.standard.80CPU-320GB",
   "api_reference_object": {
     "service_type": "pg",
-    "plan_compute": "rdb.standard.80CPU-320GB"
+    "plan_compute": "rdb.standard.80CPU-320GB",
+    "plan_node_counts": [
+      1,
+      2,
+      3
+    ],
+    "plan_backups": [
+      "regular",
+      "extended"
+    ],
+    "plan_storage": {
+      "step_gib": 10,
+      "options": [
+        {
+          "base_gib": 500,
+          "max_gib": 2500
+        },
+        {
+          "base_gib": 3000,
+          "max_gib": 7168
+        }
+      ]
+    }
   },
   "display_name": "Standard: 80 vCPU, 320 GiB RAM",
   "description": "UpCloud PostgreSQL Standard (80 vCPUs, 320 GiB RAM)",

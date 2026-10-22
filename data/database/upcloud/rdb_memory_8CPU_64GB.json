@@ -5,7 +5,33 @@
   "api_reference": "rdb.memory.8CPU-64GB",
   "api_reference_object": {
     "service_type": "pg",
-    "plan_compute": "rdb.memory.8CPU-64GB"
+    "plan_compute": "rdb.memory.8CPU-64GB",
+    "plan_node_counts": [
+      1,
+      2,
+      3
+    ],
+    "plan_backups": [
+      "regular",
+      "extended"
+    ],
+    "plan_storage": {
+      "step_gib": 10,
+      "options": [
+        {
+          "base_gib": 80,
+          "max_gib": 400
+        },
+        {
+          "base_gib": 500,
+          "max_gib": 2500
+        },
+        {
+          "base_gib": 3000,
+          "max_gib": 7168
+        }
+      ]
+    }
   },
   "display_name": "High Memory: 8 vCPU, 64 GiB RAM",
   "description": "UpCloud PostgreSQL High Memory (8 vCPUs, 64 GiB RAM)",

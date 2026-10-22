@@ -1,3 +1,52 @@
+## v0.10.2+20261022114515 (Oct 22, 2026)
+
+This is an automated release with 37 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39754432837
+
+
+### server
+
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmgn8te.32xlarge
+- Update: alicloud/ecs.g10a.4xlarge
+- Update: alicloud/ecs.g10a.8xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: vultr/vbm-24c-384gb-amd
+- Update: vultr/vhf-2c-2gb
+- Update: vultr/vhf-2c-4gb
+- Update: vultr/vhp-12c-24gb-amd
+- Update: vultr/vhp-8c-16gb-amd
+- Update: vultr/vx1-m-2c-16g
+
+### database
+
+- Update: upcloud/rdb.development.1CPU-1GB
+- Update: upcloud/rdb.development.1CPU-2GB
+- Update: upcloud/rdb.development.1CPU-4GB
+- Update: upcloud/rdb.memory.12CPU-96GB
+- Update: upcloud/rdb.memory.16CPU-128GB
+- Update: upcloud/rdb.memory.24CPU-192GB
+- Update: upcloud/rdb.memory.2CPU-16GB
+- Update: upcloud/rdb.memory.32CPU-256GB
+- Update: upcloud/rdb.memory.48CPU-384GB
+- Update: upcloud/rdb.memory.4CPU-32GB
+- Update: upcloud/rdb.memory.64CPU-512GB
+- Update: upcloud/rdb.memory.8CPU-64GB
+- Update: upcloud/rdb.standard.12CPU-48GB
+- Update: upcloud/rdb.standard.16CPU-64GB
+- Update: upcloud/rdb.standard.24CPU-96GB
+- Update: upcloud/rdb.standard.2CPU-8GB
+- Update: upcloud/rdb.standard.32CPU-128GB
+- Update: upcloud/rdb.standard.48CPU-192GB
+- Update: upcloud/rdb.standard.4CPU-16GB
+- Update: upcloud/rdb.standard.64CPU-256GB
+- Update: upcloud/rdb.standard.80CPU-320GB
+- Update: upcloud/rdb.standard.8CPU-32GB
+
 ## v0.10.1+20261022074556 (Oct 22, 2026)
 
 This is an automated release with 7 new/updated/deleted resources.

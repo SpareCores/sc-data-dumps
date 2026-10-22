@@ -5,7 +5,33 @@
   "api_reference": "rdb.standard.2CPU-8GB",
   "api_reference_object": {
     "service_type": "pg",
-    "plan_compute": "rdb.standard.2CPU-8GB"
+    "plan_compute": "rdb.standard.2CPU-8GB",
+    "plan_node_counts": [
+      1,
+      2,
+      3
+    ],
+    "plan_backups": [
+      "regular",
+      "extended"
+    ],
+    "plan_storage": {
+      "step_gib": 10,
+      "options": [
+        {
+          "base_gib": 10,
+          "max_gib": 50
+        },
+        {
+          "base_gib": 80,
+          "max_gib": 400
+        },
+        {
+          "base_gib": 500,
+          "max_gib": 2500
+        }
+      ]
+    }
   },
   "display_name": "Standard: 2 vCPU, 8 GiB RAM",
   "description": "UpCloud PostgreSQL Standard (2 vCPUs, 8 GiB RAM)",
