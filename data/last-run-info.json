@@ -44,21 +44,21 @@
     "defusedxml==0.7.1",
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
-    "google-api-core==2.42.0",
+    "google-api-core==2.43.0",
     "google-api-python-client==2.201.0",
     "google-auth==2.62.0",
     "google-auth-httplib2==0.4.4",
     "google-cloud==0.34.0",
     "google-cloud-billing==1.21.0",
     "google-cloud-compute==1.56.0",
-    "googleapis-common-protos==1.75.5",
+    "googleapis-common-protos==1.76.0",
     "greenlet==3.5.6",
     "griffe==2.4.1",
     "griffe-inherited-docstrings==1.1.4",
     "griffe2md==1.5.1",
     "griffecli==2.4.1",
     "griffelib==2.4.1",
-    "grpc-google-iam-v1==0.14.5",
+    "grpc-google-iam-v1==0.14.6",
     "grpcio==1.84.1",
     "grpcio-status==1.84.1",
     "hcloud==2.27.0",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.2",
-    "NEWVERSION": "v0.10.2+20261022223308",
-    "NEWVERSIONDATE": "v0.10.2+20261022223308 (Oct 22, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 25 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39851975625",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/39851975625"
+    "NEWVERSION": "v0.10.2+20261023021442",
+    "NEWVERSIONDATE": "v0.10.2+20261023021442 (Oct 23, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 28 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39876255133",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/39876255133"
   },
-  "timestamp": "2026-10-22T22:33:08Z"
+  "timestamp": "2026-10-23T02:14:42Z"
 }

@@ -1,3 +1,40 @@
+## v0.10.2+20261023021442 (Oct 23, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/39876255133
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: alicloud/ecs.t1.small
+- Update: hcloud/95
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: vultr/vbm-24c-384gb-amd5
+- Update: vultr/vbm-6c-32gb
+- Update: vultr/vbm-8c-132gb-v2
+- Update: vultr/vcg-a40-24c-120g-48vram
+- Update: vultr/voc-s-4c-32gb-960s-amd
+- Update: vultr/vx1-g-16c-64g
+- Update: vultr/vx1-g-4c-16g
+
 ## v0.10.2+20261022223308 (Oct 22, 2026)
 
 This is an automated release with 25 new/updated/deleted resources.
