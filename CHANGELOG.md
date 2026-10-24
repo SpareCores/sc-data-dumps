@@ -1,3 +1,20 @@
+## v0.10.2+20261024061256 (Oct 24, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40062454049
+
+
+### server
+
+- Update: alicloud/ecs.d1ne.14xlarge
+- Update: alicloud/ecs.gn8te.16xlarge
+- Update: ovh/c3-32
+- Update: upcloud/PREMIUM-8xCPU-128GB
+
+### database
+
+- Update: azure/Standard_B2afs_v2
+
 ## v0.10.2+20261024030732 (Oct 24, 2026)
 
 This is an automated release with 10 new/updated/deleted resources.
