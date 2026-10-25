@@ -1,3 +1,20 @@
+## v0.10.2+20261025142833 (Oct 25, 2026)
+
+This is an automated release with 5 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40193234182
+
+
+### zone
+
+- Update: azure/eastus2/4
+
+### server
+
+- Update: alicloud/ecs.t1.small
+- Update: hcloud/114
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: vultr/voc-c-4c-8gb-150s-amd
+
 ## v0.10.2+20261025095535 (Oct 25, 2026)
 
 This is an automated release with 8 new/updated/deleted resources.
