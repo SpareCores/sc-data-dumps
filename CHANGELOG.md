@@ -1,3 +1,19 @@
+## v0.10.2+20261027014154 (Oct 27, 2026)
+
+This is an automated release with 7 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40419990115
+
+
+### server
+
+- Update: hcloud/114
+- Update: hcloud/118
+- Update: hcloud/93
+- Update: hcloud/94
+- Update: ovh/c3-16
+- Update: upcloud/PREMIUM-8xCPU-32GB
+- Update: upcloud/PREMIUM-8xCPU-64GB
+
 ## v0.10.2+20261026214346 (Oct 26, 2026)
 
 This is an automated release with 17 new/updated/deleted resources.

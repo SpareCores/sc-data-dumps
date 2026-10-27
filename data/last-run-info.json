@@ -20,7 +20,7 @@
     "apscheduler==3.11.3",
     "attrs==26.1.0",
     "azure-core==1.41.0",
-    "azure-identity==1.26.0",
+    "azure-identity==1.27.0",
     "azure-mgmt-compute==39.0.0",
     "azure-mgmt-core==1.6.0",
     "azure-mgmt-postgresqlflexibleservers==2.0.0",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.2",
-    "NEWVERSION": "v0.10.2+20261026214346",
-    "NEWVERSIONDATE": "v0.10.2+20261026214346 (Oct 26, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 17 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40392935565",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/40392935565"
+    "NEWVERSION": "v0.10.2+20261027014154",
+    "NEWVERSIONDATE": "v0.10.2+20261027014154 (Oct 27, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 7 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40419990115",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/40419990115"
   },
-  "timestamp": "2026-10-26T21:43:46Z"
+  "timestamp": "2026-10-27T01:41:54Z"
 }
