@@ -4,8 +4,8 @@
   "name": "postgresql-enterprise-db1-60",
   "api_reference": "postgresql-enterprise-db1-60",
   "api_reference_object": {
-    "plan": "enterprise",
     "engine": "postgresql",
+    "plan": "enterprise",
     "flavor": "db1-60"
   },
   "display_name": "Enterprise db1-60",
