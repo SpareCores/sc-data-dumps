@@ -12,7 +12,7 @@
   "series": null,
   "vcpus": 2,
   "hypervisor": "nitro",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "BURSTABLE",
   "cpu_cores": 1,
   "cpu_speed": 3.9,
   "cpu_architecture": "X86_64",

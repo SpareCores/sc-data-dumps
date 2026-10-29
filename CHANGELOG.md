@@ -1,3 +1,85 @@
+## v0.10.2+20261029183152 (Oct 29, 2026)
+
+This is an automated release with 70 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/40915138419
+
+
+### server
+
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmgn8t.32xlarge
+- Update: alicloud/ecs.ebmgn8v.48xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/c7i-flex.12xlarge
+- Update: aws/c7i-flex.16xlarge
+- Update: aws/c7i-flex.2xlarge
+- Update: aws/c7i-flex.4xlarge
+- Update: aws/c7i-flex.8xlarge
+- Update: aws/c7i-flex.large
+- Update: aws/c7i-flex.xlarge
+- Update: aws/c8i-flex.12xlarge
+- Update: aws/c8i-flex.16xlarge
+- Update: aws/c8i-flex.2xlarge
+- Update: aws/c8i-flex.4xlarge
+- Update: aws/c8i-flex.8xlarge
+- Update: aws/c8i-flex.large
+- Update: aws/c8i-flex.xlarge
+- Update: aws/m7i-flex.12xlarge
+- Update: aws/m7i-flex.16xlarge
+- Update: aws/m7i-flex.2xlarge
+- Update: aws/m7i-flex.4xlarge
+- Update: aws/m7i-flex.8xlarge
+- Update: aws/m7i-flex.large
+- Update: aws/m7i-flex.xlarge
+- Update: aws/m8i-flex.12xlarge
+- Update: aws/m8i-flex.16xlarge
+- Update: aws/m8i-flex.2xlarge
+- Update: aws/m8i-flex.4xlarge
+- Update: aws/m8i-flex.8xlarge
+- Update: aws/m8i-flex.large
+- Update: aws/m8i-flex.xlarge
+- Update: aws/r8i-flex.12xlarge
+- Update: aws/r8i-flex.16xlarge
+- Update: aws/r8i-flex.2xlarge
+- Update: aws/r8i-flex.4xlarge
+- Update: aws/r8i-flex.8xlarge
+- Update: aws/r8i-flex.large
+- Update: aws/r8i-flex.xlarge
+- Update: aws/t1.micro
+- Update: hcloud/45
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+
+### benchmark
+
+- New: nvbandwidth:slot:local_copy
+- Update: nvbandwidth:all:duplex
+- Update: nvbandwidth:all:gpu_to_host
+- Update: nvbandwidth:all:host_to_gpu
+- Update: nvbandwidth:efficiency:sm_ce_ratio
+- Update: nvbandwidth:p2p:duplex
+- Update: nvbandwidth:p2p:gather
+- Update: nvbandwidth:p2p:latency
+- Update: nvbandwidth:p2p:single
+- Update: nvbandwidth:slot:gpu_to_host
+- Update: nvbandwidth:slot:host_to_gpu
+- Update: nvbandwidth:slot:latency
+
 ## v0.10.2+20261029155832 (Oct 29, 2026)
 
 This is an automated release with 0 new/updated/deleted resources.
