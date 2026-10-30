@@ -4,10 +4,10 @@
   "name": "M192idms_v2",
   "api_reference": "Standard_M192idms_v2",
   "api_reference_object": {
-    "sku_name": "GP_Standard_M192idms_v2"
+    "sku_name": "MO_Standard_M192idms_v2"
   },
   "display_name": "M192idms_v2",
-  "description": "PostgreSQL GeneralPurpose (192 vCPUs, 4096 GB RAM)",
+  "description": "PostgreSQL MemoryOptimized (192 vCPUs, 4096 GB RAM)",
   "family": "Mdsv2",
   "series": null,
   "server_id": "Standard_M192idms_v2",

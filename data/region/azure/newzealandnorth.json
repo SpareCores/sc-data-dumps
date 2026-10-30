@@ -4,7 +4,9 @@
   "name": "New Zealand North",
   "api_reference": "newzealandnorth",
   "display_name": "New Zealand North (NZ)",
-  "aliases": [],
+  "aliases": [
+    "New Zealand North"
+  ],
   "country_id": "NZ",
   "state": null,
   "city": "Auckland",
@@ -14,5 +16,5 @@
   "lat": -36.84853,
   "founding_year": 2024,
   "green_energy": 0,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
