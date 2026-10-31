@@ -1,3 +1,29 @@
+## v0.10.2+20261031163422 (Oct 31, 2026)
+
+This is an automated release with 14 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/41210261932
+
+
+### server
+
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: hcloud/114
+- Update: hcloud/45
+
+### database
+
+- New: gcp/db-perf-optimized-C4D-2
+- New: gcp/db-perf-optimized-C4D-4
+- New: gcp/db-perf-optimized-C4D-8
+- New: gcp/db-perf-optimized-C4D-16
+- New: gcp/db-perf-optimized-C4D-32
+- New: gcp/db-perf-optimized-C4D-48
+- New: gcp/db-perf-optimized-C4D-64
+- New: gcp/db-perf-optimized-C4D-96
+- New: gcp/db-perf-optimized-C4D-192
+
 ## v0.10.2+20261031130334 (Oct 31, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
