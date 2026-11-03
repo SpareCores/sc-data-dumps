@@ -9,5 +9,5 @@
   "max_size": 70369,
   "max_iops": 400000,
   "max_throughput": 10000,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

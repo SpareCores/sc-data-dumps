@@ -61,5 +61,5 @@
     "customer-managed-keys",
     "audit-logging"
   ],
-  "status": "PLANNED_FOR_RETIREMENT"
+  "status": "INACTIVE"
 }
