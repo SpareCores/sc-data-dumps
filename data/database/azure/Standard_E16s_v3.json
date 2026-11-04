@@ -61,5 +61,5 @@
     "customer-managed-keys",
     "audit-logging"
   ],
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }
