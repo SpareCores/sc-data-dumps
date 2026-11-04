@@ -1,3 +1,56 @@
+## v0.10.2+20261104191930 (Nov 04, 2026)
+
+This is an automated release with 41 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/41874576745
+
+
+### server
+
+- Update: azure/Standard_DC16as_v5
+- Update: azure/Standard_DC32as_v5
+- Update: azure/Standard_DC4as_v5
+- Update: azure/Standard_DC8es_v6
+- Update: azure/Standard_EC16as_v5
+- Update: azure/Standard_EC2as_v5
+- Update: azure/Standard_EC32as_v5
+- Update: hcloud/100
+- Update: hcloud/112
+- Update: hcloud/113
+- Update: hcloud/114
+- Update: hcloud/95
+- Update: hcloud/99
+- Update: ovh/b2-30
+- Update: ovh/c2-30
+- Update: ovh/r2-15
+- Update: ovh/r2-240
+- Update: ovh/r2-60
+- Update: ovh/r3-16
+- Update: ovh/r3-32
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/CLOUDNATIVE-2xCPU-8GB
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vbm-24c-384gb-amd5
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+- Update: vultr/vcg-a40-24c-120g-48vram
+- Update: vultr/vhp-2c-4gb-intel
+- Update: vultr/vhp-4c-8gb-intel
+- Update: vultr/vx1-m-2c-16g-120s
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.2+20261104152940 (Nov 04, 2026)
 
 This is an automated release with 37 new/updated/deleted resources.

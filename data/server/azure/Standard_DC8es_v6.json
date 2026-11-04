@@ -131,8 +131,8 @@
     "amx_int8"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 4.1,
+  "scalability": 51.25,
   "hw_virt": 0,
   "memory_amount": 32768,
   "memory_amount_actual": 32590,
