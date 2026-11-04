@@ -117,8 +117,8 @@
     "fsrm"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 23.8,
+  "scalability": 49.58,
   "hw_virt": 0,
   "memory_amount": 393216,
   "memory_amount_actual": 393188,
