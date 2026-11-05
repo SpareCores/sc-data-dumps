@@ -1,3 +1,45 @@
+## v0.10.2+20261105231409 (Nov 05, 2026)
+
+This is an automated release with 30 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42109841691
+
+
+### server
+
+- New: vultr/vcg-b200-248c-2826g-1536vram-roce
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: azure/Standard_D96ads_v6
+- Update: azure/Standard_DC64es_v6
+- Update: azure/Standard_EC48es_v6
+- Update: azure/Standard_EC4es_v6
+- Update: azure/Standard_EC64es_v6
+- Update: azure/Standard_EC8es_v6
+- Update: hcloud/114
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: vultr/vbm-112c-2048gb-8-a100-gpu
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.2+20261105194027 (Nov 05, 2026)
 
 This is an automated release with 34 new/updated/deleted resources.
