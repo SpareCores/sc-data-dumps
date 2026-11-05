@@ -1,3 +1,44 @@
+## v0.10.2+20261105163643 (Nov 05, 2026)
+
+This is an automated release with 32 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42045305653
+
+
+### server
+
+- Update: alicloud/ecs.c1.large
+- Update: alicloud/ecs.c2.large
+- Update: alicloud/ecs.c2.medium
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.large
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.m1.medium
+- Update: alicloud/ecs.m1.xlarge
+- Update: alicloud/ecs.m2.medium
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.2xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.3xlarge
+- Update: azure/Standard_D48ds_v4
+- Update: azure/Standard_DC2ads_v5
+- Update: azure/Standard_DC2as_v5
+- Update: azure/Standard_DC32ads_v5
+- Update: azure/Standard_DC64ads_v5
+- Update: azure/Standard_EC20as_v5
+- Update: azure/Standard_EC2ads_v5
+- Update: azure/Standard_EC4as_v5
+- Update: azure/Standard_EC64es_v6
+- Update: hcloud/114
+- Update: hcloud/93
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+
 ## v0.10.2+20261105124758 (Nov 05, 2026)
 
 This is an automated release with 68 new/updated/deleted resources.
