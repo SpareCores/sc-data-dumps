@@ -123,7 +123,7 @@
     "requests-oauthlib==2.0.0",
     "rich==15.0.0",
     "s3transfer==0.19.3",
-    "sentry-sdk==2.73.0",
+    "sentry-sdk==2.74.0",
     "setuptools==79.0.1",
     "shellingham==1.5.4",
     "six==1.17.0",
@@ -145,10 +145,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.2",
-    "NEWVERSION": "v0.10.2+20261105163643",
-    "NEWVERSIONDATE": "v0.10.2+20261105163643 (Nov 05, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 32 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42045305653",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42045305653"
+    "NEWVERSION": "v0.10.2+20261105194027",
+    "NEWVERSIONDATE": "v0.10.2+20261105194027 (Nov 05, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 34 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42081326311",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42081326311"
   },
-  "timestamp": "2026-11-05T16:36:43Z"
+  "timestamp": "2026-11-05T19:40:27Z"
 }
