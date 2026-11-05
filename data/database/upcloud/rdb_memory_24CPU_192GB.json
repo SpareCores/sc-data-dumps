@@ -4,30 +4,30 @@
   "name": "rdb.memory.24CPU-192GB",
   "api_reference": "rdb.memory.24CPU-192GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "plan_compute": "rdb.memory.24CPU-192GB",
-    "plan_node_counts": [
-      1,
-      2,
-      3
-    ],
     "plan_backups": [
       "regular",
       "extended"
     ],
+    "plan_compute": "rdb.memory.24CPU-192GB",
     "plan_storage": {
-      "step_gib": 10,
       "options": [
         {
-          "base_gib": 500,
-          "max_gib": 2500
+          "max_gib": 2500,
+          "base_gib": 500
         },
         {
-          "base_gib": 3000,
-          "max_gib": 7168
+          "max_gib": 7168,
+          "base_gib": 3000
         }
-      ]
-    }
+      ],
+      "step_gib": 10
+    },
+    "service_type": "pg",
+    "plan_node_counts": [
+      1,
+      2,
+      3
+    ]
   },
   "display_name": "High Memory: 24 vCPU, 192 GiB RAM",
   "description": "UpCloud PostgreSQL High Memory (24 vCPUs, 192 GiB RAM)",

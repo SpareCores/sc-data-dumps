@@ -4,8 +4,8 @@
   "name": "2x6xCPU-16GB-100GB",
   "api_reference": "2x6xCPU-16GB-100GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "service_plan": "2x6xCPU-16GB-100GB"
+    "service_plan": "2x6xCPU-16GB-100GB",
+    "service_type": "pg"
   },
   "display_name": "Legacy: 6 vCPUs, 16 GiB RAM, 54 GB storage, 2 nodes",
   "description": "UpCloud PostgreSQL Legacy (6 vCPUs, 16 GiB RAM, 54 GB storage, 2 nodes)",

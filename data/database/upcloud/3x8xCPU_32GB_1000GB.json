@@ -4,8 +4,8 @@
   "name": "3x8xCPU-32GB-1000GB",
   "api_reference": "3x8xCPU-32GB-1000GB",
   "api_reference_object": {
-    "service_type": "pg",
-    "service_plan": "3x8xCPU-32GB-1000GB"
+    "service_plan": "3x8xCPU-32GB-1000GB",
+    "service_type": "pg"
   },
   "display_name": "Legacy: 8 vCPUs, 32 GiB RAM, 358 GB storage, 3 nodes",
   "description": "UpCloud PostgreSQL Legacy (8 vCPUs, 32 GiB RAM, 358 GB storage, 3 nodes)",

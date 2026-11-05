@@ -1,3 +1,137 @@
+## v0.10.2+20261105022316 (Nov 05, 2026)
+
+This is an automated release with 122 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/41939054558
+
+
+### server
+
+- Update: alicloud/ecs.c2.xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.m2.xlarge
+- Update: alicloud/ecs.s2.small
+- Update: azure/Standard_DC2ads_v6
+- Update: azure/Standard_DC48as_v5
+- Update: azure/Standard_DC96as_v5
+- Update: azure/Standard_EC48as_v5
+- Update: azure/Standard_EC48es_v6
+- Update: azure/Standard_EC96ads_v5
+- Update: azure/Standard_EC96as_v5
+- Update: hcloud/109
+- Update: hcloud/114
+- Update: hcloud/25
+- Update: hcloud/26
+- Update: hcloud/96
+- Update: ovh/c3-16
+- Update: ovh/rtx5000-28
+- Update: ovh/t2-le-90
+
+### database
+
+- Update: azure/Standard_D128s_v6
+- Update: azure/Standard_D16as_v6
+- Update: azure/Standard_D16s_v6
+- Update: azure/Standard_D192s_v6
+- Update: azure/Standard_D2as_v6
+- Update: azure/Standard_D2s_v6
+- Update: azure/Standard_D32as_v6
+- Update: azure/Standard_D32s_v6
+- Update: azure/Standard_D48as_v6
+- Update: azure/Standard_D48s_v6
+- Update: azure/Standard_D4as_v6
+- Update: azure/Standard_D4s_v6
+- Update: azure/Standard_D64as_v6
+- Update: azure/Standard_D64s_v6
+- Update: azure/Standard_D8as_v6
+- Update: azure/Standard_D8s_v6
+- Update: azure/Standard_D96as_v6
+- Update: azure/Standard_D96s_v6
+- Update: azure/Standard_DC128es_v6
+- Update: azure/Standard_DC16ads_v6
+- Update: azure/Standard_DC16as_v5
+- Update: azure/Standard_DC16es_v6
+- Update: azure/Standard_DC2ads_v6
+- Update: azure/Standard_DC2as_v5
+- Update: azure/Standard_DC2es_v6
+- Update: azure/Standard_DC32ads_v6
+- Update: azure/Standard_DC32as_v5
+- Update: azure/Standard_DC32es_v6
+- Update: azure/Standard_DC48ads_v6
+- Update: azure/Standard_DC48as_v5
+- Update: azure/Standard_DC48es_v6
+- Update: azure/Standard_DC4ads_v6
+- Update: azure/Standard_DC4as_v5
+- Update: azure/Standard_DC4es_v6
+- Update: azure/Standard_DC64ads_v6
+- Update: azure/Standard_DC64as_v5
+- Update: azure/Standard_DC64es_v6
+- Update: azure/Standard_DC8ads_v6
+- Update: azure/Standard_DC8as_v5
+- Update: azure/Standard_DC8es_v6
+- Update: azure/Standard_DC96ads_v6
+- Update: azure/Standard_DC96as_v5
+- Update: azure/Standard_DC96es_v6
+- Update: azure/Standard_E128s_v6
+- Update: azure/Standard_E16as_v6
+- Update: azure/Standard_E16bds_v5
+- Update: azure/Standard_E16s_v6
+- Update: azure/Standard_E20as_v6
+- Update: azure/Standard_E20s_v6
+- Update: azure/Standard_E2as_v6
+- Update: azure/Standard_E2bds_v5
+- Update: azure/Standard_E2s_v6
+- Update: azure/Standard_E32as_v6
+- Update: azure/Standard_E32bds_v5
+- Update: azure/Standard_E32s_v6
+- Update: azure/Standard_E48as_v6
+- Update: azure/Standard_E48bds_v5
+- Update: azure/Standard_E48s_v6
+- Update: azure/Standard_E4as_v6
+- Update: azure/Standard_E4bds_v5
+- Update: azure/Standard_E4s_v6
+- Update: azure/Standard_E64as_v6
+- Update: azure/Standard_E64bds_v5
+- Update: azure/Standard_E64s_v6
+- Update: azure/Standard_E8as_v6
+- Update: azure/Standard_E8bds_v5
+- Update: azure/Standard_E8s_v6
+- Update: azure/Standard_E96as_v6
+- Update: azure/Standard_E96bds_v5
+- Update: azure/Standard_E96s_v6
+- Update: azure/Standard_EC16ads_v6
+- Update: azure/Standard_EC16as_v5
+- Update: azure/Standard_EC16es_v6
+- Update: azure/Standard_EC20ads_v6
+- Update: azure/Standard_EC20as_v5
+- Update: azure/Standard_EC2ads_v6
+- Update: azure/Standard_EC2as_v5
+- Update: azure/Standard_EC2es_v6
+- Update: azure/Standard_EC32ads_v6
+- Update: azure/Standard_EC32as_v5
+- Update: azure/Standard_EC32es_v6
+- Update: azure/Standard_EC48ads_v6
+- Update: azure/Standard_EC48as_v5
+- Update: azure/Standard_EC48es_v6
+- Update: azure/Standard_EC4ads_v6
+- Update: azure/Standard_EC4as_v5
+- Update: azure/Standard_EC4es_v6
+- Update: azure/Standard_EC64ads_v6
+- Update: azure/Standard_EC64as_v5
+- Update: azure/Standard_EC64es_v6
+- Update: azure/Standard_EC8ads_v6
+- Update: azure/Standard_EC8as_v5
+- Update: azure/Standard_EC8es_v6
+- Update: azure/Standard_EC96ads_v6
+- Update: azure/Standard_EC96as_v5
+- Update: azure/Standard_M128dms_v2
+- Update: azure/Standard_M128ds_v2
+- Update: azure/Standard_M192idms_v2
+- Update: azure/Standard_M192ids_v2
+- Update: azure/Standard_M32dms_v2
+- Update: azure/Standard_M64dms_v2
+- Update: azure/Standard_M64ds_v2
+
 ## v0.10.2+20261104223224 (Nov 04, 2026)
 
 This is an automated release with 21 new/updated/deleted resources.
