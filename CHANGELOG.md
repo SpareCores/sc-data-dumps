@@ -1,3 +1,39 @@
+## v0.10.2+20261105055916 (Nov 05, 2026)
+
+This is an automated release with 27 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/41963847599
+
+
+### server
+
+- Update: azure/Standard_DC64as_v5
+- Update: azure/Standard_DC8as_v5
+- Update: azure/Standard_DC96ads_v5
+- Update: hcloud/110
+- Update: hcloud/23
+- Update: hcloud/24
+- Update: hcloud/95
+- Update: ovh/b2-120
+- Update: ovh/b2-15
+- Update: ovh/b2-60
+- Update: ovh/c2-15
+- Update: ovh/c2-60
+- Update: ovh/r2-120
+- Update: ovh/r3-128
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: vultr/vbm-8c-64gb-amd
+- Update: vultr/vhf-12c-48gb
+- Update: vultr/voc-c-2c-4gb-50s-amd
+- Update: vultr/vx1-g-16c-64g-960s
+
 ## v0.10.2+20261105022316 (Nov 05, 2026)
 
 This is an automated release with 122 new/updated/deleted resources.
