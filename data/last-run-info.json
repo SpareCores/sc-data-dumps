@@ -132,7 +132,7 @@
     "sqlalchemy==2.0.57",
     "sqlmodel==0.0.44",
     "tinycss2==1.5.1",
-    "typer==0.27.3",
+    "typer==0.28.0",
     "typing-extensions==4.16.0",
     "typing-inspection==0.4.5",
     "tzlocal==5.4.5",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.2",
-    "NEWVERSION": "v0.10.2+20261106101648",
-    "NEWVERSIONDATE": "v0.10.2+20261106101648 (Nov 06, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 20 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42187898206",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42187898206"
+    "NEWVERSION": "v0.10.2+20261106141645",
+    "NEWVERSIONDATE": "v0.10.2+20261106141645 (Nov 06, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 28 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42212923395",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42212923395"
   },
-  "timestamp": "2026-11-06T10:16:48Z"
+  "timestamp": "2026-11-06T14:16:45Z"
 }
