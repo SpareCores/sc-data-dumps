@@ -99,8 +99,8 @@
     "md_clear"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 8.0,
+  "scalability": 100.0,
   "hw_virt": 1,
   "memory_amount": 30720,
   "memory_amount_actual": 30000,
