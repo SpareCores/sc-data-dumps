@@ -1,3 +1,24 @@
+## v0.10.2+20261107173313 (Nov 07, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42388136050
+
+
+### server
+
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: ovh/b2-15-flex
+- Update: ovh/b3-256-flex
+- Update: ovh/b3-64-flex
+- Update: ovh/c2-30-flex
+- Update: ovh/c3-320-flex
+- Update: ovh/r2-240-flex
+- Update: ovh/r3-64-flex
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: vultr/vhf-6c-24gb
+- Update: vultr/voc-g-1c-4gb-30s-amd
+
 ## v0.10.2+20261107142453 (Nov 07, 2026)
 
 This is an automated release with 18 new/updated/deleted resources.
