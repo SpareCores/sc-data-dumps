@@ -1,3 +1,43 @@
+## v0.10.2+20261107012932 (Nov 07, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42312101636
+
+
+### server
+
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmr7.32xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn9gc-2x.16xlarge
+- Update: hcloud/115
+- Update: ovh/b2-30-flex
+- Update: ovh/b3-640-flex
+- Update: ovh/c2-15-flex
+- Update: ovh/c3-256-flex
+- Update: ovh/c3-64-flex
+- Update: ovh/r2-120-flex
+- Update: ovh/r3-128-flex
+- Update: ovh/r3-512-flex
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/PREMIUM-16xCPU-64GB
+- Update: vultr/vc2-2c-4gb
+- Update: vultr/vx1-g-4c-16g-240s
+- Update: vultr/vx1-g-8c-32g
+- Update: vultr/vx1-m-4c-32gb
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.2+20261106215715 (Nov 06, 2026)
 
 This is an automated release with 27 new/updated/deleted resources.
