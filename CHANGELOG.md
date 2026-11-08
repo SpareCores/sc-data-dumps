@@ -1,3 +1,24 @@
+## v0.10.2+20261108011642 (Nov 08, 2026)
+
+This is an automated release with 12 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42423839767
+
+
+### server
+
+- Update: hcloud/100
+- Update: hcloud/111
+- Update: hcloud/112
+- Update: hcloud/114
+- Update: hcloud/45
+- Update: upcloud/CLOUDNATIVE-16xCPU-128GB
+- Update: upcloud/CLOUDNATIVE-20xCPU-96GB
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/PREMIUM-8xCPU-64GB
+- Update: upcloud/STARTER-2xCPU-16GB
+- Update: upcloud/STARTER-4xCPU-16GB
+- Update: vultr/voc-m-4c-32gb-400s-amd
+
 ## v0.10.2+20261107212947 (Nov 07, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
