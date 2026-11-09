@@ -1,3 +1,40 @@
+## v0.10.3+20261109221418 (Nov 09, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42686829696
+
+
+### server
+
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: vultr/vbm-24c-256gb-amd
+- Update: vultr/vbm-24c-384gb-amd
+- Update: vultr/vbm-24c-384gb-amd5
+- Update: vultr/vbm-32c-755gb-amd
+- Update: vultr/vbm-4c-32gb
+- Update: vultr/vbm-6c-32gb
+- Update: vultr/vbm-6c-32gb-amd
+- Update: vultr/vbm-8c-128gb-amd
+- Update: vultr/vbm-8c-132gb
+- Update: vultr/vbm-8c-132gb-v2
+- Update: vultr/vbm-8c-64gb-amd
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.3+20261109181940 (Nov 09, 2026)
 
 This is an automated release with 1109 new/updated/deleted resources.
