@@ -165,11 +165,11 @@
       "video_clock": 1290
     }
   ],
-  "storage_size": 2051,
+  "storage_size": 2057,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 131,
+      "size": 137,
       "storage_type": "ssd",
       "description": "temp disk"
     },

@@ -102,16 +102,16 @@
   "accelerator_model": null,
   "accelerators": [],
   "storage_size": 160,
-  "storage_type": "NVME_SSD",
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 80,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 80,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     }
   ],

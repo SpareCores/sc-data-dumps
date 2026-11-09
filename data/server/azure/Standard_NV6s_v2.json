@@ -39,19 +39,19 @@
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
-  "accelerator_count": 0.5,
-  "accelerator_memory_min": 0,
-  "accelerator_memory_total": 0,
+  "accelerator_count": 1.0,
+  "accelerator_memory_min": 8192,
+  "accelerator_memory_total": 8192,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": null,
   "accelerator_family": null,
-  "accelerator_model": null,
+  "accelerator_model": "M60",
   "accelerators": [],
-  "storage_size": 754,
+  "storage_size": 790,
   "storage_type": "SSD",
   "storages": [
     {
-      "size": 754,
+      "size": 790,
       "storage_type": "ssd",
       "description": "temp disk"
     }

@@ -146,8 +146,8 @@
   "memory_speed": null,
   "memory_ecc": null,
   "accelerator_count": 1.0,
-  "accelerator_memory_min": 95830,
-  "accelerator_memory_total": 95830,
+  "accelerator_memory_min": 96256,
+  "accelerator_memory_total": 96256,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Hopper",
@@ -166,11 +166,11 @@
       "video_clock": 1410
     }
   ],
-  "storage_size": 3971,
+  "storage_size": 3977,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 131,
+      "size": 137,
       "storage_type": "ssd",
       "description": "temp disk"
     },

@@ -7,7 +7,7 @@
     "instance_type": "ecs.vgn6i-m16-vws.5xlarge"
   },
   "display_name": "ecs.vgn6i-m16-vws.5xlarge",
-  "description": "ecs.vgn6i-vws family (20 vCPUs, 92 GiB RAM, 0 GB  storage, 1xT4 16384 GiB VRAM)",
+  "description": "ecs.vgn6i-vws family (20 vCPUs, 92 GiB RAM, 0 GB  storage, 1xT4 16 GiB VRAM)",
   "family": "ecs.vgn6i-vws",
   "series": null,
   "vcpus": 20,

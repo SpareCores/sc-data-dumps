@@ -40,18 +40,18 @@
   "memory_speed": null,
   "memory_ecc": null,
   "accelerator_count": 4.0,
-  "accelerator_memory_min": 0,
-  "accelerator_memory_total": 0,
+  "accelerator_memory_min": 16384,
+  "accelerator_memory_total": 65536,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": null,
-  "accelerator_model": null,
+  "accelerator_model": "V100",
   "accelerators": [],
-  "storage_size": 3019,
+  "storage_size": 3165,
   "storage_type": "SSD",
   "storages": [
     {
-      "size": 3019,
+      "size": 3165,
       "storage_type": "ssd",
       "description": "temp disk"
     }

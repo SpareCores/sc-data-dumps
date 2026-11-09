@@ -47,11 +47,11 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 20019,
+  "storage_size": 20059,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 819,
+      "size": 859,
       "storage_type": "ssd",
       "description": "temp disk"
     },

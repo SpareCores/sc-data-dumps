@@ -110,11 +110,11 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 5765,
+  "storage_size": 6045,
   "storage_type": "SSD",
   "storages": [
     {
-      "size": 5765,
+      "size": 6045,
       "storage_type": "ssd",
       "description": "temp disk"
     }

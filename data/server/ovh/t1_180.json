@@ -5,7 +5,7 @@
   "api_reference": "t1-180",
   "api_reference_object": null,
   "display_name": "t1-180",
-  "description": "Cloud GPU (36 vCPUs, 180 GiB RAM, 2050 GB NVMe, 4xV100 16 GiB VRAM)",
+  "description": "Cloud GPU (36 vCPUs, 180 GiB RAM, 4050 GB NVMe, 4xV100 16 GiB VRAM)",
   "family": "Cloud GPU",
   "series": null,
   "vcpus": 36,
@@ -193,11 +193,16 @@
       "video_clock": 1237
     }
   ],
-  "storage_size": 2050,
+  "storage_size": 4050,
   "storage_type": "NVME_SSD",
   "storages": [
     {
       "size": 50,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 2000,
       "storage_type": "nvme ssd",
       "description": null
     },
@@ -216,5 +221,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

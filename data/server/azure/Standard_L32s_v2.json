@@ -123,11 +123,11 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 8008,
+  "storage_size": 8024,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 328,
+      "size": 344,
       "storage_type": "ssd",
       "description": "temp disk"
     },

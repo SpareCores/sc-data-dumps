@@ -19,11 +19,11 @@
   "cpu_model": null,
   "cpu_l1d_cache": 32,
   "cpu_l1d_cache_total": 512,
-  "cpu_l1i_cache": null,
-  "cpu_l1i_cache_total": null,
+  "cpu_l1i_cache": 32,
+  "cpu_l1i_cache_total": 512,
   "cpu_l2_cache": 4096,
   "cpu_l2_cache_total": 65536,
-  "cpu_l3_cache": null,
+  "cpu_l3_cache": 16384,
   "cpu_l3_cache_total": 16384,
   "cpu_flags": [
     "fpu",
@@ -112,11 +112,11 @@
     "md_clear"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
-  "hw_virt": null,
+  "ecpus": 10.9,
+  "scalability": 68.12,
+  "hw_virt": 0,
   "memory_amount": 32768,
-  "memory_amount_actual": null,
+  "memory_amount_actual": 32000,
   "memory_generation": null,
   "memory_speed": null,
   "memory_ecc": null,
@@ -140,5 +140,5 @@
   "outbound_traffic": 20480.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "RETIRED"
 }

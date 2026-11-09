@@ -40,18 +40,18 @@
   "memory_speed": null,
   "memory_ecc": null,
   "accelerator_count": 0.25,
-  "accelerator_memory_min": 0,
-  "accelerator_memory_total": 0,
+  "accelerator_memory_min": 4096,
+  "accelerator_memory_total": 4096,
   "accelerator_type": "GPU",
   "accelerator_manufacturer": null,
   "accelerator_family": null,
-  "accelerator_model": null,
+  "accelerator_model": "MI25",
   "accelerators": [],
-  "storage_size": 180,
+  "storage_size": 189,
   "storage_type": "SSD",
   "storages": [
     {
-      "size": 180,
+      "size": 189,
       "storage_type": "ssd",
       "description": "temp disk"
     }

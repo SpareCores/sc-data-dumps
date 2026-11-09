@@ -7,7 +7,7 @@
     "instance_type": "ecs.vgn7i-vws-m8.2xlarge"
   },
   "display_name": "ecs.vgn7i-vws-m8.2xlarge",
-  "description": "ecs.vgn7i-vws family (10 vCPUs, 62 GiB RAM, 0 GB  storage, 0.3333xA10 8192 GiB VRAM)",
+  "description": "ecs.vgn7i-vws family (10 vCPUs, 62 GiB RAM, 0 GB  storage, 0.3333xA10 8 GiB VRAM)",
   "family": "ecs.vgn7i-vws",
   "series": null,
   "vcpus": 10,

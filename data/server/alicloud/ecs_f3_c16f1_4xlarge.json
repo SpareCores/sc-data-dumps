@@ -7,7 +7,7 @@
     "instance_type": "ecs.f3-c16f1.4xlarge"
   },
   "display_name": "ecs.f3-c16f1.4xlarge",
-  "description": "ecs.f3 family (16 vCPUs, 64 GiB RAM, 0 GB  storage, 1xXilinx VU9p 65536 GiB VRAM)",
+  "description": "ecs.f3 family (16 vCPUs, 64 GiB RAM, 0 GB  storage, 1xXilinx VU9p 64 GiB VRAM)",
   "family": "ecs.f3",
   "series": null,
   "vcpus": 16,

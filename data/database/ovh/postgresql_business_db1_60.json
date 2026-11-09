@@ -18,7 +18,6 @@
   "engine": "POSTGRESQL",
   "wire_protocol": "POSTGRESQL",
   "engine_versions": [
-    "14",
     "15",
     "16",
     "17",

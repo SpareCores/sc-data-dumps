@@ -103,46 +103,46 @@
   "accelerator_model": null,
   "accelerators": [],
   "storage_size": 6400,
-  "storage_type": "NVME_SSD",
+  "storage_type": "SSD",
   "storages": [
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     },
     {
       "size": 800,
-      "storage_type": "nvme ssd",
+      "storage_type": "ssd",
       "description": null
     }
   ],

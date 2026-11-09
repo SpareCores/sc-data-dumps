@@ -7,7 +7,7 @@
     "instance_type": "ecs.gn9i.8xlarge"
   },
   "display_name": "ecs.gn9i.8xlarge",
-  "description": "ecs.gn9i family (32 vCPUs, 192 GiB RAM, 0 GB  storage, 1xRTX PRO 6000 98304 GiB VRAM)",
+  "description": "ecs.gn9i family (32 vCPUs, 192 GiB RAM, 0 GB  storage, 1xRTX PRO 6000 96 GiB VRAM)",
   "family": "ecs.gn9i",
   "series": null,
   "vcpus": 32,

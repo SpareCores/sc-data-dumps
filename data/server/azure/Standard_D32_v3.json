@@ -129,11 +129,11 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 819,
+  "storage_size": 859,
   "storage_type": "SSD",
   "storages": [
     {
-      "size": 819,
+      "size": 859,
       "storage_type": "ssd",
       "description": "temp disk"
     }
@@ -147,5 +147,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "ACTIVE"
+  "status": "PLANNED_FOR_RETIREMENT"
 }

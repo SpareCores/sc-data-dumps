@@ -72,7 +72,7 @@
   "compatible_storage_ids": null,
   "disk_encryption": 1,
   "scheduled_backups": 1,
-  "continuous_backups": 15,
+  "continuous_backups": 31,
   "connection_pool": 1,
   "system_monitoring": 1,
   "database_monitoring": 1,

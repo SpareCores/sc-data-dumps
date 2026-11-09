@@ -222,7 +222,7 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 16242,
+  "storage_size": 19326,
   "storage_type": "NVME_SSD",
   "storages": [
     {
@@ -251,7 +251,7 @@
       "description": null
     },
     {
-      "size": 137,
+      "size": 3221,
       "storage_type": "nvme ssd",
       "description": null
     }

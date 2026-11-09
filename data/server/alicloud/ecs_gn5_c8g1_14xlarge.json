@@ -7,7 +7,7 @@
     "instance_type": "ecs.gn5-c8g1.14xlarge"
   },
   "display_name": "ecs.gn5-c8g1.14xlarge",
-  "description": "ecs.gn5 family (54 vCPUs, 480 GiB RAM, 3779 GB ssd storage, 8xP100 16384 GiB VRAM)",
+  "description": "ecs.gn5 family (54 vCPUs, 480 GiB RAM, 3779 GB ssd storage, 8xP100 16 GiB VRAM)",
   "family": "ecs.gn5",
   "series": null,
   "vcpus": 54,
@@ -57,5 +57,5 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

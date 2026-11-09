@@ -5,7 +5,7 @@
   "api_reference": "bm-s1",
   "api_reference_object": null,
   "display_name": "bm-s1",
-  "description": "Metal (4 vCPUs, 32 GiB RAM, 960 GB NVMe)",
+  "description": "Metal (4 vCPUs, 32 GiB RAM, 1920 GB NVMe)",
   "family": "Metal",
   "series": null,
   "vcpus": 4,
@@ -43,9 +43,14 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 960,
+  "storage_size": 1920,
   "storage_type": "NVME_SSD",
   "storages": [
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
     {
       "size": 960,
       "storage_type": "nvme ssd",

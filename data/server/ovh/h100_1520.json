@@ -5,7 +5,7 @@
   "api_reference": "h100-1520",
   "api_reference_object": null,
   "display_name": "h100-1520",
-  "description": "Cloud GPU (120 vCPUs, 1520 GiB RAM, 4040 GB NVMe, 4xH100 80 GiB VRAM)",
+  "description": "Cloud GPU (120 vCPUs, 1520 GiB RAM, 15560 GB NVMe, 4xH100 80 GiB VRAM)",
   "family": "Cloud GPU",
   "series": null,
   "vcpus": 120,
@@ -43,11 +43,26 @@
   "accelerator_family": "Hopper",
   "accelerator_model": "H100",
   "accelerators": [],
-  "storage_size": 4040,
+  "storage_size": 15560,
   "storage_type": "NVME_SSD",
   "storages": [
     {
       "size": 200,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null
+    },
+    {
+      "size": 3840,
       "storage_type": "nvme ssd",
       "description": null
     },
