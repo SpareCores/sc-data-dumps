@@ -1,3 +1,35 @@
+## v0.10.2+20261109110949 (Nov 09, 2026)
+
+This is an automated release with 23 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42591052450
+
+
+### server
+
+- Update: alicloud/ecs.c6t.26xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-4x.16xlarge
+- Update: alicloud/ecs.gn8t-8x.32xlarge
+- Update: alicloud/ecs.gn9gc-2x.16xlarge
+- Update: alicloud/ecs.gn9gc-4x.32xlarge
+- Update: alicloud/ecs.sccc7.32xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: hcloud/45
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-12xCPU-128GB-1xL4
+- Update: upcloud/GPU-12xCPU-128GB-2xL4
+- Update: upcloud/GPU-16xCPU-192GB-1xL4
+- Update: upcloud/GPU-16xCPU-192GB-2xL4
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-1xL4
+- Update: upcloud/GPU-20xCPU-256GB-2xL4
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-384GB-2xL4
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: upcloud/GPU-8xCPU-64GB-1xL4
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
 ## v0.10.2+20261109064546 (Nov 09, 2026)
 
 This is an automated release with 17 new/updated/deleted resources.
