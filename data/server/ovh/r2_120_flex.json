@@ -99,8 +99,8 @@
     "md_clear"
   ],
   "cpus": [],
-  "ecpus": null,
-  "scalability": null,
+  "ecpus": 7.0,
+  "scalability": 87.5,
   "hw_virt": 1,
   "memory_amount": 122880,
   "memory_amount_actual": 120000,
@@ -132,6 +132,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 97.0,
+  "average_time_to_start": 85.0,
   "status": "ACTIVE"
 }
