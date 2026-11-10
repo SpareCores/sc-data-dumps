@@ -46,7 +46,7 @@
     "frozenlist==1.8.0",
     "ghp-import==2.1.0",
     "google-api-core==2.44.0",
-    "google-api-python-client==2.201.0",
+    "google-api-python-client==2.202.0",
     "google-auth==2.62.1",
     "google-auth-httplib2==0.4.4",
     "google-cloud==0.34.0",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.3",
-    "NEWVERSION": "v0.10.3+20261110133058",
-    "NEWVERSIONDATE": "v0.10.3+20261110133058 (Nov 10, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42804968570",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42804968570"
+    "NEWVERSION": "v0.10.3+20261110172258",
+    "NEWVERSIONDATE": "v0.10.3+20261110172258 (Nov 10, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42841205991",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42841205991"
   },
-  "timestamp": "2026-11-10T13:30:58Z"
+  "timestamp": "2026-11-10T17:22:58Z"
 }
