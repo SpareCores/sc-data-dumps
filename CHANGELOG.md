@@ -1,3 +1,29 @@
+## v0.10.3+20261110203039 (Nov 10, 2026)
+
+This is an automated release with 11 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42878869557
+
+
+### region
+
+- Update: alicloud/cn-zhangjiakou
+
+### zone
+
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-a
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-b
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-c
+
+### server
+
+- Update: alicloud/ecs.ebmgn6e.24xlarge
+- Update: ovh/b2-120-flex
+- Update: ovh/b3-512-flex
+- Update: ovh/c3-16-flex
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+
 ## v0.10.3+20261110172258 (Nov 10, 2026)
 
 This is an automated release with 4 new/updated/deleted resources.

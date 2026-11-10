@@ -16,7 +16,7 @@
     "alibabacloud-tea==0.4.3",
     "alibabacloud-tea-openapi==0.4.7",
     "alibabacloud-tea-util==0.3.15",
-    "annotated-doc==0.0.5",
+    "annotated-doc==0.0.6",
     "annotated-types==0.8.0",
     "apscheduler==3.11.3",
     "attrs==26.1.0",
@@ -47,7 +47,7 @@
     "ghp-import==2.1.0",
     "google-api-core==2.44.0",
     "google-api-python-client==2.202.0",
-    "google-auth==2.62.1",
+    "google-auth==2.62.2",
     "google-auth-httplib2==0.4.4",
     "google-cloud==0.34.0",
     "google-cloud-billing==1.21.0",
@@ -71,7 +71,7 @@
     "jmespath==1.1.0",
     "mako==1.4.3",
     "markdown==3.11.3",
-    "markdown-it-py==4.2.0",
+    "markdown-it-py==4.3.0",
     "markupsafe==3.0.4",
     "mdformat==1.0.0",
     "mdurl==0.1.2",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.3",
-    "NEWVERSION": "v0.10.3+20261110172258",
-    "NEWVERSIONDATE": "v0.10.3+20261110172258 (Nov 10, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 4 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42841205991",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42841205991"
+    "NEWVERSION": "v0.10.3+20261110203039",
+    "NEWVERSIONDATE": "v0.10.3+20261110203039 (Nov 10, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 11 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42878869557",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/42878869557"
   },
-  "timestamp": "2026-11-10T17:22:58Z"
+  "timestamp": "2026-11-10T20:30:39Z"
 }
