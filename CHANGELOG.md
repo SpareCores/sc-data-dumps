@@ -1,3 +1,28 @@
+## v0.10.3+20261111202443 (Nov 11, 2026)
+
+This is an automated release with 13 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43074847825
+
+
+### server
+
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vbm-64c-1536gb-amd
+- Update: vultr/vcg-a40-24c-120g-48vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.3+20261111164301 (Nov 11, 2026)
 
 This is an automated release with 2 new/updated/deleted resources.
