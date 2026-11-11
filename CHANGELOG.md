@@ -1,3 +1,48 @@
+## v0.10.3+20261111014858 (Nov 11, 2026)
+
+This is an automated release with 27 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/42917868675
+
+
+### region
+
+- Update: alicloud/cn-zhangjiakou
+
+### zone
+
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-a
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-b
+- Update: alicloud/cn-zhangjiakou/cn-zhangjiakou-c
+
+### server
+
+- Update: alicloud/ecs.ebmgn6e.24xlarge
+- Update: upcloud/GPU-16xCPU-192GB-1xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-1xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: upcloud/GPU-96xCPU-960GB-4xB200
+- Update: vultr/vx1-m-96c-768gb
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.3+20261110203039 (Nov 10, 2026)
 
 This is an automated release with 11 new/updated/deleted resources.
