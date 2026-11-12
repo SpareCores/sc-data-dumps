@@ -10,8 +10,8 @@
   },
   "display_name": "db-perf-optimized-C4D-48",
   "description": "PostgreSQL Cloud SQL Perf Optimized C4D (48 vCPUs, 378 GB RAM)",
-  "family": "perf-optimized-C4D",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c4d",
   "server_id": null,
   "vcpus": 48,
   "memory_amount": 387072,
@@ -42,7 +42,9 @@
   "storage_extra_min": 10,
   "storage_extra_max": 70368,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "cloudsql-hyperdisk"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 35,
@@ -62,5 +64,5 @@
     "customer-managed-keys",
     "audit-logging"
   ],
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

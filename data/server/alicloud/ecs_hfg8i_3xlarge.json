@@ -54,7 +54,8 @@
     "cloud_essd-pl2",
     "cloud_essd-pl3",
     "cloud_ssd",
-    "cloud_efficiency"
+    "cloud_efficiency",
+    "cloud"
   ],
   "network_speed_baseline": 10.0,
   "network_speed_max": null,
