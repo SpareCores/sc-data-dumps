@@ -9,7 +9,7 @@
   "display_name": "voc-s-2c-16gb-480s-amd",
   "description": "Optimized Cloud Compute (2 vCPUs, 16.0 GiB RAM, 480 GB NVMe)",
   "family": "Optimized Cloud Compute",
-  "series": null,
+  "series": "voc-s",
   "vcpus": 2,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -158,7 +158,10 @@
   "storage_size": 480,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

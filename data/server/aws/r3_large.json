@@ -8,8 +8,8 @@
   },
   "display_name": "r3.large",
   "description": "Memory optimized Gen3 large",
-  "family": "r3",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "r3",
   "vcpus": 2,
   "hypervisor": "xen",
   "cpu_allocation": "DEDICATED",
@@ -110,7 +110,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 0.5,
   "network_speed_max": 1.2,
   "network_storage_speed_baseline": null,

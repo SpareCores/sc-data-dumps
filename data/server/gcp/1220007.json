@@ -8,8 +8,8 @@
   },
   "display_name": "t2a-standard-48",
   "description": "48 vCPUs, 192 GB RAM",
-  "family": "t2a",
-  "series": null,
+  "family": "General Purpose",
+  "series": "t2a",
   "vcpus": 48,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -66,7 +66,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30001",
+    "30007",
+    "30002"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -9,7 +9,7 @@
   "display_name": "cpx51",
   "description": "CPX 51",
   "family": "Regular Purpose",
-  "series": null,
+  "series": "cpx",
   "vcpus": 16,
   "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
@@ -136,7 +136,9 @@
   "storage_size": 360,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -10,8 +10,8 @@
   },
   "display_name": "M64bds_1_v3",
   "description": "MBDSMediumMemoryv3 family [Block Storage performance] [Local Disk] [Premium Storage capable] [Intel processor] 64 vCPUs",
-  "family": "MBDSMediumMemoryv3",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "MBDSMediumMemoryv3",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -168,7 +168,15 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -9,7 +9,7 @@
   "display_name": "GPU-112xCPU-960GB-4xB300",
   "description": "GPU (112 vCPUs, 960 GiB RAM, 4x B300)",
   "family": "GPU",
-  "series": null,
+  "series": "B300",
   "vcpus": 112,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -48,7 +48,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

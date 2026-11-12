@@ -9,7 +9,7 @@
   "display_name": "vcg-l40s-16c-180g-48vram",
   "description": "Cloud GPU (16 vCPUs, 180.0 GiB RAM, 1200 GB NVMe, 1xL40S 48 GiB VRAM)",
   "family": "Cloud GPU",
-  "series": null,
+  "series": "l40s",
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -167,7 +167,10 @@
   "storage_size": 1200,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

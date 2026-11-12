@@ -7,7 +7,7 @@
   "display_name": "g2-15",
   "description": "4 vCPUs, 15 GiB RAM, 100 GB SSD, 1xGeForce GTX 1070 6 GiB VRAM",
   "family": null,
-  "series": null,
+  "series": "g2",
   "vcpus": 4,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
@@ -52,7 +52,11 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "classic",
+    "high-speed",
+    "high-speed-gen2"
+  ],
   "network_speed_baseline": 0.25,
   "network_speed_max": 1.0,
   "network_storage_speed_baseline": null,

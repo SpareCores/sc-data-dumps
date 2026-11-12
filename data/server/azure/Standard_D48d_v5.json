@@ -10,8 +10,8 @@
   },
   "display_name": "D48d_v5",
   "description": "DDv5 family [Local Disk] [Intel processor] 48 vCPUs",
-  "family": "DDv5",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Ddv5",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -160,7 +160,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

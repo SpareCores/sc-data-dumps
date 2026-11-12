@@ -9,7 +9,7 @@
   "display_name": "vc2-4c-8gb",
   "description": "Cloud Compute (4 vCPUs, 8.0 GiB RAM, 160 GB NVMe)",
   "family": "Cloud Compute",
-  "series": null,
+  "series": "vc2",
   "vcpus": 4,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -125,7 +125,10 @@
   "storage_size": 160,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

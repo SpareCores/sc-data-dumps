@@ -10,8 +10,8 @@
   },
   "display_name": "db-perf-optimized-N-64",
   "description": "PostgreSQL Cloud SQL Performance Optimized N (64 vCPUs, 512 GB RAM)",
-  "family": "perf-optimized-N",
-  "series": null,
+  "family": "General Purpose",
+  "series": "n2",
   "server_id": null,
   "vcpus": 64,
   "memory_amount": 524288,
@@ -42,7 +42,9 @@
   "storage_extra_min": 10,
   "storage_extra_max": 70368,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "cloudsql-ssd"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 35,

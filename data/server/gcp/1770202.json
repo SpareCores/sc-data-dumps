@@ -8,8 +8,8 @@
   },
   "display_name": "m4-hypermem-16",
   "description": "16 vCPUs, 248 GB RAM",
-  "family": "m4",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "m4",
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -48,7 +48,9 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

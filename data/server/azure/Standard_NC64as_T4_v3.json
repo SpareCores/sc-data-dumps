@@ -10,8 +10,8 @@
   },
   "display_name": "NC64as_T4_v3",
   "description": " NCASv3_T4  family [AMD processor] [Premium Storage capable] 64 vCPUs",
-  "family": " NCASv3_T4 ",
-  "series": null,
+  "family": "GPU Accelerated",
+  "series": "NCASv3_T4",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -56,7 +56,15 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

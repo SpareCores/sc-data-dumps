@@ -9,7 +9,7 @@
   "display_name": "vx1-m-96c-768g-5760s",
   "description": "VX1 Cloud Compute (96 vCPUs, 768.0 GiB RAM, 5760 GB NVMe)",
   "family": "VX1 Cloud Compute",
-  "series": null,
+  "series": "vx1-m",
   "vcpus": 96,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -48,7 +48,10 @@
   "storage_size": 5760,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": 25.0,
   "network_storage_speed_baseline": null,

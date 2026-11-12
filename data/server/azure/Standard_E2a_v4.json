@@ -10,8 +10,8 @@
   },
   "display_name": "E2a_v4",
   "description": "EAv4 family [AMD processor] 2 vCPUs",
-  "family": "EAv4",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "Eav4",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -139,7 +139,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

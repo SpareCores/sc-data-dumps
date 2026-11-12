@@ -9,7 +9,7 @@
   "display_name": "GPU-224xCPU-1920GB-8xB300",
   "description": "GPU (224 vCPUs, 1920 GiB RAM, 8x B300)",
   "family": "GPU",
-  "series": null,
+  "series": "B300",
   "vcpus": 224,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -48,7 +48,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

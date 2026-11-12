@@ -9,7 +9,7 @@
   "display_name": "vhf-8c-32gb",
   "description": "High Frequency Compute (8 vCPUs, 32.0 GiB RAM, 512 GB NVMe)",
   "family": "High Frequency Compute",
-  "series": null,
+  "series": "vhf",
   "vcpus": 8,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -116,7 +116,10 @@
   "storage_size": 512,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

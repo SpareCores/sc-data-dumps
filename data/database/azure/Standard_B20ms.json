@@ -8,8 +8,8 @@
   },
   "display_name": "B20ms",
   "description": "PostgreSQL Burstable (20 vCPUs, 80 GB RAM)",
-  "family": "Bs",
-  "series": null,
+  "family": "Burstable",
+  "series": "Bs",
   "server_id": "Standard_B20ms",
   "vcpus": 20,
   "memory_amount": 81920,
@@ -39,7 +39,9 @@
   "storage_extra_min": 34,
   "storage_extra_max": 35183,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "ManagedDisk"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 35,

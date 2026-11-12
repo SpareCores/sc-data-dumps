@@ -8,8 +8,8 @@
   },
   "display_name": "a4x-maxgpu-4g-metal",
   "description": "Accelerator Optimized: 4 NVIDIA GB300 GPU, 144 vCPUs, 960GB RAM",
-  "family": "a4x",
-  "series": null,
+  "family": "GPU Machines",
+  "series": "a4x",
   "vcpus": 144,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -103,7 +103,12 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30012",
+    "30013",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

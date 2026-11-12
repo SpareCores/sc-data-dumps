@@ -9,7 +9,7 @@
   "display_name": "GPU-56xCPU-480GB-2xB300",
   "description": "GPU (56 vCPUs, 480 GiB RAM, 2x B300)",
   "family": "GPU",
-  "series": null,
+  "series": "B300",
   "vcpus": 56,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -193,7 +193,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

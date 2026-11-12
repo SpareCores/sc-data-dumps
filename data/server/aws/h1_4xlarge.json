@@ -8,8 +8,8 @@
   },
   "display_name": "h1.4xlarge",
   "description": "Cost-effective storage optimized with HDD Gen1 4xlarge",
-  "family": "h1",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "h1",
   "vcpus": 16,
   "hypervisor": "xen",
   "cpu_allocation": "DEDICATED",
@@ -127,7 +127,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 5.0,
   "network_speed_max": 10.0,
   "network_storage_speed_baseline": 3.5,

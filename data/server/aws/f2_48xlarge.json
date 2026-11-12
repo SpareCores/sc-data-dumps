@@ -8,8 +8,8 @@
   },
   "display_name": "f2.48xlarge",
   "description": "FPGA Gen2 48xlarge",
-  "family": "f2",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "f2",
   "vcpus": 192,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -89,7 +89,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 60.0,

@@ -8,8 +8,8 @@
   },
   "display_name": "c3d-standard-360-lssd",
   "description": "360 vCPUs, 1440 GB RAM, 32 local SSDs",
-  "family": "c3d",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c3d",
   "vcpus": 360,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -318,7 +318,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30013",
+    "30016",
+    "30007",
+    "30002"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

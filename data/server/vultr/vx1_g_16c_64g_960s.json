@@ -9,7 +9,7 @@
   "display_name": "vx1-g-16c-64g-960s",
   "description": "VX1 Cloud Compute (16 vCPUs, 64.0 GiB RAM, 960 GB NVMe)",
   "family": "VX1 Cloud Compute",
-  "series": null,
+  "series": "vx1-g",
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -175,7 +175,10 @@
   "storage_size": 960,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": 15.0,
   "network_storage_speed_baseline": null,

@@ -9,7 +9,7 @@
   "display_name": "vhp-12c-24gb-intel",
   "description": "High Performance (12 vCPUs, 24.0 GiB RAM, 500 GB NVMe)",
   "family": "High Performance",
-  "series": null,
+  "series": "vhp-intel",
   "vcpus": 12,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -127,7 +127,10 @@
   "storage_size": 500,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

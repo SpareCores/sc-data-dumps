@@ -8,8 +8,8 @@
   },
   "display_name": "c4a-standard-64-lssd",
   "description": "64 vCPUs, 256 GB RAM, 14 local SSD",
-  "family": "c4a",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c4a",
   "vcpus": 64,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -54,7 +54,13 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30013",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -8,8 +8,8 @@
   },
   "display_name": "c4d-highmem-16-lssd",
   "description": "16 vCPUs, 126 GB RAM, 1 local SSD",
-  "family": "c4d",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c4d",
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -54,7 +54,12 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30013",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

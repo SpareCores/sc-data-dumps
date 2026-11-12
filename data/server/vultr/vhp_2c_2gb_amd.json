@@ -9,7 +9,7 @@
   "display_name": "vhp-2c-2gb-amd",
   "description": "High Performance (2 vCPUs, 2.0 GiB RAM, 60 GB NVMe)",
   "family": "High Performance",
-  "series": null,
+  "series": "vhp-amd",
   "vcpus": 2,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -132,7 +132,10 @@
   "storage_size": 60,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

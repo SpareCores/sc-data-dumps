@@ -9,7 +9,7 @@
   "display_name": "vc2-1c-0.5gb-v6",
   "description": "Cloud Compute (1 vCPUs, 0.5 GiB RAM, 10 GB NVMe)",
   "family": "Cloud Compute",
-  "series": null,
+  "series": "vc2",
   "vcpus": 1,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -48,7 +48,10 @@
   "storage_size": 10,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

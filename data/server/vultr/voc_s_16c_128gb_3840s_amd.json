@@ -9,7 +9,7 @@
   "display_name": "voc-s-16c-128gb-3840s-amd",
   "description": "Optimized Cloud Compute (16 vCPUs, 128.0 GiB RAM, 3840 GB NVMe)",
   "family": "Optimized Cloud Compute",
-  "series": null,
+  "series": "voc-s",
   "vcpus": 16,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -129,7 +129,10 @@
   "storage_size": 3840,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

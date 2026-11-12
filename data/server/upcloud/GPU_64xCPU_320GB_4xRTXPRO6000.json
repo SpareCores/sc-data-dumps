@@ -9,7 +9,7 @@
   "display_name": "GPU-64xCPU-320GB-4xRTXPRO6000",
   "description": "GPU (64 vCPUs, 320 GiB RAM, 4x RTXPRO6000)",
   "family": "GPU",
-  "series": null,
+  "series": "RTXPRO6000",
   "vcpus": 64,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -213,7 +213,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,
@@ -222,5 +226,5 @@
   "outbound_traffic": 51200.0,
   "ipv4": 1,
   "average_time_to_start": 61.5,
-  "status": "ACTIVE"
+  "status": "INACTIVE"
 }

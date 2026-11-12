@@ -10,8 +10,8 @@
   },
   "display_name": "NC24ads_A100_v4",
   "description": "NCADSA100v4 family [AMD processor] [Local Disk] [Premium Storage capable] 24 vCPUs",
-  "family": "NCADSA100v4",
-  "series": null,
+  "family": "GPU Accelerated",
+  "series": "NCADSA100v4",
   "vcpus": 24,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -167,7 +167,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

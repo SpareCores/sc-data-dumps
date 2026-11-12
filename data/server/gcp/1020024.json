@@ -8,8 +8,8 @@
   },
   "display_name": "a2-ultragpu-2g",
   "description": "Accelerator Optimized: 2 NVIDIA A100 80GB GPUs, 24 vCPUs, 340GB RAM, 2 local SSD",
-  "family": "a2",
-  "series": null,
+  "family": "GPU Machines",
+  "series": "a2",
   "vcpus": 24,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -175,7 +175,12 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30016",
+    "30001",
+    "30007",
+    "30002"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

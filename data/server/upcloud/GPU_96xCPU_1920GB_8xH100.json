@@ -9,7 +9,7 @@
   "display_name": "GPU-96xCPU-1920GB-8xH100",
   "description": "GPU (96 vCPUs, 1920 GiB RAM, 8x H100)",
   "family": "GPU",
-  "series": null,
+  "series": "H100",
   "vcpus": 96,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -48,7 +48,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

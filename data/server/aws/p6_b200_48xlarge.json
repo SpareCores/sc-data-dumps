@@ -8,8 +8,8 @@
   },
   "display_name": "p6-b200.48xlarge",
   "description": "GPU accelerated Gen6 48xlarge",
-  "family": "p6-b200",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "p6-b200",
   "vcpus": 192,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -186,7 +186,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 1600.0,
   "network_speed_max": 3200.0,
   "network_storage_speed_baseline": 100.0,

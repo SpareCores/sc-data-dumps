@@ -8,8 +8,8 @@
   },
   "display_name": "i8g.4xlarge",
   "description": "Storage optimized [AWS Graviton processors] Gen8 4xlarge",
-  "family": "i8g",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "i8g",
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -100,7 +100,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 9.375,
   "network_speed_max": 25.0,
   "network_storage_speed_baseline": 5.0,

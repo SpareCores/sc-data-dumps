@@ -9,7 +9,7 @@
   "display_name": "voc-c-1c-2gb-25s-amd",
   "description": "Optimized Cloud Compute (1 vCPUs, 2.0 GiB RAM, 25 GB NVMe)",
   "family": "Optimized Cloud Compute",
-  "series": null,
+  "series": "voc-c",
   "vcpus": 1,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -156,7 +156,10 @@
   "storage_size": 25,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

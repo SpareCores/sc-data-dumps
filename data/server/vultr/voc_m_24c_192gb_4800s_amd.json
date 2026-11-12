@@ -9,7 +9,7 @@
   "display_name": "voc-m-24c-192gb-4800s-amd",
   "description": "Optimized Cloud Compute (24 vCPUs, 192.0 GiB RAM, 4800 GB NVMe)",
   "family": "Optimized Cloud Compute",
-  "series": null,
+  "series": "voc-m",
   "vcpus": 24,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -129,7 +129,10 @@
   "storage_size": 4800,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

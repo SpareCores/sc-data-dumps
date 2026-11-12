@@ -9,7 +9,7 @@
   "display_name": "GPU-16xCPU-80GB-1xRTXPRO6000",
   "description": "GPU (16 vCPUs, 80 GiB RAM, 1x RTXPRO6000)",
   "family": "GPU",
-  "series": null,
+  "series": "RTXPRO6000",
   "vcpus": 16,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -177,7 +177,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

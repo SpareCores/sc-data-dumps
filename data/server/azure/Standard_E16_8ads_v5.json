@@ -10,8 +10,8 @@
   },
   "display_name": "E16-8ads_v5",
   "description": "EADSv5 family [AMD processor] [Local Disk] [Premium Storage capable] 16 vCPUs",
-  "family": "EADSv5",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "Eadsv5",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -158,7 +158,15 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

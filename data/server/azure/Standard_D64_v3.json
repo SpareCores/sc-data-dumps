@@ -10,8 +10,8 @@
   },
   "display_name": "D64_v3",
   "description": "Dv3 family [Intel processor] 64 vCPUs",
-  "family": "Dv3",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Dv3",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -130,7 +130,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

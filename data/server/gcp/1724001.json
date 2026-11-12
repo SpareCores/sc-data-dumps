@@ -8,8 +8,8 @@
   },
   "display_name": "a4x-highgpu-4g",
   "description": "Accelerator Optimized: 4 NVIDIA GB200 GPU, 140 vCPUs, 884GB RAM",
-  "family": "a4x",
-  "series": null,
+  "family": "GPU Machines",
+  "series": "a4x",
   "vcpus": 140,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -103,7 +103,11 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30012",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

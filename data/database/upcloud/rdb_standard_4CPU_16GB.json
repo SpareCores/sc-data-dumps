@@ -69,7 +69,9 @@
   "storage_extra_min": 11,
   "storage_extra_max": 7697,
   "storage_extra_autosize": 0,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 31,

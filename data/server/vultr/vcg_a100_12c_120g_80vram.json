@@ -9,7 +9,7 @@
   "display_name": "vcg-a100-12c-120g-80vram",
   "description": "Dedicated Metal GPU (12 vCPUs, 120.0 GiB RAM, 1400 GB NVMe)",
   "family": "Dedicated Metal GPU",
-  "series": null,
+  "series": "a100",
   "vcpus": 12,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -128,7 +128,10 @@
   "storage_size": 1400,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -9,7 +9,7 @@
   "display_name": "GPU-16xCPU-192GB-1xL40S",
   "description": "GPU (16 vCPUs, 192 GiB RAM, 1x L40S)",
   "family": "GPU",
-  "series": null,
+  "series": "L40S",
   "vcpus": 16,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -175,7 +175,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

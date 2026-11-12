@@ -7,7 +7,7 @@
   "display_name": "t1-180",
   "description": "Cloud GPU (36 vCPUs, 180 GiB RAM, 4050 GB NVMe, 4xV100 16 GiB VRAM)",
   "family": "Cloud GPU",
-  "series": null,
+  "series": "t1",
   "vcpus": 36,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
@@ -212,7 +212,11 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "classic",
+    "high-speed",
+    "high-speed-gen2"
+  ],
   "network_speed_baseline": 10.0,
   "network_speed_max": 4.0,
   "network_storage_speed_baseline": null,

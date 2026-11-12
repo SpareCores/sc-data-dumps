@@ -8,8 +8,8 @@
   },
   "display_name": "D32ds_v4",
   "description": "PostgreSQL GeneralPurpose (32 vCPUs, 128 GB RAM)",
-  "family": "Ddsv4",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Ddsv4",
   "server_id": "Standard_D32ds_v4",
   "vcpus": 32,
   "memory_amount": 131072,
@@ -42,7 +42,11 @@
   "storage_extra_min": 34,
   "storage_extra_max": 70369,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "ManagedDisk",
+    "ManagedDiskV2",
+    "UltraDisk"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 35,

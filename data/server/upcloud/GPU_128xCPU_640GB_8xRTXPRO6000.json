@@ -9,7 +9,7 @@
   "display_name": "GPU-128xCPU-640GB-8xRTXPRO6000",
   "description": "GPU (128 vCPUs, 640 GiB RAM, 8x RTXPRO6000)",
   "family": "GPU",
-  "series": null,
+  "series": "RTXPRO6000",
   "vcpus": 128,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -48,7 +48,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

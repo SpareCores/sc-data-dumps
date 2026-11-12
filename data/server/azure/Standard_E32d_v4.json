@@ -10,8 +10,8 @@
   },
   "display_name": "E32d_v4",
   "description": "EDv4 family [Local Disk] [Intel processor] 32 vCPUs",
-  "family": "EDv4",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "Edv4",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -141,7 +141,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

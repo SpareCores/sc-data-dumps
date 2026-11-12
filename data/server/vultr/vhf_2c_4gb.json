@@ -9,7 +9,7 @@
   "display_name": "vhf-2c-4gb",
   "description": "High Frequency Compute (2 vCPUs, 4.0 GiB RAM, 128 GB NVMe)",
   "family": "High Frequency Compute",
-  "series": null,
+  "series": "vhf",
   "vcpus": 2,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -116,7 +116,10 @@
   "storage_size": 128,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

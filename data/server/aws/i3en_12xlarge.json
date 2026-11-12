@@ -8,8 +8,8 @@
   },
   "display_name": "i3en.12xlarge",
   "description": "Storage optimized [Network and EBS optimized] [Extra storage or memory] Gen3 12xlarge",
-  "family": "i3en",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "i3en",
   "vcpus": 48,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -158,7 +158,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 50.0,
   "network_speed_max": 50.0,
   "network_storage_speed_baseline": 9.5,

@@ -8,8 +8,8 @@
   },
   "display_name": "z1d.6xlarge",
   "description": "High frequency [Instance store volumes] Gen1 6xlarge",
-  "family": "z1d",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "z1d",
   "vcpus": 24,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -143,7 +143,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 12.0,
   "network_speed_max": 12.0,
   "network_storage_speed_baseline": 9.5,

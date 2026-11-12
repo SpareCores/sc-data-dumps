@@ -10,8 +10,8 @@
   },
   "display_name": "EC48eds_v6",
   "description": "ECEDV6 family [Memory Optimized] [Local Disk] [Premium Storage capable] [Intel processor] 48 vCPUs",
-  "family": "ECEDV6",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "ECedsv6",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -56,7 +56,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

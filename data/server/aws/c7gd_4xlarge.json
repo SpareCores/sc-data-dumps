@@ -8,8 +8,8 @@
   },
   "display_name": "c7gd.4xlarge",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen7 4xlarge",
-  "family": "c7gd",
-  "series": null,
+  "family": "Compute Optimized",
+  "series": "c7gd",
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -93,7 +93,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 7.5,
   "network_speed_max": 15.0,
   "network_storage_speed_baseline": 5.0,

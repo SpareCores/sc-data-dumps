@@ -8,8 +8,8 @@
   },
   "display_name": "d3en.6xlarge",
   "description": "Dense storage [Network and EBS optimized] [Extra storage or memory] Gen3 6xlarge",
-  "family": "d3en",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "d3en",
   "vcpus": 24,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -196,7 +196,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 40.0,
   "network_speed_max": 40.0,
   "network_storage_speed_baseline": 4.0,

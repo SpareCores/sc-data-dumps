@@ -10,8 +10,8 @@
   },
   "display_name": "D2ds_v6",
   "description": "Ddsv6 family [Local Disk] [Premium Storage capable] [Intel processor] 2 vCPUs",
-  "family": "Ddsv6",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Ddsv6",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -174,7 +174,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

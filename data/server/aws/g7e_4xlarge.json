@@ -8,8 +8,8 @@
   },
   "display_name": "g7e.4xlarge",
   "description": "Graphics intensive [Extra storage or memory] Gen7 4xlarge",
-  "family": "g7e",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "g7e",
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -189,7 +189,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 50.0,
   "network_speed_max": 50.0,
   "network_storage_speed_baseline": 8.0,

@@ -8,8 +8,8 @@
   },
   "display_name": "r5dn.metal",
   "description": "Memory optimized [Instance store volumes] [Network and EBS optimized] Gen5 metal",
-  "family": "r5dn",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "r5dn",
   "vcpus": 96,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -207,7 +207,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 19.0,

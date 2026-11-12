@@ -10,8 +10,8 @@
   },
   "display_name": "db-g1-small",
   "description": "PostgreSQL Cloud SQL Shared g1-small (1.7 GB RAM)",
-  "family": "g1-small",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Shared Core",
   "server_id": "2000",
   "vcpus": null,
   "memory_amount": 1740,
@@ -43,7 +43,10 @@
   "storage_extra_min": 10,
   "storage_extra_max": 3279,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "cloudsql-ssd-standard",
+    "cloudsql-hdd"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 7,

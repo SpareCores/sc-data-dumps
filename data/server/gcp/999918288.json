@@ -8,8 +8,8 @@
   },
   "display_name": "c4-standard-288-lssd-metal",
   "description": "288 vCPUs, 1080 GB RAM, 6 local SSDs",
-  "family": "c4",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c4",
   "vcpus": 288,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -256,7 +256,12 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

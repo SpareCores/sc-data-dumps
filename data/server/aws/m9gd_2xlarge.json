@@ -8,8 +8,8 @@
   },
   "display_name": "m9gd.2xlarge",
   "description": "General purpose [AWS Graviton processors] [Instance store volumes] Gen9 2xlarge",
-  "family": "m9gd",
-  "series": null,
+  "family": "General Purpose",
+  "series": "m9gd",
   "vcpus": 8,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -102,7 +102,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 4.25,
   "network_speed_max": 17.0,
   "network_storage_speed_baseline": 3.0,

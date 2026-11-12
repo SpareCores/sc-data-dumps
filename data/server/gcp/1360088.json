@@ -8,8 +8,8 @@
   },
   "display_name": "h3-standard-88",
   "description": "88 vCPUs, 352 GB RAM",
-  "family": "h3",
-  "series": null,
+  "family": "Compute Optimized",
+  "series": "h3",
   "vcpus": 88,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -160,7 +160,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30013",
+    "30007"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

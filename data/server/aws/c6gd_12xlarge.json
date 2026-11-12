@@ -8,8 +8,8 @@
   },
   "display_name": "c6gd.12xlarge",
   "description": "Compute optimized [AWS Graviton processors] [Instance store volumes] Gen6 12xlarge",
-  "family": "c6gd",
-  "series": null,
+  "family": "Compute Optimized",
+  "series": "c6gd",
   "vcpus": 48,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -77,7 +77,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 20.0,
   "network_speed_max": 20.0,
   "network_storage_speed_baseline": 14.25,

@@ -9,7 +9,7 @@
   "display_name": "voc-g-64c-192gb-960s-amd",
   "description": "Optimized Cloud Compute (64 vCPUs, 192.0 GiB RAM, 960 GB NVMe)",
   "family": "Optimized Cloud Compute",
-  "series": null,
+  "series": "voc-g",
   "vcpus": 64,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -158,7 +158,10 @@
   "storage_size": 960,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

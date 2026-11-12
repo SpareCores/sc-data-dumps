@@ -9,7 +9,7 @@
   "display_name": "vhp-4c-8gb-amd",
   "description": "High Performance (4 vCPUs, 8.0 GiB RAM, 180 GB NVMe)",
   "family": "High Performance",
-  "series": null,
+  "series": "vhp-amd",
   "vcpus": 4,
   "hypervisor": null,
   "cpu_allocation": "SHARED",
@@ -129,7 +129,10 @@
   "storage_size": 180,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -8,8 +8,8 @@
   },
   "display_name": "c3-standard-88-lssd",
   "description": "88 vCPUs, 352 GB RAM, 16 local SSDs",
-  "family": "c3",
-  "series": null,
+  "family": "General Purpose",
+  "series": "c3",
   "vcpus": 88,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -241,7 +241,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30013",
+    "30016",
+    "30007",
+    "30002"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

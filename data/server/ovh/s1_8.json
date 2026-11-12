@@ -7,7 +7,7 @@
   "display_name": "s1-8",
   "description": "2 vCPUs, 8 GiB RAM, 40 GB SSD",
   "family": null,
-  "series": null,
+  "series": "s1",
   "vcpus": 2,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
@@ -52,7 +52,11 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "classic",
+    "high-speed",
+    "high-speed-gen2"
+  ],
   "network_speed_baseline": 0.1,
   "network_speed_max": 0.1,
   "network_storage_speed_baseline": null,

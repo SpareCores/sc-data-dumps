@@ -8,8 +8,8 @@
   },
   "display_name": "i8ge.metal-24xl",
   "description": "Storage optimized [AWS Graviton processors] [Extra storage or memory] Gen8 metal-24xl",
-  "family": "i8ge",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "i8ge",
   "vcpus": 96,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -134,7 +134,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 150.0,
   "network_speed_max": 150.0,
   "network_storage_speed_baseline": 30.0,

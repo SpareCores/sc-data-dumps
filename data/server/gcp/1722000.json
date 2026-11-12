@@ -8,8 +8,8 @@
   },
   "display_name": "a3-ultragpu-8g",
   "description": "Accelerator Optimized: 8 NVIDIA H200 GPU, 224 vCPUs, 2952GB RAM",
-  "family": "a3",
-  "series": null,
+  "family": "GPU Machines",
+  "series": "a3",
   "vcpus": 224,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -429,7 +429,12 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

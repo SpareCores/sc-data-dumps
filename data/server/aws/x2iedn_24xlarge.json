@@ -8,8 +8,8 @@
   },
   "display_name": "x2iedn.24xlarge",
   "description": "Memory intensive [Intel processors] [Instance store volumes] [Network and EBS optimized] [Extra storage or memory] Gen2 24xlarge",
-  "family": "x2iedn",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "x2iedn",
   "vcpus": 96,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -165,7 +165,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 75.0,
   "network_speed_max": 75.0,
   "network_storage_speed_baseline": 60.0,

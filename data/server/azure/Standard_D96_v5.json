@@ -10,8 +10,8 @@
   },
   "display_name": "D96_v5",
   "description": "Dv5 family [Intel processor] 96 vCPUs",
-  "family": "Dv5",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Dv5",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -154,7 +154,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

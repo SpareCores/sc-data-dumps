@@ -10,8 +10,8 @@
   },
   "display_name": "D96a_v4",
   "description": "DAv4 family [AMD processor] 96 vCPUs",
-  "family": "DAv4",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Dav4",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -136,7 +136,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

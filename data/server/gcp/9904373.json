@@ -8,8 +8,8 @@
   },
   "display_name": "x4-480-6t-metal",
   "description": "480 vCPUs, 6144 GB RAM",
-  "family": "x4",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "x4",
   "vcpus": 480,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -48,7 +48,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30012"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -10,8 +10,8 @@
   },
   "display_name": "A4_v2",
   "description": "Av2 family [Intel processor] 4 vCPUs",
-  "family": "Av2",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Av2",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -125,7 +125,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

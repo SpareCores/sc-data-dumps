@@ -10,8 +10,8 @@
   },
   "display_name": "D1",
   "description": "D family [Intel processor] 1 vCPU",
-  "family": "D",
-  "series": null,
+  "family": "General Purpose",
+  "series": "D",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -132,7 +132,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

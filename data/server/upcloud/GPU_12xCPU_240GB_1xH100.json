@@ -9,7 +9,7 @@
   "display_name": "GPU-12xCPU-240GB-1xH100",
   "description": "GPU (12 vCPUs, 240 GiB RAM, 1x H100)",
   "family": "GPU",
-  "series": null,
+  "series": "H100",
   "vcpus": 12,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -181,7 +181,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,
@@ -190,5 +194,5 @@
   "outbound_traffic": 51200.0,
   "ipv4": 1,
   "average_time_to_start": 63.67,
-  "status": "INACTIVE"
+  "status": "ACTIVE"
 }

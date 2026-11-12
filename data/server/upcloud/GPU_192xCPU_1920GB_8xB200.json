@@ -9,7 +9,7 @@
   "display_name": "GPU-192xCPU-1920GB-8xB200",
   "description": "GPU (192 vCPUs, 1920 GiB RAM, 8x B200)",
   "family": "GPU",
-  "series": null,
+  "series": "B200",
   "vcpus": 192,
   "hypervisor": "KVM",
   "cpu_allocation": "SHARED",
@@ -48,7 +48,11 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "maxiops",
+    "standard",
+    "hdd"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

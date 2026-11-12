@@ -10,8 +10,8 @@
   },
   "display_name": "L12aos_v4",
   "description": "Laosv4 family [AMD processor] [o] [Premium Storage capable] 12 vCPUs",
-  "family": "Laosv4",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "Laosv4",
   "vcpus": 12,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -173,7 +173,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -8,8 +8,8 @@
   },
   "display_name": "d3.4xlarge",
   "description": "Dense storage Gen3 4xlarge",
-  "family": "d3",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "d3",
   "vcpus": 16,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -196,7 +196,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 12.5,
   "network_speed_max": 15.0,
   "network_storage_speed_baseline": 2.8,

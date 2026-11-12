@@ -8,8 +8,8 @@
   },
   "display_name": "ct5lp-hightpu-8t",
   "description": "224 vCPUs, 384 GB RAM, 8 Google TPUs",
-  "family": "ct5lp",
-  "series": null,
+  "family": "TPU Machines",
+  "series": "ct5lp",
   "vcpus": 224,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -145,7 +145,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30016",
+    "30007"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

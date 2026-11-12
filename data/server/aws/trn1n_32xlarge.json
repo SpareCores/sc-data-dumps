@@ -8,8 +8,8 @@
   },
   "display_name": "trn1n.32xlarge",
   "description": "AWS Trainium [Network and EBS optimized] Gen1 32xlarge",
-  "family": "trn1n",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "trn1n",
   "vcpus": 128,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -177,7 +177,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 1600.0,
   "network_speed_max": 1600.0,
   "network_storage_speed_baseline": 80.0,

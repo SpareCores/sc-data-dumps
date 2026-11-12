@@ -8,8 +8,8 @@
   },
   "display_name": "x8aedz.metal-12xl",
   "description": "Memory intensive [AMD processors] [Instance store volumes] [Extra storage or memory] [High performance] Gen8 metal-12xl",
-  "family": "x8aedz",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "x8aedz",
   "vcpus": 48,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -227,7 +227,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 37.5,
   "network_speed_max": 37.5,
   "network_storage_speed_baseline": 30.0,

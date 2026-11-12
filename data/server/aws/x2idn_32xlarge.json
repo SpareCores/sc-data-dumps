@@ -8,8 +8,8 @@
   },
   "display_name": "x2idn.32xlarge",
   "description": "Memory intensive [Intel processors] [Instance store volumes] [Network and EBS optimized] Gen2 32xlarge",
-  "family": "x2idn",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "x2idn",
   "vcpus": 128,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -167,7 +167,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 100.0,
   "network_speed_max": 100.0,
   "network_storage_speed_baseline": 80.0,

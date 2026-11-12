@@ -8,8 +8,8 @@
   },
   "display_name": "tpu7x-standard-4t",
   "description": "224 vCPUs, 992 GB RAM, 4 Google TPUs",
-  "family": "tpu7x",
-  "series": null,
+  "family": "TPU Machines",
+  "series": "tpu7x",
   "vcpus": 224,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -97,7 +97,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

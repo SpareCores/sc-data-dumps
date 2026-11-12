@@ -8,8 +8,8 @@
   },
   "display_name": "trn2.3xlarge",
   "description": "AWS Trainium Gen2 3xlarge",
-  "family": "trn2",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "trn2",
   "vcpus": 12,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -54,7 +54,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 50.0,
   "network_speed_max": 50.0,
   "network_storage_speed_baseline": 5.0,

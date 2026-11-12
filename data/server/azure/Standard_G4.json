@@ -10,8 +10,8 @@
   },
   "display_name": "G4",
   "description": "G family [Intel processor] 16 vCPUs",
-  "family": "G",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "G",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -119,7 +119,11 @@
       "description": "temp disk"
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

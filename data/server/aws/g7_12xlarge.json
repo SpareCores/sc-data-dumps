@@ -8,8 +8,8 @@
   },
   "display_name": "g7.12xlarge",
   "description": "Graphics intensive Gen7 12xlarge",
-  "family": "g7",
-  "series": null,
+  "family": "Accelerated Computing",
+  "series": "g7",
   "vcpus": 48,
   "hypervisor": "nitro",
   "cpu_allocation": "DEDICATED",
@@ -79,7 +79,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 175.0,
   "network_speed_max": 175.0,
   "network_storage_speed_baseline": 20.0,

@@ -9,7 +9,7 @@
   "display_name": "vcg-a16-6c-60g-16vram",
   "description": "Dedicated Metal GPU (6 vCPUs, 60.0 GiB RAM, 350 GB NVMe)",
   "family": "Dedicated Metal GPU",
-  "series": null,
+  "series": "a16",
   "vcpus": 6,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -128,7 +128,10 @@
   "storage_size": 350,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

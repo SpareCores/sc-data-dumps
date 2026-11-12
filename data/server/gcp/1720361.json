@@ -8,8 +8,8 @@
   },
   "display_name": "a3-highgpu-1g",
   "description": "Accelerator Optimized: 1 NVIDIA H100 GPU, 26 vCPUs, 234GB RAM",
-  "family": "a3",
-  "series": null,
+  "family": "GPU Machines",
+  "series": "a3",
   "vcpus": 26,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -185,7 +185,14 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30013",
+    "30016",
+    "30007",
+    "30002"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

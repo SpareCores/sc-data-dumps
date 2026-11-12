@@ -8,8 +8,8 @@
   },
   "display_name": "r8gd.metal-24xl",
   "description": "Memory optimized [AWS Graviton processors] [Instance store volumes] Gen8 metal-24xl",
-  "family": "r8gd",
-  "series": null,
+  "family": "Memory Optimized",
+  "series": "r8gd",
   "vcpus": 96,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -110,7 +110,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "standard",
+    "gp2",
+    "gp3",
+    "st1",
+    "sc1",
+    "io1",
+    "io2"
+  ],
   "network_speed_baseline": 40.0,
   "network_speed_max": 40.0,
   "network_storage_speed_baseline": 30.0,

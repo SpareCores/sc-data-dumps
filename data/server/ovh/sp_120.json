@@ -7,7 +7,7 @@
   "display_name": "sp-120",
   "description": "8 vCPUs, 120 GiB RAM, 800 GB SSD",
   "family": null,
-  "series": null,
+  "series": "sp",
   "vcpus": 8,
   "hypervisor": "KVM",
   "cpu_allocation": "DEDICATED",
@@ -52,7 +52,11 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "classic",
+    "high-speed",
+    "high-speed-gen2"
+  ],
   "network_speed_baseline": 0.5,
   "network_speed_max": 4.0,
   "network_storage_speed_baseline": null,

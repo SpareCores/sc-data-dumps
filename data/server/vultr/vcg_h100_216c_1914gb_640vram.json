@@ -9,7 +9,7 @@
   "display_name": "vcg-h100-216c-1914gb-640vram",
   "description": "Dedicated Metal GPU (216 vCPUs, 1883.90625 GiB RAM, 13312 GB NVMe, 8xH100 80 GiB VRAM)",
   "family": "Dedicated Metal GPU",
-  "series": null,
+  "series": "h100",
   "vcpus": 216,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -48,7 +48,10 @@
   "storage_size": 13312,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block_storage_high_perf",
+    "block_storage_storage_opt"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

@@ -9,7 +9,7 @@
   "display_name": "cx23",
   "description": "CX 23",
   "family": "Cost Optimized",
-  "series": null,
+  "series": "cx",
   "vcpus": 2,
   "hypervisor": "QEMU",
   "cpu_allocation": "SHARED",
@@ -133,7 +133,9 @@
   "storage_size": 40,
   "storage_type": "NVME_SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "block"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

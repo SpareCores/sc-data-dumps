@@ -8,8 +8,8 @@
   },
   "display_name": "z4d-highmem-192-highlssd",
   "description": "Storage Optimized VM: 192 vCPUs, 1512 GB RAM, 24 Local SSDs",
-  "family": "z4d",
-  "series": null,
+  "family": "Storage Optimized",
+  "series": "z4d",
   "vcpus": 192,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -54,7 +54,13 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30014",
+    "30017",
+    "30012",
+    "30013",
+    "30016"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

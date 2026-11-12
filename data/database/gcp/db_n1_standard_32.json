@@ -10,8 +10,8 @@
   },
   "display_name": "db-n1-standard-32",
   "description": "PostgreSQL Cloud SQL N1 Standard (32 vCPUs, 120 GB RAM)",
-  "family": "n1-standard",
-  "series": null,
+  "family": "General Purpose",
+  "series": "n1",
   "server_id": "3032",
   "vcpus": 32,
   "memory_amount": 122880,
@@ -45,7 +45,10 @@
   "storage_extra_min": 10,
   "storage_extra_max": 70368,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "cloudsql-ssd-standard",
+    "cloudsql-hdd"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 7,

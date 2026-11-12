@@ -10,8 +10,8 @@
   },
   "display_name": "NG8ads_V620_v1",
   "description": "NGADSV620v1 family [AMD processor] [Local Disk] [Premium Storage capable] 8 vCPUs",
-  "family": "NGADSV620v1",
-  "series": null,
+  "family": "GPU Accelerated",
+  "series": "NGADSV620v1",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
@@ -61,7 +61,15 @@
       "description": null
     }
   ],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "PremiumV2_LRS",
+    "Premium_LRS",
+    "Premium_ZRS",
+    "StandardSSD_LRS",
+    "StandardSSD_ZRS",
+    "Standard_LRS",
+    "UltraSSD_LRS"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

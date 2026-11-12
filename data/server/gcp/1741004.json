@@ -8,8 +8,8 @@
   },
   "display_name": "ct5p-hightpu-2t",
   "description": "104 vCPUs, 224 GB RAM, 2 Google TPU",
-  "family": "ct5p",
-  "series": null,
+  "family": "TPU Machines",
+  "series": "ct5p",
   "vcpus": 104,
   "hypervisor": null,
   "cpu_allocation": "DEDICATED",
@@ -73,7 +73,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "30016",
+    "30007"
+  ],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

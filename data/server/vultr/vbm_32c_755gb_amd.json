@@ -213,7 +213,7 @@
   "storage_size": 960,
   "storage_type": "SSD",
   "storages": [],
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [],
   "network_speed_baseline": null,
   "network_speed_max": null,
   "network_storage_speed_baseline": null,

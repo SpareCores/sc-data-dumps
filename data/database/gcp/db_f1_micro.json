@@ -10,8 +10,8 @@
   },
   "display_name": "db-f1-micro",
   "description": "PostgreSQL Cloud SQL Shared f1-micro (0.6 GB RAM)",
-  "family": "f1-micro",
-  "series": null,
+  "family": "General Purpose",
+  "series": "Shared Core",
   "server_id": "1000",
   "vcpus": null,
   "memory_amount": 614,
@@ -43,7 +43,10 @@
   "storage_extra_min": 10,
   "storage_extra_max": 3279,
   "storage_extra_autosize": 1,
-  "compatible_storage_ids": null,
+  "compatible_storage_ids": [
+    "cloudsql-ssd-standard",
+    "cloudsql-hdd"
+  ],
   "disk_encryption": 1,
   "scheduled_backups": 1,
   "continuous_backups": 7,
