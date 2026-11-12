@@ -305,7 +305,16 @@ jobs:
           echo "tag=$NEWVERSION" >> $GITHUB_OUTPUT
           echo 'message<<EOF' >> $GITHUB_OUTPUT
           echo -e "$CHANGESFOUND\n\n" >> $GITHUB_OUTPUT
-          cat changes.log >> $GITHUB_OUTPUT
+          # action inputs are passed as env vars, limited to 128 KiB each on Linux
+          # (Argument list too long), so cap the message; full list is in CHANGELOG.md
+          MAX_BYTES=100000
+          if [ "$(wc -c < changes.log)" -gt "$MAX_BYTES" ]; then
+            # drop the last (possibly partial) line after the byte cut
+            head -c "$MAX_BYTES" changes.log | sed '$d' >> $GITHUB_OUTPUT
+            echo -e "\n[...] Truncated, see CHANGELOG.md for the full list of changes." >> $GITHUB_OUTPUT
+          else
+            cat changes.log >> $GITHUB_OUTPUT
+          fi
           echo 'EOF' >> $GITHUB_OUTPUT
           git pull
       - name: Commit changes to the repo
