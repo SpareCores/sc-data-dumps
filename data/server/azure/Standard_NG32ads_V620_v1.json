@@ -43,7 +43,7 @@
   "accelerator_memory_min": 32768,
   "accelerator_memory_total": 32768,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "AMD",
   "accelerator_family": null,
   "accelerator_model": "V620",
   "accelerators": [],

@@ -43,7 +43,7 @@
   "accelerator_memory_min": 24576,
   "accelerator_memory_total": 24576,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "AMD",
   "accelerator_family": null,
   "accelerator_model": "V710",
   "accelerators": [],

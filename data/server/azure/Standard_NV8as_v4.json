@@ -43,7 +43,7 @@
   "accelerator_memory_min": 4096,
   "accelerator_memory_total": 4096,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "AMD",
   "accelerator_family": null,
   "accelerator_model": "MI25",
   "accelerators": [],

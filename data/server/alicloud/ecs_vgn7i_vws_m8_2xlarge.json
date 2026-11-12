@@ -41,7 +41,7 @@
   "accelerator_memory_min": 8192,
   "accelerator_memory_total": 8192,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": null,
   "accelerator_model": "A10",
   "accelerators": [],

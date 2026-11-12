@@ -39,7 +39,7 @@
   "accelerator_memory_min": 11264,
   "accelerator_memory_total": 11264,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": null,
   "accelerator_model": "GeForce GTX 1080 Ti",
   "accelerators": [],

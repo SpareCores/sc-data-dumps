@@ -40,7 +40,7 @@
   "accelerator_count": 8.0,
   "accelerator_memory_min": 98304,
   "accelerator_memory_total": 786432,
-  "accelerator_type": "GPU",
+  "accelerator_type": "NPU",
   "accelerator_manufacturer": null,
   "accelerator_family": null,
   "accelerator_model": "A910Z",

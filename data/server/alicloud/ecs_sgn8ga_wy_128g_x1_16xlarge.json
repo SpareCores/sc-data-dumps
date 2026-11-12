@@ -41,7 +41,7 @@
   "accelerator_memory_min": 49152,
   "accelerator_memory_total": 49152,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": null,
   "accelerator_model": "RTX 5880",
   "accelerators": [],

@@ -276,7 +276,7 @@
     },
     {
       "name": "accelerator_type",
-      "type": "VARCHAR(3)",
+      "type": "VARCHAR(4)",
       "nullable": true,
       "default": null,
       "comment": null

@@ -43,7 +43,7 @@
   "accelerator_memory_min": 196608,
   "accelerator_memory_total": 1572864,
   "accelerator_type": "GPU",
-  "accelerator_manufacturer": null,
+  "accelerator_manufacturer": "AMD",
   "accelerator_family": null,
   "accelerator_model": "MI300X",
   "accelerators": [],
