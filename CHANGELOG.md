@@ -1,3 +1,47 @@
+## v0.10.4+20261112205300 (Nov 12, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43280147852
+
+
+### server
+
+- New: gcp/1770206
+- New: gcp/1770205
+- New: gcp/1770201
+- New: gcp/1770506
+- New: gcp/1770505
+- New: gcp/1770501
+- New: gcp/999995584
+- New: gcp/999995585
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmgn8is.32xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.gn8t-4x.16xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.i5ge.48xlarge
+- Update: alicloud/ecs.poc-test.t96
+- Update: alicloud/ecs.r6.26xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r7.large
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: upcloud/CLOUDNATIVE-64xCPU-192GB
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: vultr/vbm-64c-1536gb-amd
+- Update: vultr/vx1-g-32c-128g-1920s
+
 ## v0.10.4+20261112143701 (Nov 12, 2026)
 
 This is an automated release with 203 new/updated/deleted resources.
