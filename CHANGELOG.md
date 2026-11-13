@@ -1,3 +1,67 @@
+## v0.10.4+20261113000517 (Nov 13, 2026)
+
+This is an automated release with 52 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43317041861
+
+
+### server
+
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmc8y.32xlarge
+- Update: alicloud/ecs.ebmg7a.64xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.ebmhfr6.20xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g6a.32xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.sccc7.32xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: aws/dl2q.24xlarge
+- Update: aws/f2.12xlarge
+- Update: aws/f2.48xlarge
+- Update: aws/f2.6xlarge
+- Update: aws/inf1.24xlarge
+- Update: aws/inf1.2xlarge
+- Update: aws/inf1.6xlarge
+- Update: aws/inf1.xlarge
+- Update: aws/inf2.24xlarge
+- Update: aws/inf2.48xlarge
+- Update: aws/inf2.8xlarge
+- Update: aws/inf2.xlarge
+- Update: aws/trn1.2xlarge
+- Update: aws/trn1.32xlarge
+- Update: aws/trn1n.32xlarge
+- Update: aws/trn2.3xlarge
+- Update: aws/trn2.48xlarge
+- Update: aws/vt1.24xlarge
+- Update: aws/vt1.3xlarge
+- Update: aws/vt1.6xlarge
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+
+### database
+
+- New: aws/db.r9g.8xlarge
+- New: aws/db.r9g.4xlarge
+- New: aws/db.r9g.2xlarge
+- New: aws/db.r9g.12xlarge
+- New: aws/db.r9g.48xlarge
+- New: aws/db.r9g.xlarge
+- New: aws/db.r9g.large
+- New: aws/db.r9g.24xlarge
+- New: aws/db.r9g.16xlarge
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.10.4+20261112205300 (Nov 12, 2026)
 
 This is an automated release with 35 new/updated/deleted resources.
