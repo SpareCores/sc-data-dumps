@@ -12,7 +12,7 @@
     "alibabacloud-ecs20140526==7.11.10",
     "alibabacloud-gateway-pop==0.1.6",
     "alibabacloud-gateway-spi==0.0.4",
-    "alibabacloud-rds20140815==16.1.4",
+    "alibabacloud-rds20140815==16.2.0",
     "alibabacloud-tea==0.4.3",
     "alibabacloud-tea-openapi==0.4.7",
     "alibabacloud-tea-util==0.3.15",
@@ -29,8 +29,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0",
     "babel==2.18.0",
     "backrefs==8.3",
-    "boto3==1.44.2",
-    "botocore==1.44.2",
+    "boto3==1.44.3",
+    "botocore==1.44.3",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.1",
@@ -146,10 +146,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.10.4",
-    "NEWVERSION": "v0.10.4+20261113192332",
-    "NEWVERSIONDATE": "v0.10.4+20261113192332 (Nov 13, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 14 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43473096032",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/43473096032"
+    "NEWVERSION": "v0.10.4+20261113225329",
+    "NEWVERSIONDATE": "v0.10.4+20261113225329 (Nov 13, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 23 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43501838232",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/43501838232"
   },
-  "timestamp": "2026-11-13T19:23:32Z"
+  "timestamp": "2026-11-13T22:53:29Z"
 }
