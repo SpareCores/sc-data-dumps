@@ -1,3 +1,16 @@
+## v0.10.4+20261113122740 (Nov 13, 2026)
+
+This is an automated release with 4 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43406810618
+
+
+### server
+
+- New: ovh/h200-1920-eph
+- New: ovh/b300-1990
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
 ## v0.10.4+20261113083548 (Nov 13, 2026)
 
 This is an automated release with 41 new/updated/deleted resources.
