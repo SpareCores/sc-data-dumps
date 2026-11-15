@@ -1,3 +1,37 @@
+## v0.10.4+20261115012447 (Nov 15, 2026)
+
+This is an automated release with 25 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43651691847
+
+
+### server
+
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.4xlarge
+- Update: alicloud/ecs.e4.large
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g6a.32xlarge
+- Update: alicloud/ecs.g7.xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc9i.3xlarge
+- Update: alicloud/ecs.hfc9i.4xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg9i.3xlarge
+- Update: alicloud/ecs.hfg9i.4xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.hfr9i.3xlarge
+- Update: alicloud/ecs.hfr9i.4xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vcg-a100-12c-120g-80vram
+- Update: vultr/vcg-a40-24c-120g-48vram
+
 ## v0.10.4+20261114204338 (Nov 14, 2026)
 
 This is an automated release with 17 new/updated/deleted resources.
