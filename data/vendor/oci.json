@@ -1,0 +1,18 @@
+{
+  "vendor_id": "oci",
+  "name": "Oracle Cloud Infrastructure",
+  "logo": "https://sparecores.com/assets/images/vendors/oci.svg",
+  "homepage": "https://www.oracle.com/cloud/",
+  "country_id": "US",
+  "state": "Texas",
+  "city": "Austin",
+  "address_line": "2300 Oracle Way",
+  "zip_code": "78741",
+  "founding_year": 2016,
+  "status_page": "https://ocistatus.oraclecloud.com",
+  "stopped_server_charged": 1,
+  "billing_increment_seconds": 1,
+  "minimum_billing_seconds": 3600,
+  "billing_comment": "Minimum charge is one minute for VMs and one hour for bare metal instances. Billing pauses for stopped Standard, VM.Optimized3 and VM.GPU.A10 instances, but continues for Dense I/O, HPC, bare metal Optimized and other GPU shapes.",
+  "status": "ACTIVE"
+}
