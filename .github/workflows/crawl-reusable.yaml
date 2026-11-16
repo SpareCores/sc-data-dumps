@@ -101,7 +101,7 @@ jobs:
           TRACKER_TASK_NAME: copy
         run: |
           rm -f ${FILE}
-          bash .github/scripts/run-with-resource-tracker.sh sc-crawler copy --source ${REMOTE_DB} --target sqlite:///${FILE}
+          bash .github/scripts/run-with-resource-tracker.sh sc-crawler copy --exclude-status archived --source ${REMOTE_DB} --target sqlite:///${FILE}
 
       - name: Pull all resources
         if: inputs.run_type == 'full'
