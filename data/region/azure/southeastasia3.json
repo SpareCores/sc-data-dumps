@@ -1,0 +1,20 @@
+{
+  "vendor_id": "azure",
+  "region_id": "southeastasia3",
+  "name": "Southeast Asia 3",
+  "api_reference": "southeastasia3",
+  "display_name": "Southeast Asia 3 (MY)",
+  "aliases": [
+    "Southeast Asia 3"
+  ],
+  "country_id": "MY",
+  "state": "Johor",
+  "city": "Johor Bahru",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.630158,
+  "lat": 1.62378,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

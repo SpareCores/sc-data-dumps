@@ -1,0 +1,20 @@
+{
+  "vendor_id": "azure",
+  "region_id": "taiwannorth",
+  "name": "Taiwan North",
+  "api_reference": "taiwannorth",
+  "display_name": "Taiwan North (TW)",
+  "aliases": [
+    "Taiwan North"
+  ],
+  "country_id": "TW",
+  "state": null,
+  "city": "Taipei",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 121.3662962,
+  "lat": 25.0174719,
+  "founding_year": null,
+  "green_energy": 0,
+  "status": "ACTIVE"
+}

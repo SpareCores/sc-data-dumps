@@ -4,9 +4,7 @@
   "name": "fsn1",
   "api_reference": "fsn1",
   "display_name": "Falkenstein (DE)",
-  "aliases": [
-    "4"
-  ],
+  "aliases": [],
   "country_id": "DE",
   "state": null,
   "city": "Falkenstein",

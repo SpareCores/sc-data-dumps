@@ -1,3 +1,76 @@
+## v0.11.0+20261116163750 (Nov 16, 2026)
+
+This is an automated release with 55 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/43885652711
+
+
+### region
+
+- New: azure/southeastasia3
+- New: azure/taiwannorth
+- Update: hcloud/2
+- Update: hcloud/3
+- Update: hcloud/4
+- Update: hcloud/5
+- Update: hcloud/6
+- Update: hcloud/7
+- Update: hcloud/ash
+- Update: hcloud/fsn1
+- Update: hcloud/hel1
+- Update: hcloud/hil
+- Update: hcloud/nbg1
+- Update: hcloud/sin
+
+### zone
+
+- New: azure/southeastasia3/3
+- New: azure/southeastasia3/1
+- New: azure/southeastasia3/2
+- New: azure/taiwannorth/3
+- New: azure/taiwannorth/1
+- New: azure/taiwannorth/2
+- Update: hcloud/2/2
+- Update: hcloud/3/3
+- Update: hcloud/4/4
+- Update: hcloud/5/5
+- Update: hcloud/6/6
+- Update: hcloud/7/7
+
+### server
+
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.c7nex.xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn5-c28g1.14xlarge
+- Update: alicloud/ecs.gn5-c4g1.2xlarge
+- Update: alicloud/ecs.gn8t-2x.8xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.hfc6.8xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: vultr/vbm-64c-1536gb-amd
+
+### benchmark
+
+- Update: app:static_web
+
 ## v0.10.4+20261116133444 (Nov 16, 2026)
 
 This is an automated release with 24 new/updated/deleted resources.

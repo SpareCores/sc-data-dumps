@@ -4,9 +4,7 @@
   "name": "ash",
   "api_reference": "ash",
   "display_name": "Ashburn (US)",
-  "aliases": [
-    "5"
-  ],
+  "aliases": [],
   "country_id": "US",
   "state": "VA",
   "city": "Ashburn",

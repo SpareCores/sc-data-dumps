@@ -4,9 +4,7 @@
   "name": "hel1",
   "api_reference": "hel1",
   "display_name": "Helsinki (FI)",
-  "aliases": [
-    "3"
-  ],
+  "aliases": [],
   "country_id": "FI",
   "state": null,
   "city": "Helsinki",

@@ -4,9 +4,7 @@
   "name": "sin",
   "api_reference": "sin",
   "display_name": "Singapore (SG)",
-  "aliases": [
-    "7"
-  ],
+  "aliases": [],
   "country_id": "SG",
   "state": null,
   "city": "Singapore",

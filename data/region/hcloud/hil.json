@@ -4,9 +4,7 @@
   "name": "hil",
   "api_reference": "hil",
   "display_name": "Hillsboro (US)",
-  "aliases": [
-    "6"
-  ],
+  "aliases": [],
   "country_id": "US",
   "state": "OR",
   "city": "Hillsboro",

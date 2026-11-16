@@ -4,9 +4,7 @@
   "name": "nbg1",
   "api_reference": "nbg1",
   "display_name": "Nuremberg (DE)",
-  "aliases": [
-    "2"
-  ],
+  "aliases": [],
   "country_id": "DE",
   "state": null,
   "city": "Nuremberg",
