@@ -2,7 +2,7 @@
   "vendor_id": "oci",
   "server_id": "VM.Standard.A4.Flex.45-180",
   "name": "VM.Standard.A4.Flex.45-180",
-  "api_reference": "VM.Standard.A4.Flex",
+  "api_reference": "VM.Standard.A4.Flex.45-180",
   "api_reference_object": {
     "shape": "VM.Standard.A4.Flex",
     "shape_config": {

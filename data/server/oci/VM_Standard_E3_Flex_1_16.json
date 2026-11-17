@@ -2,7 +2,7 @@
   "vendor_id": "oci",
   "server_id": "VM.Standard.E3.Flex.1-16",
   "name": "VM.Standard.E3.Flex.1-16",
-  "api_reference": "VM.Standard.E3.Flex",
+  "api_reference": "VM.Standard.E3.Flex.1-16",
   "api_reference_object": {
     "shape": "VM.Standard.E3.Flex",
     "shape_config": {

@@ -2,7 +2,7 @@
   "vendor_id": "oci",
   "server_id": "VM.Optimized3.Flex.8-64",
   "name": "VM.Optimized3.Flex.8-64",
-  "api_reference": "VM.Optimized3.Flex",
+  "api_reference": "VM.Optimized3.Flex.8-64",
   "api_reference_object": {
     "shape": "VM.Optimized3.Flex",
     "shape_config": {
