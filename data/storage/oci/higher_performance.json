@@ -1,0 +1,12 @@
+{
+  "vendor_id": "oci",
+  "storage_id": "higher-performance",
+  "name": "Block Volume Higher Performance",
+  "description": "For workloads with high I/O requirements (75 IOPS/GB, 20 VPUs/GB).",
+  "storage_type": "NVME_SSD",
+  "max_iops": 50000,
+  "max_throughput": 680,
+  "min_size": 50,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}

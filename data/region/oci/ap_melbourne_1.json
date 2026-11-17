@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-melbourne-1",
+  "name": "Australia Southeast (Melbourne)",
+  "api_reference": "ap-melbourne-1",
+  "display_name": "Australia Southeast (Melbourne)",
+  "aliases": [
+    "MEL"
+  ],
+  "country_id": "AU",
+  "state": "Victoria",
+  "city": "Melbourne",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 144.9631,
+  "lat": -37.8136,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

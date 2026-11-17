@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "me-abudhabi-1",
+  "name": "UAE Central (Abu Dhabi)",
+  "api_reference": "me-abudhabi-1",
+  "display_name": "UAE Central (Abu Dhabi)",
+  "aliases": [
+    "AUH"
+  ],
+  "country_id": "AE",
+  "state": null,
+  "city": "Abu Dhabi",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 54.3773,
+  "lat": 24.4539,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

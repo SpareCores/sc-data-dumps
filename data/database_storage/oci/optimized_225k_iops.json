@@ -1,0 +1,13 @@
+{
+  "vendor_id": "oci",
+  "database_storage_id": "optimized-225k-iops",
+  "name": "Database Optimized Storage 225K IOPS",
+  "description": "Database optimized storage with the 225,000 IOPS performance tier.",
+  "scope": "DATA",
+  "redundancy": null,
+  "min_size": 0,
+  "max_size": 32768,
+  "max_iops": 225000,
+  "max_throughput": null,
+  "status": "ACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "us-sanjose-1",
+  "name": "US West (San Jose)",
+  "api_reference": "us-sanjose-1",
+  "display_name": "US West (San Jose)",
+  "aliases": [
+    "SJC"
+  ],
+  "country_id": "US",
+  "state": "California",
+  "city": "San Jose",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -121.8863,
+  "lat": 37.3382,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

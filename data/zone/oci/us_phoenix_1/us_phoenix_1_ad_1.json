@@ -1,0 +1,9 @@
+{
+  "vendor_id": "oci",
+  "region_id": "us-phoenix-1",
+  "zone_id": "us-phoenix-1-ad-1",
+  "name": "PHX-AD-1",
+  "api_reference": "PHX-AD-1",
+  "display_name": "PHX-AD-1",
+  "status": "ACTIVE"
+}

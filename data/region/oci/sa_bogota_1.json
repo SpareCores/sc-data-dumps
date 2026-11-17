@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "sa-bogota-1",
+  "name": "Colombia Central (Bogota)",
+  "api_reference": "sa-bogota-1",
+  "display_name": "Colombia Central (Bogota)",
+  "aliases": [
+    "BOG"
+  ],
+  "country_id": "CO",
+  "state": null,
+  "city": "Bogota",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -74.0721,
+  "lat": 4.711,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-kulai-2",
+  "name": "Malaysia West 2 (Kulai)",
+  "api_reference": "ap-kulai-2",
+  "display_name": "Malaysia West 2 (Kulai)",
+  "aliases": [
+    "JBP"
+  ],
+  "country_id": "MY",
+  "state": "Johor",
+  "city": "Kulai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.6032,
+  "lat": 1.6561,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

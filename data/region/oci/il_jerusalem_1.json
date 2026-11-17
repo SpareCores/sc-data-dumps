@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "il-jerusalem-1",
+  "name": "Israel Central (Jerusalem)",
+  "api_reference": "il-jerusalem-1",
+  "display_name": "Israel Central (Jerusalem)",
+  "aliases": [
+    "MTZ"
+  ],
+  "country_id": "IL",
+  "state": null,
+  "city": "Jerusalem",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 35.2137,
+  "lat": 31.7683,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

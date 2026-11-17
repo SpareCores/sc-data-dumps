@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-chuncheon-1",
+  "name": "South Korea North (Chuncheon)",
+  "api_reference": "ap-chuncheon-1",
+  "display_name": "South Korea North (Chuncheon)",
+  "aliases": [
+    "YNY"
+  ],
+  "country_id": "KR",
+  "state": null,
+  "city": "Chuncheon",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 127.7298,
+  "lat": 37.8813,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

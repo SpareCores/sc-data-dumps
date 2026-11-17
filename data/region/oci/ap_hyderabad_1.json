@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-hyderabad-1",
+  "name": "India South (Hyderabad)",
+  "api_reference": "ap-hyderabad-1",
+  "display_name": "India South (Hyderabad)",
+  "aliases": [
+    "HYD"
+  ],
+  "country_id": "IN",
+  "state": "Telangana",
+  "city": "Hyderabad",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 78.4867,
+  "lat": 17.385,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

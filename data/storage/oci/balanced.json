@@ -1,0 +1,12 @@
+{
+  "vendor_id": "oci",
+  "storage_id": "balanced",
+  "name": "Block Volume Balanced",
+  "description": "Default performance level for boot and block volumes (60 IOPS/GB, 10 VPUs/GB).",
+  "storage_type": "NVME_SSD",
+  "max_iops": 25000,
+  "max_throughput": 480,
+  "min_size": 50,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}

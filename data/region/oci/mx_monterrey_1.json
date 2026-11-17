@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "mx-monterrey-1",
+  "name": "Mexico Northeast (Monterrey)",
+  "api_reference": "mx-monterrey-1",
+  "display_name": "Mexico Northeast (Monterrey)",
+  "aliases": [
+    "MTY"
+  ],
+  "country_id": "MX",
+  "state": "Nuevo Le\u00f3n",
+  "city": "Monterrey",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -100.3161,
+  "lat": 25.6866,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

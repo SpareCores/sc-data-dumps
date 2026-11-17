@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "sa-santiago-1",
+  "name": "Chile Central (Santiago)",
+  "api_reference": "sa-santiago-1",
+  "display_name": "Chile Central (Santiago)",
+  "aliases": [
+    "SCL"
+  ],
+  "country_id": "CL",
+  "state": null,
+  "city": "Santiago",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -70.6693,
+  "lat": -33.4489,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

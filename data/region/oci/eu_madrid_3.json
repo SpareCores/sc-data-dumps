@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-madrid-3",
+  "name": "Spain Central (Madrid 3)",
+  "api_reference": "eu-madrid-3",
+  "display_name": "Spain Central (Madrid 3)",
+  "aliases": [
+    "ORF"
+  ],
+  "country_id": "ES",
+  "state": null,
+  "city": "Madrid",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -3.7038,
+  "lat": 40.4168,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

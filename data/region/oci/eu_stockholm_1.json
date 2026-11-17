@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-stockholm-1",
+  "name": "Sweden Central (Stockholm)",
+  "api_reference": "eu-stockholm-1",
+  "display_name": "Sweden Central (Stockholm)",
+  "aliases": [
+    "ARN"
+  ],
+  "country_id": "SE",
+  "state": null,
+  "city": "Stockholm",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 18.0686,
+  "lat": 59.3293,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

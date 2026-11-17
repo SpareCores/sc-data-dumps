@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-amsterdam-1",
+  "name": "Netherlands Northwest (Amsterdam)",
+  "api_reference": "eu-amsterdam-1",
+  "display_name": "Netherlands Northwest (Amsterdam)",
+  "aliases": [
+    "AMS"
+  ],
+  "country_id": "NL",
+  "state": null,
+  "city": "Amsterdam",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 4.9041,
+  "lat": 52.3676,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

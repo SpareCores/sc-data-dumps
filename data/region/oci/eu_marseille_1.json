@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-marseille-1",
+  "name": "France South (Marseille)",
+  "api_reference": "eu-marseille-1",
+  "display_name": "France South (Marseille)",
+  "aliases": [
+    "MRS"
+  ],
+  "country_id": "FR",
+  "state": null,
+  "city": "Marseille",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 5.3698,
+  "lat": 43.2965,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

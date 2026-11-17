@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "us-chicago-1",
+  "name": "US Midwest (Chicago)",
+  "api_reference": "us-chicago-1",
+  "display_name": "US Midwest (Chicago)",
+  "aliases": [
+    "ORD"
+  ],
+  "country_id": "US",
+  "state": "Illinois",
+  "city": "Chicago",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -87.6298,
+  "lat": 41.8781,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

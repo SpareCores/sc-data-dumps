@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "af-casablanca-1",
+  "name": "Morocco West (Casablanca)",
+  "api_reference": "af-casablanca-1",
+  "display_name": "Morocco West (Casablanca)",
+  "aliases": [
+    "LEJ"
+  ],
+  "country_id": "MA",
+  "state": null,
+  "city": "Casablanca",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -7.5898,
+  "lat": 33.5731,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

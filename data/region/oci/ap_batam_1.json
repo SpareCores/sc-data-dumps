@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-batam-1",
+  "name": "Indonesia North (Batam)",
+  "api_reference": "ap-batam-1",
+  "display_name": "Indonesia North (Batam)",
+  "aliases": [
+    "HSG"
+  ],
+  "country_id": "ID",
+  "state": null,
+  "city": "Batam",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 104.0305,
+  "lat": 1.0456,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

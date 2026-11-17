@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-zurich-1",
+  "name": "Switzerland North (Zurich)",
+  "api_reference": "eu-zurich-1",
+  "display_name": "Switzerland North (Zurich)",
+  "aliases": [
+    "ZRH"
+  ],
+  "country_id": "CH",
+  "state": null,
+  "city": "Zurich",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 8.5417,
+  "lat": 47.3769,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-mumbai-1",
+  "name": "India West (Mumbai)",
+  "api_reference": "ap-mumbai-1",
+  "display_name": "India West (Mumbai)",
+  "aliases": [
+    "BOM"
+  ],
+  "country_id": "IN",
+  "state": "Maharashtra",
+  "city": "Mumbai",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 72.8777,
+  "lat": 19.076,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "sa-saopaulo-1",
+  "name": "Brazil East (Sao Paulo)",
+  "api_reference": "sa-saopaulo-1",
+  "display_name": "Brazil East (Sao Paulo)",
+  "aliases": [
+    "GRU"
+  ],
+  "country_id": "BR",
+  "state": "S\u00e3o Paulo",
+  "city": "Sao Paulo",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -46.6333,
+  "lat": -23.5505,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

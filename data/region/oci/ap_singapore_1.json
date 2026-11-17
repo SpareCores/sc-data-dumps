@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ap-singapore-1",
+  "name": "Singapore (Singapore)",
+  "api_reference": "ap-singapore-1",
+  "display_name": "Singapore (Singapore)",
+  "aliases": [
+    "SIN"
+  ],
+  "country_id": "SG",
+  "state": null,
+  "city": "Singapore",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 103.8198,
+  "lat": 1.3521,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

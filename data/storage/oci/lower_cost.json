@@ -1,0 +1,12 @@
+{
+  "vendor_id": "oci",
+  "storage_id": "lower-cost",
+  "name": "Block Volume Lower Cost",
+  "description": "For throughput intensive workloads with large sequential I/O (2 IOPS/GB, 0 VPU/GB). Not available for boot volumes.",
+  "storage_type": "NVME_SSD",
+  "max_iops": 3000,
+  "max_throughput": 480,
+  "min_size": 50,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}

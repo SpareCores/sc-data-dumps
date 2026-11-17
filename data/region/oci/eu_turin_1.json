@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "eu-turin-1",
+  "name": "Italy North (Turin)",
+  "api_reference": "eu-turin-1",
+  "display_name": "Italy North (Turin)",
+  "aliases": [
+    "NRQ"
+  ],
+  "country_id": "IT",
+  "state": null,
+  "city": "Turin",
+  "address_line": null,
+  "zip_code": null,
+  "lon": 7.6869,
+  "lat": 45.0703,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

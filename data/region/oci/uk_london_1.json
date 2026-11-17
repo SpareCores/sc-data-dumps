@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "uk-london-1",
+  "name": "UK South (London)",
+  "api_reference": "uk-london-1",
+  "display_name": "UK South (London)",
+  "aliases": [
+    "LHR"
+  ],
+  "country_id": "GB",
+  "state": "England",
+  "city": "London",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -0.1278,
+  "lat": 51.5074,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}

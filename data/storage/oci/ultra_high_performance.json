@@ -1,0 +1,12 @@
+{
+  "vendor_id": "oci",
+  "storage_id": "ultra-high-performance",
+  "name": "Block Volume Ultra High Performance",
+  "description": "For workloads with the highest I/O requirements (90 IOPS/GB at 30 VPUs/GB, configurable up to 225 IOPS/GB, 300,000 IOPS and 2,680 MB/s per volume at 120 VPUs/GB).",
+  "storage_type": "NVME_SSD",
+  "max_iops": 75000,
+  "max_throughput": 880,
+  "min_size": 50,
+  "max_size": 32768,
+  "status": "ACTIVE"
+}

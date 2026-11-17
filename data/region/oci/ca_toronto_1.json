@@ -1,0 +1,20 @@
+{
+  "vendor_id": "oci",
+  "region_id": "ca-toronto-1",
+  "name": "Canada Southeast (Toronto)",
+  "api_reference": "ca-toronto-1",
+  "display_name": "Canada Southeast (Toronto)",
+  "aliases": [
+    "YYZ"
+  ],
+  "country_id": "CA",
+  "state": "Ontario",
+  "city": "Toronto",
+  "address_line": null,
+  "zip_code": null,
+  "lon": -79.3832,
+  "lat": 43.6532,
+  "founding_year": null,
+  "green_energy": null,
+  "status": "INACTIVE"
+}
