@@ -58,9 +58,9 @@
     "cloud"
   ],
   "network_speed_baseline": 320.0,
-  "network_speed_max": null,
-  "network_storage_speed_baseline": null,
-  "network_storage_speed_max": null,
+  "network_speed_max": 320.0,
+  "network_storage_speed_baseline": 32.0,
+  "network_storage_speed_max": 80.0,
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,

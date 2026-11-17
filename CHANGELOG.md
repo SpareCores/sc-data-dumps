@@ -1,3 +1,142 @@
+## v0.11.0+20261117050902 (Nov 17, 2026)
+
+This is an automated release with 124 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44005625335
+
+
+### region
+
+- Update: azure/southeastasia3
+- Update: azure/taiwannorth
+
+### server
+
+- New: azure/Standard_D128pds_v7
+- New: azure/Standard_D128plds_v7
+- New: azure/Standard_D128pls_v7
+- New: azure/Standard_D128ps_v7
+- New: azure/Standard_D16pds_v7
+- New: azure/Standard_D16plds_v7
+- New: azure/Standard_D16pls_v7
+- New: azure/Standard_D16ps_v7
+- New: azure/Standard_D1pds_v7
+- New: azure/Standard_D1plds_v7
+- New: azure/Standard_D1pls_v7
+- New: azure/Standard_D1ps_v7
+- New: azure/Standard_D2pds_v7
+- New: azure/Standard_D2plds_v7
+- New: azure/Standard_D2pls_v7
+- New: azure/Standard_D2ps_v7
+- New: azure/Standard_D32pds_v7
+- New: azure/Standard_D32plds_v7
+- New: azure/Standard_D32pls_v7
+- New: azure/Standard_D32ps_v7
+- New: azure/Standard_D48pds_v7
+- New: azure/Standard_D48plds_v7
+- New: azure/Standard_D48pls_v7
+- New: azure/Standard_D48ps_v7
+- New: azure/Standard_D4pds_v7
+- New: azure/Standard_D4plds_v7
+- New: azure/Standard_D4pls_v7
+- New: azure/Standard_D4ps_v7
+- New: azure/Standard_D64pds_v7
+- New: azure/Standard_D64plds_v7
+- New: azure/Standard_D64pls_v7
+- New: azure/Standard_D64ps_v7
+- New: azure/Standard_D8pds_v7
+- New: azure/Standard_D8plds_v7
+- New: azure/Standard_D8pls_v7
+- New: azure/Standard_D8ps_v7
+- New: azure/Standard_D96pds_v7
+- New: azure/Standard_D96plds_v7
+- New: azure/Standard_D96pls_v7
+- New: azure/Standard_D96ps_v7
+- New: azure/Standard_E128pds_v7
+- New: azure/Standard_E128ps_v7
+- New: azure/Standard_E16pds_v7
+- New: azure/Standard_E16ps_v7
+- New: azure/Standard_E1pds_v7
+- New: azure/Standard_E1ps_v7
+- New: azure/Standard_E2pds_v7
+- New: azure/Standard_E2ps_v7
+- New: azure/Standard_E32pds_v7
+- New: azure/Standard_E32ps_v7
+- New: azure/Standard_E48pds_v7
+- New: azure/Standard_E48ps_v7
+- New: azure/Standard_E4pds_v7
+- New: azure/Standard_E4ps_v7
+- New: azure/Standard_E64pds_v7
+- New: azure/Standard_E64ps_v7
+- New: azure/Standard_E8pds_v7
+- New: azure/Standard_E8ps_v7
+- New: azure/Standard_E96pds_v7
+- New: azure/Standard_E96ps_v7
+- New: azure/Standard_L128ps_v5
+- New: azure/Standard_L16ps_v5
+- New: azure/Standard_L1ps_v5
+- New: azure/Standard_L2ps_v5
+- New: azure/Standard_L32ps_v5
+- New: azure/Standard_L48ps_v5
+- New: azure/Standard_L4ps_v5
+- New: azure/Standard_L64ps_v5
+- New: azure/Standard_L8ps_v5
+- New: azure/Standard_L96ps_v5
+- New: azure/Standard_M128pds_v4
+- New: azure/Standard_M128ps_v4
+- New: azure/Standard_M16pds_v4
+- New: azure/Standard_M16ps_v4
+- New: azure/Standard_M1pds_v4
+- New: azure/Standard_M1ps_v4
+- New: azure/Standard_M2pds_v4
+- New: azure/Standard_M2ps_v4
+- New: azure/Standard_M32pds_v4
+- New: azure/Standard_M32ps_v4
+- New: azure/Standard_M48pds_v4
+- New: azure/Standard_M48ps_v4
+- New: azure/Standard_M4pds_v4
+- New: azure/Standard_M4ps_v4
+- New: azure/Standard_M64pds_v4
+- New: azure/Standard_M64ps_v4
+- New: azure/Standard_M84pds_v4
+- New: azure/Standard_M84ps_v4
+- New: azure/Standard_M8pds_v4
+- New: azure/Standard_M8ps_v4
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.large
+- Update: alicloud/ecs.c6e.xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmhfr6.20xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc9i.4xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg9i.4xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr9i.36xlarge
+- Update: alicloud/ecs.i5e.16xlarge
+- Update: alicloud/ecs.i5e.32xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.t6-c1m4.xlarge
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261117013404 (Nov 17, 2026)
 
 This is an automated release with 407 new/updated/deleted resources.
