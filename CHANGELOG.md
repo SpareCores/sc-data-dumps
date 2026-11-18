@@ -1,3 +1,51 @@
+## v0.11.0+20261118234834 (Nov 18, 2026)
+
+This is an automated release with 36 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44394823014
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7.3xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg6.6xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: azure/Standard_D48s_v5
+- Update: azure/Standard_D4s_v5
+- Update: azure/Standard_E8s_v5
+- Update: azure/Standard_E96as_v5
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261118194331 (Nov 18, 2026)
 
 This is an automated release with 47 new/updated/deleted resources.
