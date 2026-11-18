@@ -1,3 +1,71 @@
+## v0.11.0+20261118083230 (Nov 18, 2026)
+
+This is an automated release with 56 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44249106349
+
+
+### server
+
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6a.8xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.3xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.g7nex.xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.hfc9i.3xlarge
+- Update: alicloud/ecs.hfg9i.3xlarge
+- Update: alicloud/ecs.hfr9i.3xlarge
+- Update: alicloud/ecs.r6.26xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r6.4xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.t6-c2m1.large
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vcg-a100-96c-960g-640vram
+- Update: vultr/vcg-a40-96c-480g-192vram
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261118045915 (Nov 18, 2026)
 
 This is an automated release with 62 new/updated/deleted resources.

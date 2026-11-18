@@ -136,7 +136,6 @@
     "cloud_essd-pl1",
     "cloud_essd-pl2",
     "cloud_essd-pl3",
-    "cloud_ssd",
     "cloud_efficiency"
   ],
   "network_speed_baseline": 8.0,
