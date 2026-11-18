@@ -30,8 +30,8 @@
     "azure-mgmt-resource-subscriptions==1.0.0",
     "babel==2.18.0",
     "backrefs==8.3",
-    "boto3==1.44.4",
-    "botocore==1.44.4",
+    "boto3==1.44.5",
+    "botocore==1.44.5",
     "cachier==4.2.0",
     "cairocffi==1.7.1",
     "cairosvg==2.9.1",
@@ -101,7 +101,7 @@
     "pathspec==1.1.1",
     "pillow==13.0.0",
     "pip==26.3",
-    "platformdirs==4.14.6",
+    "platformdirs==4.14.7",
     "pluggy==1.7.0",
     "portalocker==4.4.2",
     "propcache==0.5.4",
@@ -153,10 +153,10 @@
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.11.0",
-    "NEWVERSION": "v0.11.0+20261117214236",
-    "NEWVERSIONDATE": "v0.11.0+20261117214236 (Nov 17, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 44 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44158908621",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/44158908621"
+    "NEWVERSION": "v0.11.0+20261118012232",
+    "NEWVERSIONDATE": "v0.11.0+20261118012232 (Nov 18, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 15 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44196636093",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/44196636093"
   },
-  "timestamp": "2026-11-17T21:42:36Z"
+  "timestamp": "2026-11-18T01:22:32Z"
 }
