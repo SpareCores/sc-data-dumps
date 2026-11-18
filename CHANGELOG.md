@@ -1,3 +1,77 @@
+## v0.11.0+20261118045915 (Nov 18, 2026)
+
+This is an automated release with 62 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44223483072
+
+
+### server
+
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.ebmhfg6.20xlarge
+- Update: alicloud/ecs.g7.3xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.gn9gc.4xlarge
+- Update: alicloud/ecs.gn9gc.8xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfg6.2xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.r7.3xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: alicloud/ecs.u2i-c1m1.8xlarge
+- Update: alicloud/ecs.u2i-c1m2.8xlarge
+- Update: alicloud/ecs.u2i-c1m4.8xlarge
+- Update: alicloud/ecs.u2i-c1m8.8xlarge
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.1-16
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.1-4
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.16-128
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.16-256
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.16-64
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.1-8
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.2-16
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.2-32
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.2-8
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.32-128
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.32-256
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.32-512
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.4-16
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.4-32
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.4-64
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.64-1024
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.64-256
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.64-512
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.8-128
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.8-32
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.8-64
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.94-376
+- Update: oci/VM.Standard.E6-HM.Ax.Flex.94-752
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261118012232 (Nov 18, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
