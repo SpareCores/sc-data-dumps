@@ -1,3 +1,51 @@
+## v0.11.0+20261118161216 (Nov 18, 2026)
+
+This is an automated release with 39 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44317435718
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.ebmc9ae.48xlarge
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8t-2x.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc8i.3xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg8i.2xlarge
+- Update: alicloud/ecs.hfg8i.3xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.2xlarge
+- Update: alicloud/ecs.u1-c1m2.3xlarge
+- Update: alicloud/ecs.u1-c1m4.3xlarge
+- Update: azure/Standard_D32s_v5
+- Update: azure/Standard_E16s_v5
+- Update: azure/Standard_E20s_v5
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-96xCPU-960GB-4xB200
+- Update: vultr/vcg-a40-96c-480g-192vram
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
 ## v0.11.0+20261118123243 (Nov 18, 2026)
 
 This is an automated release with 45 new/updated/deleted resources.
