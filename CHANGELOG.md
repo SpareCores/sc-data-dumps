@@ -1,3 +1,60 @@
+## v0.11.0+20261118123243 (Nov 18, 2026)
+
+This is an automated release with 45 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44279339271
+
+
+### server
+
+- Update: alicloud/ecs.c6a.8xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.ebmc8y.32xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7nex.xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8t-4x.16xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.gn9gc.4xlarge
+- Update: alicloud/ecs.gn9gc.8xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc8i.2xlarge
+- Update: alicloud/ecs.hfg6.2xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.2xlarge
+- Update: alicloud/ecs.u1-c1m2.3xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.3xlarge
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261118083230 (Nov 18, 2026)
 
 This is an automated release with 56 new/updated/deleted resources.
