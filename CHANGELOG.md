@@ -1,3 +1,41 @@
+## v0.11.0+20261119073832 (Nov 19, 2026)
+
+This is an automated release with 29 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44460797565
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.g7nex.xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8t-2x.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.6xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.r6.4xlarge
+- Update: alicloud/ecs.r7.3xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: azure/Standard_E64s_v5
+- Update: upcloud/GPU-128xCPU-640GB-8xRTXPRO6000
+- Update: upcloud/GPU-12xCPU-240GB-1xH100
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-64xCPU-320GB-4xRTXPRO6000
+- Update: vultr/vcg-a40-96c-480g-192vram
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
 ## v0.11.0+20261119033846 (Nov 19, 2026)
 
 This is an automated release with 33 new/updated/deleted resources.
