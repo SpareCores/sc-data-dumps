@@ -1,3 +1,62 @@
+## v0.11.0+20261119123416 (Nov 19, 2026)
+
+This is an automated release with 47 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44493258130
+
+
+### server
+
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7.3xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn8te.8xlarge
+- Update: alicloud/ecs.gn8v-4x.24xlarge
+- Update: alicloud/ecs.gn8v-4x.8xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: alicloud/ecs.u2i-c1m1.8xlarge
+- Update: alicloud/ecs.u2i-c1m2.8xlarge
+- Update: alicloud/ecs.u2i-c1m4.8xlarge
+- Update: alicloud/ecs.u2i-c1m8.8xlarge
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-240GB-1xB200
+- Update: upcloud/GPU-28xCPU-240GB-1xB300
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/GPU-48xCPU-480GB-2xB200
+- Update: upcloud/GPU-96xCPU-960GB-4xB200
+- Update: vultr/vcg-a40-96c-480g-192vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261119073832 (Nov 19, 2026)
 
 This is an automated release with 29 new/updated/deleted resources.
