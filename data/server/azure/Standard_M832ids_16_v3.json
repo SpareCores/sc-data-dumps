@@ -11,7 +11,7 @@
   "display_name": "M832ids_16_v3",
   "description": "MIDSHighMemoryv3 family [Isolated] [Local Disk] [Premium Storage capable] [Intel processor] 832 vCPUs",
   "family": "Memory Optimized",
-  "series": "MIDSHighMemoryv3",
+  "series": "Mdsv3",
   "vcpus": 832,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

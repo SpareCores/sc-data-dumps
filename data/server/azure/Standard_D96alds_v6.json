@@ -11,7 +11,7 @@
   "display_name": "D96alds_v6",
   "description": "Daldv6 family [AMD processor] [Low Memory] [Local Disk] [Premium Storage capable] 96 vCPUs",
   "family": "General Purpose",
-  "series": "Dadsv6",
+  "series": "Daldsv6",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

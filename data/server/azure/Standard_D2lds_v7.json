@@ -11,7 +11,7 @@
   "display_name": "D2lds_v7",
   "description": "Dldsv7 family [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "General Purpose",
-  "series": "Ddsv7",
+  "series": "Dldsv7",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

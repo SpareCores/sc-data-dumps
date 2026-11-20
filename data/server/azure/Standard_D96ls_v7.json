@@ -11,7 +11,7 @@
   "display_name": "D96ls_v7",
   "description": "Dlsv7 family [Low Memory] [Premium Storage capable] [Intel processor] 96 vCPUs",
   "family": "General Purpose",
-  "series": "Dsv7",
+  "series": "Dlsv7",
   "vcpus": 96,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

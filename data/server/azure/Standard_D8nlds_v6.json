@@ -11,7 +11,7 @@
   "display_name": "D8nlds_v6",
   "description": "Dnldv6 family [Network Optimized] [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 8 vCPUs",
   "family": "General Purpose",
-  "series": "Dndsv6",
+  "series": "Dnldsv6",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

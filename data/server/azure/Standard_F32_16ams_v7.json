@@ -11,7 +11,7 @@
   "display_name": "F32-16ams_v7",
   "description": "Famsv7 family [AMD processor] [Memory Intensive] [Premium Storage capable] 32 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fasv7",
+  "series": "Famsv7",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

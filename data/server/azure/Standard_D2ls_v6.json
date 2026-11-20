@@ -11,7 +11,7 @@
   "display_name": "D2ls_v6",
   "description": "Dlsv6 family [Low Memory] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "General Purpose",
-  "series": "Dsv6",
+  "series": "Dlsv6",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

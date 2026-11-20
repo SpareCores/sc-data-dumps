@@ -11,7 +11,7 @@
   "display_name": "M832s_12_v3",
   "description": "MSHighMemoryv3 family [Premium Storage capable] [Intel processor] 832 vCPUs",
   "family": "Memory Optimized",
-  "series": "MSHighMemoryv3",
+  "series": "Msv3",
   "vcpus": 832,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

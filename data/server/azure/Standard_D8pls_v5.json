@@ -11,7 +11,7 @@
   "display_name": "D8pls_v5",
   "description": "DPLSv5 family [ARM processor] [Low Memory] [Premium Storage capable] 8 vCPUs",
   "family": "General Purpose",
-  "series": "Dpsv5",
+  "series": "Dplsv5",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

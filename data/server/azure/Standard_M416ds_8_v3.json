@@ -11,7 +11,7 @@
   "display_name": "M416ds_8_v3",
   "description": "MDSHighMemoryv3 family [Local Disk] [Premium Storage capable] [Intel processor] 416 vCPUs",
   "family": "Memory Optimized",
-  "series": "MDSHighMemoryv3",
+  "series": "Mdsv3",
   "vcpus": 416,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

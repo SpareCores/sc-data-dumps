@@ -11,7 +11,7 @@
   "display_name": "D48ls_v5",
   "description": "DLSv5 family [Low Memory] [Premium Storage capable] [Intel processor] 48 vCPUs",
   "family": "General Purpose",
-  "series": "Dsv5",
+  "series": "Dlsv5",
   "vcpus": 48,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

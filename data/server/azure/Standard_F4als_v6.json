@@ -11,7 +11,7 @@
   "display_name": "F4als_v6",
   "description": "Falsv6 family [AMD processor] [Low Memory] [Premium Storage capable] 4 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fasv6",
+  "series": "Falsv6",
   "vcpus": 4,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

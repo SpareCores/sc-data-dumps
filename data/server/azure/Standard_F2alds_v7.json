@@ -11,7 +11,7 @@
   "display_name": "F2alds_v7",
   "description": "Faldsv7 family [AMD processor] [Low Memory] [Local Disk] [Premium Storage capable] 2 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fadsv7",
+  "series": "Faldsv7",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

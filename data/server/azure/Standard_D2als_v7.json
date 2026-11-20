@@ -11,7 +11,7 @@
   "display_name": "D2als_v7",
   "description": "Dalsv7 family [AMD processor] [Low Memory] [Premium Storage capable] 2 vCPUs",
   "family": "General Purpose",
-  "series": "Dasv7",
+  "series": "Dalsv7",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

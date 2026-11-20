@@ -11,7 +11,7 @@
   "display_name": "D2ls_v5",
   "description": "DLSv5 family [Low Memory] [Premium Storage capable] [Intel processor] 2 vCPUs",
   "family": "General Purpose",
-  "series": "Dsv5",
+  "series": "Dlsv5",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

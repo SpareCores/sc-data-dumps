@@ -11,7 +11,7 @@
   "display_name": "D16lds_v5",
   "description": "DLDSv5 family [Low Memory] [Local Disk] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "General Purpose",
-  "series": "Ddsv5",
+  "series": "Dldsv5",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

@@ -11,7 +11,7 @@
   "display_name": "F16ams_v6",
   "description": "Famsv6 family [AMD processor] [Memory Intensive] [Premium Storage capable] 16 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fasv6",
+  "series": "Famsv6",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

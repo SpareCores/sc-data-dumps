@@ -11,7 +11,7 @@
   "display_name": "M16ms",
   "description": "MS family [Memory Intensive] [Premium Storage capable] [Intel processor] 16 vCPUs",
   "family": "Memory Optimized",
-  "series": "Ms",
+  "series": "M",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

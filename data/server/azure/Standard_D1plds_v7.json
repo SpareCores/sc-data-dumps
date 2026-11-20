@@ -11,7 +11,7 @@
   "display_name": "D1plds_v7",
   "description": "Dpldsv7 family [ARM processor] [Low Memory] [Local Disk] [Premium Storage capable] 1 vCPU",
   "family": "General Purpose",
-  "series": "Dpdsv7",
+  "series": "Dpldsv7",
   "vcpus": 1,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

@@ -11,7 +11,7 @@
   "display_name": "D2plds_v6",
   "description": "Dpldsv6 family [ARM processor] [Low Memory] [Local Disk] [Premium Storage capable] 2 vCPUs",
   "family": "General Purpose",
-  "series": "Dpdsv6",
+  "series": "Dpldsv6",
   "vcpus": 2,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

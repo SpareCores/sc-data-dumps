@@ -11,7 +11,7 @@
   "display_name": "D160alds_v7",
   "description": "Daldsv7 family [AMD processor] [Low Memory] [Local Disk] [Premium Storage capable] 160 vCPUs",
   "family": "General Purpose",
-  "series": "Dadsv7",
+  "series": "Daldsv7",
   "vcpus": 160,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

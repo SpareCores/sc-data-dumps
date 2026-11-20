@@ -11,7 +11,7 @@
   "display_name": "D128ls_v6",
   "description": "Dlsv6 family [Low Memory] [Premium Storage capable] [Intel processor] 128 vCPUs",
   "family": "General Purpose",
-  "series": "Dsv6",
+  "series": "Dlsv6",
   "vcpus": 128,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

@@ -11,7 +11,7 @@
   "display_name": "M416s_9_v2",
   "description": "MSv2 family [Premium Storage capable] [Intel processor] 416 vCPUs",
   "family": "Memory Optimized",
-  "series": "MSv2",
+  "series": "Msv2",
   "vcpus": 416,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

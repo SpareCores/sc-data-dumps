@@ -11,7 +11,7 @@
   "display_name": "F64als_v7",
   "description": "Falsv7 family [AMD processor] [Low Memory] [Premium Storage capable] 64 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fasv7",
+  "series": "Falsv7",
   "vcpus": 64,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

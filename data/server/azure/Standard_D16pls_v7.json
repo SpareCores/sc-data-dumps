@@ -11,7 +11,7 @@
   "display_name": "D16pls_v7",
   "description": "Dplsv7 family [ARM processor] [Low Memory] [Premium Storage capable] 16 vCPUs",
   "family": "General Purpose",
-  "series": "Dpsv7",
+  "series": "Dplsv7",
   "vcpus": 16,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

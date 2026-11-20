@@ -11,7 +11,7 @@
   "display_name": "F64-32amds_v7",
   "description": "Famdsv7 family [AMD processor] [Memory Intensive] [Local Disk] [Premium Storage capable] 64 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fadsv7",
+  "series": "Famdsv7",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

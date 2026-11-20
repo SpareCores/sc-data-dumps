@@ -11,7 +11,7 @@
   "display_name": "F8amds_v7",
   "description": "Famdsv7 family [AMD processor] [Memory Intensive] [Local Disk] [Premium Storage capable] 8 vCPUs",
   "family": "Compute Optimized",
-  "series": "Fadsv7",
+  "series": "Famdsv7",
   "vcpus": 8,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",

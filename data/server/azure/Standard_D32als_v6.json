@@ -11,7 +11,7 @@
   "display_name": "D32als_v6",
   "description": "Dalv6 family [AMD processor] [Low Memory] [Premium Storage capable] 32 vCPUs",
   "family": "General Purpose",
-  "series": "Dasv6",
+  "series": "Dalsv6",
   "vcpus": 32,
   "hypervisor": "Microsoft Hyper-V",
   "cpu_allocation": "DEDICATED",
