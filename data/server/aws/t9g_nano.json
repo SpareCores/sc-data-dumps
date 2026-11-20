@@ -8,7 +8,7 @@
   },
   "display_name": "t9g.nano",
   "description": "Burstable performance [AWS Graviton processors] Gen9 nano",
-  "family": null,
+  "family": "General Purpose",
   "series": "t9g",
   "vcpus": 2,
   "hypervisor": "nitro",
