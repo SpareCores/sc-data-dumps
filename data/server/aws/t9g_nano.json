@@ -12,7 +12,7 @@
   "series": "t9g",
   "vcpus": 2,
   "hypervisor": "nitro",
-  "cpu_allocation": "DEDICATED",
+  "cpu_allocation": "BURSTABLE",
   "cpu_cores": 2,
   "cpu_speed": 3.3,
   "cpu_architecture": "ARM64",
