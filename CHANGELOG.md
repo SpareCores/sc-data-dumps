@@ -1,3 +1,40 @@
+## v0.11.0+20261121061653 (Nov 21, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44862965333
+
+
+### server
+
+- New: aws/trn3.48xlarge
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.g7nex.xlarge
+- Update: alicloud/ecs.hfc6.3xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg6.6xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.hfr9i.2xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: oci/VM.Optimized3.Flex.1-8
+- Update: oci/VM.Optimized3.Flex.2-8
+- Update: oci/VM.Standard.A1.Flex.4-32
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
 ## v0.11.0+20261121014405 (Nov 21, 2026)
 
 This is an automated release with 15 new/updated/deleted resources.
