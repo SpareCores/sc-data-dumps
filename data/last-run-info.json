@@ -146,17 +146,17 @@
     "upcloud-api==2.9.0",
     "uritemplate==4.2.0",
     "urllib3==2.8.0",
-    "watchdog==7.1.0",
+    "watchdog==7.1.1",
     "webencodings==0.6.1",
     "websocket-client==1.9.2",
     "yarl==1.25.1"
   ],
   "environment_variables": {
     "CRAWLER_VERSION": "0.11.0",
-    "NEWVERSION": "v0.11.0+20261121133614",
-    "NEWVERSIONDATE": "v0.11.0+20261121133614 (Nov 21, 2026)",
-    "CHANGESFOUND": "\\nThis is an automated release with 40 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44896061374",
-    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/44896061374"
+    "NEWVERSION": "v0.11.0+20261121182232",
+    "NEWVERSIONDATE": "v0.11.0+20261121182232 (Nov 21, 2026)",
+    "CHANGESFOUND": "\\nThis is an automated release with 43 new/updated/deleted resources.\\nJob was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44921112901",
+    "GHARUNURL": "https://github.com/SpareCores/sc-data-dumps/actions/runs/44921112901"
   },
-  "timestamp": "2026-11-21T13:36:14Z"
+  "timestamp": "2026-11-21T18:22:32Z"
 }
