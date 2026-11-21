@@ -60,6 +60,7 @@
     "lm",
     "rep_good",
     "nopl",
+    "xtopology",
     "cpuid",
     "extd_apicid",
     "tsc_known_freq",
@@ -140,6 +141,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 5120.0,
   "ipv4": 1,
-  "average_time_to_start": 163.4,
+  "average_time_to_start": 173.0,
   "status": "ACTIVE"
 }

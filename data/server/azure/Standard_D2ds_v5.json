@@ -67,6 +67,7 @@
     "nonstop_tsc",
     "cpuid",
     "aperfmperf",
+    "tsc_known_freq",
     "pni",
     "pclmulqdq",
     "vmx",
@@ -176,6 +177,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 19.0,
+  "average_time_to_start": 28.5,
   "status": "ACTIVE"
 }

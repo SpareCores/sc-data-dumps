@@ -1,3 +1,81 @@
+## v0.11.0+20261121224306 (Nov 21, 2026)
+
+This is an automated release with 69 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44946437574
+
+
+### server
+
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.d1-c14d3.14xlarge
+- Update: alicloud/ecs.d1-c8d3.8xlarge
+- Update: alicloud/ecs.g6e.13xlarge
+- Update: alicloud/ecs.g6e.2xlarge
+- Update: alicloud/ecs.g6e.4xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.g6e.large
+- Update: alicloud/ecs.g6e.xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn7i-c32g1.16xlarge
+- Update: alicloud/ecs.gn7i-c56g1.14xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfc8i.4xlarge
+- Update: alicloud/ecs.hfc8i.6xlarge
+- Update: alicloud/ecs.hfg5.14xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.r6.13xlarge
+- Update: alicloud/ecs.r6.26xlarge
+- Update: alicloud/ecs.r6.4xlarge
+- Update: alicloud/ecs.r6.6xlarge
+- Update: alicloud/ecs.r6.8xlarge
+- Update: alicloud/ecs.r6e.13xlarge
+- Update: alicloud/ecs.r6e.2xlarge
+- Update: alicloud/ecs.r6e.4xlarge
+- Update: alicloud/ecs.r6e.8xlarge
+- Update: alicloud/ecs.r6e.large
+- Update: alicloud/ecs.r6e.xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: alicloud/ecs.xn4.small
+- Update: azure/Standard_D2ds_v5
+- Update: gcp/335002
+- Update: gcp/901002
+- Update: oci/VM.Optimized3.Flex.1-4
+- Update: oci/VM.Standard.A2.Flex.8-128
+- Update: ovh/c3-4
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-24xCPU-480GB-2xH100
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: upcloud/PREMIUM-2xCPU-2GB
+- Update: upcloud/PREMIUM-2xCPU-4GB
+- Update: vultr/vc2-2c-2gb
+- Update: vultr/vhf-2c-2gb
+- Update: vultr/vhf-2c-4gb
+- Update: vultr/vhp-2c-2gb-amd
+- Update: vultr/vhp-2c-2gb-intel
+- Update: vultr/vhp-2c-4gb-amd
+- Update: vultr/vhp-2c-4gb-intel
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
 ## v0.11.0+20261121182232 (Nov 21, 2026)
 
 This is an automated release with 43 new/updated/deleted resources.
