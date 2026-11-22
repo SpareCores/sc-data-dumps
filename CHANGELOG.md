@@ -1,3 +1,43 @@
+## v0.11.0+20261122164228 (Nov 22, 2026)
+
+This is an automated release with 31 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45034796447
+
+
+### server
+
+- Update: alicloud/ecs.c6.13xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfc9i.36xlarge
+- Update: alicloud/ecs.hfg8i.2xlarge
+- Update: alicloud/ecs.hfg8i.large
+- Update: alicloud/ecs.hfg8i.xlarge
+- Update: alicloud/ecs.hfg9i.36xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: azure/Standard_DC2as_v5
+- Update: oci/VM.Standard.E6.Flex.1-16
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: vultr/vc2-1c-0.5gb
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+
 ## v0.11.0+20261122134732 (Nov 22, 2026)
 
 This is an automated release with 38 new/updated/deleted resources.
