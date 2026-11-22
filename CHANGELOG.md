@@ -1,3 +1,81 @@
+## v0.11.0+20261122094802 (Nov 22, 2026)
+
+This is an automated release with 60 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/44999877748
+
+
+### region
+
+- Update: alicloud/cn-qingdao
+
+### zone
+
+- Update: alicloud/cn-qingdao/cn-qingdao-b
+- Update: alicloud/cn-qingdao/cn-qingdao-c
+
+### server
+
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmgn7i.32xlarge
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.ebmgn8is.32xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.gn7i-c32g1.16xlarge
+- Update: alicloud/ecs.gn7i-c32g1.32xlarge
+- Update: alicloud/ecs.gn7i-c48g1.12xlarge
+- Update: alicloud/ecs.gn7i-c56g1.14xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.gn8is-4x.16xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.gn9gc-8x.64xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr9i.2xlarge
+- Update: alicloud/ecs.s6-c1m1.small
+- Update: alicloud/ecs.s6-c1m2.2xlarge
+- Update: alicloud/ecs.s6-c1m2.large
+- Update: alicloud/ecs.s6-c1m2.small
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.2xlarge
+- Update: alicloud/ecs.s6-c1m4.large
+- Update: alicloud/ecs.s6-c1m4.small
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.3xlarge
+- Update: oci/VM.Standard.A1.Flex.2-16
+- Update: oci/VM.Standard.E3.Flex.8-32
+- Update: upcloud/GPU-32xCPU-160GB-2xRTXPRO6000
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+- Update: vultr/vx1-g-64c-256g-3840s
+- Update: vultr/vx1-m-64c-512g-3840s
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.11.0+20261122023820 (Nov 22, 2026)
 
 This is an automated release with 35 new/updated/deleted resources.
