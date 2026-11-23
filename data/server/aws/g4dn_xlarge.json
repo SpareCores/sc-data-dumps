@@ -86,6 +86,7 @@
     "lahf_lm",
     "abm",
     "3dnowprefetch",
+    "cpuid_fault",
     "pti",
     "fsgsbase",
     "tsc_adjust",
@@ -123,7 +124,7 @@
   "memory_amount": 16384,
   "memory_amount_actual": 16384,
   "memory_generation": "DDR4",
-  "memory_speed": 2933,
+  "memory_speed": 3200,
   "memory_ecc": null,
   "accelerator_count": 1.0,
   "accelerator_memory_min": 16384,
@@ -138,7 +139,7 @@
       "family": "Turing",
       "model": "Tesla T4",
       "memory": 15360,
-      "firmware_version": "590.48.01",
+      "firmware_version": "570.211.01",
       "bios_version": "90.04.96.00.02",
       "graphics_clock": 1590,
       "sm_clock": 1590,
@@ -171,6 +172,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 15.0,
   "status": "ACTIVE"
 }
