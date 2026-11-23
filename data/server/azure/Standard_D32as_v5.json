@@ -68,6 +68,7 @@
     "cpuid",
     "extd_apicid",
     "aperfmperf",
+    "tsc_known_freq",
     "pni",
     "pclmulqdq",
     "ssse3",
@@ -112,7 +113,6 @@
     "xsavec",
     "xgetbv1",
     "xsaves",
-    "user_shstk",
     "clzero",
     "xsaveerptr",
     "rdpru",
@@ -168,6 +168,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 18.0,
+  "average_time_to_start": 29.0,
   "status": "ACTIVE"
 }

@@ -60,6 +60,7 @@
     "lm",
     "rep_good",
     "nopl",
+    "xtopology",
     "cpuid",
     "extd_apicid",
     "tsc_known_freq",
@@ -113,8 +114,7 @@
     "wbnoinvd",
     "arat",
     "umip",
-    "rdpid",
-    "arch_capabilities"
+    "rdpid"
   ],
   "cpus": [],
   "ecpus": 3.0,
@@ -146,6 +146,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 20480.0,
   "ipv4": 0,
-  "average_time_to_start": 15.67,
+  "average_time_to_start": 52.0,
   "status": "ACTIVE"
 }
