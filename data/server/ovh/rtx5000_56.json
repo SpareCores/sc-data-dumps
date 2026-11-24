@@ -98,11 +98,13 @@
     "fsgsbase",
     "tsc_adjust",
     "bmi1",
+    "hle",
     "avx2",
     "smep",
     "bmi2",
     "erms",
     "invpcid",
+    "rtm",
     "mpx",
     "avx512f",
     "avx512dq",
@@ -190,6 +192,6 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": 120.5,
+  "average_time_to_start": 108.33,
   "status": "ACTIVE"
 }
