@@ -4,8 +4,8 @@
   "name": "postgresql-production-b3-128",
   "api_reference": "postgresql-production-b3-128",
   "api_reference_object": {
-    "plan": "production",
     "engine": "postgresql",
+    "plan": "production",
     "flavor": "b3-128"
   },
   "display_name": "Production b3-128",

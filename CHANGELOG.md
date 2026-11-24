@@ -1,3 +1,120 @@
+## v0.12.0+20261124192113 (Nov 24, 2026)
+
+This is an automated release with 105 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45448919816
+
+
+### server
+
+- New: ovh/b300-1920
+- Update: alicloud/ecs.c6.13xlarge
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is.2xlarge
+- Update: alicloud/ecs.gn8is.4xlarge
+- Update: alicloud/ecs.gn8t-2x.8xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfg5.14xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.3xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.3xlarge
+- Update: oci/VM.Standard3.Flex.32-512
+- Update: ovh/b2-120
+- Update: ovh/b2-15
+- Update: ovh/b2-30
+- Update: ovh/b2-60
+- Update: ovh/b2-7
+- Update: ovh/c2-120
+- Update: ovh/c2-15
+- Update: ovh/c2-30
+- Update: ovh/c2-60
+- Update: ovh/c2-7
+- Update: ovh/eg-120
+- Update: ovh/eg-15
+- Update: ovh/eg-30
+- Update: ovh/eg-60
+- Update: ovh/eg-7
+- Update: ovh/g1-15
+- Update: ovh/g1-30
+- Update: ovh/g2-15
+- Update: ovh/g2-30
+- Update: ovh/g3-120
+- Update: ovh/g3-30
+- Update: ovh/hg-120
+- Update: ovh/hg-15
+- Update: ovh/hg-30
+- Update: ovh/hg-60
+- Update: ovh/hg-7
+- Update: ovh/i1-180
+- Update: ovh/i1-45
+- Update: ovh/i1-90
+- Update: ovh/r2-120
+- Update: ovh/r2-15
+- Update: ovh/r2-240
+- Update: ovh/r2-30
+- Update: ovh/r2-60
+- Update: ovh/s1-2
+- Update: ovh/s1-4
+- Update: ovh/s1-8
+- Update: ovh/sp-120
+- Update: ovh/sp-240
+- Update: ovh/sp-30
+- Update: ovh/sp-60
+- Update: ovh/t1-180
+- Update: ovh/t1-45
+- Update: ovh/t1-90
+- Update: ovh/t1-le-180
+- Update: ovh/t1-le-45
+- Update: ovh/t1-le-90
+- Update: ovh/t2-180
+- Update: ovh/t2-45
+- Update: ovh/t2-90
+- Update: ovh/t2-le-180
+- Update: ovh/t2-le-45
+- Update: ovh/t2-le-90
+- Update: ovh/vps-ssd-1
+- Update: ovh/vps-ssd-2
+- Update: ovh/vps-ssd-3
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.12.0+20261124154859 (Nov 24, 2026)
 
 This is an automated release with 2005 new/updated/deleted resources.
