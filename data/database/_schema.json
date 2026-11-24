@@ -254,6 +254,13 @@
       "comment": null
     },
     {
+      "name": "retirement_date",
+      "type": "DATE",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "status",
       "type": "VARCHAR(22)",
       "nullable": false,

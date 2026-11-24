@@ -167,15 +167,32 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 945,
+  "storage_size": 944,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 945,
+      "size": 472,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 60000,
+      "read_throughput_max": 1120,
+      "write_throughput_max": 560
+    },
+    {
+      "size": 472,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 60000,
+      "read_throughput_max": 1120,
+      "write_throughput_max": 560
     }
   ],
+  "storage_read_iops_max": 300000,
+  "storage_write_iops_max": 120000,
+  "storage_read_throughput_max": 2240,
+  "storage_write_throughput_max": 1120,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -193,5 +210,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 33.5,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

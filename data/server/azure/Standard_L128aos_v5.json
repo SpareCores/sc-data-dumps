@@ -47,15 +47,68 @@
   "accelerator_family": null,
   "accelerator_model": null,
   "accelerators": [],
-  "storage_size": 92159,
+  "storage_size": 92160,
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 92159,
+      "size": 15360,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
+    },
+    {
+      "size": 15360,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
+    },
+    {
+      "size": 15360,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
+    },
+    {
+      "size": 15360,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
+    },
+    {
+      "size": 15360,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
+    },
+    {
+      "size": 15360,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 2300000,
+      "write_iops_max": 1150000,
+      "read_throughput_max": 13000,
+      "write_throughput_max": 6000
     }
   ],
+  "storage_read_iops_max": 13800000,
+  "storage_write_iops_max": 6900000,
+  "storage_read_throughput_max": 78000,
+  "storage_write_throughput_max": 36000,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -73,5 +126,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

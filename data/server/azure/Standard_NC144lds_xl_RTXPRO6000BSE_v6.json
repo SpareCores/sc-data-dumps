@@ -53,14 +53,26 @@
     {
       "size": 1100,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 225000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": 2000
     },
     {
       "size": 6872,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 2000000,
+      "write_iops_max": 1000000,
+      "read_throughput_max": 12000,
+      "write_throughput_max": 5984
     }
   ],
+  "storage_read_iops_max": 2225000,
+  "storage_write_iops_max": 1000000,
+  "storage_read_throughput_max": 14000,
+  "storage_write_throughput_max": 7984,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -78,5 +90,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

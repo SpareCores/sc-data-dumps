@@ -53,9 +53,17 @@
     {
       "size": 1440,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 215626,
+      "write_iops_max": 107813,
+      "read_throughput_max": 1220,
+      "write_throughput_max": 565
     }
   ],
+  "storage_read_iops_max": 215626,
+  "storage_write_iops_max": 107813,
+  "storage_read_throughput_max": 1220,
+  "storage_write_throughput_max": 565,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -73,5 +81,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

@@ -138,9 +138,17 @@
     {
       "size": 1933,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 462000,
+      "write_iops_max": null,
+      "read_throughput_max": 2904,
+      "write_throughput_max": 2904
     }
   ],
+  "storage_read_iops_max": 462000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 2904,
+  "storage_write_throughput_max": 2904,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -158,5 +166,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

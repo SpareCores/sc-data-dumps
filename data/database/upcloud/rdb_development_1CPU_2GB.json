@@ -74,5 +74,6 @@
     "enforced-tls",
     "audit-logging"
   ],
+  "retirement_date": null,
   "status": "ACTIVE"
 }

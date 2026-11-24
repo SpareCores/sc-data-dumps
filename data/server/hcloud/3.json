@@ -132,6 +132,10 @@
   "storage_size": 40,
   "storage_type": "SSD",
   "storages": [],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": null,
   "network_speed_baseline": null,
   "network_speed_max": null,
@@ -141,5 +145,6 @@
   "outbound_traffic": 20480.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": "2024-09-06",
   "status": "RETIRED"
 }

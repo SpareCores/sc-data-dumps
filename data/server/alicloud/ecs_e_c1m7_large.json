@@ -48,6 +48,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": null,
   "network_speed_baseline": 0.4,
   "network_speed_max": null,
@@ -57,5 +61,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "INACTIVE"
 }

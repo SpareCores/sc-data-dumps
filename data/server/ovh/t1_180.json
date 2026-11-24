@@ -199,19 +199,35 @@
     {
       "size": 50,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
     },
     {
       "size": 2000,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
     },
     {
       "size": 2000,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
     }
   ],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "classic",
     "high-speed",
@@ -225,5 +241,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 212.0,
+  "retirement_date": null,
   "status": "INACTIVE"
 }

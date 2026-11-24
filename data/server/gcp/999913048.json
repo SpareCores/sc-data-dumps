@@ -180,44 +180,80 @@
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     },
     {
       "size": 402,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 150000,
+      "write_iops_max": 75000,
+      "read_throughput_max": 655,
+      "write_throughput_max": 346
     }
   ],
+  "storage_read_iops_max": 1200000,
+  "storage_write_iops_max": 600000,
+  "storage_read_throughput_max": 5243,
+  "storage_write_throughput_max": 2768,
   "compatible_storage_ids": [
     "30014",
     "30017",
@@ -232,5 +268,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 56.0,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

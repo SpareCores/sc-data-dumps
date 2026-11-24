@@ -52,5 +52,6 @@
     "private-network",
     "enforced-tls"
   ],
+  "retirement_date": null,
   "status": "INACTIVE"
 }

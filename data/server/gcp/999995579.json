@@ -49,11 +49,28 @@
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 30065,
+      "size": 15032,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 1300000,
+      "write_iops_max": 1024000,
+      "read_throughput_max": 6606,
+      "write_throughput_max": 5033
+    },
+    {
+      "size": 15032,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1300000,
+      "write_iops_max": 1024000,
+      "read_throughput_max": 6606,
+      "write_throughput_max": 5033
     }
   ],
+  "storage_read_iops_max": 2600000,
+  "storage_write_iops_max": 2048000,
+  "storage_read_throughput_max": 13212,
+  "storage_write_throughput_max": 10066,
   "compatible_storage_ids": [
     "30014",
     "30017",
@@ -69,5 +86,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

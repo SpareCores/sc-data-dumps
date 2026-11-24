@@ -47,7 +47,21 @@
   "accelerators": [],
   "storage_size": 3839,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 3840,
+      "storage_type": "ssd",
+      "description": null,
+      "read_iops_max": 2900000,
+      "write_iops_max": null,
+      "read_throughput_max": 14000,
+      "write_throughput_max": 8000
+    }
+  ],
+  "storage_read_iops_max": 2900000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 14000,
+  "storage_write_throughput_max": 8000,
   "compatible_storage_ids": [
     "cloud_essd-pl0",
     "cloud_essd-pl1",
@@ -65,5 +79,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

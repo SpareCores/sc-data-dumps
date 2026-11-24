@@ -130,14 +130,107 @@
     {
       "size": 859,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 40000,
+      "write_iops_max": null,
+      "read_throughput_max": 839,
+      "write_throughput_max": 839
     },
     {
-      "size": 19200,
+      "size": 1920,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 380000,
+      "write_iops_max": null,
+      "read_throughput_max": 2000,
+      "write_throughput_max": null
     }
   ],
+  "storage_read_iops_max": 3840000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 20839,
+  "storage_write_throughput_max": 839,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -155,5 +248,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 116.0,
+  "retirement_date": "2028-11-15",
   "status": "PLANNED_FOR_RETIREMENT"
 }

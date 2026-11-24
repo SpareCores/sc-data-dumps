@@ -162,7 +162,21 @@
   "accelerators": [],
   "storage_size": 50,
   "storage_type": "SSD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 50,
+      "storage_type": "ssd",
+      "description": null,
+      "read_iops_max": 100000,
+      "write_iops_max": 30000,
+      "read_throughput_max": 400,
+      "write_throughput_max": null
+    }
+  ],
+  "storage_read_iops_max": 100000,
+  "storage_write_iops_max": 30000,
+  "storage_read_throughput_max": 400,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "maxiops",
     "standard",
@@ -176,5 +190,6 @@
   "outbound_traffic": 3072.0,
   "ipv4": 1,
   "average_time_to_start": 123.67,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

@@ -47,20 +47,59 @@
   "accelerator_family": "Blackwell",
   "accelerator_model": "GB300",
   "accelerators": [],
-  "storage_size": 16459,
+  "storage_size": 16460,
   "storage_type": "NVME_SSD",
   "storages": [
     {
       "size": 1100,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 450000,
+      "write_iops_max": null,
+      "read_throughput_max": 4000,
+      "write_throughput_max": 4000
     },
     {
-      "size": 15359,
+      "size": 3840,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 1250000,
+      "write_iops_max": 800000,
+      "read_throughput_max": 6600,
+      "write_throughput_max": 3760
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1250000,
+      "write_iops_max": 800000,
+      "read_throughput_max": 6600,
+      "write_throughput_max": 3760
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1250000,
+      "write_iops_max": 800000,
+      "read_throughput_max": 6600,
+      "write_throughput_max": 3760
+    },
+    {
+      "size": 3840,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1250000,
+      "write_iops_max": 800000,
+      "read_throughput_max": 6600,
+      "write_throughput_max": 3760
     }
   ],
+  "storage_read_iops_max": 5450000,
+  "storage_write_iops_max": 3200000,
+  "storage_read_throughput_max": 30400,
+  "storage_write_throughput_max": 19040,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -78,5 +117,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

@@ -331,6 +331,34 @@
       "comment": null
     },
     {
+      "name": "storage_read_iops_max",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_write_iops_max",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_read_throughput_max",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "storage_write_throughput_max",
+      "type": "INTEGER",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
       "name": "compatible_storage_ids",
       "type": "JSON",
       "nullable": true,
@@ -389,6 +417,13 @@
     {
       "name": "average_time_to_start",
       "type": "FLOAT",
+      "nullable": true,
+      "default": null,
+      "comment": null
+    },
+    {
+      "name": "retirement_date",
+      "type": "DATE",
       "nullable": true,
       "default": null,
       "comment": null

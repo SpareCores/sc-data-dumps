@@ -175,6 +175,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "maxiops",
     "standard",
@@ -188,5 +192,6 @@
   "outbound_traffic": 24576.0,
   "ipv4": 1,
   "average_time_to_start": 56.0,
+  "retirement_date": null,
   "status": "INACTIVE"
 }

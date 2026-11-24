@@ -154,6 +154,10 @@
   "storage_size": 75,
   "storage_type": "NVME_SSD",
   "storages": [],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "block_storage_high_perf",
     "block_storage_storage_opt"
@@ -166,5 +170,6 @@
   "outbound_traffic": 6144.0,
   "ipv4": 1,
   "average_time_to_start": 85.22,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

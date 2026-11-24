@@ -122,9 +122,17 @@
     {
       "size": 1074,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 60000,
+      "write_iops_max": null,
+      "read_throughput_max": 983,
+      "write_throughput_max": 492
     }
   ],
+  "storage_read_iops_max": 60000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 983,
+  "storage_write_throughput_max": 492,
   "compatible_storage_ids": [
     "StandardSSD_LRS",
     "StandardSSD_ZRS",
@@ -138,5 +146,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 58.0,
+  "retirement_date": "2028-05-01",
   "status": "PLANNED_FOR_RETIREMENT"
 }

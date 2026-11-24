@@ -64,5 +64,6 @@
     "customer-managed-keys",
     "audit-logging"
   ],
-  "status": "INACTIVE"
+  "retirement_date": null,
+  "status": "ACTIVE"
 }

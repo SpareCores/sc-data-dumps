@@ -136,9 +136,17 @@
     {
       "size": 54,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 3000,
+      "write_iops_max": null,
+      "read_throughput_max": 50,
+      "write_throughput_max": 25
     }
   ],
+  "storage_read_iops_max": 3000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 50,
+  "storage_write_throughput_max": 25,
   "compatible_storage_ids": [
     "StandardSSD_LRS",
     "StandardSSD_ZRS",
@@ -152,5 +160,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 30.0,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

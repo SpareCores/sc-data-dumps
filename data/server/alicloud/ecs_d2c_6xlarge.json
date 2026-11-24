@@ -132,7 +132,39 @@
   "accelerators": [],
   "storage_size": 11918,
   "storage_type": "HDD",
-  "storages": [],
+  "storages": [
+    {
+      "size": 3973,
+      "storage_type": "hdd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": 190,
+      "write_throughput_max": null
+    },
+    {
+      "size": 3973,
+      "storage_type": "hdd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": 190,
+      "write_throughput_max": null
+    },
+    {
+      "size": 3973,
+      "storage_type": "hdd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": 190,
+      "write_throughput_max": null
+    }
+  ],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 570,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "cloud_essd-pl0",
     "cloud_essd-pl1",
@@ -149,5 +181,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 12.0,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

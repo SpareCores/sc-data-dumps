@@ -53,14 +53,89 @@
     {
       "size": 3114,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 1464000,
+      "write_iops_max": null,
+      "read_throughput_max": 10308,
+      "write_throughput_max": 9664
     },
     {
-      "size": 7680,
+      "size": 960,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
+    },
+    {
+      "size": 960,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": null,
+      "write_iops_max": null,
+      "read_throughput_max": null,
+      "write_throughput_max": null
     }
   ],
+  "storage_read_iops_max": 1464000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 10308,
+  "storage_write_throughput_max": 9664,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -78,5 +153,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

@@ -152,9 +152,17 @@
     {
       "size": 225,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 42500,
+      "write_iops_max": 32500,
+      "read_throughput_max": null,
+      "write_throughput_max": null
     }
   ],
+  "storage_read_iops_max": 42500,
+  "storage_write_iops_max": 32500,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "standard",
     "gp2",
@@ -172,5 +180,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

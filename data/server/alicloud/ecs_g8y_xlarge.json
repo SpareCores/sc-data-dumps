@@ -94,6 +94,10 @@
   "storage_size": 0,
   "storage_type": null,
   "storages": [],
+  "storage_read_iops_max": null,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": null,
+  "storage_write_throughput_max": null,
   "compatible_storage_ids": [
     "cloud_essd-pl0",
     "cloud_essd-pl1",
@@ -111,5 +115,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 13.0,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

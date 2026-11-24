@@ -129,14 +129,71 @@
     {
       "size": 515,
       "storage_type": "ssd",
-      "description": "temp disk"
+      "description": "temp disk",
+      "read_iops_max": 24000,
+      "write_iops_max": null,
+      "read_throughput_max": 503,
+      "write_throughput_max": 503
     },
     {
-      "size": 11520,
+      "size": 1920,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
+    },
+    {
+      "size": 1920,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 366667,
+      "write_iops_max": null,
+      "read_throughput_max": 2333,
+      "write_throughput_max": null
     }
   ],
+  "storage_read_iops_max": 2224000,
+  "storage_write_iops_max": null,
+  "storage_read_throughput_max": 14503,
+  "storage_write_throughput_max": 503,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -154,5 +211,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": 74.0,
+  "retirement_date": "2028-11-15",
   "status": "PLANNED_FOR_RETIREMENT"
 }

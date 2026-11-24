@@ -51,11 +51,37 @@
   "storage_type": "NVME_SSD",
   "storages": [
     {
-      "size": 34557,
+      "size": 11519,
       "storage_type": "nvme ssd",
-      "description": null
+      "description": null,
+      "read_iops_max": 1725000,
+      "write_iops_max": 862500,
+      "read_throughput_max": 9750,
+      "write_throughput_max": 4500
+    },
+    {
+      "size": 11519,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1725000,
+      "write_iops_max": 862500,
+      "read_throughput_max": 9750,
+      "write_throughput_max": 4500
+    },
+    {
+      "size": 11519,
+      "storage_type": "nvme ssd",
+      "description": null,
+      "read_iops_max": 1725000,
+      "write_iops_max": 862500,
+      "read_throughput_max": 9750,
+      "write_throughput_max": 4500
     }
   ],
+  "storage_read_iops_max": 5175000,
+  "storage_write_iops_max": 2587500,
+  "storage_read_throughput_max": 29250,
+  "storage_write_throughput_max": 13500,
   "compatible_storage_ids": [
     "PremiumV2_LRS",
     "Premium_LRS",
@@ -73,5 +99,6 @@
   "outbound_traffic": 0.0,
   "ipv4": 0,
   "average_time_to_start": null,
+  "retirement_date": null,
   "status": "ACTIVE"
 }

@@ -61,5 +61,6 @@
     "private-network",
     "customer-managed-keys"
   ],
+  "retirement_date": null,
   "status": "ACTIVE"
 }
