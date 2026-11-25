@@ -1,3 +1,57 @@
+## v0.12.0+20261125061707 (Nov 25, 2026)
+
+This is an automated release with 45 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45544691299
+
+
+### server
+
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7nex.4xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8t-2x.8xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfc8i.6xlarge
+- Update: alicloud/ecs.hfc8i.8xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg6.6xlarge
+- Update: alicloud/ecs.hfg8i.16xlarge
+- Update: alicloud/ecs.hfg8i.2xlarge
+- Update: alicloud/ecs.hfg8i.3xlarge
+- Update: alicloud/ecs.hfg8i.4xlarge
+- Update: alicloud/ecs.hfg8i.6xlarge
+- Update: alicloud/ecs.hfg8i.8xlarge
+- Update: alicloud/ecs.hfg8i.large
+- Update: alicloud/ecs.hfg8i.xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.hfr6.6xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r6e.8xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.t5-c1m1.large
+- Update: alicloud/ecs.t5-c1m1.xlarge
+- Update: alicloud/ecs.t5-c1m2.large
+- Update: alicloud/ecs.t5-lc1m2.large
+- Update: alicloud/ecs.t5-lc1m2.small
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: oci/VM.Standard.E6.Flex.126-1008
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+
 ## v0.12.0+20261125023727 (Nov 25, 2026)
 
 This is an automated release with 120 new/updated/deleted resources.
