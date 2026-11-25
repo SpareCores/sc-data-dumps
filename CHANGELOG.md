@@ -1,3 +1,132 @@
+## v0.12.0+20261125023727 (Nov 25, 2026)
+
+This is an automated release with 120 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45518325729
+
+
+### server
+
+- Update: alicloud/ecs.c6.13xlarge
+- Update: alicloud/ecs.c6.26xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6.8xlarge
+- Update: alicloud/ecs.c6e.large
+- Update: alicloud/ecs.c6e.xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.c7.3xlarge
+- Update: alicloud/ecs.e3.3xlarge
+- Update: alicloud/ecs.e3.large
+- Update: alicloud/ecs.e3.medium
+- Update: alicloud/ecs.e3.small
+- Update: alicloud/ecs.e3.xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmgn8ia.64xlarge
+- Update: alicloud/ecs.g6.13xlarge
+- Update: alicloud/ecs.g6.26xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.8xlarge
+- Update: alicloud/ecs.g6e.13xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn5i-c16g1.8xlarge
+- Update: alicloud/ecs.gn5i-c28g1.14xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.hfc5.2xlarge
+- Update: alicloud/ecs.hfc5.3xlarge
+- Update: alicloud/ecs.hfc5.4xlarge
+- Update: alicloud/ecs.hfc5.6xlarge
+- Update: alicloud/ecs.hfc5.8xlarge
+- Update: alicloud/ecs.hfc5.large
+- Update: alicloud/ecs.hfc5.xlarge
+- Update: alicloud/ecs.hfg5.14xlarge
+- Update: alicloud/ecs.hfg5.2xlarge
+- Update: alicloud/ecs.hfg5.3xlarge
+- Update: alicloud/ecs.hfg5.4xlarge
+- Update: alicloud/ecs.hfg5.6xlarge
+- Update: alicloud/ecs.hfg5.8xlarge
+- Update: alicloud/ecs.hfg5.large
+- Update: alicloud/ecs.hfg5.xlarge
+- Update: alicloud/ecs.i1.14xlarge
+- Update: alicloud/ecs.i1.2xlarge
+- Update: alicloud/ecs.i1.3xlarge
+- Update: alicloud/ecs.i1.4xlarge
+- Update: alicloud/ecs.i1.6xlarge
+- Update: alicloud/ecs.i1.8xlarge
+- Update: alicloud/ecs.i1-c10d1.8xlarge
+- Update: alicloud/ecs.i1-c5d1.4xlarge
+- Update: alicloud/ecs.i1.xlarge
+- Update: alicloud/ecs.n1.3xlarge
+- Update: alicloud/ecs.n1.7xlarge
+- Update: alicloud/ecs.n1.large
+- Update: alicloud/ecs.n1.medium
+- Update: alicloud/ecs.n1.small
+- Update: alicloud/ecs.n1.tiny
+- Update: alicloud/ecs.n1.xlarge
+- Update: alicloud/ecs.n2.3xlarge
+- Update: alicloud/ecs.n2.7xlarge
+- Update: alicloud/ecs.n2.large
+- Update: alicloud/ecs.n2.medium
+- Update: alicloud/ecs.n2.small
+- Update: alicloud/ecs.n2.xlarge
+- Update: alicloud/ecs.r6.13xlarge
+- Update: alicloud/ecs.r6.26xlarge
+- Update: alicloud/ecs.r6.4xlarge
+- Update: alicloud/ecs.r6.6xlarge
+- Update: alicloud/ecs.r6.8xlarge
+- Update: alicloud/ecs.se1.14xlarge
+- Update: alicloud/ecs.se1.2xlarge
+- Update: alicloud/ecs.se1.4xlarge
+- Update: alicloud/ecs.se1.8xlarge
+- Update: alicloud/ecs.se1.large
+- Update: alicloud/ecs.se1ne.14xlarge
+- Update: alicloud/ecs.se1ne.2xlarge
+- Update: alicloud/ecs.se1ne.3xlarge
+- Update: alicloud/ecs.se1ne.4xlarge
+- Update: alicloud/ecs.se1ne.6xlarge
+- Update: alicloud/ecs.se1ne.8xlarge
+- Update: alicloud/ecs.se1ne.large
+- Update: alicloud/ecs.se1ne.xlarge
+- Update: alicloud/ecs.se1.xlarge
+- Update: alicloud/ecs.sn1.3xlarge
+- Update: alicloud/ecs.sn1.7xlarge
+- Update: alicloud/ecs.sn1.large
+- Update: alicloud/ecs.sn1.medium
+- Update: alicloud/ecs.sn1ne.2xlarge
+- Update: alicloud/ecs.sn1ne.3xlarge
+- Update: alicloud/ecs.sn1ne.4xlarge
+- Update: alicloud/ecs.sn1ne.6xlarge
+- Update: alicloud/ecs.sn1ne.8xlarge
+- Update: alicloud/ecs.sn1ne.large
+- Update: alicloud/ecs.sn1ne.xlarge
+- Update: alicloud/ecs.sn1.xlarge
+- Update: alicloud/ecs.sn2.13xlarge
+- Update: alicloud/ecs.sn2.3xlarge
+- Update: alicloud/ecs.sn2.7xlarge
+- Update: alicloud/ecs.sn2.large
+- Update: alicloud/ecs.sn2.medium
+- Update: alicloud/ecs.sn2ne.14xlarge
+- Update: alicloud/ecs.sn2ne.2xlarge
+- Update: alicloud/ecs.sn2ne.3xlarge
+- Update: alicloud/ecs.sn2ne.4xlarge
+- Update: alicloud/ecs.sn2ne.6xlarge
+- Update: alicloud/ecs.sn2ne.8xlarge
+- Update: alicloud/ecs.sn2ne.large
+- Update: alicloud/ecs.sn2ne.xlarge
+- Update: alicloud/ecs.sn2.xlarge
+- Update: alicloud/ecs.t5-lc1m1.small
+- Update: alicloud/ecs.t5-lc2m1.nano
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u1-c1m1.8xlarge
+- Update: alicloud/ecs.u1-c1m2.8xlarge
+- Update: alicloud/ecs.u1-c1m4.3xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: alicloud/ecs.u1-c1m4.8xlarge
+- Update: aws/trn3.48xlarge
+- Update: azure/Standard_D96s_v5
+- Update: oci/VM.Standard.E4.Flex.64-1024
+
 ## v0.12.0+20261124225057 (Nov 24, 2026)
 
 This is an automated release with 32 new/updated/deleted resources.

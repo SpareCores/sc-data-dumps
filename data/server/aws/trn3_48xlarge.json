@@ -8,7 +8,7 @@
   },
   "display_name": "trn3.48xlarge",
   "description": "AWS Trainium Gen3 48xlarge",
-  "family": null,
+  "family": "Accelerated Computing",
   "series": "trn3",
   "vcpus": 192,
   "hypervisor": "nitro",
