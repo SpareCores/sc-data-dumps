@@ -16,8 +16,8 @@
         "benchmark_id": "compression_text:compress",
         "config_filter": {
           "algo": "gzip",
-          "cores": "single",
-          "compression_level": 5
+          "compression_level": 5,
+          "cores": "single"
         },
         "label": "Gzip compression (single-core, level 5)",
         "on_missing": "ignore",
@@ -26,17 +26,17 @@
       {
         "benchmark_id": "bw_mem",
         "config_filter": {
-          "size": 64.0,
-          "operation": "rd"
+          "operation": "rd",
+          "size": 64.0
         },
         "label": "Memory bandwidth (read, 64 MB)",
         "on_missing": "ignore",
         "weight": 0.1
       },
       {
-        "benchmark_id": "passmark:memory_mark",
+        "benchmark_id": "passmark:memory_read_uncached",
         "config_filter": null,
-        "label": "PassMark Memory Mark (composite)",
+        "label": "PassMark memory read uncached (512 MB)",
         "on_missing": "ignore",
         "weight": 0.1
       }
@@ -46,7 +46,7 @@
     "normalization": "median_ratio"
   },
   "name": "Workload profile: Data Analysis",
-  "description": "Precomputed compound score for Data Analysis workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 70% PassMark CPU Mark (composite), 10% Gzip compression (single-core, level 5), 10% Memory bandwidth (read, 64 MB), 10% PassMark Memory Mark (composite). Rationale for component selection: Data analysis and ETL workloads are memory-bandwidth-bound and CPU-throughput-driven. The profile combines general CPU performance and memory bandwidth/latency as the primary drivers, supplemented by single-core compression speed as a proxy for serialisation-heavy ETL tasks.",
+  "description": "Precomputed compound score for Data Analysis workloads. A weighted average (geometric mean) of benchmark scores compared to their medians: score = \u220f (x_i / m_i)^(w_i / \u03a3w). The score of 1.0 represents a synthetic baseline server with the median performance of each component benchmark; 0.5 means roughly half the performance; and 2.0 means twice the performance of that reference profile. Component weights: 70% PassMark CPU Mark (composite), 10% Gzip compression (single-core, level 5), 10% Memory bandwidth (read, 64 MB), 10% PassMark memory read uncached (512 MB). Rationale for component selection: Data analysis and ETL workloads are memory-bandwidth-bound and CPU-throughput-driven. The profile combines general CPU performance and memory bandwidth/latency as the primary drivers, supplemented by single-core compression speed as a proxy for serialisation-heavy ETL tasks.",
   "note": null,
   "framework": "workload_profile",
   "config_fields": {},

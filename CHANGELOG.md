@@ -1,3 +1,43 @@
+## v0.12.0+20261126234841 (Nov 26, 2026)
+
+This is an automated release with 28 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45902803174
+
+
+### server
+
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.r6e.4xlarge
+- Update: alicloud/ecs.r6e.8xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: aws/c6in.4xlarge
+- Update: aws/c7gn.metal
+- Update: aws/c7g.xlarge
+- Update: aws/c8id.8xlarge
+- Update: aws/g6e.4xlarge
+- Update: aws/m6gd.2xlarge
+- Update: aws/m8a.xlarge
+- Update: aws/m8gn.metal-24xl
+- Update: aws/r5n.16xlarge
+- Update: aws/r8ib.24xlarge
+- Update: aws/r8idb.96xlarge
+- Update: aws/x1.32xlarge
+- Update: aws/z1d.6xlarge
+- Update: oci/VM.Standard.E6.Flex.16-64
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+
+### benchmark
+
+- Update: passmark:memory_mark
+- Update: workload_profile:cache
+- Update: workload_profile:data_analysis
+
 ## v0.12.0+20261126203416 (Nov 26, 2026)
 
 This is an automated release with 31 new/updated/deleted resources.
