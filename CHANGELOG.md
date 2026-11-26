@@ -1,3 +1,90 @@
+## v0.12.0+20261126135043 (Nov 26, 2026)
+
+This is an automated release with 72 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45813844714
+
+
+### region
+
+- Update: alicloud/cn-fuzhou
+
+### server
+
+- New: alicloud/ecs.g10ae.8xlarge
+- New: alicloud/ecs.g10ae.xlarge
+- New: alicloud/ecs.g10ae.large
+- New: alicloud/ecs.g10ae.48xlarge
+- New: alicloud/ecs.g10ae.24xlarge
+- New: alicloud/ecs.g10ae.16xlarge
+- New: alicloud/ecs.g10ae.12xlarge
+- New: alicloud/ecs.g10ae.4xlarge
+- New: alicloud/ecs.g10ae.2xlarge
+- New: alicloud/ecs.g10ae.32xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.2xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.ebmgn8is.32xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.gn7i-8x.16xlarge
+- Update: alicloud/ecs.gn7i-8x.32xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.hfc9i.2xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfg9i.2xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.hfr9i.2xlarge
+- Update: alicloud/ecs.r7.large
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/c6a.12xlarge
+- Update: aws/c7g.medium
+- Update: aws/c7i-flex.4xlarge
+- Update: aws/c7i.large
+- Update: aws/c8i.32xlarge
+- Update: aws/i3en.metal
+- Update: aws/i8ge.12xlarge
+- Update: aws/m6a.48xlarge
+- Update: aws/m6idn.32xlarge
+- Update: aws/m7g.metal
+- Update: aws/m8a.medium
+- Update: aws/m8idn.2xlarge
+- Update: aws/r5d.24xlarge
+- Update: aws/r5d.metal
+- Update: aws/r7a.2xlarge
+- Update: aws/r7a.xlarge
+- Update: aws/r7iz.metal-32xl
+- Update: aws/r9g.medium
+- Update: aws/t3.2xlarge
+- Update: aws/x2iezn.6xlarge
+- Update: aws/x8g.medium
+- Update: oci/VM.Standard.E4.Flex.8-128
+- Update: oci/VM.Standard.E6.Flex.126-1008
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.12.0+20261126101759 (Nov 26, 2026)
 
 This is an automated release with 33 new/updated/deleted resources.
