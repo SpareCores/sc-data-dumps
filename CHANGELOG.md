@@ -1,3 +1,43 @@
+## v0.12.0+20261126203416 (Nov 26, 2026)
+
+This is an automated release with 31 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45878806056
+
+
+### server
+
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.ebmg8y.32xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.g6t.13xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfg8i.3xlarge
+- Update: alicloud/ecs.r6e.4xlarge
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.u0.c1m1.large
+- Update: alicloud/ecs.u0.c1m2.large
+- Update: aws/c5a.4xlarge
+- Update: aws/c6in.4xlarge
+- Update: aws/c6in.metal
+- Update: aws/c7gd.medium
+- Update: aws/c8ine.4xlarge
+- Update: aws/m8idn.metal-96xl
+- Update: aws/r4.4xlarge
+- Update: aws/r5b.24xlarge
+- Update: aws/r6id.4xlarge
+- Update: aws/r8gn.xlarge
+- Update: aws/r8idb.large
+- Update: aws/r8in.8xlarge
+- Update: aws/r9g.12xlarge
+- Update: aws/t8i.nano
+- Update: oci/VM.Standard.A2.Flex.1-4
+- Update: oci/VM.Standard.E6.Ax.Flex.4-64
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
 ## v0.12.0+20261126171721 (Nov 26, 2026)
 
 This is an automated release with 40 new/updated/deleted resources.
