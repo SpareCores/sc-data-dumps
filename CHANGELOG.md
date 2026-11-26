@@ -1,3 +1,51 @@
+## v0.12.0+20261126065023 (Nov 26, 2026)
+
+This is an automated release with 36 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45757508124
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.2xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.g6e.13xlarge
+- Update: alicloud/ecs.g6e.8xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn5-c8g1.14xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is.2xlarge
+- Update: alicloud/ecs.gn8is.4xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.hfc9i.2xlarge
+- Update: alicloud/ecs.hfg9i.2xlarge
+- Update: alicloud/ecs.hfr9i.2xlarge
+- Update: alicloud/ecs.r6e.4xlarge
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.t5-c1m1.large
+- Update: alicloud/ecs.t5-lc1m2.small
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/x8g.4xlarge
+- Update: oci/VM.Standard.A1.Flex.1-2
+- Update: oci/VM.Standard.E4.Flex.64-1024
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.12.0+20261126032750 (Nov 26, 2026)
 
 This is an automated release with 35 new/updated/deleted resources.

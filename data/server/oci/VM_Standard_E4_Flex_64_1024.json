@@ -125,7 +125,14 @@
     "wbnoinvd",
     "arat",
     "npt",
+    "lbrv",
     "nrip_save",
+    "tsc_scale",
+    "vmcb_clean",
+    "flushbyasid",
+    "pausefilter",
+    "pfthreshold",
+    "v_vmsave_vmload",
     "vgif",
     "umip",
     "pku",
@@ -175,7 +182,7 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 1,
-  "average_time_to_start": 49.0,
+  "average_time_to_start": 48.5,
   "retirement_date": null,
   "status": "ACTIVE"
 }
