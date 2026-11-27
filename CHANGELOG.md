@@ -1,3 +1,57 @@
+## v0.12.0+20261127033719 (Nov 27, 2026)
+
+This is an automated release with 42 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45922746978
+
+
+### server
+
+- Update: alicloud/ecs.d1-c14d3.14xlarge
+- Update: alicloud/ecs.d1-c8d3.8xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.gn9gc.4xlarge
+- Update: alicloud/ecs.gn9gc-8x.64xlarge
+- Update: alicloud/ecs.gn9gc.8xlarge
+- Update: alicloud/ecs.hfg6.4xlarge
+- Update: alicloud/ecs.hfr6.4xlarge
+- Update: alicloud/ecs.r6e.4xlarge
+- Update: alicloud/ecs.r6e.8xlarge
+- Update: alicloud/ecs.t5-c1m1.large
+- Update: alicloud/ecs.t5-lc1m2.small
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: aws/c6g.12xlarge
+- Update: aws/c8gd.metal-24xl
+- Update: aws/c8i-flex.12xlarge
+- Update: aws/hpc6a.48xlarge
+- Update: aws/i8g.2xlarge
+- Update: aws/m8idb.metal-96xl
+- Update: aws/r9g.4xlarge
+- Update: aws/r9g.xlarge
+- Update: aws/t8i.medium
+- Update: aws/x8g.xlarge
+- Update: oci/VM.Standard.A4.Ax.Flex.1-4
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.12.0+20261126234841 (Nov 26, 2026)
 
 This is an automated release with 28 new/updated/deleted resources.
