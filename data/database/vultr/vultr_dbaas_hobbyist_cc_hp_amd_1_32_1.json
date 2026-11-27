@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-hobbyist-cc-hp-amd-1-32-1",
-  "description": "Vultr PostgreSQL Hobbyist High Performance AMD (1 vCPUs, 1.0 GiB RAM, 32 GB SSD)",
+  "description": "Vultr PostgreSQL Hobbyist High Performance AMD (1 vCPUs, 1 GiB RAM, 32 GB SSD)",
   "family": "Hobbyist",
   "series": "vhp-amd",
   "server_id": null,

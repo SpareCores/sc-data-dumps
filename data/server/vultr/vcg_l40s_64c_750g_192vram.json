@@ -7,7 +7,7 @@
     "plan": "vcg-l40s-64c-750g-192vram"
   },
   "display_name": "vcg-l40s-64c-750g-192vram",
-  "description": "Cloud GPU (64 vCPUs, 750.0 GiB RAM, 2600 GB NVMe, 4xL40S 48 GiB VRAM)",
+  "description": "Cloud GPU (64 vCPUs, 750 GiB RAM, 2600 GB NVMe, 4xL40S 48 GiB VRAM)",
   "family": "Cloud GPU",
   "series": "l40s",
   "vcpus": 64,

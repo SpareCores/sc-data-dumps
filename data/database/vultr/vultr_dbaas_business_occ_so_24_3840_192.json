@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-business-occ-so-24-3840-192",
-  "description": "Vultr PostgreSQL Business Optimized Cloud Compute Storage Optimized (24 vCPUs, 192.0 GiB RAM, 3840 GB SSD)",
+  "description": "Vultr PostgreSQL Business Optimized Cloud Compute Storage Optimized (24 vCPUs, 192 GiB RAM, 3840 GB SSD)",
   "family": "Business",
   "series": "voc-s",
   "server_id": null,

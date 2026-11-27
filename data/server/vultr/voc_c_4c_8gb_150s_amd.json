@@ -7,7 +7,7 @@
     "plan": "voc-c-4c-8gb-150s-amd"
   },
   "display_name": "voc-c-4c-8gb-150s-amd",
-  "description": "Optimized Cloud Compute (4 vCPUs, 8.0 GiB RAM, 150 GB NVMe)",
+  "description": "Optimized Cloud Compute (4 vCPUs, 8 GiB RAM, 150 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-c",
   "vcpus": 4,

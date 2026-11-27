@@ -7,7 +7,7 @@
     "plan": "vx1-g-64c-256g"
   },
   "display_name": "vx1-g-64c-256g",
-  "description": "VX1 Cloud Compute (64 vCPUs, 256.0 GiB RAM, 1 GB NVMe)",
+  "description": "VX1 Cloud Compute (64 vCPUs, 256 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-g",
   "vcpus": 64,

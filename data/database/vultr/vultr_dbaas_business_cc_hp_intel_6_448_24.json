@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-business-cc-hp-intel-6-448-24",
-  "description": "Vultr PostgreSQL Business High Performance Intel (6 vCPUs, 24.0 GiB RAM, 448 GB SSD)",
+  "description": "Vultr PostgreSQL Business High Performance Intel (6 vCPUs, 24 GiB RAM, 448 GB SSD)",
   "family": "Business",
   "series": "vhp-intel",
   "server_id": null,

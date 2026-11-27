@@ -7,7 +7,7 @@
     "plan": "vx1-m-8c-64g-480s"
   },
   "display_name": "vx1-m-8c-64g-480s",
-  "description": "VX1 Cloud Compute (8 vCPUs, 64.0 GiB RAM, 480 GB NVMe)",
+  "description": "VX1 Cloud Compute (8 vCPUs, 64 GiB RAM, 480 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-m",
   "vcpus": 8,

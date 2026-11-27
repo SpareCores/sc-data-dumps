@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-business-cc-hp-amd-2-80-2",
-  "description": "Vultr PostgreSQL Business High Performance AMD (2 vCPUs, 2.0 GiB RAM, 80 GB SSD)",
+  "description": "Vultr PostgreSQL Business High Performance AMD (2 vCPUs, 2 GiB RAM, 80 GB SSD)",
   "family": "Business",
   "series": "vhp-amd",
   "server_id": null,

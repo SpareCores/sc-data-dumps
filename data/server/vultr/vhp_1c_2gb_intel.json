@@ -7,7 +7,7 @@
     "plan": "vhp-1c-2gb-intel"
   },
   "display_name": "vhp-1c-2gb-intel",
-  "description": "High Performance (1 vCPUs, 2.0 GiB RAM, 50 GB NVMe)",
+  "description": "High Performance (1 vCPUs, 2 GiB RAM, 50 GB NVMe)",
   "family": "High Performance",
   "series": "vhp-intel",
   "vcpus": 1,

@@ -7,7 +7,7 @@
     "plan": "voc-s-24c-192gb-5760s-amd"
   },
   "display_name": "voc-s-24c-192gb-5760s-amd",
-  "description": "Optimized Cloud Compute (24 vCPUs, 192.0 GiB RAM, 5760 GB NVMe)",
+  "description": "Optimized Cloud Compute (24 vCPUs, 192 GiB RAM, 5760 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-s",
   "vcpus": 24,

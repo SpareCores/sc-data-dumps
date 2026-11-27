@@ -7,7 +7,7 @@
     "plan": "vhp-1c-1gb-amd"
   },
   "display_name": "vhp-1c-1gb-amd",
-  "description": "High Performance (1 vCPUs, 1.0 GiB RAM, 25 GB NVMe)",
+  "description": "High Performance (1 vCPUs, 1 GiB RAM, 25 GB NVMe)",
   "family": "High Performance",
   "series": "vhp-amd",
   "vcpus": 1,

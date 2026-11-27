@@ -7,7 +7,7 @@
     "plan": "vx1-m-192c-1536g-11520s"
   },
   "display_name": "vx1-m-192c-1536g-11520s",
-  "description": "VX1 Cloud Compute (192 vCPUs, 1430.0 GiB RAM, 10720 GB NVMe)",
+  "description": "VX1 Cloud Compute (192 vCPUs, 1430 GiB RAM, 10720 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-m",
   "vcpus": 192,

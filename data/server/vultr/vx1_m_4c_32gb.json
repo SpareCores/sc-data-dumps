@@ -7,7 +7,7 @@
     "plan": "vx1-m-4c-32gb"
   },
   "display_name": "vx1-m-4c-32gb",
-  "description": "VX1 Cloud Compute (4 vCPUs, 32.0 GiB RAM, 1 GB NVMe)",
+  "description": "VX1 Cloud Compute (4 vCPUs, 32 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-m",
   "vcpus": 4,

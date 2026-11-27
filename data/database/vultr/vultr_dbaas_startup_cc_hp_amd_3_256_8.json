@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-startup-cc-hp-amd-3-256-8",
-  "description": "Vultr PostgreSQL Startup High Performance AMD (3 vCPUs, 8.0 GiB RAM, 256 GB SSD)",
+  "description": "Vultr PostgreSQL Startup High Performance AMD (3 vCPUs, 8 GiB RAM, 256 GB SSD)",
   "family": "Startup",
   "series": "vhp-amd",
   "server_id": null,

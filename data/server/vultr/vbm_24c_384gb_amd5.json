@@ -7,7 +7,7 @@
     "plan": "vbm-24c-384gb-amd5"
   },
   "display_name": "vbm-24c-384gb-amd5",
-  "description": "Bare Metal NVMe (48 vCPUs, 384.0 GiB RAM, 960 GB NVMe)",
+  "description": "Bare Metal NVMe (48 vCPUs, 384 GiB RAM, 960 GB NVMe)",
   "family": "Bare Metal NVMe",
   "series": null,
   "vcpus": 48,

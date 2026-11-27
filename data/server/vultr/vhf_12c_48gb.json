@@ -7,7 +7,7 @@
     "plan": "vhf-12c-48gb"
   },
   "display_name": "vhf-12c-48gb",
-  "description": "High Frequency Compute (12 vCPUs, 48.0 GiB RAM, 768 GB NVMe)",
+  "description": "High Frequency Compute (12 vCPUs, 48 GiB RAM, 768 GB NVMe)",
   "family": "High Frequency Compute",
   "series": "vhf",
   "vcpus": 12,

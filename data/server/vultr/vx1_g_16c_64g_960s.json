@@ -7,7 +7,7 @@
     "plan": "vx1-g-16c-64g-960s"
   },
   "display_name": "vx1-g-16c-64g-960s",
-  "description": "VX1 Cloud Compute (16 vCPUs, 64.0 GiB RAM, 960 GB NVMe)",
+  "description": "VX1 Cloud Compute (16 vCPUs, 64 GiB RAM, 960 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-g",
   "vcpus": 16,

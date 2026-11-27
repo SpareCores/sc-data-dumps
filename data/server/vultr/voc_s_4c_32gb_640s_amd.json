@@ -7,7 +7,7 @@
     "plan": "voc-s-4c-32gb-640s-amd"
   },
   "display_name": "voc-s-4c-32gb-640s-amd",
-  "description": "Optimized Cloud Compute (4 vCPUs, 32.0 GiB RAM, 640 GB NVMe)",
+  "description": "Optimized Cloud Compute (4 vCPUs, 32 GiB RAM, 640 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-s",
   "vcpus": 4,

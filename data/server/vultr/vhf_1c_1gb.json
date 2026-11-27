@@ -7,7 +7,7 @@
     "plan": "vhf-1c-1gb"
   },
   "display_name": "vhf-1c-1gb",
-  "description": "High Frequency Compute (1 vCPUs, 1.0 GiB RAM, 32 GB NVMe)",
+  "description": "High Frequency Compute (1 vCPUs, 1 GiB RAM, 32 GB NVMe)",
   "family": "High Frequency Compute",
   "series": "vhf",
   "vcpus": 1,

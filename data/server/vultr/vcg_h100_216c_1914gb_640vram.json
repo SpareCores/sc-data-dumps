@@ -7,7 +7,7 @@
     "plan": "vcg-h100-216c-1914gb-640vram"
   },
   "display_name": "vcg-h100-216c-1914gb-640vram",
-  "description": "Dedicated Metal GPU (216 vCPUs, 1883.90625 GiB RAM, 13312 GB NVMe, 8xH100 80 GiB VRAM)",
+  "description": "Dedicated Metal GPU (216 vCPUs, 1883.91 GiB RAM, 13312 GB NVMe, 8xH100 80 GiB VRAM)",
   "family": "Dedicated Metal GPU",
   "series": "h100",
   "vcpus": 216,

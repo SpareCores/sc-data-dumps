@@ -7,7 +7,7 @@
     "plan": "voc-g-40c-160gb-768s-amd"
   },
   "display_name": "voc-g-40c-160gb-768s-amd",
-  "description": "Optimized Cloud Compute (40 vCPUs, 160.0 GiB RAM, 768 GB NVMe)",
+  "description": "Optimized Cloud Compute (40 vCPUs, 160 GiB RAM, 768 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-g",
   "vcpus": 40,

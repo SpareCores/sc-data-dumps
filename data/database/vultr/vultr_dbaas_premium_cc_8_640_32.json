@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-premium-cc-8-640-32",
-  "description": "Vultr PostgreSQL Premium Cloud Compute (8 vCPUs, 32.0 GiB RAM, 640 GB SSD)",
+  "description": "Vultr PostgreSQL Premium Cloud Compute (8 vCPUs, 32 GiB RAM, 640 GB SSD)",
   "family": "Premium",
   "series": "vc2",
   "server_id": null,

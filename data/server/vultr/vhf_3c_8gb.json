@@ -7,7 +7,7 @@
     "plan": "vhf-3c-8gb"
   },
   "display_name": "vhf-3c-8gb",
-  "description": "High Frequency Compute (3 vCPUs, 8.0 GiB RAM, 256 GB NVMe)",
+  "description": "High Frequency Compute (3 vCPUs, 8 GiB RAM, 256 GB NVMe)",
   "family": "High Frequency Compute",
   "series": "vhf",
   "vcpus": 3,

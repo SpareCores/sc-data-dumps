@@ -7,7 +7,7 @@
     "plan": "vbm-64c-2048gb-8-l40-gpu"
   },
   "display_name": "vbm-64c-2048gb-8-l40-gpu",
-  "description": "Bare Metal SSD (128 vCPUs, 2048.0 GiB RAM, 960 GB SSD, 8xL40S 48 GiB VRAM)",
+  "description": "Bare Metal SSD (128 vCPUs, 2048 GiB RAM, 960 GB SSD, 8xL40S 48 GiB VRAM)",
   "family": "Bare Metal SSD",
   "series": null,
   "vcpus": 128,

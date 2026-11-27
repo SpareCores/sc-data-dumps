@@ -7,7 +7,7 @@
     "plan": "vbm-6c-32gb-amd"
   },
   "display_name": "vbm-6c-32gb-amd",
-  "description": "Bare Metal NVMe (12 vCPUs, 32.0 GiB RAM, 1920 GB NVMe)",
+  "description": "Bare Metal NVMe (12 vCPUs, 32 GiB RAM, 1920 GB NVMe)",
   "family": "Bare Metal NVMe",
   "series": null,
   "vcpus": 12,

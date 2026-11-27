@@ -7,7 +7,7 @@
     "plan": "vbm-24c-256gb-amd"
   },
   "display_name": "vbm-24c-256gb-amd",
-  "description": "Bare Metal SSD (48 vCPUs, 256.0 GiB RAM, 960 GB SSD)",
+  "description": "Bare Metal SSD (48 vCPUs, 256 GiB RAM, 960 GB SSD)",
   "family": "Bare Metal SSD",
   "series": null,
   "vcpus": 48,

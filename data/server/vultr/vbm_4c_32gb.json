@@ -7,7 +7,7 @@
     "plan": "vbm-4c-32gb"
   },
   "display_name": "vbm-4c-32gb",
-  "description": "Bare Metal SSD (8 vCPUs, 32.0 GiB RAM, 480 GB SSD)",
+  "description": "Bare Metal SSD (8 vCPUs, 32 GiB RAM, 480 GB SSD)",
   "family": "Bare Metal SSD",
   "series": null,
   "vcpus": 8,

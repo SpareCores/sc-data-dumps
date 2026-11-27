@@ -7,7 +7,7 @@
     "plan": "vbm-8c-132gb"
   },
   "display_name": "vbm-8c-132gb",
-  "description": "Bare Metal NVMe (16 vCPUs, 128.0 GiB RAM, 3840 GB NVMe)",
+  "description": "Bare Metal NVMe (16 vCPUs, 128 GiB RAM, 3840 GB NVMe)",
   "family": "Bare Metal NVMe",
   "series": null,
   "vcpus": 16,

@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-premium-cc-hp-amd-6-448-24",
-  "description": "Vultr PostgreSQL Premium High Performance AMD (6 vCPUs, 24.0 GiB RAM, 448 GB SSD)",
+  "description": "Vultr PostgreSQL Premium High Performance AMD (6 vCPUs, 24 GiB RAM, 448 GB SSD)",
   "family": "Premium",
   "series": "vhp-amd",
   "server_id": null,

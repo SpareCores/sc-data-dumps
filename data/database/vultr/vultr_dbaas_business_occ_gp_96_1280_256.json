@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-business-occ-gp-96-1280-256",
-  "description": "Vultr PostgreSQL Business Optimized Cloud Compute General Purpose (96 vCPUs, 256.0 GiB RAM, 1280 GB SSD)",
+  "description": "Vultr PostgreSQL Business Optimized Cloud Compute General Purpose (96 vCPUs, 256 GiB RAM, 1280 GB SSD)",
   "family": "Business",
   "series": "voc-g",
   "server_id": null,

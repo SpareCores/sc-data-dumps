@@ -7,7 +7,7 @@
     "plan": "vc2-2c-4gb"
   },
   "display_name": "vc2-2c-4gb",
-  "description": "Cloud Compute (2 vCPUs, 4.0 GiB RAM, 80 GB NVMe)",
+  "description": "Cloud Compute (2 vCPUs, 4 GiB RAM, 80 GB NVMe)",
   "family": "Cloud Compute",
   "series": "vc2",
   "vcpus": 2,

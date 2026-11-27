@@ -7,7 +7,7 @@
     "plan": "vc2-8c-32gb"
   },
   "display_name": "vc2-8c-32gb",
-  "description": "Cloud Compute (8 vCPUs, 32.0 GiB RAM, 640 GB NVMe)",
+  "description": "Cloud Compute (8 vCPUs, 32 GiB RAM, 640 GB NVMe)",
   "family": "Cloud Compute",
   "series": "vc2",
   "vcpus": 8,

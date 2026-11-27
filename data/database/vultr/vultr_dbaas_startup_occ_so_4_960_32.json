@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-startup-occ-so-4-960-32",
-  "description": "Vultr PostgreSQL Startup Optimized Cloud Compute Storage Optimized (4 vCPUs, 32.0 GiB RAM, 960 GB SSD)",
+  "description": "Vultr PostgreSQL Startup Optimized Cloud Compute Storage Optimized (4 vCPUs, 32 GiB RAM, 960 GB SSD)",
   "family": "Startup",
   "series": "voc-s",
   "server_id": null,

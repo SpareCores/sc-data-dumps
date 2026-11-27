@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-startup-cc-hp-intel-12-768-48",
-  "description": "Vultr PostgreSQL Startup High Performance Intel (12 vCPUs, 48.0 GiB RAM, 768 GB SSD)",
+  "description": "Vultr PostgreSQL Startup High Performance Intel (12 vCPUs, 48 GiB RAM, 768 GB SSD)",
   "family": "Startup",
   "series": "vhp-intel",
   "server_id": null,

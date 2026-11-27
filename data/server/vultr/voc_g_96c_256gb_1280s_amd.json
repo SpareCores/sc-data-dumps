@@ -7,7 +7,7 @@
     "plan": "voc-g-96c-256gb-1280s-amd"
   },
   "display_name": "voc-g-96c-256gb-1280s-amd",
-  "description": "Optimized Cloud Compute (96 vCPUs, 256.0 GiB RAM, 1280 GB NVMe)",
+  "description": "Optimized Cloud Compute (96 vCPUs, 256 GiB RAM, 1280 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-g",
   "vcpus": 96,

@@ -7,7 +7,7 @@
     "plan": "vx1-g-32c-128g"
   },
   "display_name": "vx1-g-32c-128g",
-  "description": "VX1 Cloud Compute (32 vCPUs, 128.0 GiB RAM, 1 GB NVMe)",
+  "description": "VX1 Cloud Compute (32 vCPUs, 128 GiB RAM, 1 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-g",
   "vcpus": 32,

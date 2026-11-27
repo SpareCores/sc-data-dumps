@@ -7,7 +7,7 @@
     "plan": "vcg-b200-248c-2826g-1536vram"
   },
   "display_name": "vcg-b200-248c-2826g-1536vram",
-  "description": "Dedicated Metal GPU (248 vCPUs, 2826.0 GiB RAM, 13312 GB NVMe, 8xB200 192 GiB VRAM)",
+  "description": "Dedicated Metal GPU (248 vCPUs, 2826 GiB RAM, 13312 GB NVMe, 8xB200 192 GiB VRAM)",
   "family": "Dedicated Metal GPU",
   "series": "b200",
   "vcpus": 248,

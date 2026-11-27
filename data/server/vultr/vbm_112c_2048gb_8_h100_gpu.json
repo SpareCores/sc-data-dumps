@@ -7,7 +7,7 @@
     "plan": "vbm-112c-2048gb-8-h100-gpu"
   },
   "display_name": "vbm-112c-2048gb-8-h100-gpu",
-  "description": "Bare Metal NVMe (224 vCPUs, 2015.353515625 GiB RAM, 1920 GB NVMe, 8xH100 80 GiB VRAM)",
+  "description": "Bare Metal NVMe (224 vCPUs, 2015.35 GiB RAM, 1920 GB NVMe, 8xH100 80 GiB VRAM)",
   "family": "Bare Metal NVMe",
   "series": null,
   "vcpus": 224,

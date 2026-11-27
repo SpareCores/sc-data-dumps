@@ -7,7 +7,7 @@
     "plan": "vhf-6c-24gb"
   },
   "display_name": "vhf-6c-24gb",
-  "description": "High Frequency Compute (6 vCPUs, 24.0 GiB RAM, 448 GB NVMe)",
+  "description": "High Frequency Compute (6 vCPUs, 24 GiB RAM, 448 GB NVMe)",
   "family": "High Frequency Compute",
   "series": "vhf",
   "vcpus": 6,

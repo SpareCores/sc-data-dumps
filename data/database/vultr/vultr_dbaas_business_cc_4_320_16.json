@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-business-cc-4-320-16",
-  "description": "Vultr PostgreSQL Business Cloud Compute (6 vCPUs, 16.0 GiB RAM, 320 GB SSD)",
+  "description": "Vultr PostgreSQL Business Cloud Compute (6 vCPUs, 16 GiB RAM, 320 GB SSD)",
   "family": "Business",
   "series": "vc2",
   "server_id": null,

@@ -7,7 +7,7 @@
     "plan": "voc-s-2c-16gb-320s-amd"
   },
   "display_name": "voc-s-2c-16gb-320s-amd",
-  "description": "Optimized Cloud Compute (2 vCPUs, 16.0 GiB RAM, 320 GB NVMe)",
+  "description": "Optimized Cloud Compute (2 vCPUs, 16 GiB RAM, 320 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-s",
   "vcpus": 2,

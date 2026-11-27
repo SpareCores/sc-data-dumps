@@ -7,7 +7,7 @@
     "plan": "vhf-4c-16gb"
   },
   "display_name": "vhf-4c-16gb",
-  "description": "High Frequency Compute (4 vCPUs, 16.0 GiB RAM, 384 GB NVMe)",
+  "description": "High Frequency Compute (4 vCPUs, 16 GiB RAM, 384 GB NVMe)",
   "family": "High Frequency Compute",
   "series": "vhf",
   "vcpus": 4,

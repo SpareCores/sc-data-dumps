@@ -7,7 +7,7 @@
     "plan": "voc-c-32c-64gb-500s-amd"
   },
   "display_name": "voc-c-32c-64gb-500s-amd",
-  "description": "Optimized Cloud Compute (32 vCPUs, 64.0 GiB RAM, 500 GB NVMe)",
+  "description": "Optimized Cloud Compute (32 vCPUs, 64 GiB RAM, 500 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-c",
   "vcpus": 32,

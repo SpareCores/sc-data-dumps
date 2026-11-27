@@ -7,7 +7,7 @@
     "plan": "vc2-1c-1gb"
   },
   "display_name": "vc2-1c-1gb",
-  "description": "Cloud Compute (1 vCPUs, 1.0 GiB RAM, 25 GB NVMe)",
+  "description": "Cloud Compute (1 vCPUs, 1 GiB RAM, 25 GB NVMe)",
   "family": "Cloud Compute",
   "series": "vc2",
   "vcpus": 1,

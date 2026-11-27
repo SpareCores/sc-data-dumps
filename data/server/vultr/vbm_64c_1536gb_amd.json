@@ -7,7 +7,7 @@
     "plan": "vbm-64c-1536gb-amd"
   },
   "display_name": "vbm-64c-1536gb-amd",
-  "description": "Bare Metal NVMe (128 vCPUs, 1536.0 GiB RAM, 480 GB NVMe)",
+  "description": "Bare Metal NVMe (128 vCPUs, 1536 GiB RAM, 480 GB NVMe)",
   "family": "Bare Metal NVMe",
   "series": null,
   "vcpus": 128,

@@ -7,7 +7,7 @@
     "plan": "vx1-m-48c-384g-2880s"
   },
   "display_name": "vx1-m-48c-384g-2880s",
-  "description": "VX1 Cloud Compute (48 vCPUs, 384.0 GiB RAM, 2880 GB NVMe)",
+  "description": "VX1 Cloud Compute (48 vCPUs, 384 GiB RAM, 2880 GB NVMe)",
   "family": "VX1 Cloud Compute",
   "series": "vx1-m",
   "vcpus": 48,

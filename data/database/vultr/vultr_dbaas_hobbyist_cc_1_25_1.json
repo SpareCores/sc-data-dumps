@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-hobbyist-cc-1-25-1",
-  "description": "Vultr PostgreSQL Hobbyist Cloud Compute (1 vCPUs, 1.0 GiB RAM, 25 GB SSD)",
+  "description": "Vultr PostgreSQL Hobbyist Cloud Compute (1 vCPUs, 1 GiB RAM, 25 GB SSD)",
   "family": "Hobbyist",
   "series": "vc2",
   "server_id": null,

@@ -7,7 +7,7 @@
     "plan": "voc-s-8c-64gb-1280s-amd"
   },
   "display_name": "voc-s-8c-64gb-1280s-amd",
-  "description": "Optimized Cloud Compute (8 vCPUs, 64.0 GiB RAM, 1280 GB NVMe)",
+  "description": "Optimized Cloud Compute (8 vCPUs, 64 GiB RAM, 1280 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-s",
   "vcpus": 8,

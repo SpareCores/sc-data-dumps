@@ -7,7 +7,7 @@
     "plan": "voc-g-2c-8gb-50s-amd"
   },
   "display_name": "voc-g-2c-8gb-50s-amd",
-  "description": "Optimized Cloud Compute (2 vCPUs, 8.0 GiB RAM, 50 GB NVMe)",
+  "description": "Optimized Cloud Compute (2 vCPUs, 8 GiB RAM, 50 GB NVMe)",
   "family": "Optimized Cloud Compute",
   "series": "voc-g",
   "vcpus": 2,

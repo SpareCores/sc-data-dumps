@@ -8,7 +8,7 @@
     "database_engine": "pg"
   },
   "display_name": "vultr-dbaas-premium-occ-gp-1-30-4",
-  "description": "Vultr PostgreSQL Premium Optimized Cloud Compute General Purpose (1 vCPUs, 4.0 GiB RAM, 30 GB SSD)",
+  "description": "Vultr PostgreSQL Premium Optimized Cloud Compute General Purpose (1 vCPUs, 4 GiB RAM, 30 GB SSD)",
   "family": "Premium",
   "series": "voc-g",
   "server_id": null,
