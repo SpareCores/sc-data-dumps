@@ -124,7 +124,20 @@
   "accelerator_manufacturer": "NVIDIA",
   "accelerator_family": "Ampere",
   "accelerator_model": "A40",
-  "accelerators": [],
+  "accelerators": [
+    {
+      "manufacturer": "NVIDIA",
+      "family": "Ampere",
+      "model": "NVIDIA A40",
+      "memory": 46068,
+      "firmware_version": "570.211.01",
+      "bios_version": "94.02.5C.00.0F",
+      "graphics_clock": 1740,
+      "sm_clock": 1740,
+      "mem_clock": 7251,
+      "video_clock": 1530
+    }
+  ],
   "storage_size": 1400,
   "storage_type": "NVME_SSD",
   "storages": [],
@@ -143,7 +156,7 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 15360.0,
   "ipv4": 1,
-  "average_time_to_start": 62.0,
+  "average_time_to_start": 77.0,
   "retirement_date": null,
   "status": "ACTIVE"
 }

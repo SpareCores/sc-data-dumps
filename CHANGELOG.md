@@ -1,3 +1,47 @@
+## v0.12.0+20261127191451 (Nov 27, 2026)
+
+This is an automated release with 35 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/46036664881
+
+
+### server
+
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7.4xlarge
+- Update: alicloud/ecs.ebmr9i.48xlarge
+- Update: alicloud/ecs.g7.4xlarge
+- Update: alicloud/ecs.g7.6xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.gn8is-4x.16xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.s6-c1m2.large
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/c6g.xlarge
+- Update: aws/c7g.2xlarge
+- Update: aws/c7i.xlarge
+- Update: aws/i3en.6xlarge
+- Update: aws/i3en.metal
+- Update: aws/i4i.large
+- Update: aws/m6id.2xlarge
+- Update: aws/r7a.32xlarge
+- Update: aws/r8g.xlarge
+- Update: aws/r8in.24xlarge
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-3xL40S
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+- Update: upcloud/GPU-20xCPU-256GB-3xL40S
+- Update: upcloud/GPU-32xCPU-384GB-2xL40S
+- Update: upcloud/GPU-32xCPU-384GB-3xL40S
+- Update: vultr/vcg-a100-12c-120g-80vram
+- Update: vultr/vcg-a40-24c-120g-48vram
+
 ## v0.12.0+20261127151846 (Nov 27, 2026)
 
 This is an automated release with 353 new/updated/deleted resources.
