@@ -1,3 +1,53 @@
+## v0.12.0+20261127073721 (Nov 27, 2026)
+
+This is an automated release with 41 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/45943970910
+
+
+### server
+
+- Update: alicloud/ecs.c6a.16xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c7nex.2xlarge
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmg6.26xlarge
+- Update: alicloud/ecs.g6a.16xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.g7.xlarge
+- Update: alicloud/ecs.gn8ia.16xlarge
+- Update: alicloud/ecs.gn8ia-2x.8xlarge
+- Update: alicloud/ecs.gn8ia.4xlarge
+- Update: alicloud/ecs.gn8ia.8xlarge
+- Update: alicloud/ecs.gn8v-2x.12xlarge
+- Update: alicloud/ecs.gn8v-2x.8xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc9i.3xlarge
+- Update: alicloud/ecs.hfg9i.3xlarge
+- Update: alicloud/ecs.hfr9i.3xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: aws/c6i.xlarge
+- Update: aws/c7a.4xlarge
+- Update: aws/i7i.xlarge
+- Update: aws/m5.8xlarge
+- Update: aws/m8gb.metal-24xl
+- Update: aws/r3.2xlarge
+- Update: aws/r5a.12xlarge
+- Update: aws/r7a.medium
+- Update: aws/r7gd.8xlarge
+- Update: aws/r8ib.48xlarge
+- Update: aws/r8in.16xlarge
+- Update: aws/r8i.xlarge
+- Update: aws/t9g.medium
+- Update: aws/x8i.8xlarge
+- Update: oci/BM.Standard3.64
+- Update: oci/VM.Standard.E5.Flex.4-64
+- Update: ovh/a10-45
+- Update: ovh/h200-1920-eph
+
 ## v0.12.0+20261127033719 (Nov 27, 2026)
 
 This is an automated release with 42 new/updated/deleted resources.
