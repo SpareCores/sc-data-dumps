@@ -1,3 +1,70 @@
+## v0.12.0+20261128094546 (Nov 28, 2026)
+
+This is an automated release with 58 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/46122869228
+
+
+### server
+
+- Update: alicloud/ecs.c7nex.32xlarge
+- Update: alicloud/ecs.e4.small
+- Update: alicloud/ecs.ebmgn7ix.32xlarge
+- Update: alicloud/ecs.g7nex.2xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.gn8is-4x.16xlarge
+- Update: alicloud/ecs.gn8v.4xlarge
+- Update: alicloud/ecs.gn8v.6xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.s6-c1m2.2xlarge
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.2xlarge
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.t6-c1m1.large
+- Update: alicloud/ecs.t6-c1m2.large
+- Update: alicloud/ecs.t6-c1m4.large
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u1-c1m1.4xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: aws/c6in.8xlarge
+- Update: aws/c6in.xlarge
+- Update: aws/c7g.12xlarge
+- Update: aws/c7g.4xlarge
+- Update: aws/c7g.8xlarge
+- Update: aws/c7g.metal
+- Update: aws/c8g.medium
+- Update: aws/i7i.16xlarge
+- Update: aws/i7i.24xlarge
+- Update: aws/i7i.48xlarge
+- Update: aws/i7i.4xlarge
+- Update: aws/i7i.8xlarge
+- Update: aws/i7i.large
+- Update: aws/i7i.metal-24xl
+- Update: aws/i7i.metal-48xl
+- Update: aws/m6gd.12xlarge
+- Update: aws/m6gd.8xlarge
+- Update: aws/r6g.4xlarge
+- Update: aws/r6i.12xlarge
+- Update: aws/r6i.2xlarge
+- Update: aws/r6i.8xlarge
+- Update: aws/r6i.large
+- Update: aws/r6i.xlarge
+- Update: aws/r7gd.12xlarge
+- Update: aws/r7gd.2xlarge
+- Update: aws/r7gd.4xlarge
+- Update: aws/r7gd.large
+- Update: aws/r8g.12xlarge
+- Update: aws/r8g.4xlarge
+- Update: aws/t4g.nano
+- Update: aws/t4g.xlarge
+- Update: oci/VM.Standard.A1.Flex.1-4
+- Update: oci/VM.Standard.A1.Flex.1-8
+- Update: oci/VM.Standard.A1.Flex.2-4
+- Update: vultr/vcg-l40s-16c-180g-48vram
+- Update: vultr/vcg-l40s-32c-375g-96vram
+
 ## v0.12.0+20261128062733 (Nov 28, 2026)
 
 This is an automated release with 86 new/updated/deleted resources.
