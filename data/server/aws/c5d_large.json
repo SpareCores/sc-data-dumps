@@ -86,6 +86,7 @@
     "lahf_lm",
     "abm",
     "3dnowprefetch",
+    "cpuid_fault",
     "pti",
     "fsgsbase",
     "tsc_adjust",
@@ -165,7 +166,7 @@
   "inbound_traffic": 0.0,
   "outbound_traffic": 0.0,
   "ipv4": 0,
-  "average_time_to_start": null,
+  "average_time_to_start": 16.0,
   "retirement_date": null,
   "status": "ACTIVE"
 }

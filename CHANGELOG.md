@@ -1,3 +1,75 @@
+## v0.12.0+20261128162905 (Nov 28, 2026)
+
+This is an automated release with 57 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/46154813899
+
+
+### region
+
+- Update: alicloud/cn-heyuan
+
+### zone
+
+- Update: alicloud/cn-heyuan/cn-heyuan-a
+- Update: alicloud/cn-heyuan/cn-heyuan-b
+- Update: alicloud/cn-heyuan/cn-heyuan-c
+
+### server
+
+- Update: alicloud/ecs.e4.2xlarge
+- Update: alicloud/ecs.e4.4xlarge
+- Update: alicloud/ecs.e4.xlarge
+- Update: alicloud/ecs.ebmgn8is.32xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.gn8is.2xlarge
+- Update: alicloud/ecs.gn8is.4xlarge
+- Update: alicloud/ecs.gn8is-8x.32xlarge
+- Update: alicloud/ecs.hfc6.4xlarge
+- Update: alicloud/ecs.hfc6.6xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.r7.xlarge
+- Update: alicloud/ecs.s6-c1m2.2xlarge
+- Update: alicloud/ecs.s6-c1m4.2xlarge
+- Update: alicloud/ecs.t6-c1m4.xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: aws/c5d.2xlarge
+- Update: aws/c5d.large
+- Update: aws/c6i.32xlarge
+- Update: aws/c6i.4xlarge
+- Update: aws/c6i.8xlarge
+- Update: aws/c6i.metal
+- Update: aws/c7i-flex.16xlarge
+- Update: aws/c8gn.4xlarge
+- Update: aws/c8gn.8xlarge
+- Update: aws/c8gn.medium
+- Update: aws/c8gn.xlarge
+- Update: aws/i7ie.18xlarge
+- Update: aws/i7ie.3xlarge
+- Update: aws/i7ie.large
+- Update: aws/i7ie.metal-24xl
+- Update: aws/i7ie.metal-48xl
+- Update: aws/m5.large
+- Update: aws/m7i-flex.16xlarge
+- Update: aws/m7i-flex.2xlarge
+- Update: aws/m7i-flex.4xlarge
+- Update: aws/m7i-flex.large
+- Update: aws/m8i-flex.large
+- Update: aws/r5.16xlarge
+- Update: aws/r5.24xlarge
+- Update: aws/r7i.12xlarge
+- Update: aws/r8i-flex.4xlarge
+- Update: aws/x2idn.16xlarge
+- Update: aws/x2idn.24xlarge
+- Update: oci/VM.Standard.A1.Flex.4-16
+- Update: oci/VM.Standard.E6.Ax.Flex.1-4
+- Update: upcloud/GPU-12xCPU-128GB-2xL40S
+- Update: upcloud/GPU-16xCPU-192GB-2xL40S
+- Update: upcloud/GPU-16xCPU-80GB-1xRTXPRO6000
+- Update: upcloud/GPU-20xCPU-256GB-2xL40S
+
 ## v0.12.0+20261128130233 (Nov 28, 2026)
 
 This is an automated release with 66 new/updated/deleted resources.
