@@ -1,3 +1,101 @@
+## v0.12.0+20261128062733 (Nov 28, 2026)
+
+This is an automated release with 86 new/updated/deleted resources.
+Job was run at https://github.com/SpareCores/sc-data-dumps/actions/runs/46107685210
+
+
+### server
+
+- Update: alicloud/ecs.c6.2xlarge
+- Update: alicloud/ecs.c6.3xlarge
+- Update: alicloud/ecs.c6.4xlarge
+- Update: alicloud/ecs.c6.6xlarge
+- Update: alicloud/ecs.c6e.13xlarge
+- Update: alicloud/ecs.c6e.26xlarge
+- Update: alicloud/ecs.c6e.2xlarge
+- Update: alicloud/ecs.c6e.4xlarge
+- Update: alicloud/ecs.c6e.8xlarge
+- Update: alicloud/ecs.c6e.large
+- Update: alicloud/ecs.c6.large
+- Update: alicloud/ecs.c6.xlarge
+- Update: alicloud/ecs.g6.2xlarge
+- Update: alicloud/ecs.g6.3xlarge
+- Update: alicloud/ecs.g6.4xlarge
+- Update: alicloud/ecs.g6.6xlarge
+- Update: alicloud/ecs.g6.large
+- Update: alicloud/ecs.g6.xlarge
+- Update: alicloud/ecs.g7.2xlarge
+- Update: alicloud/ecs.gn8is-2x.8xlarge
+- Update: alicloud/ecs.gn8is-4x.16xlarge
+- Update: alicloud/ecs.gn9gc-8x.64xlarge
+- Update: alicloud/ecs.hfg6.3xlarge
+- Update: alicloud/ecs.hfg8i.3xlarge
+- Update: alicloud/ecs.hfr6.3xlarge
+- Update: alicloud/ecs.r6.2xlarge
+- Update: alicloud/ecs.r6.3xlarge
+- Update: alicloud/ecs.r6a.16xlarge
+- Update: alicloud/ecs.r6a.8xlarge
+- Update: alicloud/ecs.r6.large
+- Update: alicloud/ecs.r6.xlarge
+- Update: alicloud/ecs.r7.2xlarge
+- Update: alicloud/ecs.s6-c1m2.xlarge
+- Update: alicloud/ecs.s6-c1m4.xlarge
+- Update: alicloud/ecs.u0.c1m8.2xlarge
+- Update: alicloud/ecs.u0.c1m8.xlarge
+- Update: alicloud/ecs.u1-c1m2.4xlarge
+- Update: alicloud/ecs.u1-c1m4.4xlarge
+- Update: aws/c6g.16xlarge
+- Update: aws/c6g.2xlarge
+- Update: aws/c6g.large
+- Update: aws/c6in.12xlarge
+- Update: aws/c6in.16xlarge
+- Update: aws/c6in.24xlarge
+- Update: aws/c6in.2xlarge
+- Update: aws/c6in.large
+- Update: aws/c7i.12xlarge
+- Update: aws/c7i.2xlarge
+- Update: aws/i3en.12xlarge
+- Update: aws/i3en.2xlarge
+- Update: aws/i4i.2xlarge
+- Update: aws/i4i.32xlarge
+- Update: aws/i4i.4xlarge
+- Update: aws/m6gd.12xlarge
+- Update: aws/m6gd.8xlarge
+- Update: aws/m6gd.medium
+- Update: aws/m6gd.xlarge
+- Update: aws/m6g.large
+- Update: aws/r6g.12xlarge
+- Update: aws/r6g.4xlarge
+- Update: aws/r6g.medium
+- Update: aws/r6g.metal
+- Update: aws/r6g.xlarge
+- Update: aws/r7g.16xlarge
+- Update: aws/r7g.2xlarge
+- Update: aws/r7g.8xlarge
+- Update: aws/r7gd.medium
+- Update: aws/r7gd.metal
+- Update: aws/r7gd.xlarge
+- Update: aws/r7g.large
+- Update: aws/r7g.medium
+- Update: aws/r7g.xlarge
+- Update: aws/r8g.2xlarge
+- Update: aws/r8g.metal-24xl
+- Update: aws/r8g.metal-48xl
+- Update: oci/VM.Standard.E6.Flex.1-4
+- Update: vultr/vbm-72c-480gb-gh200-gpu
+
+### database
+
+- Update: gcp/db-perf-optimized-C4D-16
+- Update: gcp/db-perf-optimized-C4D-192
+- Update: gcp/db-perf-optimized-C4D-2
+- Update: gcp/db-perf-optimized-C4D-32
+- Update: gcp/db-perf-optimized-C4D-4
+- Update: gcp/db-perf-optimized-C4D-48
+- Update: gcp/db-perf-optimized-C4D-64
+- Update: gcp/db-perf-optimized-C4D-8
+- Update: gcp/db-perf-optimized-C4D-96
+
 ## v0.12.0+20261128025926 (Nov 28, 2026)
 
 This is an automated release with 197 new/updated/deleted resources.
